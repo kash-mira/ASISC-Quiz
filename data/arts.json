@@ -1,0 +1,136 @@
+{
+  "category": "Arts & Culture",
+  "questions": [
+    {
+      "id": 71,
+      "type": "mcq",
+      "text": "Which dance form originated in Tamil Nadu?",
+      "options": [
+        "A. Bharatanatyam",
+        "B. Kathakali",
+        "C. Odissi",
+        "D. Kuchipudi"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Bharatanatyam is a classical dance form from Tamil Nadu."
+    },
+    {
+      "id": 72,
+      "type": "true-false",
+      "text": "Kathak is a form of classical Indian dance.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Yes, Kathak is one of the eight classical Indian dance forms."
+    },
+    {
+      "id": 73,
+      "type": "mcq",
+      "text": "The Taj Mahal was built by which Mughal emperor?",
+      "options": [
+        "A. Akbar",
+        "B. Jahangir",
+        "C. Shah Jahan",
+        "D. Aurangzeb"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Shah Jahan commissioned the Taj Mahal as a mausoleum for his wife Mumtaz Mahal."
+    },
+    {
+      "id": 74,
+      "type": "matching",
+      "text": "Match musical instruments with their origin:",
+      "pairs": [
+        [
+          "Sitar",
+          "India"
+        ],
+        [
+          "Violin",
+          "Europe"
+        ],
+        [
+          "Oud",
+          "Middle East"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These instruments have distinct cultural origins."
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "text": "Which city in India was named 'City of Music' by UNESCO?",
+      "options": [
+        "A. Varanasi",
+        "B. Gwalior",
+        "C. Chennai",
+        "D. Lucknow"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Gwalior was designated as a UNESCO Creative City of Music in 2019."
+    },
+    {
+      "id": 76,
+      "type": "true-false",
+      "text": "Madhubani is a traditional Indian art form from Bihar.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Madhubani (Mithila) painting is a traditional art form from Bihar and Mithila region."
+    },
+    {
+      "id": 77,
+      "type": "multiple-correct",
+      "text": "Which of these are classical Indian dances? (Select all correct)",
+      "options": [
+        "A. Bharatanatyam",
+        "B. Kathak",
+        "C. Odissi",
+        "D. Hip-hop",
+        "E. Kathakali"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "All except Hip-hop are recognized classical dances of India."
+    },
+    {
+      "id": 78,
+      "type": "assertion-reason",
+      "text": "Assertion: Indian classical music has a complex rhythm system. Reason: Taal forms the rhythmic foundation.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are correct; Taal is fundamental to Indian classical music."
+    },
+    {
+      "id": 79,
+      "type": "mcq",
+      "text": "The Monalisa painting is in which museum?",
+      "options": [
+        "A. British Museum",
+        "B. Louvre",
+        "C. Uffizi Gallery",
+        "D. Vatican Museum"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "The Mona Lisa by Leonardo da Vinci is housed in the Louvre Museum, Paris."
+    },
+    {
+      "id": 80,
+      "type": "fill-blank",
+      "text": "The sculpture 'David' was created by ______.",
+      "answer": "Michelangelo",
+      "difficulty": "medium",
+      "explanation": "Michelangelo sculpted the iconic marble statue 'David' in the early 1500s."
+    }
+  ]
+}

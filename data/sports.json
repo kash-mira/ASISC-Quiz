@@ -1,0 +1,145 @@
+{
+  "category": "Sports",
+  "questions": [
+    {
+      "id": 51,
+      "type": "mcq",
+      "text": "How many players are on a soccer/football team on the field?",
+      "options": [
+        "A. 9",
+        "B. 10",
+        "C. 11",
+        "D. 12"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Each team has 11 players on the field in association football."
+    },
+    {
+      "id": 52,
+      "type": "true-false",
+      "text": "Wimbledon is the oldest tennis tournament in the world.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Wimbledon was first held in 1877 and is the oldest major tennis tournament."
+    },
+    {
+      "id": 53,
+      "type": "mcq",
+      "text": "In which country are the Olympics 2024 being held?",
+      "options": [
+        "A. USA",
+        "B. France",
+        "C. Japan",
+        "D. Australia"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Paris, France hosted the 2024 Summer Olympics."
+    },
+    {
+      "id": 54,
+      "type": "mcq",
+      "text": "Who won the men's singles at Australian Open 2024?",
+      "options": [
+        "A. Novak Djokovic",
+        "B. Carlos Alcaraz",
+        "C. Jannik Sinner",
+        "D. Daniil Medvedev"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "Jannik Sinner won the Australian Open 2024 men's singles title."
+    },
+    {
+      "id": 55,
+      "type": "matching",
+      "text": "Match sports with their governing bodies:",
+      "pairs": [
+        [
+          "Cricket",
+          "ICC"
+        ],
+        [
+          "Football",
+          "FIFA"
+        ],
+        [
+          "Tennis",
+          "ITF"
+        ],
+        [
+          "Basketball",
+          "FIBA"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are the international governing bodies for each sport."
+    },
+    {
+      "id": 56,
+      "type": "true-false",
+      "text": "The FIFA World Cup is held every 4 years.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "The FIFA World Cup tournament occurs every 4 years."
+    },
+    {
+      "id": 57,
+      "type": "mcq",
+      "text": "Which team won the ICC Women's World Cup 2023?",
+      "options": [
+        "A. USA",
+        "B. England",
+        "C. Spain",
+        "D. Australia"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "Spain won the FIFA Women's World Cup 2023."
+    },
+    {
+      "id": 58,
+      "type": "multiple-correct",
+      "text": "Which sports are played with a ball? (Select all correct)",
+      "options": [
+        "A. Cricket",
+        "B. Chess",
+        "C. Badminton",
+        "D. Swimming",
+        "E. Tennis"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "difficulty": "easy",
+      "explanation": "Cricket, badminton, and tennis are ball sports. Chess and swimming don't use balls."
+    },
+    {
+      "id": 59,
+      "type": "assertion-reason",
+      "text": "Assertion: Rohan Bopanna became world No. 1 in doubles tennis. Reason: He was the oldest person to achieve this ranking.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are accurate regarding Rohan Bopanna's achievement."
+    },
+    {
+      "id": 60,
+      "type": "mcq",
+      "text": "The Wimbledon tennis tournament is played on which surface?",
+      "options": [
+        "A. Hard court",
+        "B. Clay",
+        "C. Grass",
+        "D. Synthetic"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Wimbledon is famous for its grass courts, the only Grand Slam on grass."
+    }
+  ]
+}

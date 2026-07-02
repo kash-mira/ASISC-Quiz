@@ -1,0 +1,141 @@
+{
+  "category": "Current Affairs",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "text": "Which Indian state became the first to implement the Uniform Civil Code (UCC) post-independence?",
+      "options": [
+        "A. Gujarat",
+        "B. Uttarakhand",
+        "C. Assam",
+        "D. Uttar Pradesh"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Uttarakhand became the first state to implement the Uniform Civil Code in 2024."
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "text": "The 'PM Surya Ghar: Muft Bijli Yojana' aims to provide up to how many units of free electricity per month?",
+      "options": [
+        "A. 150 units",
+        "B. 200 units",
+        "C. 300 units",
+        "D. 400 units"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "The scheme targets 300 units per month to promote solar energy adoption."
+    },
+    {
+      "id": 3,
+      "type": "true-false",
+      "text": "India's longest sea bridge, Atal Setu, connects Mumbai to Alibaug.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "Atal Setu connects Mumbai to Navi Mumbai, not Alibaug."
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "text": "ISRO's Aditya-L1 mission is designed to study:",
+      "options": [
+        "A. The Moon",
+        "B. Mars",
+        "C. The Sun",
+        "D. Venus"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Aditya-L1 is India's solar mission to study the Sun's corona."
+    },
+    {
+      "id": 5,
+      "type": "multiple-correct",
+      "text": "Which of the following were part of the BRICS expansion in 2024? (Select all correct)",
+      "options": [
+        "A. Egypt",
+        "B. Argentina",
+        "C. Ethiopia",
+        "D. UAE",
+        "E. Saudi Arabia"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "difficulty": "hard",
+      "explanation": "Egypt, Ethiopia, and Saudi Arabia joined BRICS in the 2024 expansion."
+    },
+    {
+      "id": 6,
+      "type": "assertion-reason",
+      "text": "Assertion: COP28 was held in Dubai. Reason: Dubai is in a developing nation.",
+      "assertion": true,
+      "reason": false,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "The assertion is true, but the reason is false as UAE is developing."
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "text": "Which country won the ICC Men's Cricket World Cup 2023?",
+      "options": [
+        "A. India",
+        "B. Australia",
+        "C. England",
+        "D. South Africa"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Australia defeated India in the 2023 Cricket World Cup final."
+    },
+    {
+      "id": 8,
+      "type": "matching",
+      "text": "Match the following missions with their targets:",
+      "pairs": [
+        [
+          "Chandrayaan-3",
+          "Moon"
+        ],
+        [
+          "Aditya-L1",
+          "Sun"
+        ],
+        [
+          "Mangalyaan",
+          "Mars"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are India's major space missions targeting different celestial bodies."
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "text": "Who is the current Secretary-General of the United Nations?",
+      "options": [
+        "A. Ban Ki-moon",
+        "B. António Guterres",
+        "C. Tedros Adhanom",
+        "D. Kristalina Georgieva"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "António Guterres is serving as UN Secretary-General since 2017."
+    },
+    {
+      "id": 10,
+      "type": "fill-blank",
+      "text": "India's first semiconductor fab will be established by Tata Group and PSMC in ______.",
+      "answer": "Gujarat",
+      "difficulty": "hard",
+      "explanation": "The fab is being set up in Gujarat as part of the semiconductor mission."
+    }
+  ]
+}

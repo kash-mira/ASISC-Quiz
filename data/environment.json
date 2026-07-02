@@ -1,0 +1,138 @@
+{
+  "category": "Environment & Climate",
+  "questions": [
+    {
+      "id": 61,
+      "type": "mcq",
+      "text": "Which gas is most responsible for global warming?",
+      "options": [
+        "A. Nitrogen",
+        "B. Carbon Dioxide",
+        "C. Oxygen",
+        "D. Hydrogen"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "CO2 is the primary greenhouse gas responsible for climate change."
+    },
+    {
+      "id": 62,
+      "type": "true-false",
+      "text": "The ozone layer protects us from ultraviolet radiation.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Yes, the ozone layer in the stratosphere blocks harmful UV rays."
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "text": "Which Indian state recorded the highest number of snow leopards?",
+      "options": [
+        "A. Himachal Pradesh",
+        "B. Uttarakhand",
+        "C. Sikkim",
+        "D. Ladakh"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "explanation": "Ladakh has the highest population of snow leopards in India."
+    },
+    {
+      "id": 64,
+      "type": "mcq",
+      "text": "What is the theme of World Environment Day 2024?",
+      "options": [
+        "A. Beat Plastic Pollution",
+        "B. Ecosystem Restoration",
+        "C. Land restoration, desertification and drought resilience",
+        "D. Only One Earth"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "The 2024 theme focuses on land restoration and combating desertification."
+    },
+    {
+      "id": 65,
+      "type": "matching",
+      "text": "Match environmental issues with their effects:",
+      "pairs": [
+        [
+          "Deforestation",
+          "Loss of biodiversity"
+        ],
+        [
+          "Pollution",
+          "Acid rain"
+        ],
+        [
+          "Climate change",
+          "Rising sea levels"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Each environmental issue has significant documented effects."
+    },
+    {
+      "id": 66,
+      "type": "true-false",
+      "text": "Plastic takes more than 400 years to decompose in nature.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Most plastics take 400-1000 years to decompose."
+    },
+    {
+      "id": 67,
+      "type": "multiple-correct",
+      "text": "Which of these are renewable energy sources? (Select all correct)",
+      "options": [
+        "A. Solar power",
+        "B. Coal",
+        "C. Wind power",
+        "D. Petroleum",
+        "E. Hydroelectric"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Solar, wind, and hydroelectric are renewable. Coal and petroleum are fossil fuels."
+    },
+    {
+      "id": 68,
+      "type": "assertion-reason",
+      "text": "Assertion: Melting polar ice raises sea levels. Reason: Ice displacement increases ocean volume.",
+      "assertion": true,
+      "reason": false,
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "The assertion is true, but the reason is incorrect (it's about land ice melting, not floating ice)."
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "text": "Which city is known as the 'Tiger Capital of India'?",
+      "options": [
+        "A. Bhopal",
+        "B. Nagpur",
+        "C. Dehradun",
+        "D. Mysore"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Nagpur has the highest tiger population in India."
+    },
+    {
+      "id": 70,
+      "type": "fill-blank",
+      "text": "The Paris Agreement aims to limit global warming to ______ degrees Celsius.",
+      "answer": [
+        "1.5",
+        "2"
+      ],
+      "difficulty": "medium",
+      "explanation": "The goal is to limit warming to 1.5-2°C above pre-industrial levels."
+    }
+  ]
+}

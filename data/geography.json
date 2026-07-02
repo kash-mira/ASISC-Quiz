@@ -1,0 +1,146 @@
+{
+  "category": "Geography",
+  "questions": [
+    {
+      "id": 31,
+      "type": "mcq",
+      "text": "Which is the longest river in the world?",
+      "options": [
+        "A. Amazon",
+        "B. Nile",
+        "C. Yangtze",
+        "D. Mississippi"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "The Nile River is approximately 6,650 km long."
+    },
+    {
+      "id": 32,
+      "type": "true-false",
+      "text": "The Sahara is the largest desert in the world.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "The Sahara Desert in Africa is the largest hot desert."
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "text": "Mount Everest is located in which mountain range?",
+      "options": [
+        "A. Andes",
+        "B. Himalayas",
+        "C. Rockies",
+        "D. Alps"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Mount Everest is in the Himalayas on the Nepal-Tibet border."
+    },
+    {
+      "id": 34,
+      "type": "matching",
+      "text": "Match countries with their capitals:",
+      "pairs": [
+        [
+          "Japan",
+          "Tokyo"
+        ],
+        [
+          "Brazil",
+          "Brasília"
+        ],
+        [
+          "Egypt",
+          "Cairo"
+        ],
+        [
+          "Australia",
+          "Canberra"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These are the official capital cities of these nations."
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "text": "How many continents are there?",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 7",
+        "D. 8"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "The seven continents are: Africa, Antarctica, Asia, Europe, North America, Oceania, South America."
+    },
+    {
+      "id": 36,
+      "type": "true-false",
+      "text": "The Pacific Ocean is the smallest ocean on Earth.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "The Pacific is the largest ocean, while the Arctic is the smallest."
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "text": "Which Indian state has the longest coastline?",
+      "options": [
+        "A. Karnataka",
+        "B. Kerala",
+        "C. Goa",
+        "D. Gujarat"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "explanation": "Gujarat has the longest coastline (1,600+ km) among Indian states."
+    },
+    {
+      "id": 38,
+      "type": "multiple-correct",
+      "text": "Which of these are island nations? (Select all correct)",
+      "options": [
+        "A. Iceland",
+        "B. Japan",
+        "C. Spain",
+        "D. Philippines",
+        "E. New Zealand"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Iceland, Japan, Philippines, and New Zealand are island nations. Spain is mostly peninsular."
+    },
+    {
+      "id": 39,
+      "type": "assertion-reason",
+      "text": "Assertion: The Equator is the longest latitude line. Reason: It divides Earth into Northern and Southern hemispheres.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "The Equator is indeed the longest parallel, and it does divide the hemispheres."
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "text": "The Grand Canyon is located in which US state?",
+      "options": [
+        "A. Utah",
+        "B. Arizona",
+        "C. Colorado",
+        "D. Nevada"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "The Grand Canyon is in Arizona, carved by the Colorado River."
+    }
+  ]
+}

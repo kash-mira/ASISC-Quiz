@@ -1,0 +1,138 @@
+{
+  "category": "History & Civics",
+  "questions": [
+    {
+      "id": 21,
+      "type": "mcq",
+      "text": "Who drafted the Indian Constitution?",
+      "options": [
+        "A. Jawaharlal Nehru",
+        "B. Dr. B.R. Ambedkar",
+        "C. Rajendra Prasad",
+        "D. Sardar Patel"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Dr. B.R. Ambedkar chaired the Drafting Committee of the Indian Constitution."
+    },
+    {
+      "id": 22,
+      "type": "true-false",
+      "text": "The Magna Carta was signed in 1215 and limited the powers of the English King.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "The Magna Carta was indeed signed in 1215 by King John."
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "text": "Which article of the Indian Constitution grants fundamental rights?",
+      "options": [
+        "A. Articles 12-35",
+        "B. Articles 36-51",
+        "C. Articles 52-62",
+        "D. Articles 1-11"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Articles 12-35 cover Fundamental Rights in the Indian Constitution."
+    },
+    {
+      "id": 24,
+      "type": "matching",
+      "text": "Match the independence leaders with their independence movements:",
+      "pairs": [
+        [
+          "Mahatma Gandhi",
+          "Indian Independence"
+        ],
+        [
+          "Nelson Mandela",
+          "Anti-apartheid"
+        ],
+        [
+          "Ho Chi Minh",
+          "Vietnamese Independence"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These are major independence and liberation leaders."
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "text": "The Sepoy Mutiny occurred in which year?",
+      "options": [
+        "A. 1857",
+        "B. 1858",
+        "C. 1859",
+        "D. 1860"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "The Sepoy Mutiny began in 1857 and lasted until 1859."
+    },
+    {
+      "id": 26,
+      "type": "true-false",
+      "text": "The French Revolution took place in the 18th century.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "The French Revolution occurred in 1789-1799 period."
+    },
+    {
+      "id": 27,
+      "type": "multiple-correct",
+      "text": "Which of these were Mughal emperors? (Select all correct)",
+      "options": [
+        "A. Akbar",
+        "B. Ashoka",
+        "C. Shah Jahan",
+        "D. Vikramaditya",
+        "E. Aurangzeb"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Akbar, Shah Jahan, and Aurangzeb were Mughal emperors. Ashoka and Vikramaditya were different dynasty rulers."
+    },
+    {
+      "id": 28,
+      "type": "assertion-reason",
+      "text": "Assertion: Democracy requires a constitution. Reason: A constitution defines governmental structure.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct and logically connected."
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "text": "The Universal Declaration of Human Rights was adopted in which year?",
+      "options": [
+        "A. 1945",
+        "B. 1948",
+        "C. 1950",
+        "D. 1952"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "The UDHR was adopted by the UN General Assembly on December 10, 1948."
+    },
+    {
+      "id": 30,
+      "type": "fill-blank",
+      "text": "The Indian Constitution has ______ Articles and ______ Schedules.",
+      "answer": [
+        "370",
+        "12"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Constitution originally had 395 articles (now 470+ after amendments) and 12 schedules."
+    }
+  ]
+}

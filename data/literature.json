@@ -1,0 +1,136 @@
+{
+  "category": "Literature & Language",
+  "questions": [
+    {
+      "id": 41,
+      "type": "mcq",
+      "text": "Who wrote 'Romeo and Juliet'?",
+      "options": [
+        "A. Christopher Marlowe",
+        "B. William Shakespeare",
+        "C. Ben Jonson",
+        "D. John Webster"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "William Shakespeare wrote this famous tragedy."
+    },
+    {
+      "id": 42,
+      "type": "true-false",
+      "text": "'1984' was written by George Orwell.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "George Orwell published '1984' in 1949."
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "text": "Which book won the Booker Prize 2023?",
+      "options": [
+        "A. The Seven Moons of Maali Almeida",
+        "B. Prophet Song",
+        "C. Restless",
+        "D. Western Lane"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Paul Lynch's 'Prophet Song' won the Booker Prize 2023."
+    },
+    {
+      "id": 44,
+      "type": "matching",
+      "text": "Match authors with their famous works:",
+      "pairs": [
+        [
+          "Jane Austen",
+          "Pride and Prejudice"
+        ],
+        [
+          "Charles Dickens",
+          "Great Expectations"
+        ],
+        [
+          "Mark Twain",
+          "The Adventures of Huckleberry Finn"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These are classic pairings of renowned authors and their masterpieces."
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "text": "What is the longest word in the English language?",
+      "options": [
+        "A. Supercalifragilisticexpialidocious",
+        "B. Antidisestablishmentarianism",
+        "C. Pneumonoultramicroscopicsilicovolcanoconiosis",
+        "D. Floccinaucinilicilification"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "Pneumonoultramicroscopicsilicovolcanoconiosis (45 letters) is the longest word in major dictionaries."
+    },
+    {
+      "id": 46,
+      "type": "true-false",
+      "text": "The word 'queue' has four letters after Q.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "Actually, 'queue' has one letter after Q (just 'u'); the other letters are silent."
+    },
+    {
+      "id": 47,
+      "type": "multiple-correct",
+      "text": "Which of these are plays by Shakespeare? (Select all correct)",
+      "options": [
+        "A. Hamlet",
+        "B. Macbeth",
+        "C. The Tempest",
+        "D. Wait for Godot",
+        "E. A Midsummer Night's Dream"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "A, B, C, E are Shakespeare plays. 'Wait for Godot' is by Samuel Beckett."
+    },
+    {
+      "id": 48,
+      "type": "assertion-reason",
+      "text": "Assertion: Poetry uses figurative language. Reason: Metaphors and similes are poetic devices.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct and logically related."
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "text": "Who is the author of 'The Great Gatsby'?",
+      "options": [
+        "A. Ernest Hemingway",
+        "B. F. Scott Fitzgerald",
+        "C. John Steinbeck",
+        "D. William Faulkner"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "F. Scott Fitzgerald wrote 'The Great Gatsby' in 1925."
+    },
+    {
+      "id": 50,
+      "type": "fill-blank",
+      "text": "The famous line 'To be or not to be' is from Shakespeare's ______.",
+      "answer": "Hamlet",
+      "difficulty": "easy",
+      "explanation": "This is the opening line of the soliloquy in Hamlet, Act III, Scene 1."
+    }
+  ]
+}

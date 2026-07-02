@@ -1,0 +1,135 @@
+{
+  "category": "AI & Emerging Tech",
+  "questions": [
+    {
+      "id": 81,
+      "type": "mcq",
+      "text": "What does AI stand for?",
+      "options": [
+        "A. Automated Intelligence",
+        "B. Artificial Intelligence",
+        "C. Algorithmic Instruction",
+        "D. Advanced Internet"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "AI stands for Artificial Intelligence."
+    },
+    {
+      "id": 82,
+      "type": "true-false",
+      "text": "Machine learning is a subset of artificial intelligence.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Machine learning is indeed a subset and major application of AI."
+    },
+    {
+      "id": 83,
+      "type": "mcq",
+      "text": "What is the primary purpose of neural networks?",
+      "options": [
+        "A. Web browsing",
+        "B. Mimicking brain structure for pattern recognition",
+        "C. Email transmission",
+        "D. File storage"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Neural networks are designed to mimic biological neural structures for learning."
+    },
+    {
+      "id": 84,
+      "type": "mcq",
+      "text": "Which tech giant developed GPT (Generative Pre-trained Transformer)?",
+      "options": [
+        "A. Google",
+        "B. Meta",
+        "C. OpenAI",
+        "D. Microsoft"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "OpenAI developed the GPT series of language models."
+    },
+    {
+      "id": 85,
+      "type": "matching",
+      "text": "Match emerging technologies with their applications:",
+      "pairs": [
+        [
+          "Blockchain",
+          "Cryptocurrency"
+        ],
+        [
+          "IoT",
+          "Smart devices"
+        ],
+        [
+          "5G",
+          "High-speed connectivity"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Each technology has primary applications in specific domains."
+    },
+    {
+      "id": 86,
+      "type": "true-false",
+      "text": "Quantum computing uses quantum bits (qubits) which can be 0, 1, or both simultaneously.",
+      "answer": true,
+      "difficulty": "hard",
+      "explanation": "Yes, qubits can exist in superposition, which is the basis of quantum computing's power."
+    },
+    {
+      "id": 87,
+      "type": "multiple-correct",
+      "text": "Which of these are AI applications? (Select all correct)",
+      "options": [
+        "A. Chatbots",
+        "B. Computer vision",
+        "C. Typewriters",
+        "D. Natural language processing",
+        "E. Mechanical clocks"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "A, B, D are AI applications. Typewriters and mechanical clocks are not."
+    },
+    {
+      "id": 88,
+      "type": "assertion-reason",
+      "text": "Assertion: Deep learning requires large amounts of data. Reason: Neural networks need many examples to learn patterns effectively.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both are correct; large datasets significantly improve deep learning model performance."
+    },
+    {
+      "id": 89,
+      "type": "mcq",
+      "text": "What is cybersecurity primarily concerned with?",
+      "options": [
+        "A. Website design",
+        "B. Protecting computer systems from attacks",
+        "C. Social media management",
+        "D. Hardware manufacturing"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Cybersecurity focuses on protecting digital systems and data from cyber threats."
+    },
+    {
+      "id": 90,
+      "type": "fill-blank",
+      "text": "The process of training AI models using labeled data is called ______ learning.",
+      "answer": "supervised",
+      "difficulty": "medium",
+      "explanation": "Supervised learning uses labeled training data to train AI models."
+    }
+  ]
+}

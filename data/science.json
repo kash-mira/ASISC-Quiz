@@ -1,0 +1,147 @@
+{
+  "category": "Science & Technology",
+  "questions": [
+    {
+      "id": 11,
+      "type": "mcq",
+      "text": "What is 'Sora', recently unveiled by OpenAI?",
+      "options": [
+        "A. A new chatbot",
+        "B. A text-to-video AI model",
+        "C. A quantum computer",
+        "D. A new programming language"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Sora is OpenAI's generative AI model that creates videos from text prompts."
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "text": "Which company developed the Gemini AI model?",
+      "options": [
+        "A. Microsoft",
+        "B. Meta",
+        "C. Google",
+        "D. IBM"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Google created Gemini as its advanced multimodal AI model."
+    },
+    {
+      "id": 13,
+      "type": "true-false",
+      "text": "Neuralink successfully implanted a brain chip in a human patient in 2024.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Yes, Neuralink conducted its first human brain implant procedure."
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "text": "What is the name of the first human patient to receive a Neuralink brain implant?",
+      "options": [
+        "A. Noland Arbaugh",
+        "B. Elon Musk",
+        "C. Neil Harbisson",
+        "D. Kevin Warwick"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Noland Arbaugh was the first Neuralink recipient, allowing brain-computer interface."
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "text": "India's fastest indigenous AI supercomputer is named:",
+      "options": [
+        "A. PARAM Siddhi",
+        "B. AIRAWAT",
+        "C. Pratyush",
+        "D. Mihir"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "AIRAWAT is India's fastest indigenous AI supercomputer developed by C-DAC."
+    },
+    {
+      "id": 16,
+      "type": "matching",
+      "text": "Match AI tools with their primary use:",
+      "pairs": [
+        [
+          "ChatGPT",
+          "Conversational AI"
+        ],
+        [
+          "DALL-E",
+          "Image Generation"
+        ],
+        [
+          "GitHub Copilot",
+          "Code Assistance"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Each tool serves different AI application purposes."
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "text": "Which country launched the world's first 4th-generation nuclear reactor?",
+      "options": [
+        "A. USA",
+        "B. Russia",
+        "C. China",
+        "D. France"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "China deployed the HTR-PM reactor, the world's first 4th-gen commercial reactor."
+    },
+    {
+      "id": 18,
+      "type": "multiple-correct",
+      "text": "Select all correct statements about artificial intelligence: (Select all correct)",
+      "options": [
+        "A. AI requires human input for training",
+        "B. AI can only process text",
+        "C. Machine learning is a subset of AI",
+        "D. Neural networks mimic brain structure",
+        "E. AI has achieved complete general intelligence"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "hard",
+      "explanation": "A, C, and D are correct. B is false (AI processes multimodal data), E is false (AGI not achieved)."
+    },
+    {
+      "id": 19,
+      "type": "assertion-reason",
+      "text": "Assertion: Quantum computers are faster than classical computers. Reason: They use quantum entanglement.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both assertions are correct; quantum entanglement enables quantum speedup."
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "text": "What is blockchain primarily used for?",
+      "options": [
+        "A. Video compression",
+        "B. Distributed ledger technology",
+        "C. Weather prediction",
+        "D. Medical imaging"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Blockchain creates immutable distributed ledgers for secure transactions."
+    }
+  ]
+}
