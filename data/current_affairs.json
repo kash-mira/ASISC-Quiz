@@ -137,5 +137,540 @@
       "difficulty": "hard",
       "explanation": "The fab is being set up in Gujarat as part of the semiconductor mission."
     }
+
+{
+  "quiz_metadata": {
+    "platform": "ASISC Quiz Platform",
+    "category": "Current Affairs",
+    "month_year": "February 2026",
+    "target_classes": "VI-XII",
+    "total_questions": 50,
+    "question_types": ["MCQ", "True/False"],
+    "difficulty_distribution": {
+      "easy": 20,
+      "medium": 18,
+      "hard": 12
+    }
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_text": "What is the name of the military operation launched by the US against Iran in February 2026?",
+      "category": "Current Affairs",
+      "subcategory": "International Relations & Defence",
+      "difficulty": "medium",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Operation Desert Storm",
+        "B": "Operation Epic Fury",
+        "C": "Operation Thunder Strike",
+        "D": "Operation Red Alert"
+      },
+      "correct_answer": "B",
+      "explanation": "The US launched 'Operation Epic Fury' involving massive strikes on Tehran in February 2026 as part of the US-Iran conflict."
+    },
+    {
+      "question_id": 2,
+      "question_text": "What is Pakistan's counter-terrorism operation called?",
+      "category": "Current Affairs",
+      "subcategory": "International Relations & Defence",
+      "difficulty": "hard",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Operation Ghazwa-e-Hind",
+        "B": "Operation Ghazab lil-Haq",
+        "C": "Operation Zarb-e-Azb",
+        "D": "Operation Radd-ul-Fasaad"
+      },
+      "correct_answer": "B",
+      "explanation": "Pakistan launched Operation 'Ghazab lil-Haq' as a decisive strike against Taliban and Afghan militants in February 2026."
+    },
+    {
+      "question_id": 3,
+      "question_text": "At what rank does India's youth stand in the Global Mental Health Index?",
+      "category": "Current Affairs",
+      "subcategory": "Health & Wellness",
+      "difficulty": "medium",
+      "question_type": "MCQ",
+      "options": {
+        "A": "45th position",
+        "B": "50th position",
+        "C": "60th position",
+        "D": "75th position"
+      },
+      "correct_answer": "C",
+      "explanation": "According to February 2026 reports, India's young adults rank 60th in the Global Mental Health Index, highlighting mental health challenges."
+    },
+    {
+      "question_id": 4,
+      "question_text": "What is the Druzhba Oil Pipeline primarily used for?",
+      "category": "Current Affairs",
+      "subcategory": "Energy & Economics",
+      "difficulty": "hard",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Natural gas transport from Russia to Europe",
+        "B": "Oil transportation from Russia to Europe",
+        "C": "Oil transport from Central Asia to China",
+        "D": "Water supply pipeline"
+      },
+      "correct_answer": "B",
+      "explanation": "The Druzhba Oil Pipeline transports oil from Russia to Europe. Its outage in February 2026 stalled new EU sanctions against Russia."
+    },
+    {
+      "question_id": 5,
+      "question_text": "Which prestigious Israeli award was conferred upon PM Modi in February 2026?",
+      "category": "Current Affairs",
+      "subcategory": "International Relations",
+      "difficulty": "medium",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Israel Peace Medal",
+        "B": "Speaker of the Knesset Medal",
+        "C": "Israeli Presidential Award",
+        "D": "Jerusalem Peace Prize"
+      },
+      "correct_answer": "B",
+      "explanation": "PM Modi was conferred with Israel's prestigious 'Speaker of the Knesset Medal' in February 2026."
+    },
+    {
+      "question_id": 6,
+      "question_text": "What is the NAMASTE Scheme primarily focused on?",
+      "category": "Current Affairs",
+      "subcategory": "Government Schemes",
+      "difficulty": "medium",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Healthcare awareness",
+        "B": "Education for girls",
+        "C": "Tourism and cultural awareness",
+        "D": "Agricultural development"
+      },
+      "correct_answer": "C",
+      "explanation": "The NAMASTE Scheme awareness programme was held in Pilibhit in February 2026, focusing on tourism and cultural awareness."
+    },
+    {
+      "question_id": 7,
+      "question_text": "Which Indian Air Command conducted the 'Kalari Leap' exercise?",
+      "category": "Current Affairs",
+      "subcategory": "Defence & Military",
+      "difficulty": "hard",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Eastern Air Command",
+        "B": "Northern Air Command",
+        "C": "Southern Air Command",
+        "D": "Central Air Command"
+      },
+      "correct_answer": "C",
+      "explanation": "The Southern Air Command conducted 'Kalari Leap' exercise as a strategic maneuver in February 2026."
+    },
+    {
+      "question_id": 8,
+      "question_text": "A new species of midge was discovered in India in February 2026. What is its name?",
+      "category": "Current Affairs",
+      "subcategory": "Environment & Biodiversity",
+      "difficulty": "hard",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Jasmine Blossom Midge",
+        "B": "Rose Petal Midge",
+        "C": "Lotus Flower Midge",
+        "D": "Tulip Blossom Midge"
+      },
+      "correct_answer": "A",
+      "explanation": "A new Jasmine Blossom Midge species was discovered in India in February 2026, adding to the country's biodiversity."
+    },
+    {
+      "question_id": 9,
+      "question_text": "What recent change was made to India's GDP calculation series?",
+      "category": "Current Affairs",
+      "subcategory": "Economy & Finance",
+      "difficulty": "hard",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Started using crypto data",
+        "B": "Will not use UPI transaction data",
+        "C": "Will include informal sector data",
+        "D": "Will use real estate data only"
+      },
+      "correct_answer": "B",
+      "explanation": "India's new GDP series announced in February 2026 will not use UPI transaction data in its calculations."
+    },
+    {
+      "question_id": 10,
+      "question_text": "Exercise Dharma Guardian is in which edition?",
+      "category": "Current Affairs",
+      "subcategory": "Defence & Military",
+      "difficulty": "medium",
+      "question_type": "MCQ",
+      "options": {
+        "A": "5th edition",
+        "B": "6th edition",
+        "C": "7th edition",
+        "D": "8th edition"
+      },
+      "correct_answer": "C",
+      "explanation": "Exercise Dharma Guardian's 7th edition commenced in Chaubattia, Uttarakhand in February 2026."
+    },
+    {
+      "question_id": 11,
+      "question_text": "What does PRAHAAR stand for in India's internal security policy?",
+      "category": "Current Affairs",
+      "subcategory": "Government Initiatives",
+      "difficulty": "hard",
+      "question_type": "MCQ",
+      "options": {
+        "A": "A 5-pillar security framework",
+        "B": "A unified 7-pillar blueprint",
+        "C": "A 9-pillar internal defense plan",
+        "D": "A 12-pillar comprehensive policy"
+      },
+      "correct_answer": "B",
+      "explanation": "PRAHAAR is India's first comprehensive anti-terror policy launched as a unified 7-pillar blueprint in February 2026."
+    },
+    {
+      "question_id": 12,
+      "question_text": "Which Indian state was approved to be renamed in February 2026?",
+      "category": "Current Affairs",
+      "subcategory": "Politics & Governance",
+      "difficulty": "easy",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Tamil Nadu to Tamizhnadu",
+        "B": "Kerala to Keralam",
+        "C": "Karnataka to Kannadiga",
+        "D": "Odisha to Odia"
+      },
+      "correct_answer": "B",
+      "explanation": "The Union Cabinet approved a bill in February 2026 to rename Kerala to 'Keralam' ahead of assembly elections."
+    },
+    {
+      "question_id": 13,
+      "question_text": "What was the Indian Embassy advisory issued for in February 2026?",
+      "category": "Current Affairs",
+      "subcategory": "International Relations",
+      "difficulty": "medium",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Pakistan safety",
+        "B": "Iran safety",
+        "C": "Afghanistan safety",
+        "D": "Syria safety"
+      },
+      "correct_answer": "B",
+      "explanation": "The Indian Embassy issued an advisory for Iran in February 2026 due to ongoing regional tensions and military operations."
+    },
+    {
+      "question_id": 14,
+      "question_text": "What is the 'One Voter List' initiative by the Election Commission of India?",
+      "category": "Current Affairs",
+      "subcategory": "Politics & Governance",
+      "difficulty": "hard",
+      "question_type": "MCQ",
+      "options": {
+        "A": "A single voter database per state",
+        "B": "A unified voting plan across elections",
+        "C": "A digital voter ID system",
+        "D": "A single-name voting register"
+      },
+      "correct_answer": "B",
+      "explanation": "The 'One Voter List' is the Election Commission of India's unified voting plan introduced in February 2026."
+    },
+    {
+      "question_id": 15,
+      "question_text": "Which Indian film won Best Children's & Family Film at BAFTA Awards 2026?",
+      "category": "Current Affairs",
+      "subcategory": "Entertainment & Awards",
+      "difficulty": "medium",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Bollywood Boong",
+        "B": "Boong",
+        "C": "The Boong Story",
+        "D": "Innocent Boong"
+      },
+      "correct_answer": "B",
+      "explanation": "India's 'Boong' won the Best Children's & Family Film at BAFTA Awards 2026 in February."
+    },
+    {
+      "question_id": 16,
+      "question_text": "What is the 'Vanjeevi Didi Initiative' aimed at?",
+      "category": "Current Affairs",
+      "subcategory": "Government Schemes",
+      "difficulty": "medium",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Empowering farmers",
+        "B": "Empowering women in wildlife reserves",
+        "C": "Youth employment schemes",
+        "D": "Education for tribal girls"
+      },
+      "correct_answer": "B",
+      "explanation": "The Vanjeevi Didi Initiative is focused on empowering women in Palamu Tiger Reserve, Jharkhand, launched in February 2026."
+    },
+    {
+      "question_id": 17,
+      "question_text": "Where will the Door-to-Door Housing Census 2027 Phase 1 start?",
+      "category": "Current Affairs",
+      "subcategory": "Government Operations",
+      "difficulty": "easy",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Amritsar",
+        "B": "Ludhiana",
+        "C": "Chandigarh",
+        "D": "Jalandhar"
+      },
+      "correct_answer": "B",
+      "explanation": "The first phase of the Door-to-Door Housing Census 2027 will start in Ludhiana in February 2026."
+    },
+    {
+      "question_id": 18,
+      "question_text": "In which state was the Vibrant Villages Programme-II launched?",
+      "category": "Current Affairs",
+      "subcategory": "Government Schemes",
+      "difficulty": "easy",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Meghalaya",
+        "B": "Manipur",
+        "C": "Assam",
+        "D": "Tripura"
+      },
+      "correct_answer": "C",
+      "explanation": "Vibrant Villages Programme-II was launched in Assam's Cachar District in February 2026."
+    },
+    {
+      "question_id": 19,
+      "question_text": "What is 'Pax Silica' redefining globally?",
+      "category": "Current Affairs",
+      "subcategory": "Technology & Innovation",
+      "difficulty": "hard",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Trade agreements",
+        "B": "Global power through semiconductors",
+        "C": "Internet governance",
+        "D": "Cybersecurity standards"
+      },
+      "correct_answer": "B",
+      "explanation": "'Pax Silica' is an alliance redefining global power through semiconductors, discussed in February 2026."
+    },
+    {
+      "question_id": 20,
+      "question_text": "What did the International Paralympic Committee (IPC) do regarding Russia in February 2026?",
+      "category": "Current Affairs",
+      "subcategory": "Sports",
+      "difficulty": "medium",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Banned Russia permanently",
+        "B": "Lifted the Russian Paralympics ban",
+        "C": "Suspended Russia indefinitely",
+        "D": "Imposed new sanctions"
+      },
+      "correct_answer": "B",
+      "explanation": "The IPC lifted the Russian Paralympics ban for the 2026 Games in February 2026."
+    },
+    {
+      "question_id": 21,
+      "question_text": "What is VoicERA developed by MeitY for?",
+      "category": "Current Affairs",
+      "subcategory": "Technology & Innovation",
+      "difficulty": "hard",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Next-gen multilingual voice AI",
+        "B": "Voice-based security system",
+        "C": "Audio translation tool",
+        "D": "Voice command interface"
+      },
+      "correct_answer": "A",
+      "explanation": "MeitY rolled out VoicERA for next-generation multilingual voice AI in February 2026."
+    },
+    {
+      "question_id": 22,
+      "question_text": "What did Kiren Rijiju launch in February 2026?",
+      "category": "Current Affairs",
+      "subcategory": "Government Initiatives",
+      "difficulty": "medium",
+      "question_type": "MCQ",
+      "options": {
+        "A": "NIGRANI App, AI Chatbots, and Haj Wrist Band",
+        "B": "Digital tourism initiative",
+        "C": "AI healthcare app",
+        "D": "Smart city project"
+      },
+      "correct_answer": "A",
+      "explanation": "Kiren Rijiju launched the NIGRANI App, AI Chatbots, and Haj Wrist Band initiatives in February 2026."
+    },
+    {
+      "question_id": 23,
+      "question_text": "What major investment did Google announce for Visakhapatnam in February 2026?",
+      "category": "Current Affairs",
+      "subcategory": "Technology & Investment",
+      "difficulty": "medium",
+      "question_type": "MCQ",
+      "options": {
+        "A": "$10 billion investment",
+        "B": "$15 billion investment",
+        "C": "$20 billion investment",
+        "D": "$25 billion investment"
+      },
+      "correct_answer": "B",
+      "explanation": "Google announced the largest full-stack AI hub in Visakhapatnam with a $15 billion investment in February 2026."
+    },
+    {
+      "question_id": 24,
+      "question_text": "What was rediscovered in February 2026 related to Alexander the Great?",
+      "category": "Current Affairs",
+      "subcategory": "Archaeology & History",
+      "difficulty": "hard",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Alexander's tomb",
+        "B": "Charax Spasinou - Alexander's lost city",
+        "C": "Alexander's manuscripts",
+        "D": "Alexander's palace"
+      },
+      "correct_answer": "B",
+      "explanation": "Charax Spasinou, Alexander the Great's lost city, was rediscovered with archaeological findings in February 2026."
+    },
+    {
+      "question_id": 25,
+      "question_text": "What is NHAI's new 'Bee Corridors' initiative about?",
+      "category": "Current Affairs",
+      "subcategory": "Environment & Sustainability",
+      "difficulty": "medium",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Protecting bee hives on highways",
+        "B": "First-ever pollinator initiative along highways",
+        "C": "Creating bee sanctuaries",
+        "D": "Regulating beekeeping"
+      },
+      "correct_answer": "B",
+      "explanation": "Bee Corridors is NHAI's first-ever pollinator initiative launched along national highways in February 2026."
+    },
+    {
+      "question_id": 26,
+      "question_text": "How many Rafale fighter jets does India plan to acquire in the new deal?",
+      "category": "Current Affairs",
+      "subcategory": "Defence & Military",
+      "difficulty": "hard",
+      "question_type": "MCQ",
+      "options": {
+        "A": "36 Rafale jets",
+        "B": "72 Rafale jets",
+        "C": "114 Rafale jets",
+        "D": "120 Rafale jets"
+      },
+      "correct_answer": "C",
+      "explanation": "India plans to acquire 114 Rafale fighter jets in the India-France deal worth 3.6 lakh crore announced in February 2026."
+    },
+    {
+      "question_id": 27,
+      "question_text": "What are SAHI and BODH launched at the India AI Summit 2026?",
+      "category": "Current Affairs",
+      "subcategory": "Technology & Innovation",
+      "difficulty": "hard",
+      "question_type": "MCQ",
+      "options": {
+        "A": "AI security platforms",
+        "B": "India's AI health care systems",
+        "C": "Educational AI tools",
+        "D": "Government AI initiatives"
+      },
+      "correct_answer": "B",
+      "explanation": "SAHI and BODH are India's AI healthcare solutions launched at India AI Summit 2026 in February."
+    },
+    {
+      "question_id": 28,
+      "question_text": "What recognition did Smriti Mandhana receive in February 2026?",
+      "category": "Current Affairs",
+      "subcategory": "Sports & Awards",
+      "difficulty": "easy",
+      "question_type": "MCQ",
+      "options": {
+        "A": "ICC Award",
+        "B": "BBC Top Honor",
+        "C": "Asian Games Medal",
+        "D": "Sports Excellence Award"
+      },
+      "correct_answer": "B",
+      "explanation": "Smriti Mandhana bagged the BBC Top Honor in February 2026, marking a golden year for women's cricket."
+    },
+    {
+      "question_id": 29,
+      "question_text": "Where did AIIMS conduct its first remote ultrasound procedure?",
+      "category": "Current Affairs",
+      "subcategory": "Healthcare & Technology",
+      "difficulty": "medium",
+      "question_type": "MCQ",
+      "options": {
+        "A": "In Himalayas",
+        "B": "In Arctic region",
+        "C": "In Antarctica",
+        "D": "On Mount Everest"
+      },
+      "correct_answer": "C",
+      "explanation": "AIIMS conducted the first remote ultrasound in Antarctica in February 2026, showcasing telemedicine capabilities."
+    },
+    {
+      "question_id": 30,
+      "question_text": "Who was Geeta Patnaik, mentioned in February 2026 news?",
+      "category": "Current Affairs",
+      "subcategory": "Arts & Culture",
+      "difficulty": "medium",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Odia dancer",
+        "B": "Odia singer",
+        "C": "Odia actress",
+        "D": "Odia painter"
+      },
+      "correct_answer": "B",
+      "explanation": "Geeta Patnaik was an Odia singer whose career and achievements were highlighted in February 2026 news."
+    },
+    {
+      "question_id": 31,
+      "question_text": "What is Bulbul V-3 in collaboration with Sarvam AI?",
+      "category": "Current Affairs",
+      "subcategory": "Technology & Innovation",
+      "difficulty": "hard",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Music streaming AI",
+        "B": "Voice translation AI",
+        "C": "Redefining Indian digital public infrastructure",
+        "D": "Entertainment AI"
+      },
+      "correct_answer": "C",
+      "explanation": "Sarvam AI and Bulbul V-3 are redefining Indian digital public infrastructure at global level in February 2026."
+    },
+    {
+      "question_id": 32,
+      "question_text": "What new technology is Odisha introducing on land records?",
+      "category": "Current Affairs",
+      "subcategory": "Government Initiatives",
+      "difficulty": "easy",
+      "question_type": "MCQ",
+      "options": {
+        "A": "Blockchain technology",
+        "B": "QR codes",
+        "C": "RFID tags",
+        "D": "Biometric verification"
+      },
+      "correct_answer": "B",
+      "explanation": "Odisha announced in February 2026 that it will introduce QR codes on land records for digital verification."
+    },
+    {
+      "question_id": 33,
+      "question_text": "What amount did the Defence Ministry allocate for HAL-made Dornier Jets?",
+      "category": "Current Affairs",
+      "subcategory": "Defence & Military",
+
+
   ]
 }
