@@ -134,5 +134,434 @@
       "difficulty": "hard",
       "explanation": "The Constitution originally had 395 articles (now 470+ after amendments) and 12 schedules."
     }
+
+
+
+
+
+
+
+
+{
+  "quiz_metadata": {
+    "category": "Current Affairs April 2026",
+    "target_audience": "Classes VI-XII (ASISC Zonal Quiz)",
+    "total_questions": 50,
+    "question_types": [
+      "single_correct_mcq",
+      "true_false",
+      "multiple_correct",
+      "assertion_reason",
+      "match_the_following"
+    ],
+    "difficulty_distribution": {
+      "easy": 15,
+      "medium": 25,
+      "hard": 10
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_correct_mcq",
+      "difficulty": "easy",
+      "question": "Which Indian Space Agency successfully completed the Gaganyaan IADT-02 test in April 2026?",
+      "options": {
+        "a": "ISRO",
+        "b": "DRDO",
+        "c": "HAL",
+        "d": "BEL"
+      },
+      "correct_answer": "a",
+      "explanation": "ISRO (Indian Space Research Organisation) successfully completed the second Integrated Air Drop Test (IADT-02) on April 8, 2026, for India's Gaganyaan human spaceflight program."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "difficulty": "easy",
+      "question": "True or False: The UK passed a law in April 2026 to create a smoke-free generation by restricting tobacco sales based on age.",
+      "correct_answer": "true",
+      "explanation": "On April 21, 2026, the UK enacted the Tobacco and Vapes Bill, which introduced a rolling age restriction making it illegal to sell tobacco to anyone born after January 1, 2009."
+    },
+    {
+      "id": 3,
+      "type": "single_correct_mcq",
+      "difficulty": "easy",
+      "question": "Which two Asian countries signed a $7 billion warship defence deal in April 2026?",
+      "options": {
+        "a": "India and Japan",
+        "b": "Australia and Japan",
+        "c": "South Korea and Japan",
+        "d": "Singapore and Australia"
+      },
+      "correct_answer": "b",
+      "explanation": "On April 18, 2026, Australia and Japan signed a landmark $7 billion defence agreement for Japan to supply advanced Mogami-class multi-role frigates to the Royal Australian Navy."
+    },
+    {
+      "id": 4,
+      "type": "single_correct_mcq",
+      "difficulty": "medium",
+      "question": "What was the main objective of Exercise PRAGATI conducted by the Indian Army in April 2026?",
+      "options": {
+        "a": "To test nuclear weapons",
+        "b": "To enhance defence engagement and interoperability with friendly nations",
+        "c": "To conduct border patrol operations",
+        "d": "To upgrade military equipment"
+      },
+      "correct_answer": "b",
+      "explanation": "Exercise PRAGATI (Partnership of Regional Armies for Growth and Transformation in Indian Ocean Region) was a multinational military exercise featuring 11 friendly nations, aimed at enhancing defence engagement and interoperability."
+    },
+    {
+      "id": 5,
+      "type": "single_correct_mcq",
+      "difficulty": "easy",
+      "question": "In April 2026, Noida Airport appointed whom as its interim CEO?",
+      "options": {
+        "a": "Christoph Schnellmann",
+        "b": "Nitu Sarma",
+        "c": "Yamuna Singh",
+        "d": "Rajesh Verma"
+      },
+      "correct_answer": "b",
+      "explanation": "Nitu Sarma, who was the Chief Financial Officer of Noida International Airport since October 2021, was appointed as the interim Chief Executive Officer of the airport."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "difficulty": "easy",
+      "question": "True or False: In April 2026, India and Japan signed a data pact specifically for developing AI-powered smart cities.",
+      "correct_answer": "true",
+      "explanation": "On April 22, 2026, India and Japan signed a Memorandum of Understanding (MOU) during the first Japan-India AI Strategic Dialogue to incorporate construction data in urban AI systems for developing smart cities."
+    },
+    {
+      "id": 7,
+      "type": "single_correct_mcq",
+      "difficulty": "medium",
+      "question": "Which scientific discovery about dung beetles made headlines in April 2026?",
+      "options": {
+        "a": "They can fly longer distances than previously thought",
+        "b": "They use the Milky Way galaxy for night navigation",
+        "c": "They have developed immunity to pesticides",
+        "d": "They communicate through ultrasonic sounds"
+      },
+      "correct_answer": "b",
+      "explanation": "Scientists discovered that dung beetles (Scarabaeus satyrus) are the first animals to guide themselves using the Milky Way galaxy at night, making them one of nature's most sophisticated navigators."
+    },
+    {
+      "id": 8,
+      "type": "single_correct_mcq",
+      "difficulty": "easy",
+      "question": "How many new jumping spider species were discovered in India in April 2026?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "5"
+      },
+      "correct_answer": "b",
+      "explanation": "Two new jumping spider species, Mogrus shushka and Mogrus pune, were discovered in Rajasthan, Gujarat, and Maharashtra, highlighting India's rich biodiversity in different habitats."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "difficulty": "medium",
+      "question": "True or False: India proposed increasing Lok Sabha seats from 543 to 850 in April 2026 as part of a historic expansion.",
+      "correct_answer": "true",
+      "explanation": "The Indian government proposed a historic increase of Lok Sabha seats from 543 to 850, along with allocating one-third seats to women as part of the Nari Shakti Vandan Adhiniyam."
+    },
+    {
+      "id": 10,
+      "type": "single_correct_mcq",
+      "difficulty": "easy",
+      "question": "What is the name of India's second semiconductor plant inaugurated by PM Modi in April 2026?",
+      "options": {
+        "a": "Tata Semiconductor Fab",
+        "b": "Kaynes Semicom",
+        "c": "Micron India",
+        "d": "CG Semiconductor"
+      },
+      "correct_answer": "b",
+      "explanation": "PM Modi inaugurated the Kaynes Semicom semiconductor plant in Sanand, Gujarat, on March 31, 2026, which is India's second OSAT (Outsourced Semiconductor Assembly and Test) facility."
+    },
+    {
+      "id": 11,
+      "type": "single_correct_mcq",
+      "difficulty": "medium",
+      "question": "Which Indian state's first BJPChief Minister was sworn in on April 15, 2026?",
+      "options": {
+        "a": "Odisha",
+        "b": "Bihar",
+        "c": "Jharkhand",
+        "d": "Madhya Pradesh"
+      },
+      "correct_answer": "b",
+      "explanation": "Samrat Chaudhary became Bihar's first BJP Chief Minister, sworn in on April 15, 2026, succeeding Nitish Kumar who resigned to contest Rajya Sabha elections."
+    },
+    {
+      "id": 12,
+      "type": "multiple_correct",
+      "difficulty": "medium",
+      "question": "Select all correct statements about the Women's Quota Law that began in April 2026: (Choose all that apply)",
+      "options": {
+        "a": "It applies to J&K and Puducherry",
+        "b": "It allocates 33% seats to women in legislative assemblies",
+        "c": "It takes effect immediately upon notification",
+        "d": "It was first implemented in Maharashtra"
+      },
+      "correct_answers": ["a", "b"],
+      "explanation": "The Women's Quota Law began in Jammu & Kashmir and Puducherry following notifications on April 16-17, 2026. It allocates one-third (33%) of seats to women in these legislative assemblies."
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "difficulty": "easy",
+      "question": "True or False: India approved the first semiconductor Special Economic Zone (SEZ) at Dholera, Gujarat in April 2026.",
+      "correct_answer": "true",
+      "explanation": "India formally announced its first Special Economic Zone for semiconductors in Dholera, Gujarat, with Tata Semiconductor Manufacturing Pvt Ltd as the anchor tenant, announced on April 9, 2026."
+    },
+    {
+      "id": 14,
+      "type": "single_correct_mcq",
+      "difficulty": "medium",
+      "question": "Which international summit was held in Lyon, France in April 2026 focusing on 'One Health' approach?",
+      "options": {
+        "a": "G20 Health Summit",
+        "b": "G7 One Health Summit",
+        "c": "WHO General Assembly",
+        "d": "BRICS Health Conference"
+      },
+      "correct_answer": "b",
+      "explanation": "The G7 One Health Summit 2026 was held in Lyon, France, bringing together policymakers, scientists, and environmental experts to address the interconnected health of humans, animals, and ecosystems."
+    },
+    {
+      "id": 15,
+      "type": "single_correct_mcq",
+      "difficulty": "easy",
+      "question": "Which Indian athlete won the long jump at the Indian Athletics Series in Ranchi in April 2026?",
+      "options": {
+        "a": "Neeraj Chopra",
+        "b": "Sarun Payasingh",
+        "c": "Mohinder Singh",
+        "d": "Anju Bobby George"
+      },
+      "correct_answer": "b",
+      "explanation": "Sarun Payasingh, a 25-year-old athlete from Odisha, won the fourth leg of the Indian Athletics Series in Ranchi with a best distance of 7.46 meters in the long jump event."
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "difficulty": "medium",
+      "question": "True or False: The Indian Navy successfully evacuated 18 ships trapped in the Persian Gulf in April 2026.",
+      "correct_answer": "true",
+      "explanation": "India launched an emergency maritime evacuation plan to rescue 18 ships (4 LPG carriers, 3 LNG carriers, and 11 crude oil tankers) trapped in the Persian Gulf area following improved security conditions."
+    },
+    {
+      "id": 17,
+      "type": "single_correct_mcq",
+      "difficulty": "medium",
+      "question": "The WTO Ministerial Conference (MC14) in April 2026 saw a significant event related to digital trade. What lapsed for the first time in 26 years?",
+      "options": {
+        "a": "Agricultural subsidies agreement",
+        "b": "E-commerce moratorium on customs duties",
+        "c": "Intellectual property protection agreement",
+        "d": "Textile trade agreement"
+      },
+      "correct_answer": "b",
+      "explanation": "At MC14 in Yaoundé, Cameroon, the e-commerce moratorium on customs duties on digital transmissions lapsed for the first time in 26 years, marking a historic turning point in digital trade."
+    },
+    {
+      "id": 18,
+      "type": "single_correct_mcq",
+      "difficulty": "easy",
+      "question": "Which Indian painting fetched a record price of Rs 167.2 crore at auction in April 2026?",
+      "options": {
+        "a": "Nightingale by Ravi Varma",
+        "b": "Yashoda and Krishna by Raja Ravi Varma",
+        "c": "The Story Teller by Amrita Sher-Gil",
+        "d": "Shakuntala by Abanindranath Tagore"
+      },
+      "correct_answer": "b",
+      "explanation": "A historic painting by Raja Ravi Varma depicting Yashoda and Krishna sold for Rs 167.2 crore at Saffronart auction in Mumbai on April 1, 2026, becoming the most expensive modern Indian painting ever sold."
+    },
+    {
+      "id": 19,
+      "type": "assertion_reason",
+      "difficulty": "medium",
+      "question": "Assertion: The Mumbai Cricket Association (MCA) introduced a domestic player contract system in April 2026.\nReason: It was designed to provide systematic financial assistance to upcoming players before they join national teams or IPL auctions.",
+      "options": {
+        "a": "Both assertion and reason are correct, and reason explains the assertion",
+        "b": "Both are correct, but reason does not explain the assertion",
+        "c": "Assertion is correct, but reason is incorrect",
+        "d": "Assertion is incorrect"
+      },
+      "correct_answer": "a",
+      "explanation": "MCA proposed an innovative domestic player contract system in 2026 to provide financial support to grassroots cricketers, addressing player attrition and talent pipeline issues in Indian cricket."
+    },
+    {
+      "id": 20,
+      "type": "true_false",
+      "difficulty": "easy",
+      "question": "True or False: Scientists confirmed that ice has been accumulating on the Moon for at least 1.5 billion years.",
+      "correct_answer": "true",
+      "explanation": "A NASA Lunar Reconnaissance Orbiter study published in Nature Astronomy confirmed that water ice in the Moon's permanently shadowed regions has accumulated steadily over the past 1.5 billion years."
+    },
+    {
+      "id": 21,
+      "type": "single_correct_mcq",
+      "difficulty": "medium",
+      "question": "Which Central Armed Police Force held its first high-level conference in April 2026 with PM Modi as chairperson?",
+      "options": {
+        "a": "Central Industrial Security Force (CISF)",
+        "b": "Border Security Force (BSF)",
+        "c": "Central Armed Police Forces (CAPFs)",
+        "d": "Paramilitary Forces Council"
+      },
+      "correct_answer": "c",
+      "explanation": "India hosted the first high-level conference of Central Armed Police Forces (CAPFs) with PM Narendra Modi as chairperson, focusing on internal security coordination and emerging threats like left-wing extremism."
+    },
+    {
+      "id": 22,
+      "type": "single_correct_mcq",
+      "difficulty": "medium",
+      "question": "How many Indian soldiers who died in the Mesopotamia campaign during WWI were added to the Basra Memorial in April 2026?",
+      "options": {
+        "a": "20,000",
+        "b": "25,000",
+        "c": "33,000",
+        "d": "46,000"
+      },
+      "correct_answer": "c",
+      "explanation": "In April 2026, the UK digitally added the names of 33,000 Indian soldiers of the First World War who were not previously commemorated by name on the Basra Memorial in Iraq."
+    },
+    {
+      "id": 23,
+      "type": "true_false",
+      "difficulty": "medium",
+      "question": "True or False: Seven AAP Members of Parliament from the Rajya Sabha joined the BJP in April 2026.",
+      "correct_answer": "true",
+      "explanation": "Raghav Chadha, along with six other AAP members including Sandeep Pathak and Ashok Mittal, resigned from AAP and joined the BJP in April 2026, using the Tenth Schedule protection."
+    },
+    {
+      "id": 24,
+      "type": "single_correct_mcq",
+      "difficulty": "easy",
+      "question": "Which Indian state government passed the Reorganisation Bill in April 2026 to establish Amaravati as its sole capital?",
+      "options": {
+        "a": "Telangana",
+        "b": "Andhra Pradesh",
+        "c": "Karnataka",
+        "d": "Odisha"
+      },
+      "correct_answer": "b",
+      "explanation": "The Andhra Pradesh Reorganisation (Amendment) Bill, 2026 was passed on April 1, 2026, officially designating Amaravati as the sole and permanent capital of Andhra Pradesh, ending the three-capital arrangement."
+    },
+    {
+      "id": 25,
+      "type": "single_correct_mcq",
+      "difficulty": "medium",
+      "question": "What is MALWAN, which was delivered to the Indian Navy in April 2026?",
+      "options": {
+        "a": "A submarine",
+        "b": "An anti-submarine warfare shallow water craft",
+        "c": "A fighter aircraft",
+        "d": "A missile system"
+      },
+      "correct_answer": "b",
+      "explanation": "MALWAN is an Anti-Submarine Warfare Shallow Water Craft (ASW SWC) built by Cochin Shipyard Limited, designed to replace aging Abhay-class corvettes with advanced underwater surveillance and combat capabilities."
+    },
+    {
+      "id": 26,
+      "type": "true_false",
+      "difficulty": "easy",
+      "question": "True or False: The Jan Samarth Portal integrated over 15 central government schemes and 250+ financial institutions by April 2026.",
+      "correct_answer": "true",
+      "explanation": "The Jan Samarth Portal, launched in 2022, had integrated over 15 central government credit-linked schemes and 250+ financial institutions by April 2026, facilitating loans worth 1.06 lakh crore."
+    },
+    {
+      "id": 27,
+      "type": "single_correct_mcq",
+      "difficulty": "medium",
+      "question": "In April 2026, which spacecraft completed a lunar mission and set a record for farthest human travel from Earth?",
+      "options": {
+        "a": "Apollo 13",
+        "b": "Artemis II",
+        "c": "Gaganyaan",
+        "d": "Chang'e 5"
+      },
+      "correct_answer": "b",
+      "explanation": "NASA's Artemis II mission, launched on April 1, 2026, successfully returned to Earth on April 10, 2026, with a record journey of 252,752 miles, surpassing Apollo 13's 1970 record."
+    },
+    {
+      "id": 28,
+      "type": "single_correct_mcq",
+      "difficulty": "medium",
+      "question": "Which international technology company announced integration with Apple CarPlay for voice-only interaction in April 2026?",
+      "options": {
+        "a": "Google Assistant",
+        "b": "Amazon Alexa",
+        "c": "ChatGPT",
+        "d": "Cortana"
+      },
+      "correct_answer": "c",
+      "explanation": "OpenAI's ChatGPT was integrated into Apple CarPlay in iOS 26.4, allowing drivers to interact with the AI chatbot through voice-only commands while driving, prioritizing safety."
+    },
+    {
+      "id": 29,
+      "type": "true_false",
+      "difficulty": "easy",
+      "question": "True or False: China launched a new batch of internet satellites as part of its Guowang constellation project in April 2026.",
+      "correct_answer": "true",
+      "explanation": "On April 9, 2026, China launched a new batch of internet satellites via Long March 6 rocket, advancing its Guowang constellation project with plans for nearly 13,000 satellites in low Earth orbit."
+    },
+    {
+      "id": 30,
+      "type": "single_correct_mcq",
+      "difficulty": "medium",
+      "question": "Which Indian LPG tanker successfully passed through the Strait of Hormuz amid regional tensions in April 2026?",
+      "options": {
+        "a": "Green Sanvi",
+        "b": "Green Asha",
+        "c": "Green Leaf",
+        "d": "Green Hope"
+      },
+      "correct_answer": "b",
+      "explanation": "The India-flagged LPG tanker Green Asha became the ninth vessel to pass through the Strait of Hormuz after the West Asia conflict began, carrying 20,000 tonnes of LPG crucial for India's energy security."
+    },
+    {
+      "id": 31,
+      "type": "assertion_reason",
+      "difficulty": "hard",
+      "question": "Assertion: The Reserve Bank of India eased relief norms for disaster-affected borrowers in April 2026.\nReason: Banks could automatically provide relief without requiring borrower applications in notified disaster areas.",
+      "options": {
+        "a": "Both assertion and reason are correct, and reason explains the assertion",
+        "b": "Both are correct, but reason does not explain the assertion",
+        "c": "Assertion is correct, but reason is incorrect",
+        "d": "Both are incorrect"
+      },
+      "correct_answer": "a",
+      "explanation": "The RBI issued revised guidelines effective July 1, 2026, allowing automatic relief to disaster-affected borrowers without requiring formal applications, while also permitting borrowers to opt out within 135 days."
+    },
+    {
+      "id": 32,
+      "type": "single_correct_mcq",
+      "difficulty": "hard",
+      "question": "Which scientific study on dung beetles published in April 2026 raised concerns about the impact of light pollution?",
+      "options": {
+        "a": "Their ability to navigate using the sun",
+        "b": "Their ability to use the Milky Way galaxy for night navigation",
+        "c": "Their mating behavior patterns",
+        "d": "Their life span under artificial lights"
+      },
+      "correct_answer": "b",
+      "explanation": "Scientists discovered that with the Milky Way being obscured by artificial light in cities, nocturnal navigators like dung beetles might struggle to survive, throwing ecological balance into question and affecting soil fertilization."
+    },
+    {
+      "id": 33,
+      "type": "single_correct_mcq",
+      "difficulty": "medium",
+      "question": "Which commission held its 128th meeting in April 2026 to review air pollution en
+} 
+
+
   ]
 }
