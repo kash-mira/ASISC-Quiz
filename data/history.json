@@ -26,16 +26,16 @@
     {
       "id": 23,
       "type": "mcq",
-      "text": "Which article of the Indian Constitution grants fundamental rights?",
+      "text": "Which article of the Indian Constitution grants Fundamental Rights?",
       "options": [
-        "A. Articles 12-35",
-        "B. Articles 36-51",
-        "C. Articles 52-62",
-        "D. Articles 1-11"
+        "A. Articles 12–35",
+        "B. Articles 36–51",
+        "C. Articles 52–62",
+        "D. Articles 1–11"
       ],
       "answer": "A",
       "difficulty": "hard",
-      "explanation": "Articles 12-35 cover Fundamental Rights in the Indian Constitution."
+      "explanation": "Articles 12–35 of the Indian Constitution deal with Fundamental Rights."
     },
     {
       "id": 24,
@@ -56,7 +56,7 @@
         ]
       ],
       "difficulty": "easy",
-      "explanation": "These are major independence and liberation leaders."
+      "explanation": "These leaders are associated with their respective freedom movements."
     },
     {
       "id": 25,
@@ -70,7 +70,7 @@
       ],
       "answer": "A",
       "difficulty": "easy",
-      "explanation": "The Sepoy Mutiny began in 1857 and lasted until 1859."
+      "explanation": "The Revolt of 1857 began in May 1857."
     },
     {
       "id": 26,
@@ -78,7 +78,7 @@
       "text": "The French Revolution took place in the 18th century.",
       "answer": true,
       "difficulty": "easy",
-      "explanation": "The French Revolution occurred in 1789-1799 period."
+      "explanation": "The French Revolution began in 1789."
     },
     {
       "id": 27,
@@ -97,17 +97,17 @@
         "E"
       ],
       "difficulty": "medium",
-      "explanation": "Akbar, Shah Jahan, and Aurangzeb were Mughal emperors. Ashoka and Vikramaditya were different dynasty rulers."
+      "explanation": "Akbar, Shah Jahan, and Aurangzeb were Mughal emperors."
     },
     {
       "id": 28,
       "type": "assertion-reason",
-      "text": "Assertion: Democracy requires a constitution. Reason: A constitution defines governmental structure.",
+      "text": "Assertion: Democracy requires a constitution. Reason: A constitution defines the structure and powers of government.",
       "assertion": true,
       "reason": true,
       "answer": "A",
       "difficulty": "medium",
-      "explanation": "Both statements are correct and logically connected."
+      "explanation": "Both statements are true, and the reason correctly explains the assertion."
     },
     {
       "id": 29,
@@ -121,18 +121,15 @@
       ],
       "answer": "B",
       "difficulty": "medium",
-      "explanation": "The UDHR was adopted by the UN General Assembly on December 10, 1948."
+      "explanation": "The UDHR was adopted by the UN General Assembly on 10 December 1948."
     },
     {
       "id": 30,
       "type": "fill-blank",
-      "text": "The Indian Constitution has ______ Articles and ______ Schedules.",
-      "answer": [
-        "370",
-        "12"
-      ],
-      "difficulty": "hard",
-      "explanation": "The Constitution originally had 395 articles (now 470+ after amendments) and 12 schedules."
+      "text": "The Indian Constitution currently has ______ Schedules.",
+      "answer": "12",
+      "difficulty": "easy",
+      "explanation": "The Constitution of India currently contains 12 Schedules."
     }
   ]
 }
