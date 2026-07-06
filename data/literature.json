@@ -132,5 +132,1126 @@
       "difficulty": "easy",
       "explanation": "This is the opening line of the soliloquy in Hamlet, Act III, Scene 1."
     }
+
+
+
+{
+  "id": 341,
+  "type": "mcq",
+  "text": "Which part of speech is the word 'quickly' in the sentence 'She spoke quickly'?",
+  "options": [
+    "A. Noun",
+    "B. Adverb",
+    "C. Adjective",
+    "D. Verb"
+  ],
+  "answer": "B",
+  "difficulty": "easy",
+  "explanation": "'Quickly' modifies the verb 'spoke', describing how the action was performed. Words ending in '-ly' are typically adverbs."
+},
+{
+  "id": 342,
+  "type": "true-false",
+  "text": "The sentence 'He go to school every day' is grammatically correct.",
+  "answer": false,
+  "difficulty": "easy",
+  "explanation": "The correct form should be 'He goes to school every day.' The verb must agree with the third-person singular subject 'he'."
+},
+{
+  "id": 343,
+  "type": "mcq",
+  "text": "Identify the tense in the sentence 'She has been writing a novel for two years.'",
+  "options": [
+    "A. Simple Past",
+    "B. Present Perfect Continuous",
+    "C. Past Perfect Continuous",
+    "D. Simple Present"
+  ],
+  "answer": "B",
+  "difficulty": "easy",
+  "explanation": "The use of 'has been writing' indicates an action that started in the past and continues to the present, which is Present Perfect Continuous tense."
+},
+{
+  "id": 344,
+  "type": "fill-blank",
+  "text": "The word 'beautiful' is a ________ because it describes a noun.",
+  "answer": "adjective",
+  "difficulty": "easy",
+  "explanation": "Adjectives are words that modify or describe nouns. 'Beautiful' describes the quality of a noun."
+},
+{
+  "id": 345,
+  "type": "mcq",
+  "text": "Which sentence uses the correct form of the pronoun?",
+  "options": [
+    "A. Me and him are going to the store.",
+    "B. Him and I are going to the store.",
+    "C. He and I are going to the store.",
+    "D. Us are going to the store."
+  ],
+  "answer": "C",
+  "difficulty": "medium",
+  "explanation": "When pronouns are used as subjects, they should be in the nominative case: 'he' and 'I' are correct, not 'me' or 'him'."
+},
+{
+  "id": 346,
+  "type": "assertion-reason",
+  "text": "Assertion: Articles are essential parts of speech in English. Reason: They help specify whether a noun is definite or indefinite.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "easy",
+  "explanation": "Both statements are correct. Articles (a, an, the) specify whether a noun is definite (the) or indefinite (a/an)."
+},
+{
+  "id": 347,
+  "type": "mcq",
+  "text": "Choose the sentence with correct subject-verb agreement.",
+  "options": [
+    "A. The team are playing well together.",
+    "B. The team is playing well together.",
+    "C. The teams is playing well together.",
+    "D. The team have been playing well together."
+  ],
+  "answer": "B",
+  "difficulty": "medium",
+  "explanation": "'Team' is a singular collective noun, so it requires a singular verb 'is', not the plural 'are'."
+},
+{
+  "id": 348,
+  "type": "fill-blank",
+  "text": "She is ________ to complete the project by next week.",
+  "answer": "able",
+  "difficulty": "easy",
+  "explanation": "The phrase 'able to' is the correct construction for expressing capability. Other options like 'capability' would require different phrasing."
+},
+{
+  "id": 349,
+  "type": "true-false",
+  "text": "The word 'carefully' is an adverb.",
+  "answer": true,
+  "difficulty": "easy",
+  "explanation": "'Carefully' ends in '-ly' and modifies verbs, adjectives, or other adverbs, making it an adverb."
+},
+{
+  "id": 350,
+  "type": "mcq",
+  "text": "Which sentence is in the passive voice?",
+  "options": [
+    "A. The cat chased the mouse.",
+    "B. The mouse was chased by the cat.",
+    "C. The cat is chasing the mouse.",
+    "D. The mouse chases the cat."
+  ],
+  "answer": "B",
+  "difficulty": "medium",
+  "explanation": "In passive voice, the object of the active sentence becomes the subject. 'The mouse was chased by the cat' shows the mouse as the subject receiving the action."
+},
+{
+  "id": 351,
+  "type": "matching",
+  "text": "Match the tenses with their examples:",
+  "pairs": [
+    ["Simple Past", "I walked to school yesterday"],
+    ["Present Perfect", "I have lived here for five years"],
+    ["Future Continuous", "I will be sleeping at 9 PM"],
+    ["Past Perfect", "I had finished my work before he arrived"]
+  ],
+  "difficulty": "medium",
+  "explanation": "Each example correctly demonstrates the tense structure and temporal reference indicated."
+},
+{
+  "id": 352,
+  "type": "mcq",
+  "text": "Identify the conjunction in the sentence 'I wanted to go, but it was raining.'",
+  "options": [
+    "A. to",
+    "B. but",
+    "C. it",
+    "D. was"
+  ],
+  "answer": "B",
+  "difficulty": "easy",
+  "explanation": "Conjunctions connect clauses or phrases. 'But' is a coordinating conjunction connecting two independent clauses."
+},
+{
+  "id": 353,
+  "type": "true-false",
+  "text": "The phrase 'a unique opportunity' uses the correct article.",
+  "answer": true,
+  "difficulty": "medium",
+  "explanation": "'A' is used before consonant sounds, and 'unique' begins with a consonant sound, making 'a unique' correct."
+},
+{
+  "id": 354,
+  "type": "fill-blank",
+  "text": "She is ________ to her work.",
+  "answer": "committed",
+  "difficulty": "medium",
+  "explanation": "'Committed' is an adjective that describes dedication or loyalty to something."
+},
+{
+  "id": 355,
+  "type": "mcq",
+  "text": "Which word is a preposition?",
+  "options": [
+    "A. happy",
+    "B. quickly",
+    "C. between",
+    "D. running"
+  ],
+  "answer": "C",
+  "difficulty": "easy",
+  "explanation": "Prepositions show the relationship between nouns/pronouns and other words. 'Between' indicates position or relation."
+},
+{
+  "id": 356,
+  "type": "assertion-reason",
+  "text": "Assertion: 'Neither...nor' is a correlative conjunction. Reason: It connects two negative alternatives in a sentence.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "medium",
+  "explanation": "Both statements are correct. 'Neither...nor' is a correlative conjunction used to present two negative options."
+},
+{
+  "id": 357,
+  "type": "multiple-correct",
+  "text": "Which of the following sentences are grammatically correct? (Select all correct)",
+  "options": [
+    "A. She don't like apples.",
+    "B. He go to the gym regularly.",
+    "C. They are studying for their exams.",
+    "D. We was very tired.",
+    "E. You have done excellent work."
+  ],
+  "answer": ["C", "E"],
+  "difficulty": "medium",
+  "explanation": "C and E are grammatically correct. A, B, and D have subject-verb agreement errors."
+},
+{
+  "id": 358,
+  "type": "mcq",
+  "text": "Convert the active sentence to passive: 'The baker made fresh bread.'",
+  "options": [
+    "A. Fresh bread made the baker.",
+    "B. Fresh bread was made by the baker.",
+    "C. Fresh bread is made by baker.",
+    "D. The baker had made fresh bread."
+  ],
+  "answer": "B",
+  "difficulty": "medium",
+  "explanation": "In the passive voice, the object becomes the subject, and the verb form changes to 'was made by' to show the action and agent."
+},
+{
+  "id": 359,
+  "type": "true-false",
+  "text": "The sentence 'Each of the students have submitted their assignment' is grammatically correct.",
+  "answer": false,
+  "difficulty": "hard",
+  "explanation": "'Each' is a singular pronoun, so the verb should be 'has', not 'have'. The correct form is 'has submitted'."
+},
+{
+  "id": 360,
+  "type": "fill-blank",
+  "text": "The pronoun 'whom' is used as the ________ of a verb or preposition.",
+  "answer": "object",
+  "difficulty": "hard",
+  "explanation": "'Whom' is the objective case of 'who' and functions as the object of a verb or preposition."
+},
+{
+  "id": 361,
+  "type": "mcq",
+  "text": "Which sentence correctly uses a dependent clause?",
+  "options": [
+    "A. Because she was tired.",
+    "B. Although he studied hard, he failed the exam.",
+    "C. She was tired. Because she didn't sleep.",
+    "D. Running quickly the field."
+  ],
+  "answer": "B",
+  "difficulty": "hard",
+  "explanation": "A dependent clause requires an independent clause to form a complete sentence. Option B correctly combines a dependent clause with an independent clause."
+},
+{
+  "id": 362,
+  "type": "matching",
+  "text": "Match the words with their parts of speech:",
+  "pairs": [
+    ["Run", "Verb"],
+    ["Beautiful", "Adjective"],
+    ["Slowly", "Adverb"],
+    ["Under", "Preposition"]
+  ],
+  "difficulty": "easy",
+  "explanation": "Each word is correctly classified by its part of speech and function in sentences."
+},
+{
+  "id": 363,
+  "type": "assertion-reason",
+  "text": "Assertion: The word 'their' is a possessive pronoun. Reason: It shows ownership or belonging.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "easy",
+  "explanation": "Both statements are correct. 'Their' is a possessive pronoun indicating something belongs to 'them'."
+},
+{
+  "id": 364,
+  "type": "mcq",
+  "text": "Identify the correct conditional sentence.",
+  "options": [
+    "A. If I will see him, I will tell him.",
+    "B. If I see him, I will tell him.",
+    "C. If I would see him, I will tell him.",
+    "D. If I would see him, I would tell him."
+  ],
+  "answer": "B",
+  "difficulty": "medium",
+  "explanation": "In First Conditional (possible future), use present tense in the 'if' clause and future tense in the main clause: 'If I see...I will tell'."
+},
+{
+  "id": 365,
+  "type": "true-false",
+  "text": "The phrase 'an elephant' is correct because 'elephant' begins with a vowel sound.",
+  "answer": true,
+  "difficulty": "medium",
+  "explanation": "'An' is used before vowel sounds. Even though 'elephant' starts with 'e', the 'eh' sound is a vowel sound."
+},
+{
+  "id": 366,
+  "type": "fill-blank",
+  "text": "The verb 'run' in the third person singular present tense is ________.",
+  "answer": "runs",
+  "difficulty": "easy",
+  "explanation": "For third-person singular subjects (he, she, it), add '-s' to regular verbs: run becomes runs."
+},
+{
+  "id": 367,
+  "type": "mcq",
+  "text": "Which sentence demonstrates correct use of reported speech?",
+  "options": [
+    "A. He said that he is coming tomorrow.",
+    "B. He said that he was coming the next day.",
+    "C. He said he will come tomorrow.",
+    "D. He said me that he is coming."
+  ],
+  "answer": "B",
+  "difficulty": "hard",
+  "explanation": "In reported speech, the tense shifts back (is → was) and 'tomorrow' becomes 'the next day'. Option B correctly demonstrates this."
+},
+{
+  "id": 368,
+  "type": "multiple-correct",
+  "text": "Which of the following use the correct comparative form? (Select all correct)",
+  "options": [
+    "A. This book is more interesting than that one.",
+    "B. She is taller than him.",
+    "C. He is more clever than his brother.",
+    "D. That building is the most highest in the city.",
+    "E. She runs faster than her friend."
+  ],
+  "answer": ["A", "B", "E"],
+  "difficulty": "hard",
+  "explanation": "A, B, E are correct. C should use 'cleverer' for one-syllable adjectives. D incorrectly uses 'most highest' (superlative with comparative)."
+},
+{
+  "id": 369,
+  "type": "assertion-reason",
+  "text": "Assertion: Complex sentences contain at least one dependent clause. Reason: A dependent clause cannot stand alone as a complete sentence.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "medium",
+  "explanation": "Both statements are correct. Complex sentences require independent and dependent clauses, and dependent clauses need independent ones to be complete."
+},
+{
+  "id": 370,
+  "type": "mcq",
+  "text": "Which word is an example of a gerund?",
+  "options": [
+    "A. run",
+    "B. running",
+    "C. ran",
+    "D. will run"
+  ],
+  "answer": "B",
+  "difficulty": "medium",
+  "explanation": "A gerund is a verb form ending in '-ing' that functions as a noun. 'Running' can be used as a noun (e.g., 'Running is healthy')."
+},
+{
+  "id": 371,
+  "type": "fill-blank",
+  "text": "The phrase 'I wish I ________ more time' requires a past tense verb to express an unreal wish.",
+  "answer": "had",
+  "difficulty": "hard",
+  "explanation": "In wishes about the present, use past tense: 'I wish I had more time.' This shows the wish is contrary to reality."
+},
+{
+  "id": 372,
+  "type": "true-false",
+  "text": "The sentence 'Neither of the options are correct' uses proper subject-verb agreement.",
+  "answer": false,
+  "difficulty": "hard",
+  "explanation": "'Neither' is singular, so it requires a singular verb: 'Neither of the options is correct.'"
+},
+{
+  "id": 373,
+  "type": "mcq",
+  "text": "Identify the infinitive in the sentence 'She wants to become a doctor.'",
+  "options": [
+    "A. wants",
+    "B. become",
+    "C. to become",
+    "D. a doctor"
+  ],
+  "answer": "C",
+  "difficulty": "easy",
+  "explanation": "An infinitive is 'to' + the base form of a verb. 'To become' is the infinitive in this sentence."
+},
+{
+  "id": 374,
+  "type": "matching",
+  "text": "Match the sentence types with their characteristics:",
+  "pairs": [
+    ["Simple Sentence", "One independent clause"],
+    ["Compound Sentence", "Two independent clauses joined by conjunction"],
+    ["Complex Sentence", "Independent and dependent clauses"],
+    ["Compound-Complex Sentence", "Two independent and at least one dependent clause"]
+  ],
+  "difficulty": "hard",
+  "explanation": "Each sentence type is defined by the number and relationship of its clauses."
+},
+{
+  "id": 375,
+  "type": "assertion-reason",
+  "text": "Assertion: Adverbs can modify verbs, adjectives, and other adverbs. Reason: Adverbs are extremely flexible parts of speech.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "medium",
+  "explanation": "Both statements are correct. Adverbs can modify various parts of speech, making them flexible elements in sentences."
+},
+{
+  "id": 376,
+  "type": "mcq",
+  "text": "Choose the correct sentence using the phrasal verb 'look after'.",
+  "options": [
+    "A. She is looking after her younger siblings.",
+    "B. She is looking her younger siblings after.",
+    "C. She is after looking her younger siblings.",
+    "D. She is looking to her younger siblings after."
+  ],
+  "answer": "A",
+  "difficulty": "medium",
+  "explanation": "'Look after' means 'to care for'. The correct word order is subject + verb + object, making option A correct."
+},
+{
+  "id": 377,
+  "type": "true-false",
+  "text": "The word 'beautiful' can function as both an adjective and an adverb.",
+  "answer": false,
+  "difficulty": "medium",
+  "explanation": "'Beautiful' is an adjective. The adverbial form would be 'beautifully', which modifies verbs or other adjectives."
+},
+{
+  "id": 378,
+  "type": "fill-blank",
+  "text": "The collective noun 'audience' is typically treated as a ________ noun.",
+  "answer": "singular",
+  "difficulty": "hard",
+  "explanation": "Collective nouns (audience, team, family) are usually treated as singular, taking singular verbs."
+},
+{
+  "id": 379,
+  "type": "mcq",
+  "text": "Which sentence correctly uses a semicolon?",
+  "options": [
+    "A. I like tea; but she prefers coffee.",
+    "B. She studied hard; therefore, she passed the exam.",
+    "C. The weather is sunny; it is warm outside.",
+    "D. He enjoys reading; and writing stories."
+  ],
+  "answer": "B",
+  "difficulty": "hard",
+  "explanation": "A semicolon can connect two independent clauses, often with a transitional word. Option B correctly uses 'therefore' to connect ideas."
+},
+{
+  "id": 380,
+  "type": "multiple-correct",
+  "text": "Which sentences correctly use parallel structure? (Select all correct)",
+  "options": [
+    "A. She likes swimming, cycling, and to run.",
+    "B. He enjoys reading books, writing poetry, and playing music.",
+    "C. The team is fast, strong, and plays well.",
+    "D. I want to travel, to explore, and to learn.",
+    "E. The house is old, spacious, and it is comfortable."
+  ],
+  "answer": ["B", "D"],
+  "difficulty": "hard",
+  "explanation": "B and D maintain parallel structure. A mixes gerunds and infinitive. C mixes adjectives and verb. E mixes adjectives and clause."
+},
+{
+  "id": 381,
+  "type": "assertion-reason",
+  "text": "Assertion: The Present Perfect tense is used for actions that started in the past and continue to the present. Reason: It connects past actions with the present time.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "medium",
+  "explanation": "Both statements are correct. Present Perfect (have/has + past participle) indicates actions with relevance to the present."
+},
+{
+  "id": 382,
+  "type": "mcq",
+  "text": "Identify the modal verb in the sentence 'She might attend the meeting tomorrow.'",
+  "options": [
+    "A. might",
+    "B. attend",
+    "C. meeting",
+    "D. tomorrow"
+  ],
+  "answer": "A",
+  "difficulty": "easy",
+  "explanation": "Modal verbs (can, could, may, might, must, will, would) express possibility, permission, obligation. 'Might' indicates possibility."
+},
+{
+  "id": 383,
+  "type": "fill-blank",
+  "text": "The word 'their' should be replaced with ________ in the sentence 'The students left their books at their desks.'",
+  "answer": "No correction needed",
+  "difficulty": "easy",
+  "explanation": "Both uses of 'their' are correct. 'Their' is the appropriate possessive pronoun for the plural noun 'students'."
+},
+{
+  "id": 384,
+  "type": "true-false",
+  "text": "The past participle of 'go' is 'went'.",
+  "answer": false,
+  "difficulty": "easy",
+  "explanation": "'Went' is the simple past tense of 'go'. The past participle is 'gone' (used in 'has gone')."
+},
+{
+  "id": 385,
+  "type": "mcq",
+  "text": "Which sentence demonstrates correct punctuation of a quotation?",
+  "options": [
+    "A. She said, 'I will be there soon'.",
+    "B. She said, \"I will be there soon.\"",
+    "C. She said \"I will be there soon\".",
+    "D. She said, \"I will be there soon\" ."
+  ],
+  "answer": "B",
+  "difficulty": "hard",
+  "explanation": "In American English, periods go inside quotation marks. The comma after 'said' introduces the quote, and the period is inside the quotes."
+},
+{
+  "id": 386,
+  "type": "matching",
+  "text": "Match the sentence errors with their corrections:",
+  "pairs": [
+    ["He don't like pizza.", "He doesn't like pizza."],
+    ["She have finished her work.", "She has finished her work."],
+    ["They is going to the park.", "They are going to the park."],
+    ["I has completed the assignment.", "I have completed the assignment."]
+  ],
+  "difficulty": "medium",
+  "explanation": "Each error involves incorrect subject-verb agreement that must be corrected for grammatical accuracy."
+},
+{
+  "id": 387,
+  "type": "assertion-reason",
+  "text": "Assertion: An apostrophe is used to show possession. Reason: It indicates that something belongs to someone or something.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "easy",
+  "explanation": "Both statements are correct. Apostrophes show possession (John's book) and contractions (can't)."
+},
+{
+  "id": 388,
+  "type": "mcq",
+  "text": "Which word is spelled correctly when forming a plural?",
+  "options": [
+    "A. childs",
+    "B. womans",
+    "C. shelves",
+    "D. potatos"
+  ],
+  "answer": "C",
+  "difficulty": "medium",
+  "explanation": "Words ending in 'f' or 'fe' change to 'ves' (shelf → shelves). Others: child → children, woman → women, potato → potatoes."
+},
+{
+  "id": 389,
+  "type": "true-false",
+  "text": "The word 'unique' should be preceded by the article 'an' because it begins with a vowel letter.",
+  "answer": false,
+  "difficulty": "hard",
+  "explanation": "Although 'unique' starts with 'u', it has a consonant sound (/yu/), so 'a unique' is correct, not 'an unique'."
+},
+{
+  "id": 390,
+  "type": "fill-blank",
+  "text": "The superlative form of the adjective 'good' is ________.",
+  "answer": "best",
+  "difficulty": "easy",
+  "explanation": "'Good' is an irregular adjective with comparative 'better' and superlative 'best'."
+}
+
+{
+  "id": 391,
+  "type": "mcq",
+  "text": "How many articles are there in the Indian Constitution?",
+  "options": [
+    "A. 350",
+    "B. 370",
+    "C. 395",
+    "D. 420"
+  ],
+  "answer": "C",
+  "difficulty": "easy",
+  "explanation": "The Indian Constitution has 395 articles (now 470+ after amendments) divided into 22 parts and 12 schedules."
+},
+{
+  "id": 392,
+  "type": "true-false",
+  "text": "The Indian Constitution was adopted on January 26, 1950.",
+  "answer": true,
+  "difficulty": "easy",
+  "explanation": "The Indian Constitution came into effect on January 26, 1950, which is celebrated as Republic Day."
+},
+{
+  "id": 393,
+  "type": "mcq",
+  "text": "Which article of the Indian Constitution grants fundamental rights?",
+  "options": [
+    "A. Articles 12-35",
+    "B. Articles 36-51",
+    "C. Articles 52-62",
+    "D. Articles 1-11"
+  ],
+  "answer": "A",
+  "difficulty": "medium",
+  "explanation": "Articles 12-35 cover Fundamental Rights in the Indian Constitution, including right to equality, freedom, and constitutional remedies."
+},
+{
+  "id": 394,
+  "type": "fill-blank",
+  "text": "The power to amend the Constitution lies with the ________ of India.",
+  "answer": "Parliament",
+  "difficulty": "easy",
+  "explanation": "The Parliament of India has the exclusive power to amend the Constitution through the amendment process."
+},
+{
+  "id": 395,
+  "type": "mcq",
+  "text": "How many fundamental rights are mentioned in the Indian Constitution?",
+  "options": [
+    "A. 5",
+    "B. 6",
+    "C. 7",
+    "D. 8"
+  ],
+  "answer": "B",
+  "difficulty": "medium",
+  "explanation": "There are 6 fundamental rights: Equality, Freedom, against Exploitation, Religion, Education, and Cultural/Property Rights."
+},
+{
+  "id": 396,
+  "type": "assertion-reason",
+  "text": "Assertion: India is a Federal structure. Reason: Power is shared between Central and State governments.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "easy",
+  "explanation": "Both statements are correct. India is a federal structure with powers divided between Union and State governments."
+},
+{
+  "id": 397,
+  "type": "true-false",
+  "text": "The Prime Minister of India is directly elected by the people.",
+  "answer": false,
+  "difficulty": "easy",
+  "explanation": "The Prime Minister is elected by the Parliament (Lok Sabha), not directly by the people. The President is the head of state."
+},
+{
+  "id": 398,
+  "type": "mcq",
+  "text": "Which part of the Indian Constitution deals with Directive Principles of State Policy?",
+  "options": [
+    "A. Part I",
+    "B. Part III",
+    "C. Part IV",
+    "D. Part V"
+  ],
+  "answer": "C",
+  "difficulty": "hard",
+  "explanation": "Part IV (Articles 36-51) of the Constitution contains Directive Principles of State Policy, which are guidelines for state governance."
+},
+{
+  "id": 399,
+  "type": "fill-blank",
+  "text": "The term of the President of India is ________ years.",
+  "answer": "five",
+  "difficulty": "easy",
+  "explanation": "The President's term is 5 years, and they can be re-elected for a maximum of 2 terms."
+},
+{
+  "id": 400,
+  "type": "multiple-correct",
+  "text": "Which of the following are organs of the Indian Government? (Select all correct)",
+  "options": [
+    "A. Legislative",
+    "B. Executive",
+    "C. Judiciary",
+    "D. Military",
+    "E. Media"
+  ],
+  "answer": ["A", "B", "C"],
+  "difficulty": "medium",
+  "explanation": "The three organs of government are Legislative, Executive, and Judiciary. Military and Media are important but not constitutional organs."
+},
+{
+  "id": 401,
+  "type": "mcq",
+  "text": "How many members are there in the Rajya Sabha?",
+  "options": [
+    "A. 240",
+    "B. 250",
+    "C. 245",
+    "D. 238"
+  ],
+  "answer": "B",
+  "difficulty": "medium",
+  "explanation": "The Rajya Sabha (Upper House) has 250 members: 238 elected from states and 12 nominated by the President."
+},
+{
+  "id": 402,
+  "type": "assertion-reason",
+  "text": "Assertion: The Lok Sabha is the lower house of Parliament. Reason: It has more members than the Rajya Sabha.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "easy",
+  "explanation": "Both statements are correct. The Lok Sabha (545 members) is the lower house and has more members than Rajya Sabha (250)."
+},
+{
+  "id": 403,
+  "type": "true-false",
+  "text": "The Chief Justice of India is appointed by the Prime Minister.",
+  "answer": false,
+  "difficulty": "hard",
+  "explanation": "The Chief Justice of India is appointed by the President on the advice of senior judges, not directly by the PM."
+},
+{
+  "id": 404,
+  "type": "matching",
+  "text": "Match the constitutional positions with their tenure:",
+  "pairs": [
+    ["President", "5 years"],
+    ["Prime Minister", "5 years or until confidence"],
+    ["Governor", "5 years"],
+    ["Chief Justice", "Until retirement at 65"]
+  ],
+  "difficulty": "medium",
+  "explanation": "Each position has specific tenure rules under the Indian Constitution."
+},
+{
+  "id": 405,
+  "type": "mcq",
+  "text": "Which constitutional amendment introduced the concept of 'Right to Information'?",
+  "options": [
+    "A. 42nd Amendment",
+    "B. 43rd Amendment",
+    "C. 44th Amendment",
+    "D. It's a separate Act, not from Constitution"
+  ],
+  "answer": "D",
+  "difficulty": "hard",
+  "explanation": "Right to Information is not from a constitutional amendment but from the Right to Information Act, 2005."
+},
+{
+  "id": 406,
+  "type": "fill-blank",
+  "text": "The minimum age to become a voter in India is ________ years.",
+  "answer": "eighteen",
+  "difficulty": "easy",
+  "explanation": "Citizens of India who are 18 years or older have the right to vote in elections."
+},
+{
+  "id": 407,
+  "type": "mcq",
+  "text": "Which is the highest court in India?",
+  "options": [
+    "A. High Court",
+    "B. Supreme Court",
+    "C. District Court",
+    "D. Appellate Court"
+  ],
+  "answer": "B",
+  "difficulty": "easy",
+  "explanation": "The Supreme Court of India is the highest judicial authority in the country."
+},
+{
+  "id": 408,
+  "type": "true-false",
+  "text": "The Vice President of India presides over the Rajya Sabha.",
+  "answer": true,
+  "difficulty": "medium",
+  "explanation": "The Vice President is ex-officio Chairman of the Rajya Sabha and chairs its proceedings."
+},
+{
+  "id": 409,
+  "type": "assertion-reason",
+  "text": "Assertion: The Speaker of Lok Sabha is elected by Lok Sabha members. Reason: The Speaker is the presiding officer of the Lok Sabha.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "medium",
+  "explanation": "Both statements are correct. The Speaker is elected by Lok Sabha members and presides over its proceedings."
+},
+{
+  "id": 410,
+  "type": "multiple-correct",
+  "text": "Which of the following are Fundamental Duties under the Indian Constitution? (Select all correct)",
+  "options": [
+    "A. To obey the Constitution",
+    "B. To promote harmony and fraternity",
+    "C. To develop scientific temperament",
+    "D. To earn maximum income",
+    "E. To protect public property"
+  ],
+  "answer": ["A", "B", "C", "E"],
+  "difficulty": "hard",
+  "explanation": "A, B, C, E are Fundamental Duties (Articles 51A). D is not a constitutional duty."
+},
+{
+  "id": 411,
+  "type": "fill-blank",
+  "text": "The term 'secular' was added to the Preamble through the ________ Constitutional Amendment.",
+  "answer": "42nd",
+  "difficulty": "hard",
+  "explanation": "The 42nd Constitutional Amendment (1976) made the Constitution more secular by adding 'secular' to the Preamble."
+},
+{
+  "id": 412,
+  "type": "mcq",
+  "text": "How many schedules are there in the Indian Constitution?",
+  "options": [
+    "A. 10",
+    "B. 11",
+    "C. 12",
+    "D. 13"
+  ],
+  "answer": "C",
+  "difficulty": "hard",
+  "explanation": "The Indian Constitution has 12 schedules listing matters like official languages, states, and powers of government."
+},
+{
+  "id": 413,
+  "type": "assertion-reason",
+  "text": "Assertion: Elections in India are conducted by the Election Commission. Reason: The Commission ensures free and fair elections.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "easy",
+  "explanation": "Both statements are correct. The Election Commission of India is responsible for conducting and supervising elections."
+},
+{
+  "id": 414,
+  "type": "true-false",
+  "text": "The minimum age to become President of India is 35 years.",
+  "answer": true,
+  "difficulty": "medium",
+  "explanation": "A person must be at least 35 years old and an Indian citizen to become President of India."
+},
+{
+  "id": 415,
+  "type": "matching",
+  "text": "Match the constitutional articles with their subjects:",
+  "pairs": [
+    ["Article 1", "Name and Territory of India"],
+    ["Article 25", "Right to Religion"],
+    ["Article 15", "Prohibition of Discrimination"],
+    ["Article 51A", "Fundamental Duties"]
+  ],
+  "difficulty": "hard",
+  "explanation": "These are landmark articles dealing with fundamental aspects of the Indian Constitution."
+},
+{
+  "id": 416,
+  "type": "mcq",
+  "text": "How many days does Parliament get to pass a Money Bill after receiving it from the President?",
+  "options": [
+    "A. 7 days",
+    "B. 14 days",
+    "C. 30 days",
+    "D. 60 days"
+  ],
+  "answer": "B",
+  "difficulty": "hard",
+  "explanation": "The President has 14 days to return a Money Bill or it becomes law automatically after 30 days of receipt by Parliament."
+},
+{
+  "id": 417,
+  "type": "fill-blank",
+  "text": "The Preamble of the Indian Constitution begins with the words 'We, the ________'.",
+  "answer": "People",
+  "difficulty": "easy",
+  "explanation": "The Preamble starts with 'We, the People of India' establishing popular sovereignty."
+},
+{
+  "id": 418,
+  "type": "true-false",
+  "text": "The Constitution can be amended by a simple majority in Parliament.",
+  "answer": false,
+  "difficulty": "hard",
+  "explanation": "Most constitutional amendments require a 2/3 majority in both houses; some require ratification by states."
+},
+{
+  "id": 419,
+  "type": "mcq",
+  "text": "Which article abolishes untouchability in India?",
+  "options": [
+    "A. Article 17",
+    "B. Article 25",
+    "C. Article 15",
+    "D. Article 29"
+  ],
+  "answer": "A",
+  "difficulty": "medium",
+  "explanation": "Article 17 of the Constitution abolishes untouchability and forbids its practice."
+},
+{
+  "id": 420,
+  "type": "assertion-reason",
+  "text": "Assertion: The Cabinet is responsible to the Lok Sabha. Reason: The Prime Minister is accountable to Parliament.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "medium",
+  "explanation": "Both statements are correct. The Indian government follows parliamentary democracy where Cabinet is responsible to Lok Sabha."
+},
+{
+  "id": 421,
+  "type": "multiple-correct",
+  "text": "Which of the following are qualifications to become a Member of Parliament? (Select all correct)",
+  "options": [
+    "A. Indian citizen",
+    "B. At least 25 years old for Lok Sabha",
+    "C. At least 30 years old for Rajya Sabha",
+    "D. Must own property worth minimum amount",
+    "E. Possess voting rights"
+  ],
+  "answer": ["A", "B", "C"],
+  "difficulty": "hard",
+  "explanation": "A, B, C are correct qualifications. D and E are not constitutional requirements."
+},
+{
+  "id": 422,
+  "type": "fill-blank",
+  "text": "The right to ________ is a fundamental right under Article 21 of the Indian Constitution.",
+  "answer": "life",
+  "difficulty": "easy",
+  "explanation": "Article 21 guarantees the right to life and personal liberty to all citizens."
+},
+{
+  "id": 423,
+  "type": "mcq",
+  "text": "How many Union Territories are there in India as of 2024?",
+  "options": [
+    "A. 7",
+    "B. 8",
+    "C. 9",
+    "D. 10"
+  ],
+  "answer": "B",
+  "difficulty": "hard",
+  "explanation": "As of 2024, there are 8 Union Territories: Delhi, Andaman & Nicobar Islands, Chandigarh, Dadra & Nagar Haveli, Daman & Diu, Lakshadweep, Puducherry, Ladakh."
+},
+{
+  "id": 424,
+  "type": "assertion-reason",
+  "text": "Assertion: The Constitution grants freedom of speech and expression. Reason: This right can be restricted on grounds of national security.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "medium",
+  "explanation": "Both statements are correct. Article 19 grants freedom with reasonable restrictions."
+},
+{
+  "id": 425,
+  "type": "true-false",
+  "text": "The Governor of a state is appointed by the Prime Minister.",
+  "answer": false,
+  "difficulty": "medium",
+  "explanation": "The Governor is appointed by the President on the advice of the Union Government, not the PM directly."
+},
+{
+  "id": 426,
+  "type": "matching",
+  "text": "Match the government bodies with their functions:",
+  "pairs": [
+    ["Election Commission", "Conduct elections"],
+    ["Union Public Service Commission", "Recruit civil servants"],
+    ["Lok Sabha", "House of the People"],
+    ["Supreme Court", "Final judicial authority"]
+  ],
+  "difficulty": "easy",
+  "explanation": "Each body has distinct constitutional functions in the Indian governance structure."
+},
+{
+  "id": 427,
+  "type": "mcq",
+  "text": "Which article provides the right to equality before law in India?",
+  "options": [
+    "A. Article 14",
+    "B. Article 15",
+    "C. Article 16",
+    "D. Article 17"
+  ],
+  "answer": "A",
+  "difficulty": "easy",
+  "explanation": "Article 14 ensures equality before law and equal protection to all persons."
+},
+{
+  "id": 428,
+  "type": "fill-blank",
+  "text": "The Cabinet of Ministers is headed by the ________.",
+  "answer": "Prime Minister",
+  "difficulty": "easy",
+  "explanation": "The Prime Minister is the head of the Cabinet and the chief executive of the government."
+},
+{
+  "id": 429,
+  "type": "true-false",
+  "text": "The Constitution recognizes caste, religion, or gender as grounds for discrimination under Article 15.",
+  "answer": false,
+  "difficulty": "medium",
+  "explanation": "Article 15 prohibits discrimination on grounds of religion, race, caste, sex, or place of birth."
+},
+{
+  "id": 430,
+  "type": "mcq",
+  "text": "How many Vice Presidents can India have at the same time?",
+  "options": [
+    "A. 1",
+    "B. 2",
+    "C. 3",
+    "D. Multiple"
+  ],
+  "answer": "A",
+  "difficulty": "easy",
+  "explanation": "India has only one Vice President at a time, who serves for a 5-year term."
+},
+{
+  "id": 431,
+  "type": "assertion-reason",
+  "text": "Assertion: The Chief Minister is the head of a state government. Reason: The Chief Minister is the leader of the majority in the state assembly.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "easy",
+  "explanation": "Both statements are correct. The Chief Minister is the chief executive of the state and leads the government."
+},
+{
+  "id": 432,
+  "type": "multiple-correct",
+  "text": "Which of the following fall under the Concurrent List? (Select all correct)",
+  "options": [
+    "A. Education",
+    "B. Police",
+    "C. Taxation",
+    "D. Forests",
+    "E. Defence"
+  ],
+  "answer": ["A", "C", "D"],
+  "difficulty": "hard",
+  "explanation": "Education, taxation, and forests are on the Concurrent List. Police and Defence are Union subjects."
+},
+{
+  "id": 433,
+  "type": "fill-blank",
+  "text": "The power to dissolve the Lok Sabha lies with the ________.",
+  "answer": "President",
+  "difficulty": "medium",
+  "explanation": "The President has the power to dissolve the Lok Sabha on the advice of the Prime Minister."
+},
+{
+  "id": 434,
+  "type": "true-false",
+  "text": "All bills passed by Parliament require the President's assent to become law.",
+  "answer": true,
+  "difficulty": "medium",
+  "explanation": "Bills passed by Parliament must receive the President's assent before becoming law."
+},
+{
+  "id": 435,
+  "type": "mcq",
+  "text": "Which constitutional amendment lowered the voting age from 21 to 18 years?",
+  "options": [
+    "A. 40th Amendment",
+    "B. 42nd Amendment",
+    "C. 61st Amendment",
+    "D. 70th Amendment"
+  ],
+  "answer": "C",
+  "difficulty": "hard",
+  "explanation": "The 61st Constitutional Amendment (1989) lowered the voting age from 21 to 18 years."
+},
+{
+  "id": 436,
+  "type": "matching",
+  "text": "Match the lists in the Constitution with their subjects:",
+  "pairs": [
+    ["Union List", "Defence, Foreign Affairs"],
+    ["State List", "Police, Education"],
+    ["Concurrent List", "Taxation, Forests"],
+    ["Residual Powers", "Parliament"]
+  ],
+  "difficulty": "hard",
+  "explanation": "The Constitution divides powers between Union and States through these three lists."
+},
+{
+  "id": 437,
+  "type": "assertion-reason",
+  "text": "Assertion: India practices universal adult suffrage. Reason: Every adult citizen has the right to vote.",
+  "assertion": true,
+  "reason": true,
+  "answer": "A",
+  "difficulty": "medium",
+  "explanation": "Both statements are correct. Universal adult suffrage means every citizen 18+ has voting rights."
+},
+{
+  "id": 438,
+  "type": "fill-blank",
+  "text": "The oath of office for the President is administered by the ________.",
+  "answer": "Chief Justice",
+  "difficulty": "hard",
+  "explanation": "The Chief Justice of India administers the oath of office to the President of India."
+},
+{
+  "id": 439,
+  "type": "true-false",
+  "text": "The Constitution recognizes English as an official language of India.",
+  "answer": true,
+  "difficulty": "hard",
+  "explanation": "While Hindi is the official language, English continues as an associate official language for government functions."
+},
+{
+  "id": 440,
+  "type": "mcq",
+  "text": "Which article of the Constitution provides for the abolition of slavery?",
+  "options": [
+    "A. Article 16",
+    "B. Article 17",
+    "C. Article 18",
+    "D. Article 19"
+  ],
+  "answer": "C",
+  "difficulty": "hard",
+  "explanation": "Article 18 abolishes titles and prevents the state from conferring titles except military and academic ones."
+}
   ]
 }
