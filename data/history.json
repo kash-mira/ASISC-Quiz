@@ -131,5 +131,687 @@
       "difficulty": "easy",
       "explanation": "The Constitution of India currently contains 12 Schedules."
     }
+
+
+
+
+
+
+
+{
+"id": 141,
+"type": "mcq",
+"text": "In which year did the Indian Independence Act come into effect, granting independence to India?",
+"options": [
+"A. 1945",
+"B. 1946",
+"C. 1947",
+"D. 1948"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "India gained independence on August 15, 1947, when the Indian Independence Act 1947 came into effect, ending colonial rule."
+},
+{
+"id": 142,
+"type": "mcq",
+"text": "Who was the first Prime Minister of independent India?",
+"options": [
+"A. Sardar Vallabhbhai Patel",
+"B. Jawaharlal Nehru",
+"C. Rajendra Prasad",
+"D. Abul Kalam Azad"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "Jawaharlal Nehru became the first Prime Minister of independent India, serving from 1947 until his death in 1964."
+},
+{
+"id": 143,
+"type": "true-false",
+"text": "The first Battle of Panipat was fought in 1526.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "The First Battle of Panipat was fought on 21 April 1526 between the invading forces of Babur and the Lodi dynasty."
+},
+{
+"id": 144,
+"type": "mcq",
+"text": "In which year was the Indian Constitution adopted?",
+"options": [
+"A. 1948",
+"B. 1949",
+"C. 1950",
+"D. 1951"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "The Indian Constitution was adopted on November 26, 1949, and came into effect on January 26, 1950."
+},
+{
+"id": 145,
+"type": "mcq",
+"text": "The Salt March (Namak Satyagraha) was led by which leader?",
+"options": [
+"A. Jawaharlal Nehru",
+"B. Mahatma Gandhi",
+"C. Sardar Patel",
+"D. Subhas Chandra Bose"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "Mahatma Gandhi led the Salt March in 1930 from Sabarmati Ashram to Dandi to protest British salt monopoly, making it a landmark civil disobedience movement."
+},
+{
+"id": 146,
+"type": "mcq",
+"text": "Who was the first President of independent India?",
+"options": [
+"A. Jawaharlal Nehru",
+"B. Sardar Vallabhbhai Patel",
+"C. Rajendra Prasad",
+"D. C. Rajagopalachari"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "Rajendra Prasad served as the first President of India from 1950 to 1962."
+},
+{
+"id": 147,
+"type": "multiple-correct",
+"text": "Which of the following were key leaders of the Indian Independence Movement? (Select all correct)",
+"options": [
+"A. Mahatma Gandhi",
+"B. Subhas Chandra Bose",
+"C. Raja Ram Mohan Roy",
+"D. Keshab Chandra Sen",
+"E. Bal Gangadhar Tilak"
+],
+"answer": [
+"A",
+"B",
+"E"
+],
+"difficulty": "medium",
+"explanation": "Gandhi, Bose, and Tilak were key independence leaders. Roy and Sen were social reformers of the 19th century, though they contributed to the reform movement."
+},
+{
+"id": 148,
+"type": "mcq",
+"text": "The Quit India Movement was launched in which year?",
+"options": [
+"A. 1940",
+"B. 1942",
+"C. 1944",
+"D. 1946"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "The Quit India Movement was launched on August 8, 1942, demanding immediate British withdrawal from India."
+},
+{
+"id": 149,
+"type": "assertion-reason",
+"text": "Assertion: The Civil Disobedience Movement was initiated with the Salt March. Reason: Salt was a commodity monopolized by the British government.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are correct. Gandhi chose the salt monopoly as the focus because it affected every Indian and was a just cause for non-violent protest."
+},
+{
+"id": 150,
+"type": "mcq",
+"text": "Who founded the Indian National Congress?",
+"options": [
+"A. Womesh Chandra Bonnerjee",
+"B. Allan Octavian Hume",
+"C. Surendranath Banerjee",
+"D. Pherozeshah Mehta"
+],
+"answer": "B",
+"difficulty": "hard",
+"explanation": "Allan Octavian Hume, a British official, founded the Indian National Congress in 1885. Womesh Chandra Bonnerjee was its first president."
+},
+{
+"id": 151,
+"type": "fill-blank",
+"text": "The Act of Union merged Scotland with ________ in 1707.",
+"answer": "England",
+"difficulty": "medium",
+"explanation": "The Act of Union 1707 unified the kingdoms of Scotland and England to form the Kingdom of Great Britain."
+},
+{
+"id": 152,
+"type": "mcq",
+"text": "Who was known as the 'Father of the Nation' in India?",
+"options": [
+"A. Jawaharlal Nehru",
+"B. Mohandas Karamchand Gandhi",
+"C. Subhas Chandra Bose",
+"D. Sardar Vallabhbhai Patel"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "Mohandas Karamchand Gandhi (Mahatma Gandhi) is revered as the Father of the Nation for his role in India's independence struggle."
+},
+{
+"id": 153,
+"type": "mcq",
+"text": "The Jallianwala Bagh massacre occurred in which year?",
+"options": [
+"A. 1915",
+"B. 1919",
+"C. 1920",
+"D. 1921"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "The Jallianwala Bagh massacre occurred on April 13, 1919, when British General Dyer ordered troops to fire on unarmed Indian civilians."
+},
+{
+"id": 154,
+"type": "true-false",
+"text": "The United Nations was established immediately after World War I.",
+"answer": false,
+"difficulty": "easy",
+"explanation": "The United Nations was established in 1945 after World War II, replacing the League of Nations."
+},
+{
+"id": 155,
+"type": "mcq",
+"text": "Which ancient civilization built the Colosseum?",
+"options": [
+"A. Greek",
+"B. Roman",
+"C. Egyptian",
+"D. Mesopotamian"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "The Colosseum, an iconic amphitheater, was built by the Roman Empire in Rome between 72-80 AD."
+},
+{
+"id": 156,
+"type": "mcq",
+"text": "Who was the founder of the Mauryan Empire in India?",
+"options": [
+"A. Ashoka",
+"B. Chandragupta Maurya",
+"C. Bindusara",
+"D. Samprati"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "Chandragupta Maurya founded the Mauryan Empire around 322 BCE. His grandson Ashoka later became the most famous Mauryan emperor."
+},
+{
+"id": 157,
+"type": "mcq",
+"text": "The Magna Carta was signed in which year?",
+"options": [
+"A. 1200",
+"B. 1215",
+"C. 1220",
+"D. 1250"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "The Magna Carta was signed on June 15, 1215, limiting the powers of King John and establishing the principle that everyone, including the king, is subject to law."
+},
+{
+"id": 158,
+"type": "matching",
+"text": "Match the following Indian dynasties with their famous rulers:",
+"pairs": [
+[
+"Mauryan Dynasty",
+"Ashoka"
+],
+[
+"Gupta Dynasty",
+"Samudragupta"
+],
+[
+"Mughal Dynasty",
+"Akbar"
+],
+[
+"Maratha Empire",
+"Shivaji"
+]
+],
+"difficulty": "medium",
+"explanation": "Ashoka was a Mauryan emperor, Samudragupta belonged to the Gupta dynasty, Akbar was a Mughal emperor, and Shivaji founded the Maratha Empire."
+},
+{
+"id": 159,
+"type": "mcq",
+"text": "Which emperor of the Mughal Empire is known for building the Taj Mahal?",
+"options": [
+"A. Akbar",
+"B. Jahangir",
+"C. Shah Jahan",
+"D. Aurangzeb"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "Shah Jahan commissioned the construction of the Taj Mahal in Agra, dedicating it to his beloved wife Mumtaz Mahal."
+},
+{
+"id": 160,
+"type": "mcq",
+"text": "The Battle of Plassey (1757) was fought between the British and whom?",
+"options": [
+"A. Maharaja Ranjit Singh",
+"B. Hyder Ali",
+"C. Siraj ud-Daulah",
+"D. Tipu Sultan"
+],
+"answer": "C",
+"difficulty": "medium",
+"explanation": "The Battle of Plassey in 1757 was fought between the British East India Company and the Nawab of Bengal, Siraj ud-Daulah."
+},
+{
+"id": 161,
+"type": "assertion-reason",
+"text": "Assertion: Ashoka spread Buddhism across Asia. Reason: He was deeply affected by the bloodshed of the Kalinga War.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "hard",
+"explanation": "Both statements are true. After witnessing the devastation of the Kalinga War, Ashoka embraced Buddhism and became a peace-promoting leader."
+},
+{
+"id": 162,
+"type": "mcq",
+"text": "Who was the founder of the Sikh religion?",
+"options": [
+"A. Guru Gobind Singh",
+"B. Guru Hargobind",
+"C. Guru Nanak Dev",
+"D. Guru Tegh Bahadur"
+],
+"answer": "C",
+"difficulty": "medium",
+"explanation": "Guru Nanak Dev (1469-1539) was the founder of Sikhism, the fifth largest religion in the world."
+},
+{
+"id": 163,
+"type": "true-false",
+"text": "The Renaissance first began in Italy during the 14th century.",
+"answer": true,
+"difficulty": "medium",
+"explanation": "The Italian Renaissance began in the 14th century, marking the transition from medieval to modern Europe."
+},
+{
+"id": 164,
+"type": "mcq",
+"text": "Which document was signed to end World War I?",
+"options": [
+"A. Treaty of Paris",
+"B. Treaty of Versailles",
+"C. Treaty of Vienna",
+"D. Treaty of Westphalia"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "The Treaty of Versailles (1919) ended World War I and imposed harsh terms on Germany."
+},
+{
+"id": 165,
+"type": "mcq",
+"text": "The American Civil War was fought between which two regions?",
+"options": [
+"A. East and West",
+"B. North and South",
+"C. Union and Confederate States",
+"D. B and C are both correct"
+],
+"answer": "D",
+"difficulty": "easy",
+"explanation": "The American Civil War (1861-1865) was fought between the North (Union) and South (Confederate States) over slavery and states' rights."
+},
+{
+"id": 166,
+"type": "fill-blank",
+"text": "The printing press was invented by ________ in the 15th century.",
+"answer": "Gutenberg",
+"difficulty": "easy",
+"explanation": "Johannes Gutenberg invented the movable type printing press around 1440, revolutionizing the spread of information."
+},
+{
+"id": 167,
+"type": "multiple-correct",
+"text": "Which of the following were impacts of the Industrial Revolution? (Select all correct)",
+"options": [
+"A. Shift from agrarian to industrial economy",
+"B. Rise of factories and mechanization",
+"C. Increased worker exploitation",
+"D. Decreased global trade",
+"E. Urbanization and migration to cities"
+],
+"answer": [
+"A",
+"B",
+"C",
+"E"
+],
+"difficulty": "hard",
+"explanation": "A, B, C, E are all impacts of the Industrial Revolution. D is false; global trade actually increased during this period."
+},
+{
+"id": 168,
+"type": "mcq",
+"text": "Who was the leader of the Nazi Party and dictator of Germany during World War II?",
+"options": [
+"A. Otto von Bismarck",
+"B. Joseph Stalin",
+"C. Adolf Hitler",
+"D. Benito Mussolini"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "Adolf Hitler led the Nazi Party and ruled Germany from 1933 until his death in 1945, orchestrating World War II and the Holocaust."
+},
+{
+"id": 169,
+"type": "mcq",
+"text": "In which year did India become a Republic?",
+"options": [
+"A. 1947",
+"B. 1948",
+"C. 1950",
+"D. 1952"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "India became a sovereign democratic republic on January 26, 1950, when the Constitution came into effect."
+},
+{
+"id": 170,
+"type": "assertion-reason",
+"text": "Assertion: The Khilafat Movement was led by Ali Brothers. Reason: It aimed to protect the Ottoman Caliph's authority.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "hard",
+"explanation": "Both statements are true. Muhammad Ali and Shaukat Ali led the Khilafat Movement (1919-1924) to protect the Ottoman Caliph after WWI."
+},
+{
+"id": 171,
+"type": "mcq",
+"text": "Who wrote the Declaration of Independence of the United States?",
+"options": [
+"A. George Washington",
+"B. Thomas Jefferson",
+"C. Benjamin Franklin",
+"D. John Adams"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "Thomas Jefferson drafted the Declaration of Independence in 1776, which declared American independence from British rule."
+},
+{
+"id": 172,
+"type": "true-false",
+"text": "The Great Wall of China was built primarily to defend against invasions from the north.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "The Great Wall of China was constructed over centuries to protect Chinese states from invasions and raids from nomadic groups in the north."
+},
+{
+"id": 173,
+"type": "mcq",
+"text": "Which ancient wonder of the world is located in Egypt?",
+"options": [
+"A. Hanging Gardens of Babylon",
+"B. Great Pyramid of Giza",
+"C. Lighthouse of Alexandria",
+"D. Mausoleum at Halicarnassus"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "The Great Pyramid of Giza is the only surviving ancient wonder of the world, located near Cairo, Egypt."
+},
+{
+"id": 174,
+"type": "mcq",
+"text": "The Non-Cooperation Movement was launched in which year?",
+"options": [
+"A. 1920",
+"B. 1922",
+"C. 1924",
+"D. 1926"
+],
+"answer": "A",
+"difficulty": "medium",
+"explanation": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920 to protest British policies in India."
+},
+{
+"id": 175,
+"type": "fill-blank",
+"text": "The Roman Empire was divided into Eastern and Western parts during the reign of ________.",
+"answer": "Diocletian",
+"difficulty": "hard",
+"explanation": "Emperor Diocletian (284-305 AD) divided the Roman Empire into Eastern and Western halves for better governance."
+},
+{
+"id": 176,
+"type": "mcq",
+"text": "Who was the founder of the Ottoman Empire?",
+"options": [
+"A. Mehmed II",
+"B. Suleiman the Magnificent",
+"C. Osman I",
+"D. Murad I"
+],
+"answer": "C",
+"difficulty": "hard",
+"explanation": "Osman I founded the Ottoman Empire in the early 14th century, which lasted until 1922."
+},
+{
+"id": 177,
+"type": "matching",
+"text": "Match the following historical events with their years:",
+"pairs": [
+[
+"French Revolution",
+"1789"
+],
+[
+"Indian Independence",
+"1947"
+],
+[
+"Fall of Berlin Wall",
+"1989"
+],
+[
+"Moon Landing",
+"1969"
+]
+],
+"difficulty": "easy",
+"explanation": "These are landmark events in world history with their corresponding years."
+},
+{
+"id": 178,
+"type": "mcq",
+"text": "Which Indian freedom fighter was known as the 'Grand Old Man of India'?",
+"options": [
+"A. Jawaharlal Nehru",
+"B. Sardar Vallabhbhai Patel",
+"C. Dadabhai Naoroji",
+"D. Surendranath Banerjee"
+],
+"answer": "C",
+"difficulty": "hard",
+"explanation": "Dadabhai Naoroji, an anti-imperialist and one of the founders of the Indian National Congress, was called the 'Grand Old Man of India'."
+},
+{
+"id": 179,
+"type": "true-false",
+"text": "Nelson Mandela served as the first black president of South Africa.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "Nelson Mandela became South Africa's first black head of state, serving as president from 1994 to 1999."
+},
+{
+"id": 180,
+"type": "mcq",
+"text": "Who was the first Governor-General of independent India?",
+"options": [
+"A. C. Rajagopalachari",
+"B. Earl Mountbatten",
+"C. Lord Wavell",
+"D. Warren Hastings"
+],
+"answer": "B",
+"difficulty": "hard",
+"explanation": "Earl Mountbatten served as the first Governor-General of independent India from 1947 to 1948."
+},
+{
+"id": 181,
+"type": "assertion-reason",
+"text": "Assertion: The British abolished the practice of Sati in India. Reason: Raja Ram Mohan Roy campaigned against it.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "hard",
+"explanation": "Both statements are true. Though Roy campaigned against it, the British legally abolished Sati in 1829 under Governor-General Bentinck."
+},
+{
+"id": 182,
+"type": "mcq",
+"text": "The Partition of India occurred in which year?",
+"options": [
+"A. 1945",
+"B. 1946",
+"C. 1947",
+"D. 1948"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "India was partitioned on August 15, 1947, resulting in the creation of India and Pakistan as separate nations."
+},
+{
+"id": 183,
+"type": "fill-blank",
+"text": "The Indus Valley Civilization flourished during the ________ Age.",
+"answer": "Bronze",
+"difficulty": "medium",
+"explanation": "The Indus Valley Civilization (2300-1300 BCE) was a Bronze Age civilization located in the Indian subcontinent."
+},
+{
+"id": 184,
+"type": "mcq",
+"text": "Which Chinese dynasty built the Great Wall?",
+"options": [
+"A. Shang Dynasty",
+"B. Ming Dynasty",
+"C. Zhou Dynasty",
+"D. Multiple dynasties"
+],
+"answer": "D",
+"difficulty": "medium",
+"explanation": "The Great Wall was built and rebuilt by multiple Chinese dynasties over centuries, with the most famous sections built during the Ming Dynasty."
+},
+{
+"id": 185,
+"type": "multiple-correct",
+"text": "Which of the following were social reformers in 19th century India? (Select all correct)",
+"options": [
+"A. Raja Ram Mohan Roy",
+"B. Keshab Chandra Sen",
+"C. Pandita Ramabai",
+"D. Lala Lajpat Rai",
+"E. Ishwar Chandra Vidyasagar"
+],
+"answer": [
+"A",
+"B",
+"C",
+"E"
+],
+"difficulty": "hard",
+"explanation": "A, B, C, E were social reformers. Lala Lajpat Rai was both a social reformer and nationalist, but primarily known as a freedom fighter."
+},
+{
+"id": 186,
+"type": "mcq",
+"text": "Who was the founder of the Vijayanagara Empire?",
+"options": [
+"A. Krishna Deva Raya",
+"B. Harihara I",
+"C. Bukka Raya I",
+"D. Acyuta Raya"
+],
+"answer": "B",
+"difficulty": "hard",
+"explanation": "Harihara I founded the Vijayanagara Empire in 1336, though his brother Bukka Raya I helped consolidate it."
+},
+{
+"id": 187,
+"type": "true-false",
+"text": "The Chinese Revolution led by Mao Zedong occurred in 1949.",
+"answer": true,
+"difficulty": "medium",
+"explanation": "The Chinese Communist Revolution, led by Mao Zedong, established the People's Republic of China on October 1, 1949."
+},
+{
+"id": 188,
+"type": "mcq",
+"text": "Which event is generally considered to have sparked the beginning of World War I?",
+"options": [
+"A. The invasion of Poland",
+"B. The assassination of Archduke Franz Ferdinand",
+"C. The sinking of the Lusitania",
+"D. The bombing of Pearl Harbor"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "The assassination of Archduke Franz Ferdinand of Austria in June 1914 was the immediate catalyst that started World War I."
+},
+{
+"id": 189,
+"type": "matching",
+"text": "Match the following ancient civilizations with their major rivers:",
+"pairs": [
+[
+"Egyptian Civilization",
+"Nile River"
+],
+[
+"Indus Valley Civilization",
+"Indus River"
+],
+[
+"Mesopotamian Civilization",
+"Tigris and Euphrates"
+],
+[
+"Chinese Civilization",
+"Yellow River"
+]
+],
+"difficulty": "medium",
+"explanation": "These civilizations developed along major river systems that provided water, fertile soil, and transportation."
+},
+{
+"id": 190,
+"type": "mcq",
+"text": "Who revived and led the Indian National Army (Azad Hind Fauj) in 1943 during World War II?",
+"options": [
+"A. Subhas Chandra Bose",
+"B. Chandrasekhar Azad",
+"C. Bhagat Singh",
+"D. Sardar Vallabhbhai Patel"
+],
+"answer": "A",
+"difficulty": "medium",
+"explanation": "While Mohan Singh initially formed the INA in 1942, Subhas Chandra Bose revived and reorganized it in 1943 to fight for India's independence."
+}
+
   ]
 }
