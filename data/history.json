@@ -1,1287 +1,623 @@
 {
-  "category": "History",
-  "questions": [
-    {
-      "id": 1,
-      "type": "mcq",
-      "text": "Who drafted the Indian Constitution?",
-      "options": [
-        "A. Jawaharlal Nehru",
-        "B. Dr. B.R. Ambedkar",
-        "C. Rajendra Prasad",
-        "D. Sardar Patel"
-      ],
-      "answer": "B",
-      "difficulty": "easy",
-      "explanation": "Dr. B.R. Ambedkar chaired the Drafting Committee of the Indian Constitution."
-    },
-    {
-      "id": 2,
-      "type": "true-false",
-      "text": "The Magna Carta was signed in 1215 and limited the powers of the English King.",
-      "answer": true,
-      "difficulty": "easy",
-      "explanation": "The Magna Carta was indeed signed in 1215 by King John."
-    },
-    {
-      "id": 3,
-      "type": "mcq",
-      "text": "Which article of the Indian Constitution grants Fundamental Rights?",
-      "options": [
-        "A. Articles 12–35",
-        "B. Articles 36–51",
-        "C. Articles 52–62",
-        "D. Articles 1–11"
-      ],
-      "answer": "A",
-      "difficulty": "easy",
-      "explanation": "Articles 12–35 of the Indian Constitution outline the Fundamental Rights granted to all citizens."
-    },
-    {
-      "id": 4,
-      "type": "mcq",
-      "text": "In which year did India achieve independence from British rule?",
-      "options": [
-        "A. 1945",
-        "B. 1947",
-        "C. 1950",
-        "D. 1952"
-      ],
-      "answer": "B",
-      "difficulty": "easy",
-      "explanation": "India gained independence on August 15, 1947."
-    },
-    {
-      "id": 5,
-      "type": "true-false",
-      "text": "The French Revolution occurred in the 18th century.",
-      "answer": true,
-      "difficulty": "easy",
-      "explanation": "The French Revolution took place from 1789 to 1799."
-    },
-    {
-      "id": 6,
-      "type": "fill-blank",
-      "text": "The Indian Constitution was adopted on ______ 26, 1950.",
-      "answer": "January",
-      "difficulty": "easy",
-      "explanation": "The Indian Constitution came into effect on January 26, 1950, which is celebrated as Republic Day."
-    },
-    {
-      "id": 7,
-      "type": "mcq",
-      "text": "Who was the first President of independent India?",
-      "options": [
-        "A. Jawaharlal Nehru",
-        "B. Rajendra Prasad",
-        "C. Rajagopalachari",
-        "D. Chakravarti Rajagopalachari"
-      ],
-      "answer": "B",
-      "difficulty": "easy",
-      "explanation": "Rajendra Prasad was the first President of India from 1950 to 1962."
-    },
-    {
-      "id": 8,
-      "type": "multiple-correct",
-      "text": "Which of the following are Fundamental Rights granted by the Indian Constitution? (Select all correct)",
-      "options": [
-        "A. Right to Equality",
-        "B. Right to Freedom of Religion",
-        "C. Right to Exploit Resources",
-        "D. Right to Constitutional Remedies",
-        "E. Right to Unlimited Wealth"
-      ],
-      "answer": [
-        "A",
-        "B",
-        "D"
-      ],
-      "difficulty": "medium",
-      "explanation": "Rights to Equality, Freedom of Religion, and Constitutional Remedies are Fundamental Rights. Exploitation and unlimited wealth are not rights granted."
-    },
-    {
-      "id": 9,
-      "type": "assertion-reason",
-      "text": "Assertion: The French Revolution influenced democratic movements worldwide. Reason: It established ideals of liberty, equality, and fraternity.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "medium",
-      "explanation": "Both the assertion and reason are correct. The French Revolution's principles inspired global democratization."
-    },
-    {
-      "id": 10,
-      "type": "mcq",
-      "text": "Who was known as the 'Father of the Indian Nation'?",
-      "options": [
-        "A. Jawaharlal Nehru",
-        "B. Sardar Patel",
-        "C. Mahatma Gandhi",
-        "D. Subhas Chandra Bose"
-      ],
-      "answer": "C",
-      "difficulty": "easy",
-      "explanation": "Mahatma Gandhi is revered as the Father of the Indian Nation for his role in independence."
-    },
-    {
-      "id": 11,
-      "type": "true-false",
-      "text": "The American Revolution occurred before the French Revolution.",
-      "answer": true,
-      "difficulty": "easy",
-      "explanation": "The American Revolution (1775–1783) preceded the French Revolution (1789–1799)."
-    },
-    {
-      "id": 12,
-      "type": "fill-blank",
-      "text": "The doctrine of Satyagraha, or non-violent resistance, was championed by ______.",
-      "answer": "Mahatma Gandhi",
-      "difficulty": "easy",
-      "explanation": "Satyagraha, meaning truth and non-violence, was Gandhi's powerful tool against British colonialism."
-    },
-    {
-      "id": 13,
-      "type": "mcq",
-      "text": "Which ancient civilization built the Great Wall?",
-      "options": [
-        "A. Roman Empire",
-        "B. Chinese Civilization",
-        "C. Persian Empire",
-        "D. Mesopotamian Civilization"
-      ],
-      "answer": "B",
-      "difficulty": "easy",
-      "explanation": "China built the Great Wall over many centuries to protect against invasions."
-    },
-    {
-      "id": 14,
-      "type": "matching",
-      "text": "Match historical figures with their major contributions:",
-      "pairs": [
-        [
-          "Napoleon Bonaparte",
-          "Military conquests and Napoleonic Code"
-        ],
-        [
-          "Abraham Lincoln",
-          "Abolition of slavery in America"
-        ],
-        [
-          "Nelson Mandela",
-          "End of apartheid in South Africa"
-        ]
-      ],
-      "difficulty": "medium",
-      "explanation": "Each historical figure made significant contributions to their respective nations and the world."
-    },
-    {
-      "id": 15,
-      "type": "mcq",
-      "text": "In which year was the Preamble to the Indian Constitution adopted?",
-      "options": [
-        "A. 1946",
-        "B. 1949",
-        "C. 1950",
-        "D. 1952"
-      ],
-      "answer": "B",
-      "difficulty": "medium",
-      "explanation": "The Preamble to the Indian Constitution was adopted on November 26, 1949."
-    },
-    {
-      "id": 16,
-      "type": "true-false",
-      "text": "The British East India Company was primarily a military organization.",
-      "answer": false,
-      "difficulty": "medium",
-      "explanation": "The British East India Company was a trading company that eventually became a colonial power."
-    },
-    {
-      "id": 17,
-      "type": "fill-blank",
-      "text": "The fall of the Berlin Wall in 1989 symbolized the end of the ______ War.",
-      "answer": "Cold",
-      "difficulty": "medium",
-      "explanation": "The fall of the Berlin Wall marked the symbolic end of the Cold War between the Soviet Union and Western powers."
-    },
-    {
-      "id": 18,
-      "type": "mcq",
-      "text": "Which empire built the Colosseum in Rome?",
-      "options": [
-        "A. Roman Republic",
-        "B. Roman Empire",
-        "C. Byzantine Empire",
-        "D. Holy Roman Empire"
-      ],
-      "answer": "B",
-      "difficulty": "medium",
-      "explanation": "The Colosseum was built during the Roman Empire, completed in 80 AD."
-    },
-    {
-      "id": 19,
-      "type": "assertion-reason",
-      "text": "Assertion: The American Declaration of Independence was signed in 1776. Reason: It proclaimed the thirteen colonies' independence from British rule.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "medium",
-      "explanation": "Both statements are correct. The Declaration of Independence was signed on July 4, 1776."
-    },
-    {
-      "id": 20,
-      "type": "multiple-correct",
-      "text": "Which of the following were key events in the Indian Independence Movement? (Select all correct)",
-      "options": [
-        "A. Salt March (1930)",
-        "B. Quit India Movement (1942)",
-        "C. Battle of Plassey (1757)",
-        "D. Indian Rebellion of 1857",
-        "E. Treaty of Versailles (1919)"
-      ],
-      "answer": [
-        "A",
-        "B",
-        "D"
-      ],
-      "difficulty": "medium",
-      "explanation": "The Salt March, Quit India Movement, and Rebellion of 1857 were key independence events. Plassey was a British victory, and Versailles was post-WWI."
-    },
-    {
-      "id": 21,
-      "type": "mcq",
-      "text": "Who wrote the American Constitution?",
-      "options": [
-        "A. Thomas Jefferson",
-        "B. George Washington",
-        "C. James Madison and the Founding Fathers",
-        "D. Benjamin Franklin"
-      ],
-      "answer": "C",
-      "difficulty": "medium",
-      "explanation": "The American Constitution was drafted by James Madison and other Founding Fathers at the Constitutional Convention of 1787."
-    },
-    {
-      "id": 22,
-      "type": "true-false",
-      "text": "The Renaissance period in Europe occurred during the Middle Ages.",
-      "answer": false,
-      "difficulty": "medium",
-      "explanation": "The Renaissance (14th–17th centuries) followed the Middle Ages and marked the transition to modern Europe."
-    },
-    {
-      "id": 23,
-      "type": "fill-blank",
-      "text": "The Treaty of ______ ended World War I in 1918.",
-      "answer": "Versailles",
-      "difficulty": "medium",
-      "explanation": "The Treaty of Versailles was signed on June 28, 1919, formally ending WWI."
-    },
-    {
-      "id": 24,
-      "type": "mcq",
-      "text": "Which ancient wonder of the world still stands today?",
-      "options": [
-        "A. Colossus of Rhodes",
-        "B. Hanging Gardens of Babylon",
-        "C. Great Pyramid of Giza",
-        "D. Lighthouse of Alexandria"
-      ],
-      "answer": "C",
-      "difficulty": "medium",
-      "explanation": "The Great Pyramid of Giza is the only ancient wonder still largely intact."
-    },
-    {
-      "id": 25,
-      "type": "assertion-reason",
-      "text": "Assertion: The Industrial Revolution transformed economies from agrarian to industrial. Reason: It introduced mechanization and factory systems.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "medium",
-      "explanation": "Both statements are correct. The Industrial Revolution fundamentally changed economic and social structures."
-    },
-    {
-      "id": 26,
-      "type": "matching",
-      "text": "Match empires with their characteristics:",
-      "pairs": [
-        [
-          "Mughal Empire",
-          "Indo-Islamic architecture and culture"
-        ],
-        [
-          "Maurya Empire",
-          "Emperor Ashoka and early Indian unity"
-        ],
-        [
-          "British Raj",
-          "Colonial rule over India"
-        ]
-      ],
-      "difficulty": "medium",
-      "explanation": "These empires left distinct cultural, architectural, and political legacies in India."
-    },
-    {
-      "id": 27,
-      "type": "mcq",
-      "text": "In which year did the Jallianwala Bagh massacre occur?",
-      "options": [
-        "A. 1919",
-        "B. 1920",
-        "C. 1917",
-        "D. 1925"
-      ],
-      "answer": "A",
-      "difficulty": "medium",
-      "explanation": "The Jallianwala Bagh massacre occurred on April 13, 1919, in Amritsar."
-    },
-    {
-      "id": 28,
-      "type": "true-false",
-      "text": "The Indus Valley Civilization is one of the world's oldest known civilizations.",
-      "answer": true,
-      "difficulty": "easy",
-      "explanation": "The Indus Valley Civilization (2600–1900 BCE) is one of the world's oldest urban civilizations."
-    },
-    {
-      "id": 29,
-      "type": "fill-blank",
-      "text": "The ______ Dynasty ruled the Mughal Empire and left a lasting impact on Indian architecture.",
-      "answer": "Mughal",
-      "difficulty": "easy",
-      "explanation": "The Mughal Dynasty ruled from 1526 to 1857 and built iconic structures like the Taj Mahal."
-    },
-    {
-      "id": 30,
-      "type": "mcq",
-      "text": "Who was the first Emperor of the Maurya Empire?",
-      "options": [
-        "A. Ashoka",
-        "B. Chandragupta Maurya",
-        "C. Bindusara",
-        "D. Bimbisara"
-      ],
-      "answer": "B",
-      "difficulty": "medium",
-      "explanation": "Chandragupta Maurya founded the Maurya Empire around 322 BCE."
-    },
-    {
-      "id": 31,
-      "type": "multiple-correct",
-      "text": "Which of the following were significant women in Indian history? (Select all correct)",
-      "options": [
-        "A. Rani Lakshmibai",
-        "B. Savitribai Phule",
-        "C. Indira Gandhi",
-        "D. Queen Victoria",
-        "E. Kamla Mehta"
-      ],
-      "answer": [
-        "A",
-        "B",
-        "C"
-      ],
-      "difficulty": "hard",
-      "explanation": "Rani Lakshmibai, Savitribai Phule, and Indira Gandhi were significant Indian historical figures. Queen Victoria was British."
-    },
-    {
-      "id": 32,
-      "type": "assertion-reason",
-      "text": "Assertion: The Vedic period is the foundation of Hindu civilization. Reason: The Vedas were the first sacred texts written in Sanskrit.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "hard",
-      "explanation": "Both statements are correct. The Vedas form the basis of Hindu philosophy and Indian culture."
-    },
-    {
-      "id": 33,
-      "type": "mcq",
-      "text": "Which movement advocated for Swadeshi (self-reliance) during the Indian Independence struggle?",
-      "options": [
-        "A. Khilafat Movement",
-        "B. Swadeshi Movement",
-        "C. Civil Disobedience Movement",
-        "D. Quit India Movement"
-      ],
-      "answer": "B",
-      "difficulty": "hard",
-      "explanation": "The Swadeshi Movement encouraged Indians to use indigenous products and boycott British goods."
-    },
-    {
-      "id": 34,
-      "type": "true-false",
-      "text": "The Roman Empire fell completely in 476 AD.",
-      "answer": true,
-      "difficulty": "medium",
-      "explanation": "The Western Roman Empire fell in 476 AD, marking the end of the classical period."
-    },
-    {
-      "id": 35,
-      "type": "fill-blank",
-      "text": "The ______ Edict of Ashoka promoted Buddhist teachings across his empire.",
-      "answer": "Pillars",
-      "difficulty": "hard",
-      "explanation": "Ashoka's Pillars contained edicts that spread Buddhist teachings and moral teachings throughout the Maurya Empire."
-    },
-    {
-      "id": 36,
-      "type": "mcq",
-      "text": "In which battle did the British defeat Tipu Sultan?",
-      "options": [
-        "A. Battle of Plassey",
-        "B. Battle of Talikota",
-        "C. Battle of Seringapatam",
-        "D. Battle of Panipat"
-      ],
-      "answer": "C",
-      "difficulty": "hard",
-      "explanation": "The Battle of Seringapatam (1799) resulted in Tipu Sultan's defeat and death."
-    },
-    {
-      "id": 37,
-      "type": "assertion-reason",
-      "text": "Assertion: The partition of India in 1947 created the nations of India and Pakistan. Reason: Religious and communal tensions necessitated the division.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "hard",
-      "explanation": "Both statements are correct. Partition was driven by communal differences and led to massive population displacement."
-    },
-    {
-      "id": 38,
-      "type": "matching",
-      "text": "Match important Indian historical dates with events:",
-      "pairs": [
-        [
-          "1857",
-          "Indian Rebellion against British rule"
-        ],
-        [
-          "1885",
-          "Formation of the Indian National Congress"
-        ],
-        [
-          "1947",
-          "Independence from British rule"
-        ]
-      ],
-      "difficulty": "easy",
-      "explanation": "These dates mark pivotal moments in India's journey toward independence and nation-building."
-    },
-    {
-      "id": 39,
-      "type": "mcq",
-      "text": "Who was the first Prime Minister of India?",
-      "options": [
-        "A. Sardar Patel",
-        "B. Rajendra Prasad",
-        "C. Jawaharlal Nehru",
-        "D. Lal Bahadur Shastri"
-      ],
-      "answer": "C",
-      "difficulty": "easy",
-      "explanation": "Jawaharlal Nehru served as the first Prime Minister of India from 1947 to 1964."
-    },
-    {
-      "id": 40,
-      "type": "true-false",
-      "text": "The printing press was invented by Johannes Gutenberg in the 15th century.",
-      "answer": true,
-      "difficulty": "easy",
-      "explanation": "Gutenberg invented the movable type printing press around 1440, revolutionizing information dissemination."
-    },
-    {
-      "id": 41,
-      "type": "fill-blank",
-      "text": "The ______ Pact of 1942 was a failed attempt to resolve political deadlock during India's independence struggle.",
-      "answer": "Cripps",
-      "difficulty": "hard",
-      "explanation": "The Cripps Mission of 1942 proposed dominion status but was rejected by Indian leaders seeking complete independence."
-    },
-    {
-      "id": 42,
-      "type": "mcq",
-      "text": "Which treaty ended the Napoleonic Wars?",
-      "options": [
-        "A. Treaty of Westphalia",
-        "B. Treaty of Vienna",
-        "C. Treaty of Paris",
-        "D. Treaty of Utrecht"
-      ],
-      "answer": "B",
-      "difficulty": "hard",
-      "explanation": "The Congress of Vienna (1815) and resulting treaties ended the Napoleonic Wars."
-    },
-    {
-      "id": 43,
-      "type": "assertion-reason",
-      "text": "Assertion: The Enlightenment period promoted reason and scientific thinking. Reason: Philosophers like Voltaire and Rousseau challenged traditional authority.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "hard",
-      "explanation": "Both statements are correct. Enlightenment thinkers advocated rationalism and individual liberty."
-    },
-    {
-      "id": 44,
-      "type": "multiple-correct",
-      "text": "Which of the following were features of the Mughal administrative system? (Select all correct)",
-      "options": [
-        "A. Mansabdari system",
-        "B. Persian language usage",
-        "C. Federal structure",
-        "D. Centralized bureaucracy",
-        "E. Democratic institutions"
-      ],
-      "answer": [
-        "A",
-        "B",
-        "D"
-      ],
-      "difficulty": "hard",
-      "explanation": "Mansabdari system, Persian language, and centralized bureaucracy were key features. Federal and democratic elements were absent."
-    },
-    {
-      "id": 45,
-      "type": "mcq",
-      "text": "Who led the Revolt of 1857 from Kanpur?",
-      "options": [
-        "A. Rani Lakshmibai",
-        "B. Nana Sahib",
-        "C. Kunwar Singh",
-        "D. Bahadur Shah Zafar"
-      ],
-      "answer": "B",
-      "difficulty": "hard",
-      "explanation": "Nana Sahib led the rebellion from Kanpur and was one of the revolt's major leaders."
-    },
-    {
-      "id": 46,
-      "type": "true-false",
-      "text": "The Western Roman Empire and Eastern Byzantine Empire coexisted for centuries.",
-      "answer": true,
-      "difficulty": "hard",
-      "explanation": "After 395 AD, the Roman Empire was divided, with the Byzantine Empire lasting until 1453."
-    },
-    {
-      "id": 47,
-      "type": "fill-blank",
-      "text": "The ______ was the most significant anti-colonial movement launched by Gandhi in 1942.",
-      "answer": "Quit India Movement",
-      "difficulty": "medium",
-      "explanation": "The Quit India Movement demanded immediate British withdrawal from India."
-    },
-    {
-      "id": 48,
-      "type": "mcq",
-      "text": "Which ruler unified most of India under the Maurya Empire?",
-      "options": [
-        "A. Chandragupta Maurya",
-        "B. Ashoka",
-        "C. Vikramaditya",
-        "D. Harsha"
-      ],
-      "answer": "B",
-      "difficulty": "hard",
-      "explanation": "Emperor Ashoka expanded the Maurya Empire to its greatest extent, ruling most of the Indian subcontinent."
-    },
-    {
-      "id": 49,
-      "type": "assertion-reason",
-      "text": "Assertion: The Magna Carta established the principle that the king is subject to law. Reason: It limited royal power through written agreements.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "hard",
-      "explanation": "Both statements are correct. The Magna Carta was foundational to constitutional governance."
-    },
-    {
-      "id": 50,
-      "type": "matching",
-      "text": "Match historical figures with their respective nations:",
-      "pairs": [
-        [
-          "Otto von Bismarck",
-          "Germany"
-        ],
-        [
-          "Giuseppe Garibaldi",
-          "Italy"
-        ],
-        [
-          "Louis XVI",
-          "France"
-        ]
-      ],
-      "difficulty": "medium",
-      "explanation": "These leaders were instrumental in shaping their nations during periods of major political change."
-    },
-    {
-      "id": 51,
-      "type": "mcq",
-      "text": "Who authored the book 'The Discovery of India'?",
-      "options": [
-        "A. Mahatma Gandhi",
-        "B. Jawaharlal Nehru",
-        "C. Sardar Patel",
-        "D. Subhas Chandra Bose"
-      ],
-      "answer": "B",
-      "difficulty": "medium",
-      "explanation": "Jawaharlal Nehru wrote 'The Discovery of India' while imprisoned during the independence struggle."
-    },
-    {
-      "id": 52,
-      "type": "true-false",
-      "text": "The American Civil War was fought between 1861 and 1865.",
-      "answer": true,
-      "difficulty": "easy",
-      "explanation": "The American Civil War occurred from 1861 to 1865, resulting in the abolition of slavery."
-    },
-    {
-      "id": 53,
-      "type": "multiple-correct",
-      "text": "Which of the following were significant revolts against British rule in India? (Select all correct)",
-      "options": [
-        "A. Sepoy Mutiny of 1857",
-        "B. Moplah Rebellion",
-        "C. Khilafat Movement",
-        "D. Civil Disobedience Movement",
-        "E. Treaty of Amritsar"
-      ],
-      "answer": [
-        "A",
-        "B",
-        "C",
-        "D"
-      ],
-      "difficulty": "hard",
-      "explanation": "Sepoy Mutiny, Moplah Rebellion, Khilafat Movement, and Civil Disobedience Movement were significant revolts. Treaty of Amritsar was a peace treaty."
-    }
-  ]
-}"difficulty": "hard",
-"explanation": "Articles 12–35 of the Indian Constitution deal with Fundamental Rights."
-},
+"category": "History",
+"questions": [
 {
-"id": 4,
-"type": "matching",
-"text": "Match the independence leaders with their independence movements:",
-"pairs": [
-[
-"Mahatma Gandhi",
-"Indian Independence"
-],
-[
-"Nelson Mandela",
-"Anti-apartheid"
-],
-[
-"Ho Chi Minh",
-"Vietnamese Independence"
-]
-],
-"difficulty": "easy",
-"explanation": "These leaders are associated with their respective freedom movements."
-},
-{
-"id": 5,
+"id": 1,
 "type": "mcq",
-"text": "The Sepoy Mutiny occurred in which year?",
+"text": "Who drafted the Indian Constitution?",
 "options": [
-"A. 1857",
-"B. 1858",
-"C. 1859",
-"D. 1860"
+"A. Jawaharlal Nehru",
+"B. Dr. B.R. Ambedkar",
+"C. Rajendra Prasad",
+"D. Sardar Patel"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "Dr. B.R. Ambedkar chaired the Drafting Committee of the Indian Constitution."
+},
+{
+"id": 2,
+"type": "true-false",
+"text": "The Magna Carta was signed in 1215 and limited the powers of the English King.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "The Magna Carta was indeed signed in 1215 by King John."
+},
+{
+"id": 3,
+"type": "mcq",
+"text": "Which article of the Indian Constitution grants Fundamental Rights?",
+"options": [
+"A. Articles 12–35",
+"B. Articles 36–51",
+"C. Articles 52–62",
+"D. Articles 1–11"
 ],
 "answer": "A",
 "difficulty": "easy",
-"explanation": "The Revolt of 1857 began in May 1857."
+"explanation": "Articles 12–35 of the Indian Constitution outline the Fundamental Rights granted to all citizens."
+},
+{
+"id": 4,
+"type": "mcq",
+"text": "In which year did India achieve independence from British rule?",
+"options": [
+"A. 1945",
+"B. 1947",
+"C. 1950",
+"D. 1952"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "India gained independence on August 15, 1947."
+},
+{
+"id": 5,
+"type": "true-false",
+"text": "The French Revolution occurred in the 18th century.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "The French Revolution took place from 1789 to 1799."
 },
 {
 "id": 6,
-"type": "true-false",
-"text": "The French Revolution took place in the 18th century.",
-"answer": true,
+"type": "fill-blank",
+"text": "The Indian Constitution was adopted on ______ 26, 1950.",
+"answer": "January",
 "difficulty": "easy",
-"explanation": "The French Revolution began in 1789."
+"explanation": "The Indian Constitution came into effect on January 26, 1950, which is celebrated as Republic Day."
 },
 {
 "id": 7,
-"type": "multiple-correct",
-"text": "Which of these were Mughal emperors? (Select all correct)",
+"type": "mcq",
+"text": "Who was the first President of independent India?",
 "options": [
-"A. Akbar",
-"B. Ashoka",
-"C. Shah Jahan",
-"D. Vikramaditya",
-"E. Aurangzeb"
+"A. Jawaharlal Nehru",
+"B. Rajendra Prasad",
+"C. Rajagopalachari",
+"D. Chakravarti Rajagopalachari"
 ],
-"answer": [
-"A",
-"C",
-"E"
-],
-"difficulty": "medium",
-"explanation": "Akbar, Shah Jahan, and Aurangzeb were Mughal emperors."
+"answer": "B",
+"difficulty": "easy",
+"explanation": "Rajendra Prasad was the first President of India from 1950 to 1962."
 },
 {
 "id": 8,
+"type": "multiple-correct",
+"text": "Which of the following are Fundamental Rights granted by the Indian Constitution? (Select all correct)",
+"options": [
+"A. Right to Equality",
+"B. Right to Freedom of Religion",
+"C. Right to Exploit Resources",
+"D. Right to Constitutional Remedies",
+"E. Right to Unlimited Wealth"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "medium",
+"explanation": "Rights to Equality, Freedom of Religion, and Constitutional Remedies are Fundamental Rights. Exploitation and unlimited wealth are not rights granted."
+},
+{
+"id": 9,
 "type": "assertion-reason",
-"text": "Assertion: Democracy requires a constitution. Reason: A constitution defines the structure and powers of government.",
+"text": "Assertion: The French Revolution influenced democratic movements worldwide. Reason: It established ideals of liberty, equality, and fraternity.",
 "assertion": true,
 "reason": true,
 "answer": "A",
 "difficulty": "medium",
-"explanation": "Both statements are true, and the reason correctly explains the assertion."
+"explanation": "Both the assertion and reason are correct. The French Revolution's principles inspired global democratization."
 },
 {
-"id": 9,
+"id": 10,
 "type": "mcq",
-"text": "The Universal Declaration of Human Rights was adopted in which year?",
+"text": "Who was known as the 'Father of the Indian Nation'?",
 "options": [
-"A. 1945",
-"B. 1948",
+"A. Jawaharlal Nehru",
+"B. Sardar Patel",
+"C. Mahatma Gandhi",
+"D. Subhas Chandra Bose"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "Mahatma Gandhi is revered as the Father of the Indian Nation for his role in independence."
+},
+{
+"id": 11,
+"type": "true-false",
+"text": "The American Revolution occurred before the French Revolution.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "The American Revolution (1775–1783) preceded the French Revolution (1789–1799)."
+},
+{
+"id": 12,
+"type": "fill-blank",
+"text": "The doctrine of Satyagraha, or non-violent resistance, was championed by ______.",
+"answer": "Mahatma Gandhi",
+"difficulty": "easy",
+"explanation": "Satyagraha, meaning truth and non-violence, was Gandhi's powerful tool against British colonialism."
+},
+{
+"id": 13,
+"type": "mcq",
+"text": "Which ancient civilization built the Great Wall?",
+"options": [
+"A. Roman Empire",
+"B. Chinese Civilization",
+"C. Persian Empire",
+"D. Mesopotamian Civilization"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "China built the Great Wall over many centuries to protect against invasions."
+},
+{
+"id": 14,
+"type": "matching",
+"text": "Match historical figures with their major contributions:",
+"pairs": [
+[
+"Napoleon Bonaparte",
+"Military conquests and Napoleonic Code"
+],
+[
+"Abraham Lincoln",
+"Abolition of slavery in America"
+],
+[
+"Nelson Mandela",
+"End of apartheid in South Africa"
+]
+],
+"difficulty": "medium",
+"explanation": "Each historical figure made significant contributions to their respective nations and the world."
+},
+{
+"id": 15,
+"type": "mcq",
+"text": "In which year was the Preamble to the Indian Constitution adopted?",
+"options": [
+"A. 1946",
+"B. 1949",
 "C. 1950",
 "D. 1952"
 ],
 "answer": "B",
 "difficulty": "medium",
-"explanation": "The UDHR was adopted by the UN General Assembly on 10 December 1948."
-},
-{
-"id": 10,
-"type": "fill-blank",
-"text": "The Indian Constitution currently has ______ Schedules.",
-"answer": "12",
-"difficulty": "easy",
-"explanation": "The Constitution of India currently contains 12 Schedules."
-},
-{
-"id": 11,
-"type": "mcq",
-"text": "In which year did the First World War begin?",
-"options": [
-"A. 1912",
-"B. 1914",
-"C. 1916",
-"D. 1918"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "The First World War began in 1914 following the assassination of Archduke Franz Ferdinand."
-},
-{
-"id": 12,
-"type": "true-false",
-"text": "The Industrial Revolution first began in Great Britain.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "The Industrial Revolution originated in Great Britain in the late 18th century before spreading globally."
-},
-{
-"id": 13,
-"type": "fill-blank",
-"text": "The Quit India Movement was launched in the year ________.",
-"answer": "1942",
-"difficulty": "easy",
-"explanation": "Mahatma Gandhi launched the Quit India Movement on August 8, 1942, demanding an end to British rule."
-},
-{
-"id": 14,
-"type": "multiple-correct",
-"text": "Which of the following nations were part of the Axis Powers during World War II? (Select all correct)",
-"options": [
-"A. Germany",
-"B. United Kingdom",
-"C. Italy",
-"D. Soviet Union",
-"E. Japan"
-],
-"answer": [
-"A",
-"C",
-"E"
-],
-"difficulty": "medium",
-"explanation": "Germany, Italy, and Japan formed the core of the Axis Powers during World War II."
-},
-{
-"id": 15,
-"type": "assertion-reason",
-"text": "Assertion: The Cold War did not involve direct large-scale military combat between the USA and the USSR. Reason: Both superpowers possessed nuclear weapons, leading to the doctrine of Mutually Assured Destruction.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Both the assertion and the reason are true, and the reason correctly explains why direct military conflict was avoided."
+"explanation": "The Preamble to the Indian Constitution was adopted on November 26, 1949."
 },
 {
 "id": 16,
-"type": "matching",
-"text": "Match the prominent Indian historical figures with their popular titles:",
-"pairs": [
-[
-"Mohandas Karamchand Gandhi",
-"Mahatma"
-],
-[
-"Subhas Chandra Bose",
-"Netaji"
-],
-[
-"Vallabhbhai Patel",
-"Iron Man of India"
-]
-],
-"difficulty": "easy",
-"explanation": "These leaders were affectionately given these titles by the public and their contemporaries for their roles in India's independence."
+"type": "true-false",
+"text": "The British East India Company was primarily a military organization.",
+"answer": false,
+"difficulty": "medium",
+"explanation": "The British East India Company was a trading company that eventually became a colonial power."
 },
 {
 "id": 17,
-"type": "mcq",
-"text": "Who was the first President of the United States of America?",
-"options": [
-"A. Thomas Jefferson",
-"B. Benjamin Franklin",
-"C. George Washington",
-"D. John Adams"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "George Washington served as the first President of the United States from 1789 to 1797."
+"type": "fill-blank",
+"text": "The fall of the Berlin Wall in 1989 symbolized the end of the ______ War.",
+"answer": "Cold",
+"difficulty": "medium",
+"explanation": "The fall of the Berlin Wall marked the symbolic end of the Cold War between the Soviet Union and Western powers."
 },
 {
 "id": 18,
-"type": "true-false",
-"text": "The United Nations was formed immediately after World War I in 1919.",
-"answer": false,
-"difficulty": "easy",
-"explanation": "The League of Nations was formed in 1919. The United Nations was formed in 1945 after World War II."
+"type": "mcq",
+"text": "Which empire built the Colosseum in Rome?",
+"options": [
+"A. Roman Republic",
+"B. Roman Empire",
+"C. Byzantine Empire",
+"D. Holy Roman Empire"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "The Colosseum was built during the Roman Empire, completed in 80 AD."
 },
 {
 "id": 19,
-"type": "fill-blank",
-"text": "Article 14 of the Indian Constitution guarantees the Right to ________.",
-"answer": "Equality",
-"difficulty": "medium",
-"explanation": "Article 14 states that the State shall not deny to any person equality before the law or the equal protection of the laws."
-},
-{
-"id": 20,
-"type": "mcq",
-"text": "The Russian Revolution, which led to the rise of the Soviet Union, occurred in which year?",
-"options": [
-"A. 1905",
-"B. 1914",
-"C. 1917",
-"D. 1923"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The Russian Revolution took place in 1917, overthrowing the Tsarist autocracy."
-},
-{
-"id": 21,
-"type": "multiple-correct",
-"text": "Which of the following are considered ancient Indian texts? (Select all correct)",
-"options": [
-"A. The Vedas",
-"B. The Iliad",
-"C. The Upanishads",
-"D. The Epic of Gilgamesh",
-"E. The Mahabharata"
-],
-"answer": [
-"A",
-"C",
-"E"
-],
-"difficulty": "easy",
-"explanation": "The Vedas, Upanishads, and Mahabharata are foundational ancient Indian texts."
-},
-{
-"id": 22,
 "type": "assertion-reason",
-"text": "Assertion: India is called a Republic. Reason: The head of the Indian state is an elected President rather than a hereditary monarch.",
+"text": "Assertion: The American Declaration of Independence was signed in 1776. Reason: It proclaimed the thirteen colonies' independence from British rule.",
 "assertion": true,
 "reason": true,
 "answer": "A",
 "difficulty": "medium",
-"explanation": "Both statements are true. A republic is a form of government where the country is considered a public matter and the head of state is elected."
+"explanation": "Both statements are correct. The Declaration of Independence was signed on July 4, 1776."
+},
+{
+"id": 20,
+"type": "multiple-correct",
+"text": "Which of the following were key events in the Indian Independence Movement? (Select all correct)",
+"options": [
+"A. Salt March (1930)",
+"B. Quit India Movement (1942)",
+"C. Battle of Plassey (1757)",
+"D. Indian Rebellion of 1857",
+"E. Treaty of Versailles (1919)"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "medium",
+"explanation": "The Salt March, Quit India Movement, and Rebellion of 1857 were key independence events. Plassey was a British victory, and Versailles was post-WWI."
+},
+{
+"id": 21,
+"type": "mcq",
+"text": "Who wrote the American Constitution?",
+"options": [
+"A. Thomas Jefferson",
+"B. George Washington",
+"C. James Madison and the Founding Fathers",
+"D. Benjamin Franklin"
+],
+"answer": "C",
+"difficulty": "medium",
+"explanation": "The American Constitution was drafted by James Madison and other Founding Fathers at the Constitutional Convention of 1787."
+},
+{
+"id": 22,
+"type": "true-false",
+"text": "The Renaissance period in Europe occurred during the Middle Ages.",
+"answer": false,
+"difficulty": "medium",
+"explanation": "The Renaissance (14th–17th centuries) followed the Middle Ages and marked the transition to modern Europe."
 },
 {
 "id": 23,
-"type": "matching",
-"text": "Match the ancient civilizations with the river valleys where they developed:",
-"pairs": [
-[
-"Egyptian Civilization",
-"Nile River"
-],
-[
-"Harappan Civilization",
-"Indus River"
-],
-[
-"Mesopotamian Civilization",
-"Tigris and Euphrates"
-]
-],
+"type": "fill-blank",
+"text": "The Treaty of ______ ended World War I in 1918.",
+"answer": "Versailles",
 "difficulty": "medium",
-"explanation": "Early human civilizations primarily developed along major river systems which provided water and fertile soil."
+"explanation": "The Treaty of Versailles was signed on June 28, 1919, formally ending WWI."
 },
 {
 "id": 24,
 "type": "mcq",
-"text": "Who is credited with discovering the direct sea route from Europe to India in 1498?",
+"text": "Which ancient wonder of the world still stands today?",
 "options": [
-"A. Christopher Columbus",
-"B. Vasco da Gama",
-"C. Ferdinand Magellan",
-"D. Bartholomew Diaz"
+"A. Colossus of Rhodes",
+"B. Hanging Gardens of Babylon",
+"C. Great Pyramid of Giza",
+"D. Lighthouse of Alexandria"
 ],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Vasco da Gama reached Calicut in 1498, establishing the first direct sea route from Europe to India."
+"answer": "C",
+"difficulty": "medium",
+"explanation": "The Great Pyramid of Giza is the only ancient wonder still largely intact."
 },
 {
 "id": 25,
-"type": "true-false",
-"text": "The Constitution of India is the longest written national constitution in the world.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "With a preamble, hundreds of articles, and 12 schedules, the Indian Constitution is the longest written national constitution."
-},
-{
-"id": 26,
-"type": "fill-blank",
-"text": "The First Battle of Panipat was fought in the year ________.",
-"answer": "1526",
-"difficulty": "medium",
-"explanation": "The First Battle of Panipat took place in 1526 between Babur and Ibrahim Lodi, marking the beginning of the Mughal Empire in India."
-},
-{
-"id": 27,
-"type": "multiple-correct",
-"text": "Which of the following are Fundamental Rights guaranteed by the Indian Constitution? (Select all correct)",
-"options": [
-"A. Right to Property",
-"B. Right to Freedom of Religion",
-"C. Right to Strike",
-"D. Right against Exploitation",
-"E. Right to Constitutional Remedies"
-],
-"answer": [
-"B",
-"D",
-"E"
-],
-"difficulty": "hard",
-"explanation": "Right to Property was removed as a Fundamental Right by the 44th Amendment, and Right to Strike is a legal right, not a fundamental one."
-},
-{
-"id": 28,
 "type": "assertion-reason",
-"text": "Assertion: The Jallianwala Bagh massacre of 1919 caused widespread outrage across India. Reason: General Dyer ordered his troops to fire on an unarmed crowd of men, women, and children.",
+"text": "Assertion: The Industrial Revolution transformed economies from agrarian to industrial. Reason: It introduced mechanization and factory systems.",
 "assertion": true,
 "reason": true,
 "answer": "A",
 "difficulty": "medium",
-"explanation": "Both statements are correct, and the brutal nature of the massacre directly caused the national outrage."
+"explanation": "Both statements are correct. The Industrial Revolution fundamentally changed economic and social structures."
 },
 {
-"id": 29,
+"id": 26,
 "type": "matching",
-"text": "Match the Indian dynasties with their respective founders:",
+"text": "Match empires with their characteristics:",
 "pairs": [
 [
-"Mauryan Dynasty",
-"Chandragupta Maurya"
+"Mughal Empire",
+"Indo-Islamic architecture and culture"
 ],
 [
-"Gupta Dynasty",
-"Sri Gupta"
+"Maurya Empire",
+"Emperor Ashoka and early Indian unity"
 ],
 [
-"Mughal Dynasty",
-"Babur"
+"British Raj",
+"Colonial rule over India"
 ]
 ],
 "difficulty": "medium",
-"explanation": "These are the historical founders of three of the most significant empires in Indian history."
+"explanation": "These empires left distinct cultural, architectural, and political legacies in India."
+},
+{
+"id": 27,
+"type": "mcq",
+"text": "In which year did the Jallianwala Bagh massacre occur?",
+"options": [
+"A. 1919",
+"B. 1920",
+"C. 1917",
+"D. 1925"
+],
+"answer": "A",
+"difficulty": "medium",
+"explanation": "The Jallianwala Bagh massacre occurred on April 13, 1919, in Amritsar."
+},
+{
+"id": 28,
+"type": "true-false",
+"text": "The Indus Valley Civilization is one of the world's oldest known civilizations.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "The Indus Valley Civilization (2600–1900 BCE) is one of the world's oldest urban civilizations."
+},
+{
+"id": 29,
+"type": "fill-blank",
+"text": "The ______ Dynasty ruled the Mughal Empire and left a lasting impact on Indian architecture.",
+"answer": "Mughal",
+"difficulty": "easy",
+"explanation": "The Mughal Dynasty ruled from 1526 to 1857 and built iconic structures like the Taj Mahal."
 },
 {
 "id": 30,
 "type": "mcq",
-"text": "Who gave the famous slogan 'Give me blood, and I shall give you freedom'?",
+"text": "Who was the first Emperor of the Maurya Empire?",
 "options": [
-"A. Bhagat Singh",
-"B. Bal Gangadhar Tilak",
-"C. Subhas Chandra Bose",
-"D. Lala Lajpat Rai"
+"A. Ashoka",
+"B. Chandragupta Maurya",
+"C. Bindusara",
+"D. Bimbisara"
 ],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Subhas Chandra Bose delivered this famous quote to motivate the Indian National Army."
+"answer": "B",
+"difficulty": "medium",
+"explanation": "Chandragupta Maurya founded the Maurya Empire around 322 BCE."
 },
 {
 "id": 31,
-"type": "true-false",
-"text": "Apartheid was an institutionalized system of racial segregation in South Africa.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "Apartheid was a policy that governed relations between South Africa's white minority and nonwhite majority from 1948 until the 1990s."
-},
-{
-"id": 32,
-"type": "fill-blank",
-"text": "The capital city of the ancient Mauryan Empire was ________.",
-"answer": "Pataliputra",
-"difficulty": "medium",
-"explanation": "Pataliputra, near modern-day Patna, served as the capital of the Mauryan Empire."
-},
-{
-"id": 33,
 "type": "multiple-correct",
-"text": "Who among the following were prominent founding leaders of the Non-Aligned Movement? (Select all correct)",
+"text": "Which of the following were significant women in Indian history? (Select all correct)",
 "options": [
-"A. Jawaharlal Nehru",
-"B. Winston Churchill",
-"C. Josip Broz Tito",
-"D. Gamal Abdel Nasser",
-"E. Franklin D. Roosevelt"
+"A. Rani Lakshmibai",
+"B. Savitribai Phule",
+"C. Indira Gandhi",
+"D. Queen Victoria",
+"E. Kamla Mehta"
 ],
 "answer": [
 "A",
-"C",
-"D"
+"B",
+"C"
 ],
 "difficulty": "hard",
-"explanation": "Nehru (India), Tito (Yugoslavia), and Nasser (Egypt) were key architects of the Non-Aligned Movement."
+"explanation": "Rani Lakshmibai, Savitribai Phule, and Indira Gandhi were significant Indian historical figures. Queen Victoria was British."
 },
 {
-"id": 34,
+"id": 32,
 "type": "assertion-reason",
-"text": "Assertion: The League of Nations ultimately failed to prevent the outbreak of World War II. Reason: The League lacked an armed force of its own and several major powers, including the US, were not members.",
+"text": "Assertion: The Vedic period is the foundation of Hindu civilization. Reason: The Vedas were the first sacred texts written in Sanskrit.",
 "assertion": true,
 "reason": true,
 "answer": "A",
+"difficulty": "hard",
+"explanation": "Both statements are correct. The Vedas form the basis of Hindu philosophy and Indian culture."
+},
+{
+"id": 33,
+"type": "mcq",
+"text": "Which movement advocated for Swadeshi (self-reliance) during the Indian Independence struggle?",
+"options": [
+"A. Khilafat Movement",
+"B. Swadeshi Movement",
+"C. Civil Disobedience Movement",
+"D. Quit India Movement"
+],
+"answer": "B",
+"difficulty": "hard",
+"explanation": "The Swadeshi Movement encouraged Indians to use indigenous products and boycott British goods."
+},
+{
+"id": 34,
+"type": "true-false",
+"text": "The Roman Empire fell completely in 476 AD.",
+"answer": true,
 "difficulty": "medium",
-"explanation": "Both statements are true. The structural weaknesses of the League of Nations directly contributed to its failure."
+"explanation": "The Western Roman Empire fell in 476 AD, marking the end of the classical period."
 },
 {
 "id": 35,
-"type": "matching",
-"text": "Match the historical documents with the years they were adopted:",
-"pairs": [
-[
-"US Declaration of Independence",
-"1776"
-],
-[
-"French Declaration of the Rights of Man",
-"1789"
-],
-[
-"United Nations Charter",
-"1945"
-]
-],
+"type": "fill-blank",
+"text": "The ______ Edict of Ashoka promoted Buddhist teachings across his empire.",
+"answer": "Pillars",
 "difficulty": "hard",
-"explanation": "These are key dates for some of the most important political documents in modern history."
+"explanation": "Ashoka's Pillars contained edicts that spread Buddhist teachings and moral teachings throughout the Maurya Empire."
 },
 {
 "id": 36,
 "type": "mcq",
-"text": "Who served as the first Governor-General of independent India?",
+"text": "In which battle did the British defeat Tipu Sultan?",
 "options": [
-"A. C. Rajagopalachari",
-"B. Lord Mountbatten",
-"C. Lord Dalhousie",
-"D. Warren Hastings"
+"A. Battle of Plassey",
+"B. Battle of Talikota",
+"C. Battle of Seringapatam",
+"D. Battle of Panipat"
 ],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Lord Mountbatten was the last Viceroy and the first Governor-General of independent India."
+"answer": "C",
+"difficulty": "hard",
+"explanation": "The Battle of Seringapatam (1799) resulted in Tipu Sultan's defeat and death."
 },
 {
 "id": 37,
-"type": "true-false",
-"text": "The Berlin Wall, which divided East and West Berlin, fell in the year 1989.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "The fall of the Berlin Wall in November 1989 was a pivotal event marking the end of the Cold War."
-},
-{
-"id": 38,
-"type": "fill-blank",
-"text": "The cultural movement known as the Renaissance began in the country of ________.",
-"answer": "Italy",
-"difficulty": "easy",
-"explanation": "The Renaissance originated in Italian city-states like Florence in the 14th century before spreading across Europe."
-},
-{
-"id": 39,
-"type": "multiple-correct",
-"text": "Which of the following are the three primary branches of the Indian Government? (Select all correct)",
-"options": [
-"A. Military",
-"B. Executive",
-"C. Legislative",
-"D. Media",
-"E. Judicial"
-],
-"answer": [
-"B",
-"C",
-"E"
-],
-"difficulty": "easy",
-"explanation": "The Indian Government is divided into the Executive, Legislative, and Judicial branches to ensure a separation of powers."
-},
-{
-"id": 40,
 "type": "assertion-reason",
-"text": "Assertion: The Right to Information (RTI) Act promotes transparency and accountability in India. Reason: It empowers citizens to seek information from public authorities.",
+"text": "Assertion: The partition of India in 1947 created the nations of India and Pakistan. Reason: Religious and communal tensions necessitated the division.",
 "assertion": true,
 "reason": true,
 "answer": "A",
-"difficulty": "medium",
-"explanation": "Both statements are correct, and empowering citizens to access information is the exact reason it promotes transparency."
+"difficulty": "hard",
+"explanation": "Both statements are correct. Partition was driven by communal differences and led to massive population displacement."
+},
+{
+"id": 38,
+"type": "matching",
+"text": "Match important Indian historical dates with events:",
+"pairs": [
+[
+"1857",
+"Indian Rebellion against British rule"
+],
+[
+"1885",
+"Formation of the Indian National Congress"
+],
+[
+"1947",
+"Independence from British rule"
+]
+],
+"difficulty": "easy",
+"explanation": "These dates mark pivotal moments in India's journey toward independence and nation-building."
+},
+{
+"id": 39,
+"type": "mcq",
+"text": "Who was the first Prime Minister of India?",
+"options": [
+"A. Sardar Patel",
+"B. Rajendra Prasad",
+"C. Jawaharlal Nehru",
+"D. Lal Bahadur Shastri"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "Jawaharlal Nehru served as the first Prime Minister of India from 1947 to 1964."
+},
+{
+"id": 40,
+"type": "true-false",
+"text": "The printing press was invented by Johannes Gutenberg in the 15th century.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "Gutenberg invented the movable type printing press around 1440, revolutionizing information dissemination."
 },
 {
 "id": 41,
-"type": "matching",
-"text": "Match the significant Indian battles with their corresponding years:",
-"pairs": [
-[
-"Battle of Plassey",
-"1757"
-],
-[
-"Battle of Buxar",
-"1764"
-],
-[
-"Battle of Haldighati",
-"1576"
-]
-],
+"type": "fill-blank",
+"text": "The ______ Pact of 1942 was a failed attempt to resolve political deadlock during India's independence struggle.",
+"answer": "Cripps",
 "difficulty": "hard",
-"explanation": "These battles were turning points in Indian history, establishing new power dynamics in the subcontinent."
+"explanation": "The Cripps Mission of 1942 proposed dominion status but was rejected by Indian leaders seeking complete independence."
 },
 {
 "id": 42,
 "type": "mcq",
-"text": "The political ideology of Fascism was founded by which 20th-century leader?",
+"text": "Which treaty ended the Napoleonic Wars?",
 "options": [
-"A. Adolf Hitler",
-"B. Joseph Stalin",
-"C. Benito Mussolini",
-"D. Francisco Franco"
+"A. Treaty of Westphalia",
+"B. Treaty of Vienna",
+"C. Treaty of Paris",
+"D. Treaty of Utrecht"
 ],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Benito Mussolini founded the National Fascist Party in Italy after World War I."
+"answer": "B",
+"difficulty": "hard",
+"explanation": "The Congress of Vienna (1815) and resulting treaties ended the Napoleonic Wars."
 },
 {
 "id": 43,
-"type": "true-false",
-"text": "The Indus Valley Civilization was known for its advanced urban planning and drainage systems.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "Cities like Harappa and Mohenjo-Daro featured sophisticated grid layouts, baked brick houses, and extensive drainage."
+"type": "assertion-reason",
+"text": "Assertion: The Enlightenment period promoted reason and scientific thinking. Reason: Philosophers like Voltaire and Rousseau challenged traditional authority.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "hard",
+"explanation": "Both statements are correct. Enlightenment thinkers advocated rationalism and individual liberty."
 },
 {
 "id": 44,
-"type": "fill-blank",
-"text": "The first Indian woman to become President of the UN General Assembly was Vijaya Lakshmi ________.",
-"answer": "Pandit",
-"difficulty": "medium",
-"explanation": "Vijaya Lakshmi Pandit was elected as the President of the eighth session of the UN General Assembly in 1953."
-},
-{
-"id": 45,
 "type": "multiple-correct",
-"text": "Which of the following were major causes of the French Revolution? (Select all correct)",
+"text": "Which of the following were features of the Mughal administrative system? (Select all correct)",
 "options": [
-"A. Social inequality and the estate system",
-"B. Severe economic crisis and debt",
-"C. The invention of the printing press",
-"D. Spread of Enlightenment ideas",
-"E. The discovery of the Americas"
+"A. Mansabdari system",
+"B. Persian language usage",
+"C. Federal structure",
+"D. Centralized bureaucracy",
+"E. Democratic institutions"
 ],
 "answer": [
 "A",
 "B",
 "D"
 ],
-"difficulty": "medium",
-"explanation": "Social disparities, a bankrupt treasury, and new philosophical ideas heavily contributed to the outbreak of the French Revolution."
+"difficulty": "hard",
+"explanation": "Mansabdari system, Persian language, and centralized bureaucracy were key features. Federal and democratic elements were absent."
+},
+{
+"id": 45,
+"type": "mcq",
+"text": "Who led the Revolt of 1857 from Kanpur?",
+"options": [
+"A. Rani Lakshmibai",
+"B. Nana Sahib",
+"C. Kunwar Singh",
+"D. Bahadur Shah Zafar"
+],
+"answer": "B",
+"difficulty": "hard",
+"explanation": "Nana Sahib led the rebellion from Kanpur and was one of the revolt's major leaders."
 },
 {
 "id": 46,
-"type": "assertion-reason",
-"text": "Assertion: Emperor Ashoka eventually abandoned military conquest and embraced Buddhism. Reason: He was deeply moved and horrified by the massive loss of life and destruction during the Kalinga War.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Both the assertion and the reason are true, and the bloodshed at Kalinga was the direct catalyst for his transformation."
+"type": "true-false",
+"text": "The Western Roman Empire and Eastern Byzantine Empire coexisted for centuries.",
+"answer": true,
+"difficulty": "hard",
+"explanation": "After 395 AD, the Roman Empire was divided, with the Byzantine Empire lasting until 1453."
 },
 {
 "id": 47,
-"type": "matching",
-"text": "Match the early Presidents of India with their chronological order of service:",
-"pairs": [
-[
-"Dr. Rajendra Prasad",
-"First President"
-],
-[
-"Dr. Sarvepalli Radhakrishnan",
-"Second President"
-],
-[
-"Dr. Zakir Husain",
-"Third President"
-]
-],
+"type": "fill-blank",
+"text": "The ______ was the most significant anti-colonial movement launched by Gandhi in 1942.",
+"answer": "Quit India Movement",
 "difficulty": "medium",
-"explanation": "These leaders served sequentially as the first three Presidents of independent India."
+"explanation": "The Quit India Movement demanded immediate British withdrawal from India."
 },
 {
 "id": 48,
 "type": "mcq",
-"text": "Which amendment to the Indian Constitution is often referred to as the 'Mini Constitution' due to its comprehensive changes?",
+"text": "Which ruler unified most of India under the Maurya Empire?",
 "options": [
-"A. 24th Amendment",
-"B. 42nd Amendment",
-"C. 44th Amendment",
-"D. 73rd Amendment"
+"A. Chandragupta Maurya",
+"B. Ashoka",
+"C. Vikramaditya",
+"D. Harsha"
 ],
 "answer": "B",
 "difficulty": "hard",
-"explanation": "Enacted during the Emergency in 1976, the 42nd Amendment made widespread changes to the Constitution."
+"explanation": "Emperor Ashoka expanded the Maurya Empire to its greatest extent, ruling most of the Indian subcontinent."
 },
 {
 "id": 49,
-"type": "true-false",
-"text": "The partition of Bengal, ordered by Lord Curzon, took place in 1905.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "The partition of Bengal was enacted in 1905, dividing the largely Muslim eastern areas from the largely Hindu western areas."
+"type": "assertion-reason",
+"text": "Assertion: The Magna Carta established the principle that the king is subject to law. Reason: It limited royal power through written agreements.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "hard",
+"explanation": "Both statements are correct. The Magna Carta was foundational to constitutional governance."
 },
 {
 "id": 50,
-"type": "fill-blank",
-"text": "The ancient center of higher learning, ________ University, was located in present-day Bihar.",
-"answer": "Nalanda",
+"type": "matching",
+"text": "Match historical figures with their respective nations:",
+"pairs": [
+[
+"Otto von Bismarck",
+"Germany"
+],
+[
+"Giuseppe Garibaldi",
+"Italy"
+],
+[
+"Louis XVI",
+"France"
+]
+],
 "difficulty": "medium",
-"explanation": "Nalanda was a renowned Mahavihara (Buddhist monastery) and one of the greatest centers of learning in the ancient world."
+"explanation": "These leaders were instrumental in shaping their nations during periods of major political change."
 }
 ]
 }
