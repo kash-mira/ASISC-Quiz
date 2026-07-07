@@ -1,135 +1,659 @@
 {
-  "category": "AI & Emerging Tech",
-  "questions": [
-    {
-      "id": 81,
-      "type": "mcq",
-      "text": "What does AI stand for?",
-      "options": [
-        "A. Automated Intelligence",
-        "B. Artificial Intelligence",
-        "C. Algorithmic Instruction",
-        "D. Advanced Internet"
-      ],
-      "answer": "B",
-      "difficulty": "easy",
-      "explanation": "AI stands for Artificial Intelligence."
-    },
-    {
-      "id": 82,
-      "type": "true-false",
-      "text": "Machine learning is a subset of artificial intelligence.",
-      "answer": true,
-      "difficulty": "easy",
-      "explanation": "Machine learning is indeed a subset and major application of AI."
-    },
-    {
-      "id": 83,
-      "type": "mcq",
-      "text": "What is the primary purpose of neural networks?",
-      "options": [
-        "A. Web browsing",
-        "B. Mimicking brain structure for pattern recognition",
-        "C. Email transmission",
-        "D. File storage"
-      ],
-      "answer": "B",
-      "difficulty": "medium",
-      "explanation": "Neural networks are designed to mimic biological neural structures for learning."
-    },
-    {
-      "id": 84,
-      "type": "mcq",
-      "text": "Which tech giant developed GPT (Generative Pre-trained Transformer)?",
-      "options": [
-        "A. Google",
-        "B. Meta",
-        "C. OpenAI",
-        "D. Microsoft"
-      ],
-      "answer": "C",
-      "difficulty": "easy",
-      "explanation": "OpenAI developed the GPT series of language models."
-    },
-    {
-      "id": 85,
-      "type": "matching",
-      "text": "Match emerging technologies with their applications:",
-      "pairs": [
-        [
-          "Blockchain",
-          "Cryptocurrency"
-        ],
-        [
-          "IoT",
-          "Smart devices"
-        ],
-        [
-          "5G",
-          "High-speed connectivity"
-        ]
-      ],
-      "difficulty": "medium",
-      "explanation": "Each technology has primary applications in specific domains."
-    },
-    {
-      "id": 86,
-      "type": "true-false",
-      "text": "Quantum computing uses quantum bits (qubits) which can be 0, 1, or both simultaneously.",
-      "answer": true,
-      "difficulty": "hard",
-      "explanation": "Yes, qubits can exist in superposition, which is the basis of quantum computing's power."
-    },
-    {
-      "id": 87,
-      "type": "multiple-correct",
-      "text": "Which of these are AI applications? (Select all correct)",
-      "options": [
-        "A. Chatbots",
-        "B. Computer vision",
-        "C. Typewriters",
-        "D. Natural language processing",
-        "E. Mechanical clocks"
-      ],
-      "answer": [
-        "A",
-        "B",
-        "D"
-      ],
-      "difficulty": "medium",
-      "explanation": "A, B, D are AI applications. Typewriters and mechanical clocks are not."
-    },
-    {
-      "id": 88,
-      "type": "assertion-reason",
-      "text": "Assertion: Deep learning requires large amounts of data. Reason: Neural networks need many examples to learn patterns effectively.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "hard",
-      "explanation": "Both are correct; large datasets significantly improve deep learning model performance."
-    },
-    {
-      "id": 89,
-      "type": "mcq",
-      "text": "What is cybersecurity primarily concerned with?",
-      "options": [
-        "A. Website design",
-        "B. Protecting computer systems from attacks",
-        "C. Social media management",
-        "D. Hardware manufacturing"
-      ],
-      "answer": "B",
-      "difficulty": "easy",
-      "explanation": "Cybersecurity focuses on protecting digital systems and data from cyber threats."
-    },
-    {
-      "id": 90,
-      "type": "fill-blank",
-      "text": "The process of training AI models using labeled data is called ______ learning.",
-      "answer": "supervised",
-      "difficulty": "medium",
-      "explanation": "Supervised learning uses labeled training data to train AI models."
-    }
-  ]
+"category": "AI & Emerging Tech",
+"questions": [
+{
+"id": 1,
+"type": "mcq",
+"text": "What does AI stand for?",
+"options": [
+"A. Automated Intelligence",
+"B. Artificial Intelligence",
+"C. Algorithmic Instruction",
+"D. Advanced Internet"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "AI stands for Artificial Intelligence."
+},
+{
+"id": 2,
+"type": "true-false",
+"text": "Machine learning is a subset of artificial intelligence.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "Machine learning is indeed a subset and major application of AI."
+},
+{
+"id": 3,
+"type": "mcq",
+"text": "What is the primary purpose of neural networks?",
+"options": [
+"A. Web browsing",
+"B. Mimicking brain structure for pattern recognition",
+"C. Email transmission",
+"D. File storage"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "Neural networks are designed to mimic biological neural structures for learning."
+},
+{
+"id": 4,
+"type": "mcq",
+"text": "Which tech giant developed GPT (Generative Pre-trained Transformer)?",
+"options": [
+"A. Google",
+"B. Meta",
+"C. OpenAI",
+"D. Microsoft"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "OpenAI developed the GPT series of language models."
+},
+{
+"id": 5,
+"type": "matching",
+"text": "Match emerging technologies with their applications:",
+"pairs": [
+[
+"Blockchain",
+"Cryptocurrency"
+],
+[
+"IoT",
+"Smart devices"
+],
+[
+"5G",
+"High-speed connectivity"
+]
+],
+"difficulty": "medium",
+"explanation": "Each technology has primary applications in specific domains."
+},
+{
+"id": 6,
+"type": "true-false",
+"text": "Quantum computing uses quantum bits (qubits) which can be 0, 1, or both simultaneously.",
+"answer": true,
+"difficulty": "hard",
+"explanation": "Yes, qubits can exist in superposition, which is the basis of quantum computing's power."
+},
+{
+"id": 7,
+"type": "multiple-correct",
+"text": "Which of these are AI applications? (Select all correct)",
+"options": [
+"A. Chatbots",
+"B. Computer vision",
+"C. Typewriters",
+"D. Natural language processing",
+"E. Mechanical clocks"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "medium",
+"explanation": "A, B, D are AI applications. Typewriters and mechanical clocks are not."
+},
+{
+"id": 8,
+"type": "assertion-reason",
+"text": "Assertion: Deep learning requires large amounts of data. Reason: Neural networks need many examples to learn patterns effectively.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "hard",
+"explanation": "Both are correct; large datasets significantly improve deep learning model performance."
+},
+{
+"id": 9,
+"type": "mcq",
+"text": "What is cybersecurity primarily concerned with?",
+"options": [
+"A. Website design",
+"B. Protecting computer systems from attacks",
+"C. Social media management",
+"D. Hardware manufacturing"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "Cybersecurity focuses on protecting digital systems and data from cyber threats."
+},
+{
+"id": 10,
+"type": "fill-blank",
+"text": "The process of training AI models using labeled data is called ______ learning.",
+"answer": "supervised",
+"difficulty": "medium",
+"explanation": "Supervised learning uses labeled training data to train AI models."
+},
+{
+"id": 11,
+"type": "mcq",
+"text": "What test was proposed by a famous mathematician in 1950 to determine if a machine can exhibit human-like intelligence?",
+"options": [
+"A. The Asimov Test",
+"B. The Turing Test",
+"C. The Lovelace Test",
+"D. The Neumann Test"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "Alan Turing proposed the Turing Test as a measure of machine intelligence."
+},
+{
+"id": 12,
+"type": "true-false",
+"text": "Cloud computing involves delivering computing services, such as storage and processing power, over the internet.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "Cloud computing allows users to access technology services over the internet without managing physical hardware."
+},
+{
+"id": 13,
+"type": "fill-blank",
+"text": "The 'V' in VR stands for ______.",
+"answer": "Virtual",
+"difficulty": "easy",
+"explanation": "VR stands for Virtual Reality, a simulated experience that can be similar to or completely different from the real world."
+},
+{
+"id": 14,
+"type": "multiple-correct",
+"text": "Which of the following are major cloud computing platforms? (Select all correct)",
+"options": [
+"A. Amazon Web Services (AWS)",
+"B. Microsoft Azure",
+"C. Mozilla Firefox",
+"D. Google Cloud Platform (GCP)",
+"E. Adobe Photoshop"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "medium",
+"explanation": "AWS, Azure, and GCP are the three largest public cloud service providers."
+},
+{
+"id": 15,
+"type": "assertion-reason",
+"text": "Assertion: Autonomous vehicles heavily rely on LiDAR technology. Reason: LiDAR uses pulsed laser light to measure distances and create detailed 3D maps of the surroundings.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "hard",
+"explanation": "Both statements are true. Autonomous cars use LiDAR to perceive their physical environment accurately in real-time."
+},
+{
+"id": 16,
+"type": "matching",
+"text": "Match the reality technologies with their definitions:",
+"pairs": [
+[
+"Virtual Reality",
+"Completely digital environment"
+],
+[
+"Augmented Reality",
+"Digital overlays on the real world"
+],
+[
+"Mixed Reality",
+"Interaction between real and digital objects"
+]
+],
+"difficulty": "medium",
+"explanation": "These define the spectrum of extended reality (XR) technologies."
+},
+{
+"id": 17,
+"type": "mcq",
+"text": "What is a blockchain fundamentally?",
+"options": [
+"A. A type of computer virus",
+"B. A distributed, decentralized public ledger",
+"C. A physical chain used in networking",
+"D. A new programming language"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "Blockchain is a distributed database that maintains a secure and decentralized record of transactions."
+},
+{
+"id": 18,
+"type": "true-false",
+"text": "Edge computing processes data closer to where it is generated rather than sending it all to a centralized cloud.",
+"answer": true,
+"difficulty": "medium",
+"explanation": "Edge computing reduces latency by processing data at the 'edge' of the network, near the data source."
+},
+{
+"id": 19,
+"type": "fill-blank",
+"text": "NLP is an AI subfield that stands for Natural ______ Processing.",
+"answer": "Language",
+"difficulty": "easy",
+"explanation": "Natural Language Processing (NLP) enables computers to understand, interpret, and generate human language."
+},
+{
+"id": 20,
+"type": "multiple-correct",
+"text": "Which of these programming languages are heavily used in Data Science and AI? (Select all correct)",
+"options": [
+"A. Python",
+"B. HTML",
+"C. R",
+"D. CSS",
+"E. Julia"
+],
+"answer": [
+"A",
+"C",
+"E"
+],
+"difficulty": "medium",
+"explanation": "Python, R, and Julia are popular for data analysis and ML. HTML and CSS are used for web design."
+},
+{
+"id": 21,
+"type": "assertion-reason",
+"text": "Assertion: Biometric authentication is considered highly secure. Reason: It relies on unique biological characteristics like fingerprints and iris patterns.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are true. Biometrics provide strong security because physical traits are difficult to forge."
+},
+{
+"id": 22,
+"type": "matching",
+"text": "Match the AI subfields to their core focus:",
+"pairs": [
+[
+"Computer Vision",
+"Understanding images and video"
+],
+[
+"Natural Language Processing",
+"Understanding human speech and text"
+],
+[
+"Robotics",
+"Physical interaction with the environment"
+]
+],
+"difficulty": "easy",
+"explanation": "These are three major domains where artificial intelligence is applied to mimic human capabilities."
+},
+{
+"id": 23,
+"type": "mcq",
+"text": "Why are GPUs (Graphics Processing Units) widely used in Deep Learning?",
+"options": [
+"A. They make the code run slower but more accurately",
+"B. They excel at performing many parallel mathematical operations",
+"C. They generate better graphical user interfaces",
+"D. They are required to connect to the internet"
+],
+"answer": "B",
+"difficulty": "hard",
+"explanation": "GPUs have thousands of cores designed for parallel processing, making them perfect for the massive matrix multiplications required in deep learning."
+},
+{
+"id": 24,
+"type": "true-false",
+"text": "Unsupervised learning requires heavily labeled datasets to train the algorithm.",
+"answer": false,
+"difficulty": "medium",
+"explanation": "Unsupervised learning finds hidden patterns in unlabeled data. Supervised learning requires labeled data."
+},
+{
+"id": 25,
+"type": "fill-blank",
+"text": "The acronym IoT stands for the Internet of ______.",
+"answer": "Things",
+"difficulty": "easy",
+"explanation": "The Internet of Things (IoT) refers to physical devices embedded with sensors connected to the internet."
+},
+{
+"id": 26,
+"type": "multiple-correct",
+"text": "Which of the following are common cybersecurity threats? (Select all correct)",
+"options": [
+"A. Malware",
+"B. Phishing",
+"C. Solid State Drives",
+"D. Ransomware",
+"E. Firewalls"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "easy",
+"explanation": "Malware, phishing, and ransomware are threats. SSDs are storage devices, and firewalls are defensive tools."
+},
+{
+"id": 27,
+"type": "assertion-reason",
+"text": "Assertion: Cryptography is essential for secure digital communication. Reason: It transforms readable plaintext into unreadable ciphertext to protect data from unauthorized access.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are correct, and the reason accurately describes the mechanism of cryptography."
+},
+{
+"id": 28,
+"type": "matching",
+"text": "Match the notable figures with their associated tech companies:",
+"pairs": [
+[
+"Elon Musk",
+"SpaceX / Tesla"
+],
+[
+"Sam Altman",
+"OpenAI"
+],
+[
+"Satya Nadella",
+"Microsoft"
+]
+],
+"difficulty": "medium",
+"explanation": "These leaders are currently at the helm of some of the most influential technology companies."
+},
+{
+"id": 29,
+"type": "mcq",
+"text": "What is a 'smart contract' in the context of blockchain?",
+"options": [
+"A. A legally binding paper document",
+"B. Self-executing code with the terms of the agreement directly written into lines of code",
+"C. A smart device that reads contracts out loud",
+"D. A contract negotiated by an AI lawyer"
+],
+"answer": "B",
+"difficulty": "hard",
+"explanation": "Smart contracts automatically execute actions when predetermined conditions on the blockchain are met."
+},
+{
+"id": 30,
+"type": "true-false",
+"text": "5G networks offer significantly lower latency and higher bandwidth compared to 4G networks.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "5G technology was developed specifically to increase speed, reduce latency, and connect more devices simultaneously."
+},
+{
+"id": 31,
+"type": "fill-blank",
+"text": "A UAV (Unmanned Aerial Vehicle) is commonly referred to as a ______.",
+"answer": "drone",
+"difficulty": "easy",
+"explanation": "Drones are aircraft without a human pilot aboard, operated remotely or autonomously."
+},
+{
+"id": 32,
+"type": "multiple-correct",
+"text": "Which of the following are examples of cryptocurrencies? (Select all correct)",
+"options": [
+"A. Bitcoin",
+"B. Ethereum",
+"C. PayPal",
+"D. Litecoin",
+"E. Visa"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "easy",
+"explanation": "Bitcoin, Ethereum, and Litecoin are cryptocurrencies. PayPal and Visa are traditional payment networks."
+},
+{
+"id": 33,
+"type": "assertion-reason",
+"text": "Assertion: Ransomware attacks can paralyze an entire organization. Reason: Ransomware encrypts the victim's critical files and demands a financial payment for the decryption key.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are true. By encrypting crucial data, ransomware successfully halts organizational operations until the ransom is handled."
+},
+{
+"id": 34,
+"type": "matching",
+"text": "Match the hardware acronyms to their full forms:",
+"pairs": [
+[
+"CPU",
+"Central Processing Unit"
+],
+[
+"GPU",
+"Graphics Processing Unit"
+],
+[
+"TPU",
+"Tensor Processing Unit"
+]
+],
+"difficulty": "medium",
+"explanation": "These are distinct processing units; TPUs are specifically designed by Google for accelerating machine learning workloads."
+},
+{
+"id": 35,
+"type": "mcq",
+"text": "What does the term 'Deepfake' refer to?",
+"options": [
+"A. A type of deep sea exploration submarine",
+"B. AI-generated synthetic media that convincingly replaces a person's likeness in an image or video",
+"C. A flaw in deep learning algorithms",
+"D. Fake news articles written by humans"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "Deepfakes use deep learning techniques to manipulate audio and video content to make people appear to say or do things they never did."
+},
+{
+"id": 36,
+"type": "true-false",
+"text": "Reinforcement learning is an AI approach where an agent learns to make decisions by receiving rewards or punishments.",
+"answer": true,
+"difficulty": "medium",
+"explanation": "Reinforcement learning relies on maximizing cumulative reward through trial-and-error interactions with an environment."
+},
+{
+"id": 37,
+"type": "fill-blank",
+"text": "The traditional three 'V's used to define Big Data are Volume, Velocity, and ______.",
+"answer": "Variety",
+"difficulty": "hard",
+"explanation": "Big Data is characterized by its massive Volume, high Velocity of generation, and wide Variety of data formats."
+},
+{
+"id": 38,
+"type": "multiple-correct",
+"text": "Which of the following are examples of AI-powered virtual assistants? (Select all correct)",
+"options": [
+"A. Apple Siri",
+"B. Amazon Alexa",
+"C. Google Assistant",
+"D. Microsoft Word",
+"E. Adobe Reader"
+],
+"answer": [
+"A",
+"B",
+"C"
+],
+"difficulty": "easy",
+"explanation": "Siri, Alexa, and Google Assistant are popular virtual assistants utilizing NLP."
+},
+{
+"id": 39,
+"type": "assertion-reason",
+"text": "Assertion: AI algorithms can exhibit societal biases and discrimination. Reason: AI models are trained on historical data generated by humans, which may contain underlying prejudices.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "hard",
+"explanation": "Both statements are correct. Algorithmic bias occurs when models internalize and replicate the human biases present in their training data."
+},
+{
+"id": 40,
+"type": "matching",
+"text": "Match the networking terms with their geographic scope:",
+"pairs": [
+[
+"LAN",
+"Local Area (e.g., a single building)"
+],
+[
+"MAN",
+"Metropolitan Area (e.g., a city)"
+],
+[
+"WAN",
+"Wide Area (e.g., spanning countries)"
+]
+],
+"difficulty": "medium",
+"explanation": "These acronyms denote networks based on their physical scale and coverage area."
+},
+{
+"id": 41,
+"type": "mcq",
+"text": "Which of the following is a prominent application of Generative AI?",
+"options": [
+"A. Sorting email into spam folders",
+"B. Predicting housing prices using regression",
+"C. Creating novel images from text descriptions",
+"D. Diagnosing hardware faults"
+],
+"answer": "C",
+"difficulty": "medium",
+"explanation": "Generative AI excels at creating new content, such as text, images, or audio, based on learned patterns."
+},
+{
+"id": 42,
+"type": "true-false",
+"text": "Phishing is a cyber attack carried out by destroying physical servers with hardware tools.",
+"answer": false,
+"difficulty": "easy",
+"explanation": "Phishing is a social engineering attack where attackers deceive victims into revealing sensitive information, usually via fraudulent emails."
+},
+{
+"id": 43,
+"type": "fill-blank",
+"text": "The term 'Artificial Intelligence' was first coined by computer scientist John ______ at a conference in 1956.",
+"answer": "McCarthy",
+"difficulty": "hard",
+"explanation": "John McCarthy is recognized as one of the founding fathers of AI, having coined the term for the Dartmouth Conference."
+},
+{
+"id": 44,
+"type": "multiple-correct",
+"text": "Which of these are practical applications of Computer Vision? (Select all correct)",
+"options": [
+"A. Facial recognition on smartphones",
+"B. Text translation via microphone",
+"C. Automated medical image analysis",
+"D. Obstacle detection in self-driving cars",
+"E. Generating random passwords"
+],
+"answer": [
+"A",
+"C",
+"D"
+],
+"difficulty": "medium",
+"explanation": "Computer vision interprets visual data. Text translation uses NLP, and generating passwords relies on cryptographic randomization."
+},
+{
+"id": 45,
+"type": "assertion-reason",
+"text": "Assertion: Reusable rockets have significantly decreased the cost of accessing space. Reason: Instead of burning up in the atmosphere or falling into the ocean, the first stages of these rockets land safely and can be flown again.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are true. Companies like SpaceX pioneered reusable rocket technology to dramatically lower launch costs."
+},
+{
+"id": 46,
+"type": "matching",
+"text": "Match the types of malicious software to their behavior:",
+"pairs": [
+[
+"Spyware",
+"Secretly monitors user activity"
+],
+[
+"Ransomware",
+"Locks files until a fee is paid"
+],
+[
+"Trojan",
+"Disguises itself as legitimate software"
+]
+],
+"difficulty": "hard",
+"explanation": "These are common classifications of malware based on their specific malicious functions."
+},
+{
+"id": 47,
+"type": "mcq",
+"text": "3D printing is technically classified as what type of manufacturing?",
+"options": [
+"A. Subtractive manufacturing",
+"B. Additive manufacturing",
+"C. Formative manufacturing",
+"D. Reductive manufacturing"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "3D printing creates objects by adding material layer by layer, hence 'additive manufacturing'."
+},
+{
+"id": 48,
+"type": "true-false",
+"text": "A botnet is a network of private computers infected with malicious software and controlled as a group without the owners' knowledge.",
+"answer": true,
+"difficulty": "medium",
+"explanation": "Botnets are frequently used by hackers to launch large-scale Distributed Denial of Service (DDoS) attacks."
+},
+{
+"id": 49,
+"type": "fill-blank",
+"text": "The 'A' in AGI, referring to a hypothetical system that possesses human-level cognitive abilities, stands for ______.",
+"answer": "Artificial",
+"difficulty": "easy",
+"explanation": "AGI stands for Artificial General Intelligence, a machine capable of understanding or learning any intellectual task a human can."
+},
+{
+"id": 50,
+"type": "mcq",
+"text": "In the context of Large Language Models (LLMs), what does an AI 'hallucination' refer to?",
+"options": [
+"A. When the AI overheats the server hardware",
+"B. Confidently generating false or entirely fabricated information",
+"C. When the AI starts recognizing images in text",
+"D. A graphical glitch on the user's screen"
+],
+"answer": "B",
+"difficulty": "hard",
+"explanation": "Hallucinations occur when an AI model confidently presents incorrect, illogical, or made-up facts as the truth."
+}
+]
 }
