@@ -1,3 +1,4 @@
+
 {
   "category": "Environment & Climate",
   "questions": [
@@ -602,506 +603,85 @@
     {
       "id": 50,
       "type": "matching",
-      "text": "Match environmental threats with their primary causes:",
+      "text": "Match the environmental law to its country of origin:",
       "pairs": [
         [
-          "Acid rain",
-          "Sulfur dioxide and nitrogen oxides"
+          "Clean Air Act",
+          "United States"
         ],
         [
-          "Dead zones",
-          "Agricultural nutrient runoff"
+          "Environmental Protection Act",
+          "India"
         ],
         [
-          "Light pollution",
-          "Excessive artificial lighting"
+          "Environmental Quality Act",
+          "Malaysia"
         ]
       ],
-      "difficulty": "hard",
-      "explanation": "Understanding cause-and-effect relationships is crucial for environmental problem-solving."
-    }
-  ]
-}      "difficulty": "medium",
-      "explanation": "Ladakh has the highest population of snow leopards in India."
+      "difficulty": "medium",
+      "explanation": "These landmark laws established environmental protection frameworks in their respective countries."
     },
     {
-      "id": 4,
+      "id": 51,
       "type": "mcq",
-      "text": "What is the theme of World Environment Day 2024?",
-      "options": [
-        "A. Beat Plastic Pollution",
-        "B. Ecosystem Restoration",
-        "C. Land restoration, desertification and drought resilience",
-        "D. Only One Earth"
-      ],
-      "answer": "C",
-      "difficulty": "hard",
-      "explanation": "The 2024 theme focuses on land restoration and combating desertification."
-    },
-    {
-      "id": 5,
-      "type": "matching",
-      "text": "Match environmental issues with their effects:",
-      "pairs": [
-        [
-          "Deforestation",
-          "Loss of biodiversity"
-        ],
-        [
-          "Pollution",
-          "Acid rain"
-        ],
-        [
-          "Climate change",
-          "Rising sea levels"
-        ]
-      ],
-      "difficulty": "medium",
-      "explanation": "Each environmental issue has significant documented effects."
-    },
-    {
-      "id": 6,
-      "type": "true-false",
-      "text": "Plastic takes more than 400 years to decompose in nature.",
-      "answer": true,
-      "difficulty": "medium",
-      "explanation": "Most plastics take 400-1000 years to decompose."
-    },
-    {
-      "id": 7,
-      "type": "multiple-correct",
-      "text": "Which of these are renewable energy sources? (Select all correct)",
+      "text": "Which renewable energy source has the highest energy density?",
       "options": [
         "A. Solar power",
-        "B. Coal",
-        "C. Wind power",
-        "D. Petroleum",
-        "E. Hydroelectric"
-      ],
-      "answer": [
-        "A",
-        "C",
-        "E"
-      ],
-      "difficulty": "medium",
-      "explanation": "Solar, wind, and hydroelectric are renewable. Coal and petroleum are fossil fuels."
-    },
-    {
-      "id": 8,
-      "type": "assertion-reason",
-      "text": "Assertion: Melting polar ice raises sea levels. Reason: Ice displacement increases ocean volume.",
-      "assertion": true,
-      "reason": false,
-      "answer": "B",
-      "difficulty": "hard",
-      "explanation": "The assertion is true, but the reason is incorrect (it's about land ice melting, not floating ice)."
-    },
-    {
-      "id": 9,
-      "type": "mcq",
-      "text": "Which city is known as the 'Tiger Capital of India'?",
-      "options": [
-        "A. Bhopal",
-        "B. Nagpur",
-        "C. Dehradun",
-        "D. Mysore"
-      ],
-      "answer": "B",
-      "difficulty": "medium",
-      "explanation": "Nagpur has the highest tiger population in India."
-    },
-    {
-      "id": 10,
-      "type": "fill-blank",
-      "text": "The Paris Agreement aims to limit global warming to ______ degrees Celsius.",
-      "answer": [
-        "1.5",
-        "2"
-      ],
-      "difficulty": "medium",
-      "explanation": "The goal is to limit warming to 1.5-2°C above pre-industrial levels."
-    },
-    {
-      "id": 11,
-      "type": "mcq",
-      "text": "What is the most abundant greenhouse gas naturally present in Earth's atmosphere?",
-      "options": [
-        "A. Carbon dioxide",
-        "B. Methane",
-        "C. Water vapor",
-        "D. Nitrous oxide"
+        "B. Wind power",
+        "C. Geothermal energy",
+        "D. Tidal energy"
       ],
       "answer": "C",
-      "difficulty": "medium",
-      "explanation": "Water vapor is the most abundant greenhouse gas in the atmosphere, significantly contributing to the natural greenhouse effect."
+      "difficulty": "hard",
+      "explanation": "Geothermal energy provides consistent, high-density power by tapping Earth's internal heat."
     },
     {
-      "id": 12,
+      "id": 52,
       "type": "true-false",
-      "text": "Deforestation decreases the amount of carbon dioxide in the atmosphere.",
+      "text": "Atmospheric methane concentrations have remained stable over the past century.",
       "answer": false,
       "difficulty": "easy",
-      "explanation": "Deforestation increases carbon dioxide levels because fewer trees are available to absorb the gas, and burned/decayed trees release stored carbon."
+      "explanation": "Methane concentrations have increased dramatically since industrialization, more than doubling from pre-industrial levels."
     },
     {
-      "id": 13,
+      "id": 53,
       "type": "fill-blank",
-      "text": "The natural environment where an organism lives and thrives is called its ______.",
-      "answer": "habitat",
-      "difficulty": "easy",
-      "explanation": "A habitat provides the essential food, water, shelter, and space necessary for an organism's survival."
+      "text": "The practice of using predatory insects to control pest populations is called ______.",
+      "answer": "biological control",
+      "difficulty": "medium",
+      "explanation": "Biological control reduces the need for chemical pesticides and is an important component of integrated pest management."
     },
     {
-      "id": 14,
+      "id": 54,
       "type": "multiple-correct",
-      "text": "Which of the following are recognized consequences of acid rain? (Select all correct)",
+      "text": "Which of the following are consequences of rapid urbanization on the environment? (Select all correct)",
       "options": [
-        "A. Damage to forests",
-        "B. Increased soil fertility",
-        "C. Harm to aquatic life",
-        "D. Corrosion of buildings",
-        "E. Ozone depletion"
-      ],
-      "answer": [
-        "A",
-        "C",
-        "D"
-      ],
-      "difficulty": "medium",
-      "explanation": "Acid rain strips nutrients from soil, damages trees, acidifies lakes, and corrodes limestone buildings. It does not cause ozone depletion or increase fertility."
-    },
-    {
-      "id": 15,
-      "type": "assertion-reason",
-      "text": "Assertion: Chlorofluorocarbons (CFCs) were banned by the Montreal Protocol. Reason: They are responsible for the depletion of the stratospheric ozone layer.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "medium",
-      "explanation": "Both the assertion and reason are true, and the ozone-depleting nature of CFCs is exactly why the Montreal Protocol banned them."
-    },
-    {
-      "id": 16,
-      "type": "matching",
-      "text": "Match the international environmental agreements to their primary focus:",
-      "pairs": [
-        [
-          "Kyoto Protocol",
-          "Greenhouse gas emissions"
-        ],
-        [
-          "Montreal Protocol",
-          "Ozone depletion"
-        ],
-        [
-          "CITES",
-          "Endangered species trade"
-        ]
-      ],
-      "difficulty": "medium",
-      "explanation": "These are key international treaties designed to combat specific global environmental crises."
-    },
-    {
-      "id": 17,
-      "type": "mcq",
-      "text": "What does the acronym 'WWF' stand for in the context of environmental conservation?",
-      "options": [
-        "A. World Wildlife Federation",
-        "B. World Wide Fund for Nature",
-        "C. World Water Foundation",
-        "D. Wildlife Welfare Fund"
-      ],
-      "answer": "B",
-      "difficulty": "easy",
-      "explanation": "The World Wide Fund for Nature (WWF) is an international non-governmental organization working on wilderness preservation."
-    },
-    {
-      "id": 18,
-      "type": "true-false",
-      "text": "Composting is a natural process of recycling organic matter into fertilizer.",
-      "answer": true,
-      "difficulty": "easy",
-      "explanation": "Composting relies on microorganisms to break down organic waste, such as food scraps and leaves, into nutrient-rich soil."
-    },
-    {
-      "id": 19,
-      "type": "fill-blank",
-      "text": "The large-scale introduction of harmful substances into the environment is called ______.",
-      "answer": "pollution",
-      "difficulty": "easy",
-      "explanation": "Pollution can take the form of chemical substances or energy, such as noise, heat, or light, introduced into the natural environment."
-    },
-    {
-      "id": 20,
-      "type": "multiple-correct",
-      "text": "Which of these gases are classified as greenhouse gases? (Select all correct)",
-      "options": [
-        "A. Methane",
-        "B. Nitrous oxide",
-        "C. Argon",
-        "D. Ozone",
-        "E. Neon"
+        "A. Habitat fragmentation",
+        "B. Increased air pollution",
+        "C. Reduced groundwater extraction",
+        "D. Urban heat island effect",
+        "E. Decreased water consumption"
       ],
       "answer": [
         "A",
         "B",
         "D"
       ],
-      "difficulty": "hard",
-      "explanation": "Methane, nitrous oxide, and ozone trap heat in the atmosphere. Argon and neon are noble gases that do not contribute to the greenhouse effect."
+      "difficulty": "medium",
+      "explanation": "Urbanization fragments habitats, increases pollution, and creates heat islands. It actually increases, not decreases, water extraction and consumption."
     },
     {
-      "id": 21,
+      "id": 55,
       "type": "assertion-reason",
-      "text": "Assertion: Coral reefs worldwide are experiencing unprecedented bleaching events. Reason: Ocean acidification and rising sea temperatures cause corals to expel their symbiotic algae.",
+      "text": "Assertion: Permafrost melting accelerates global warming. Reason: It releases stored methane and carbon dioxide, which are potent greenhouse gases.",
       "assertion": true,
       "reason": true,
       "answer": "A",
-      "difficulty": "medium",
-      "explanation": "Both statements are correct, and environmental stress directly causes the corals to lose the algae that give them color and nutrients."
-    },
-    {
-      "id": 22,
-      "type": "matching",
-      "text": "Match the terrestrial biome with its characteristic climate:",
-      "pairs": [
-        [
-          "Tundra",
-          "Extremely cold and dry"
-        ],
-        [
-          "Tropical Rainforest",
-          "Hot and humid year-round"
-        ],
-        [
-          "Desert",
-          "Very low precipitation"
-        ]
-      ],
-      "difficulty": "easy",
-      "explanation": "Biomes are largely defined by their temperature and precipitation patterns over long periods."
-    },
-    {
-      "id": 23,
-      "type": "mcq",
-      "text": "Which layer of the Earth's atmosphere contains the protective ozone layer?",
-      "options": [
-        "A. Troposphere",
-        "B. Stratosphere",
-        "C. Mesosphere",
-        "D. Thermosphere"
-      ],
-      "answer": "B",
-      "difficulty": "medium",
-      "explanation": "The ozone layer is located in the lower portion of the stratosphere, roughly 15 to 35 kilometers above Earth."
-    },
-    {
-      "id": 24,
-      "type": "true-false",
-      "text": "Mangrove forests play a crucial role in protecting coastlines from erosion and storm surges.",
-      "answer": true,
-      "difficulty": "easy",
-      "explanation": "Mangroves have dense root systems that stabilize coastlines and act as a natural barrier against storms and rising tides."
-    },
-    {
-      "id": 25,
-      "type": "fill-blank",
-      "text": "The variety of plant and animal life in the world or in a particular habitat is known as ______.",
-      "answer": "biodiversity",
-      "difficulty": "easy",
-      "explanation": "High biodiversity is an indicator of a healthy, resilient, and productive ecosystem."
-    },
-    {
-      "id": 26,
-      "type": "multiple-correct",
-      "text": "Which of the following human activities contribute significantly to soil erosion? (Select all correct)",
-      "options": [
-        "A. Overgrazing",
-        "B. Crop rotation",
-        "C. Deforestation",
-        "D. Urbanization",
-        "E. Organic farming"
-      ],
-      "answer": [
-        "A",
-        "C",
-        "D"
-      ],
-      "difficulty": "medium",
-      "explanation": "Overgrazing, deforestation, and urbanization remove vegetative cover, exposing soil to wind and water erosion. Crop rotation and organic farming conserve soil."
-    },
-    {
-      "id": 27,
-      "type": "assertion-reason",
-      "text": "Assertion: Fossil fuels like coal and petroleum are considered non-renewable resources. Reason: They take millions of years to form and are being consumed much faster than they are naturally replenished.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "easy",
-      "explanation": "Both the assertion and the reason are true. The extreme time required for their formation defines them as non-renewable on a human timescale."
-    },
-    {
-      "id": 28,
-      "type": "matching",
-      "text": "Match the waste management 'Three Rs' to their definitions:",
-      "pairs": [
-        [
-          "Reduce",
-          "Using fewer resources in the first place"
-        ],
-        [
-          "Reuse",
-          "Using an item more than once"
-        ],
-        [
-          "Recycle",
-          "Converting waste into new materials"
-        ]
-      ],
-      "difficulty": "easy",
-      "explanation": "The Three Rs are the fundamental hierarchy for responsible waste management and sustainability."
-    },
-    {
-      "id": 29,
-      "type": "mcq",
-      "text": "What is the ecological term for a species that has a disproportionately large effect on its natural environment relative to its abundance?",
-      "options": [
-        "A. Indicator species",
-        "B. Keystone species",
-        "C. Invasive species",
-        "D. Endemic species"
-      ],
-      "answer": "B",
       "difficulty": "hard",
-      "explanation": "Keystone species play a critical role in maintaining the structure of an ecological community, much like the keystone in an arch."
+      "explanation": "Both statements are true, and permafrost thawing creates a dangerous feedback loop that amplifies climate change."
     },
     {
-      "id": 30,
-      "type": "true-false",
-      "text": "The greenhouse effect is entirely caused by human activities and never occurs naturally.",
-      "answer": false,
-      "difficulty": "medium",
-      "explanation": "The greenhouse effect is a natural phenomenon essential for keeping the Earth warm enough to support life. Human activities have artificially amplified it."
-    },
-    {
-      "id": 31,
-      "type": "fill-blank",
-      "text": "The acronym 'AQI' used globally for measuring and reporting daily air pollution stands for Air Quality ______.",
-      "answer": "Index",
-      "difficulty": "easy",
-      "explanation": "The Air Quality Index communicates how polluted the air currently is or how polluted it is forecast to become."
-    },
-    {
-      "id": 32,
-      "type": "multiple-correct",
-      "text": "Which of the following animals are currently listed as critically endangered due to environmental pressures? (Select all correct)",
-      "options": [
-        "A. Javan Rhino",
-        "B. Mountain Gorilla",
-        "C. Red Fox",
-        "D. Hawksbill Turtle",
-        "E. White-tailed Deer"
-      ],
-      "answer": [
-        "A",
-        "B",
-        "D"
-      ],
-      "difficulty": "hard",
-      "explanation": "Javan Rhinos, Mountain Gorillas, and Hawksbill Turtles face extreme risk of extinction. Foxes and deer are abundant."
-    },
-    {
-      "id": 33,
-      "type": "assertion-reason",
-      "text": "Assertion: Marine phytoplankton are essential for the survival of life on Earth. Reason: They produce a significant portion of the world's atmospheric oxygen through photosynthesis.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "medium",
-      "explanation": "Both statements are correct. Phytoplankton form the base of the marine food web and generate about half of the oxygen we breathe."
-    },
-    {
-      "id": 34,
-      "type": "matching",
-      "text": "Match the type of pollution to a common source:",
-      "pairs": [
-        [
-          "Water pollution",
-          "Agricultural fertilizer runoff"
-        ],
-        [
-          "Air pollution",
-          "Vehicle exhaust emissions"
-        ],
-        [
-          "Noise pollution",
-          "Heavy construction sites"
-        ]
-      ],
-      "difficulty": "easy",
-      "explanation": "These pairings illustrate everyday human activities that directly contribute to specific categories of pollution."
-    },
-    {
-      "id": 35,
-      "type": "mcq",
-      "text": "Which international protocol was established in 1997 to commit state parties to reduce greenhouse gas emissions?",
-      "options": [
-        "A. Kyoto Protocol",
-        "B. Paris Agreement",
-        "C. Montreal Protocol",
-        "D. Geneva Convention"
-      ],
-      "answer": "A",
-      "difficulty": "medium",
-      "explanation": "The Kyoto Protocol operationalized the UN Framework Convention on Climate Change by committing industrialized countries to limit emissions."
-    },
-    {
-      "id": 36,
-      "type": "true-false",
-      "text": "Renewable energy currently accounts for more than 90% of global electricity production.",
-      "answer": false,
-      "difficulty": "medium",
-      "explanation": "While growing rapidly, renewable energy accounts for roughly 30% of global electricity production, with fossil fuels still dominating."
-    },
-    {
-      "id": 37,
-      "type": "fill-blank",
-      "text": "An area of land where all flowing surface water converges to a single point, such as a river mouth, is called a ______.",
-      "answer": "watershed",
-      "difficulty": "hard",
-      "explanation": "A watershed (or drainage basin) channels rainfall and snowmelt to creeks, streams, and rivers, and eventually to outflow points."
-    },
-    {
-      "id": 38,
-      "type": "multiple-correct",
-      "text": "Which of the following are examples of e-waste (electronic waste)? (Select all correct)",
-      "options": [
-        "A. Discarded smartphones",
-        "B. Broken glass bottles",
-        "C. Old computers",
-        "D. Used lithium batteries",
-        "E. Leftover food scraps"
-      ],
-      "answer": [
-        "A",
-        "C",
-        "D"
-      ],
-      "difficulty": "easy",
-      "explanation": "E-waste comprises discarded electrical or electronic devices. Glass and food are different waste streams."
-    },
-    {
-      "id": 39,
-      "type": "assertion-reason",
-      "text": "Assertion: The Amazon Rainforest is often referred to as the 'lungs of the Earth'. Reason: It absorbs massive amounts of carbon dioxide and releases oxygen back into the atmosphere.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "easy",
-      "explanation": "Both statements are correct. The vast expanse of vegetation in the Amazon performs large-scale photosynthesis, critical for climate regulation."
-    },
-    {
-      "id": 40,
+      "id": 56,
       "type": "matching",
       "text": "Match the environmental concepts to their definitions:",
       "pairs": [
@@ -1122,612 +702,7 @@
       "explanation": "These are foundational terms used in environmental science and policy-making."
     },
     {
-      "id": 41,
-      "type": "mcq",
-      "text": "Which phenomenon describes the trapping of the sun's warmth in a planet's lower atmosphere?",
-      "options": [
-        "A. Ozone depletion",
-        "B. Global dimming",
-        "C. Greenhouse effect",
-        "D. Albedo effect"
-      ],
-      "answer": "C",
-      "difficulty": "easy",
-      "explanation": "The greenhouse effect occurs when atmospheric gases trap heat radiating from Earth toward space."
-    },
-    {
-      "id": 42,
-      "type": "true-false",
-      "text": "Hydrofluorocarbons (HFCs) were introduced as replacements for CFCs but are highly potent greenhouse gases themselves.",
-      "answer": true,
-      "difficulty": "hard",
-      "explanation": "While HFCs do not deplete the ozone layer like CFCs, they have a high global warming potential, leading to efforts to phase them out."
-    },
-    {
-      "id": 43,
-      "type": "fill-blank",
-      "text": "The gradual increase in the overall temperature of the earth's atmosphere is generally attributed to the ______ effect.",
-      "answer": "greenhouse",
-      "difficulty": "easy",
-      "explanation": "The enhanced greenhouse effect, driven by human emissions, is the primary cause of global warming."
-    },
-    {
-      "id": 44,
-      "type": "multiple-correct",
-      "text": "Which of these practices promote sustainable agriculture? (Select all correct)",
-      "options": [
-        "A. Monoculture farming",
-        "B. Crop rotation",
-        "C. Heavy use of synthetic pesticides",
-        "D. Integrated pest management",
-        "E. Conservation tillage"
-      ],
-      "answer": [
-        "B",
-        "D",
-        "E"
-      ],
-      "difficulty": "hard",
-      "explanation": "Crop rotation, integrated pest management, and conservation tillage protect soil health and biodiversity. Monoculture and heavy pesticide use harm the environment."
-    },
-    {
-      "id": 45,
-      "type": "assertion-reason",
-      "text": "Assertion: Nuclear energy is considered a low-carbon energy source. Reason: Nuclear power plants emit zero carbon dioxide during their active power generation operation.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "medium",
-      "explanation": "Both statements are correct, and the lack of operational carbon emissions is why nuclear power is considered a low-carbon alternative to fossil fuels."
-    },
-    {
-      "id": 46,
-      "type": "matching",
-      "text": "Match the extreme weather event to its characteristic:",
-      "pairs": [
-        [
-          "Hurricane",
-          "Tropical cyclone with high winds"
-        ],
-        [
-          "Drought",
-          "Prolonged period of abnormally low rainfall"
-        ],
-        [
-          "Heatwave",
-          "Extended period of excessively hot weather"
-        ]
-      ],
-      "difficulty": "easy",
-      "explanation": "Climate change is increasing the frequency and severity of these extreme weather patterns."
-    },
-    {
-      "id": 47,
-      "type": "mcq",
-      "text": "What is the main cause of the ocean acidification currently being observed by scientists?",
-      "options": [
-        "A. Oil spills",
-        "B. Plastic pollution",
-        "C. Absorption of carbon dioxide from the atmosphere",
-        "D. Runoff of agricultural fertilizers"
-      ],
-      "answer": "C",
-      "difficulty": "medium",
-      "explanation": "The ocean absorbs about 30% of the CO2 released into the atmosphere, causing chemical reactions that lower the water's pH."
-    },
-    {
-      "id": 48,
-      "type": "true-false",
-      "text": "A species that is native to and restricted to a certain defined geographical area is called an endemic species.",
-      "answer": true,
-      "difficulty": "medium",
-      "explanation": "Endemic species are uniquely vulnerable to extinction because they only exist in one specific part of the world."
-    },
-    {
-      "id": 49,
-      "type": "fill-blank",
-      "text": "The transition to a more circular economy focuses on eliminating ______ and ensuring the continual use of resources.",
-      "answer": "waste",
-      "difficulty": "medium",
-      "explanation": "A circular economy aims to design out waste and pollution, keeping products and materials in use rather than throwing them away."
-    },
-    {
-      "id": 50,
-      "type": "mcq",
-      "text": "Which international organization publishes the widely recognized Red List of Threatened Species?",
-      "options": [
-        "A. UNEP",
-        "B. IUCN",
-        "C. WWF",
-        "D. IPCC"
-      ],
-      "answer": "B",
-      "difficulty": "medium",
-      "explanation": "The International Union for Conservation of Nature (IUCN) compiles the Red List, the world's most comprehensive inventory of the global conservation status of species."
-    },
-    {
-      "id": 51,
-      "type": "mcq",
-      "text": "Which Indian national park is known for its significant population of Indian rhinoceros?",
-      "options": [
-        "A. Ranthambore National Park",
-        "B. Kaziranga National Park",
-        "C. Gir National Park",
-        "D. Sundarbans National Park"
-      ],
-      "answer": "B",
-      "difficulty": "medium",
-      "explanation": "Kaziranga National Park in Assam is famous for protecting the greater one-horned rhinoceros."
-    },
-    {
-      "id": 52,
-      "type": "true-false",
-      "text": "Eutrophication is a natural process where water bodies become enriched with excess nutrients.",
-      "answer": true,
-      "difficulty": "medium",
-      "explanation": "While natural eutrophication occurs over geological timescales, human activities dramatically accelerate this process through nutrient pollution."
-    },
-    {
-      "id": 53,
-      "type": "fill-blank",
-      "text": "The process by which soil is carried away by wind or water due to lack of vegetation is called ______.",
-      "answer": "erosion",
-      "difficulty": "easy",
-      "explanation": "Soil erosion is a critical environmental concern that reduces agricultural productivity and increases sedimentation in water bodies."
-    },
-    {
-      "id": 54,
-      "type": "multiple-correct",
-      "text": "Which of the following are impacts of invasive species on ecosystems? (Select all correct)",
-      "options": [
-        "A. Competition with native species",
-        "B. Increased local biodiversity",
-        "C. Predation on native species",
-        "D. Habitat destruction",
-        "E. Improved soil quality"
-      ],
-      "answer": [
-        "A",
-        "C",
-        "D"
-      ],
-      "difficulty": "medium",
-      "explanation": "Invasive species compete with and prey on native species while destroying habitats. They typically reduce, not increase, biodiversity."
-    },
-    {
-      "id": 55,
-      "type": "assertion-reason",
-      "text": "Assertion: Wetlands store more carbon per unit area than forests. Reason: Waterlogged conditions slow decomposition and preserve organic matter.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "hard",
-      "explanation": "Both statements are correct. Wetlands are critically important carbon sinks despite covering only a small portion of Earth's surface."
-    },
-    {
-      "id": 56,
-      "type": "matching",
-      "text": "Match the environmental certification to its purpose:",
-      "pairs": [
-        [
-          "LEED",
-          "Green building design and construction"
-        ],
-        [
-          "FSC",
-          "Sustainable forest management"
-        ],
-        [
-          "Fair Trade",
-          "Ethical and sustainable trade practices"
-        ]
-      ],
-      "difficulty": "medium",
-      "explanation": "These certifications help consumers identify environmentally and socially responsible products and services."
-    },
-    {
       "id": 57,
-      "type": "mcq",
-      "text": "Which phenomenon is characterized by the gradual increase in sea surface temperatures over decades?",
-      "options": [
-        "A. Ocean stratification",
-        "B. Ocean acidification",
-        "C. Ocean warming",
-        "D. Ocean circulation"
-      ],
-      "answer": "C",
-      "difficulty": "easy",
-      "explanation": "Ocean warming is the slow rise in sea temperature due to greenhouse gas emissions and is a major consequence of climate change."
-    },
-    {
-      "id": 58,
-      "type": "true-false",
-      "text": "Bioaccumulation is the gradual accumulation of toxic substances in organisms over their lifetime.",
-      "answer": true,
-      "difficulty": "medium",
-      "explanation": "Bioaccumulation, especially in fatty tissues, concentrates toxins to dangerous levels and can poison predators through biomagnification."
-    },
-    {
-      "id": 59,
-      "type": "fill-blank",
-      "text": "The practice of farming fish in artificial ponds or tanks is known as ______.",
-      "answer": "aquaculture",
-      "difficulty": "medium",
-      "explanation": "Aquaculture provides an alternative to wild fishing but can have environmental impacts if not managed sustainably."
-    },
-    {
-      "id": 60,
-      "type": "multiple-correct",
-      "text": "Which of these are primary sources of light pollution? (Select all correct)",
-      "options": [
-        "A. Street lights",
-        "B. Car headlights",
-        "C. Solar panels",
-        "D. Artificial lighting in buildings",
-        "E. Moonlight"
-      ],
-      "answer": [
-        "A",
-        "B",
-        "D"
-      ],
-      "difficulty": "easy",
-      "explanation": "Street lights, vehicles, and building lights are major sources of light pollution. Solar panels and natural moonlight are not pollutants."
-    },
-    {
-      "id": 61,
-      "type": "assertion-reason",
-      "text": "Assertion: El Niño events cause significant climate disruptions globally. Reason: They redistribute warm water across the Pacific Ocean, affecting atmospheric circulation patterns.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "hard",
-      "explanation": "Both statements are correct. El Niño episodes alter global weather patterns and can trigger droughts, floods, and temperature anomalies worldwide."
-    },
-    {
-      "id": 62,
-      "type": "matching",
-      "text": "Match the nutrient cycle to its primary process:",
-      "pairs": [
-        [
-          "Carbon cycle",
-          "Photosynthesis and respiration"
-        ],
-        [
-          "Nitrogen cycle",
-          "Bacterial fixation and nitrification"
-        ],
-        [
-          "Water cycle",
-          "Evaporation and precipitation"
-        ]
-      ],
-      "difficulty": "easy",
-      "explanation": "These biogeochemical cycles are fundamental to supporting life on Earth."
-    },
-    {
-      "id": 63,
-      "type": "mcq",
-      "text": "Which of the following is considered an indicator of biodiversity hotspots?",
-      "options": [
-        "A. High human population density",
-        "B. Low agricultural activity",
-        "C. High concentration of endemic species",
-        "D. Flat topography"
-      ],
-      "answer": "C",
-      "difficulty": "medium",
-      "explanation": "Biodiversity hotspots are defined by high levels of endemic species (found nowhere else) along with habitat loss threats."
-    },
-    {
-      "id": 64,
-      "type": "true-false",
-      "text": "The biocapacity of Earth exceeds our ecological footprint, indicating sustainable resource use globally.",
-      "answer": false,
-      "difficulty": "hard",
-      "explanation": "Humanity currently uses about 1.7 Earths' worth of resources, meaning we are living unsustainably beyond our planet's biocapacity."
-    },
-    {
-      "id": 65,
-      "type": "fill-blank",
-      "text": "The process by which water moves from the soil to plants and then to the atmosphere is called ______.",
-      "answer": "transpiration",
-      "difficulty": "easy",
-      "explanation": "Combined with evaporation from water surfaces, transpiration is a major component of the water cycle."
-    },
-    {
-      "id": 66,
-      "type": "multiple-correct",
-      "text": "Which of the following ecosystems provide important ecosystem services for human populations? (Select all correct)",
-      "options": [
-        "A. Forests",
-        "B. Deserts",
-        "C. Wetlands",
-        "D. Artificial urban parks",
-        "E. Coral reefs"
-      ],
-      "answer": [
-        "A",
-        "C",
-        "E"
-      ],
-      "difficulty": "medium",
-      "explanation": "Forests, wetlands, and coral reefs provide critical services like carbon storage, water filtration, and fisheries. Deserts and artificial parks have limited services."
-    },
-    {
-      "id": 67,
-      "type": "assertion-reason",
-      "text": "Assertion: Reducing meat consumption can lower an individual's carbon footprint. Reason: Livestock production is resource-intensive and generates significant greenhouse gas emissions.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "medium",
-      "explanation": "Both statements are true. Animal agriculture contributes substantially to global emissions through methane, land use, and feed production."
-    },
-    {
-      "id": 68,
-      "type": "matching",
-      "text": "Match the climate phenomenon to its effect:",
-      "pairs": [
-        [
-          "La Niña",
-          "Cooling of Pacific waters"
-        ],
-        [
-          "Monsoon",
-          "Seasonal wind pattern bringing rainfall"
-        ],
-        [
-          "Typhoon",
-          "Tropical storm in western Pacific"
-        ]
-      ],
-      "difficulty": "medium",
-      "explanation": "These climate phenomena significantly impact weather patterns and human populations in different regions."
-    },
-    {
-      "id": 69,
-      "type": "mcq",
-      "text": "Which international agency leads global efforts to monitor and report on climate change?",
-      "options": [
-        "A. IPCC",
-        "B. UNEP",
-        "C. UNESCO",
-        "D. WTO"
-      ],
-      "answer": "A",
-      "difficulty": "medium",
-      "explanation": "The Intergovernmental Panel on Climate Change (IPCC) produces comprehensive assessments of climate science and impacts."
-    },
-    {
-      "id": 70,
-      "type": "true-false",
-      "text": "The Sundarbans mangrove forest is the world's largest mangrove ecosystem.",
-      "answer": true,
-      "difficulty": "medium",
-      "explanation": "The Sundarbans, shared by India and Bangladesh, is the largest contiguous mangrove forest and is a UNESCO World Heritage Site."
-    },
-    {
-      "id": 71,
-      "type": "fill-blank",
-      "text": "The process by which plants absorb carbon dioxide from the atmosphere and convert it into organic compounds is called ______.",
-      "answer": "photosynthesis",
-      "difficulty": "easy",
-      "explanation": "Photosynthesis is the foundation of most food chains and the primary mechanism for removing CO2 from the atmosphere."
-    },
-    {
-      "id": 72,
-      "type": "multiple-correct",
-      "text": "Which of the following are strategies for mitigating climate change? (Select all correct)",
-      "options": [
-        "A. Increasing renewable energy use",
-        "B. Expanding coal mining",
-        "C. Improving energy efficiency",
-        "D. Protecting and restoring forests",
-        "E. Increasing plastic production"
-      ],
-      "answer": [
-        "A",
-        "C",
-        "D"
-      ],
-      "difficulty": "medium",
-      "explanation": "Renewable energy, efficiency, and forest protection reduce emissions. Coal mining and plastic production increase environmental harm."
-    },
-    {
-      "id": 73,
-      "type": "assertion-reason",
-      "text": "Assertion: Species extinction rates have accelerated dramatically in recent centuries. Reason: Human activities including habitat destruction and climate change threaten species survival.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "hard",
-      "explanation": "Both statements are true. We are currently experiencing the sixth mass extinction event in Earth's history, largely due to human causes."
-    },
-    {
-      "id": 74,
-      "type": "matching",
-      "text": "Match the Indian national park to its location:",
-      "pairs": [
-        [
-          "Jim Corbett National Park",
-          "Uttarakhand"
-        ],
-        [
-          "Bandipur National Park",
-          "Karnataka"
-        ],
-        [
-          "Periyar National Park",
-          "Kerala"
-        ]
-      ],
-      "difficulty": "medium",
-      "explanation": "These are important protected areas for wildlife conservation across India."
-    },
-    {
-      "id": 75,
-      "type": "mcq",
-      "text": "Which gas contributes most to ozone depletion in the stratosphere?",
-      "options": [
-        "A. Carbon monoxide",
-        "B. Chlorofluorocarbons",
-        "C. Sulfur dioxide",
-        "D. Nitrogen dioxide"
-      ],
-      "answer": "B",
-      "difficulty": "easy",
-      "explanation": "CFCs release chlorine atoms when exposed to UV radiation, catalyzing ozone destruction."
-    },
-    {
-      "id": 76,
-      "type": "true-false",
-      "text": "Bioluminescence is a process where organisms emit light to attract potential mates or prey.",
-      "answer": true,
-      "difficulty": "medium",
-      "explanation": "Bioluminescence is common in deep-sea organisms and fireflies, serving various ecological purposes."
-    },
-    {
-      "id": 77,
-      "type": "fill-blank",
-      "text": "The study of organisms living in a particular area and their interactions is called ______.",
-      "answer": "ecology",
-      "difficulty": "easy",
-      "explanation": "Ecology examines how organisms interact with each other and with their physical environment."
-    },
-    {
-      "id": 78,
-      "type": "multiple-correct",
-      "text": "Which of the following pesticides and chemicals were banned due to environmental concerns? (Select all correct)",
-      "options": [
-        "A. DDT",
-        "B. CFCs",
-        "C. PCBs",
-        "D. Asbestos",
-        "E. Bisphenol A"
-      ],
-      "answer": [
-        "A",
-        "B",
-        "C",
-        "D"
-      ],
-      "difficulty": "hard",
-      "explanation": "DDT, CFCs, PCBs, and asbestos have been banned or heavily restricted due to proven environmental and health hazards. BPA restrictions vary by region."
-    },
-    {
-      "id": 79,
-      "type": "assertion-reason",
-      "text": "Assertion: Boreal forests are crucial carbon sinks. Reason: They store more carbon in their soil and biomass than tropical rainforests.",
-      "assertion": true,
-      "reason": false,
-      "answer": "B",
-      "difficulty": "hard",
-      "explanation": "Boreal forests are important carbon stores, but tropical rainforests actually store more total carbon due to their greater productivity."
-    },
-    {
-      "id": 80,
-      "type": "matching",
-      "text": "Match the environmental movement to its primary focus:",
-      "pairs": [
-        [
-          "Conservation",
-          "Sustainable use of natural resources"
-        ],
-        [
-          "Preservation",
-          "Protection of wilderness areas unchanged"
-        ],
-        [
-          "Restoration",
-          "Rebuilding damaged ecosystems"
-        ]
-      ],
-      "difficulty": "medium",
-      "explanation": "These represent different philosophical approaches to environmental protection."
-    },
-    {
-      "id": 81,
-      "type": "mcq",
-      "text": "Which renewable energy source has the highest energy density?",
-      "options": [
-        "A. Solar power",
-        "B. Wind power",
-        "C. Geothermal energy",
-        "D. Tidal energy"
-      ],
-      "answer": "C",
-      "difficulty": "hard",
-      "explanation": "Geothermal energy provides consistent, high-density power by tapping Earth's internal heat."
-    },
-    {
-      "id": 82,
-      "type": "true-false",
-      "text": "Atmospheric methane concentrations have remained stable over the past century.",
-      "answer": false,
-      "difficulty": "easy",
-      "explanation": "Methane concentrations have increased dramatically since industrialization, more than doubling from pre-industrial levels."
-    },
-    {
-      "id": 83,
-      "type": "fill-blank",
-      "text": "The practice of using predatory insects to control pest populations is called ______.",
-      "answer": "biological control",
-      "difficulty": "medium",
-      "explanation": "Biological control reduces the need for chemical pesticides and is an important component of integrated pest management."
-    },
-    {
-      "id": 84,
-      "type": "multiple-correct",
-      "text": "Which of the following are consequences of rapid urbanization on the environment? (Select all correct)",
-      "options": [
-        "A. Habitat fragmentation",
-        "B. Increased air pollution",
-        "C. Reduced groundwater extraction",
-        "D. Urban heat island effect",
-        "E. Decreased water consumption"
-      ],
-      "answer": [
-        "A",
-        "B",
-        "D"
-      ],
-      "difficulty": "medium",
-      "explanation": "Urbanization fragments habitats, increases pollution, and creates heat islands. It actually increases, not decreases, water extraction and consumption."
-    },
-    {
-      "id": 85,
-      "type": "assertion-reason",
-      "text": "Assertion: Permafrost melting accelerates global warming. Reason: It releases stored methane and carbon dioxide, which are potent greenhouse gases.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "hard",
-      "explanation": "Both statements are true, and permafrost thawing creates a dangerous feedback loop that amplifies climate change."
-    },
-    {
-      "id": 86,
-      "type": "matching",
-      "text": "Match the environmental law to its country of origin:",
-      "pairs": [
-        [
-          "Clean Air Act",
-          "United States"
-        ],
-        [
-          "Environmental Protection Act",
-          "India"
-        ],
-        [
-          "Environmental Quality Act",
-          "Malaysia"
-        ]
-      ],
-      "difficulty": "medium",
-      "explanation": "These landmark laws established environmental protection frameworks in their respective countries."
-    },
-    {
-      "id": 87,
       "type": "mcq",
       "text": "Which ocean current significantly influences the climate of Western Europe?",
       "options": [
@@ -1741,7 +716,7 @@
       "explanation": "The Gulf Stream brings warm water from the tropics, making Western Europe's climate milder than its latitude would suggest."
     },
     {
-      "id": 88,
+      "id": 58,
       "type": "true-false",
       "text": "The carrying capacity of an ecosystem is the maximum population size that the environment can sustain indefinitely.",
       "answer": true,
@@ -1749,7 +724,7 @@
       "explanation": "Carrying capacity is determined by available resources and environmental conditions and varies by species."
     },
     {
-      "id": 89,
+      "id": 59,
       "type": "fill-blank",
       "text": "The process by which nutrients move through organisms and the environment in a cyclical pattern is called a ______ cycle.",
       "answer": "nutrient",
@@ -1757,7 +732,7 @@
       "explanation": "Nutrient cycles are essential for life and include the carbon, nitrogen, phosphorus, and water cycles."
     },
     {
-      "id": 90,
+      "id": 60,
       "type": "multiple-correct",
       "text": "Which of the following are benefits of reforestation and afforestation projects? (Select all correct)",
       "options": [
@@ -1776,7 +751,7 @@
       "explanation": "Reforestation sequesters carbon, restores habitats, and improves water quality. It reduces, not increases, erosion and flooding."
     },
     {
-      "id": 91,
+      "id": 61,
       "type": "assertion-reason",
       "text": "Assertion: Wetland destruction is a major environmental concern in developing nations. Reason: Wetlands are often converted to agricultural land without recognizing their ecosystem services.",
       "assertion": true,
@@ -1786,7 +761,7 @@
       "explanation": "Both statements are true, and wetland loss continues despite their importance for water purification, flood control, and biodiversity."
     },
     {
-      "id": 92,
+      "id": 62,
       "type": "matching",
       "text": "Match the endangered animal to its primary threat:",
       "pairs": [
@@ -1807,7 +782,7 @@
       "explanation": "Understanding specific threats is crucial for developing effective conservation strategies."
     },
     {
-      "id": 93,
+      "id": 63,
       "type": "mcq",
       "text": "Which process describes the gradual recovery of an ecosystem after disturbance?",
       "options": [
@@ -1821,7 +796,7 @@
       "explanation": "Ecological succession describes how ecosystems recover and develop over time after disturbances like fire or logging."
     },
     {
-      "id": 94,
+      "id": 64,
       "type": "true-false",
       "text": "The Montreal Protocol has been successful in reversing ozone layer depletion.",
       "answer": true,
@@ -1829,7 +804,7 @@
       "explanation": "The Montreal Protocol is considered one of the most successful environmental agreements, with the ozone layer expected to recover by mid-century."
     },
     {
-      "id": 95,
+      "id": 65,
       "type": "fill-blank",
       "text": "An organism that breaks down dead organic matter and returns nutrients to the soil is called a ______.",
       "answer": "decomposer",
@@ -1837,7 +812,7 @@
       "explanation": "Decomposers like bacteria and fungi play a vital role in nutrient cycling and ecosystem functioning."
     },
     {
-      "id": 96,
+      "id": 66,
       "type": "multiple-correct",
       "text": "Which of the following are effects of desertification? (Select all correct)",
       "options": [
@@ -1856,7 +831,7 @@
       "explanation": "Desertification reduces productivity, creates water scarcity, and forces migration. It decreases biodiversity and soil quality."
     },
     {
-      "id": 97,
+      "id": 67,
       "type": "assertion-reason",
       "text": "Assertion: Offshore wind farms can provide substantial renewable energy. Reason: Wind speeds are generally stronger and more consistent over water than over land.",
       "assertion": true,
@@ -1866,7 +841,7 @@
       "explanation": "Both statements are true, making offshore wind a promising renewable energy source despite higher installation costs."
     },
     {
-      "id": 98,
+      "id": 68,
       "type": "matching",
       "text": "Match the sustainable development goal to its environmental focus:",
       "pairs": [
@@ -1887,7 +862,7 @@
       "explanation": "The UN Sustainable Development Goals address major environmental and social challenges."
     },
     {
-      "id": 99,
+      "id": 69,
       "type": "mcq",
       "text": "Which phenomenon describes the formation of a thermal layer in lakes that prevents mixing of water layers?",
       "options": [
@@ -1901,12 +876,1752 @@
       "explanation": "Thermal stratification creates distinct temperature layers, with warmer water floating above colder, denser water."
     },
     {
-      "id": 100,
+      "id": 70,
       "type": "true-false",
       "text": "The Sustainable Development Goals represent a global commitment to environmental and social progress by 2030.",
       "answer": true,
       "difficulty": "easy",
       "explanation": "The SDGs, adopted in 2015, provide a comprehensive framework for achieving sustainable development across all nations."
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "text": "What is the largest source of renewable energy worldwide?",
+      "options": [
+        "A. Solar",
+        "B. Wind",
+        "C. Hydropower",
+        "D. Biomass"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Hydropower currently remains the largest renewable source for global electricity generation."
+    },
+    {
+      "id": 72,
+      "type": "true-false",
+      "text": "CFCs are still widely used in modern refrigerators.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "CFCs have been phased out under the Montreal Protocol and replaced with safer alternatives."
+    },
+    {
+      "id": 73,
+      "type": "fill-blank",
+      "text": "The ______ process captures carbon dioxide from industrial sources before it enters the atmosphere.",
+      "answer": "sequestration",
+      "difficulty": "hard",
+      "explanation": "Carbon capture and sequestration (CCS) is a key technology for reducing industrial emissions."
+    },
+    {
+      "id": 74,
+      "type": "multiple-correct",
+      "text": "Which of the following are types of fossil fuels? (Select all correct)",
+      "options": [
+        "A. Coal",
+        "B. Solar",
+        "C. Natural Gas",
+        "D. Oil",
+        "E. Geothermal"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "Coal, natural gas, and oil are fossil fuels formed from ancient organic matter."
+    },
+    {
+      "id": 75,
+      "type": "assertion-reason",
+      "text": "Assertion: Urbanization contributes to heat retention. Reason: Concrete and asphalt absorb solar radiation during the day and release it at night.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "This heat-retention property of urban materials is the cause of the urban heat island effect."
+    },
+    {
+      "id": 76,
+      "type": "matching",
+      "text": "Match the pollutant to its source:",
+      "pairs": [
+        [
+          "Sulfur dioxide",
+          "Burning coal"
+        ],
+        [
+          "Methane",
+          "Livestock digestion"
+        ],
+        [
+          "Particulate matter",
+          "Vehicle exhaust"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Different human activities release distinct pollutants into the environment."
+    },
+    {
+      "id": 77,
+      "type": "mcq",
+      "text": "Which continent is home to the most diverse range of biomes?",
+      "options": [
+        "A. Europe",
+        "B. Africa",
+        "C. Antarctica",
+        "D. Australia"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Africa contains deserts, rainforests, savannas, and mountains, resulting in massive biome diversity."
+    },
+    {
+      "id": 78,
+      "type": "true-false",
+      "text": "The Earth's climate has never changed before human industrialization.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Earth's climate has undergone cycles of warming and cooling over millions of years due to natural factors."
+    },
+    {
+      "id": 79,
+      "type": "fill-blank",
+      "text": "An ______ is a community of living organisms interacting with each other and their environment.",
+      "answer": "ecosystem",
+      "difficulty": "easy",
+      "explanation": "Ecosystems can range in size from small ponds to the entire planet."
+    },
+    {
+      "id": 80,
+      "type": "multiple-correct",
+      "text": "Which of these gases are naturally found in the atmosphere? (Select all correct)",
+      "options": [
+        "A. Nitrogen",
+        "B. Oxygen",
+        "C. Argon",
+        "D. Chlorine",
+        "E. Helium"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "easy",
+      "explanation": "Nitrogen, oxygen, and argon are major components of air. Chlorine and helium are not primary components."
+    },
+    {
+      "id": 81,
+      "type": "assertion-reason",
+      "text": "Assertion: Protecting forests helps mitigate climate change. Reason: Forests act as major carbon sinks by absorbing atmospheric carbon dioxide.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Trees are vital for balancing carbon levels, and conservation is a key climate strategy."
+    },
+    {
+      "id": 82,
+      "type": "matching",
+      "text": "Match the environmental term to its process:",
+      "pairs": [
+        [
+          "Photosynthesis",
+          "Conversion of light to energy"
+        ],
+        [
+          "Respiration",
+          "Release of energy from glucose"
+        ],
+        [
+          "Decomposition",
+          "Breakdown of organic material"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These biological processes are central to nutrient and energy cycling."
+    },
+    {
+      "id": 83,
+      "type": "mcq",
+      "text": "Which environmental issue is caused primarily by the depletion of the ozone layer?",
+      "options": [
+        "A. Increased UV radiation reaching Earth",
+        "B. Global warming",
+        "C. Acid rain",
+        "D. Ocean pollution"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "The ozone layer filters UV radiation; its thinning allows more dangerous UV light through."
+    },
+    {
+      "id": 84,
+      "type": "true-false",
+      "text": "Nuclear energy produces carbon dioxide emissions during electricity generation.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "Nuclear reactors generate electricity without burning fuel, thus avoiding CO2 release."
+    },
+    {
+      "id": 85,
+      "type": "fill-blank",
+      "text": "The ______ gas is the most abundant gas in the atmosphere.",
+      "answer": "nitrogen",
+      "difficulty": "easy",
+      "explanation": "Nitrogen makes up roughly 78% of the air."
+    },
+    {
+      "id": 86,
+      "type": "multiple-correct",
+      "text": "Which of these are water-saving strategies? (Select all correct)",
+      "options": [
+        "A. Installing dual-flush toilets",
+        "B. Xeriscaping",
+        "C. Using high-flow sprinklers",
+        "D. Recycling greywater",
+        "E. Taking long baths"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "Efficient fixtures, drought-tolerant plants, and greywater recycling are key strategies."
+    },
+    {
+      "id": 87,
+      "type": "assertion-reason",
+      "text": "Assertion: Biodiversity is crucial for medical advancement. Reason: Many pharmaceutical drugs are derived from natural plant compounds.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Natural ecosystems are vast treasure troves for chemical compounds used in modern medicine."
+    },
+    {
+      "id": 88,
+      "type": "matching",
+      "text": "Match the renewable resource to its key benefit:",
+      "pairs": [
+        [
+          "Solar",
+          "Low operating cost"
+        ],
+        [
+          "Wind",
+          "Scalable production"
+        ],
+        [
+          "Hydroelectric",
+          "Reliable baseload power"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Different sources have unique benefits for power grids."
+    },
+    {
+      "id": 89,
+      "type": "mcq",
+      "text": "Which biome is known for extreme cold and permafrost?",
+      "options": [
+        "A. Savannah",
+        "B. Tundra",
+        "C. Temperate forest",
+        "D. Mediterranean"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Tundra is characterized by extremely cold temperatures and frozen soil known as permafrost."
+    },
+    {
+      "id": 90,
+      "type": "true-false",
+      "text": "Overgrazing by livestock can lead to soil desertification.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "When vegetation is eaten down too far, soil becomes vulnerable to wind and water erosion."
+    },
+    {
+      "id": 91,
+      "type": "fill-blank",
+      "text": "The ______ cycle describes how water continuously circulates between oceans, atmosphere, and land.",
+      "answer": "hydrologic",
+      "difficulty": "medium",
+      "explanation": "Also known as the water cycle, it is the process that sustains life."
+    },
+    {
+      "id": 92,
+      "type": "multiple-correct",
+      "text": "Which of these are examples of sustainable practices? (Select all correct)",
+      "options": [
+        "A. Composting",
+        "B. Using single-use plastics",
+        "C. Carpooling",
+        "D. Paperless office",
+        "E. Excessive electricity usage"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "Composting, carpooling, and paperless systems are sustainable behaviors."
+    },
+    {
+      "id": 93,
+      "type": "assertion-reason",
+      "text": "Assertion: The Arctic is warming faster than the rest of the planet. Reason: Melting ice reduces the albedo effect, causing more heat to be absorbed.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Known as polar amplification, this feedback loop significantly accelerates Arctic warming."
+    },
+    {
+      "id": 94,
+      "type": "matching",
+      "text": "Match the environmental term to its field:",
+      "pairs": [
+        [
+          "Oceanography",
+          "Study of oceans"
+        ],
+        [
+          "Meteorology",
+          "Study of atmosphere and weather"
+        ],
+        [
+          "Geology",
+          "Study of Earth's solid materials"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Each science provides unique insights into environmental systems."
+    },
+    {
+      "id": 95,
+      "type": "mcq",
+      "text": "Which chemical element is the basis of all life on Earth?",
+      "options": [
+        "A. Nitrogen",
+        "B. Oxygen",
+        "C. Carbon",
+        "D. Phosphorus"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Organic chemistry is carbon-based, forming the structures required for life."
+    },
+    {
+      "id": 96,
+      "type": "true-false",
+      "text": "A wind farm can operate effectively with very low wind speeds.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "Turbines require a minimum wind speed to start generating power efficiently."
+    },
+    {
+      "id": 97,
+      "type": "fill-blank",
+      "text": "The ______ effect is the process by which heat is trapped by gases.",
+      "answer": "greenhouse",
+      "difficulty": "easy",
+      "explanation": "Greenhouse gases include CO2, methane, and water vapor."
+    },
+    {
+      "id": 98,
+      "type": "multiple-correct",
+      "text": "Which of these are non-renewable resources? (Select all correct)",
+      "options": [
+        "A. Coal",
+        "B. Oil",
+        "C. Natural gas",
+        "D. Solar",
+        "E. Nuclear (Uranium)"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Fossil fuels and uranium are finite, while solar is renewable."
+    },
+    {
+      "id": 99,
+      "type": "assertion-reason",
+      "text": "Assertion: Biodiversity provides ecosystem services. Reason: Complex ecosystems are more resilient to environmental changes.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Diversity in species and functions makes ecosystems more stable against perturbations."
+    },
+    {
+      "id": 100,
+      "type": "matching",
+      "text": "Match the environmental hazard to the affected system:",
+      "pairs": [
+        [
+          "Pesticides",
+          "Soil and water quality"
+        ],
+        [
+          "Smog",
+          "Air quality and lungs"
+        ],
+        [
+          "Ocean acidification",
+          "Marine ecosystems"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Pollutants have targeted impacts on specific environmental components."
+    },
+    {
+      "id": 101,
+      "type": "mcq",
+      "text": "Which of the following contributes to soil degradation?",
+      "options": [
+        "A. Over-farming",
+        "B. Erosion",
+        "C. Chemical contamination",
+        "D. All of the above"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "explanation": "All these factors contribute to the depletion of soil quality."
+    },
+    {
+      "id": 102,
+      "type": "true-false",
+      "text": "All living organisms contribute to the carbon cycle.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Through photosynthesis and respiration, almost all life processes interact with carbon."
+    },
+    {
+      "id": 103,
+      "type": "fill-blank",
+      "text": "The ______ layer blocks harmful solar radiation.",
+      "answer": "ozone",
+      "difficulty": "easy",
+      "explanation": "The ozone layer is a vital shield for terrestrial life."
+    },
+    {
+      "id": 104,
+      "type": "multiple-correct",
+      "text": "Which of these can be recycled? (Select all correct)",
+      "options": [
+        "A. Aluminum cans",
+        "B. Used tissues",
+        "C. Newspaper",
+        "D. Cardboard",
+        "E. Styrofoam"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Aluminum, paper, and cardboard are widely recyclable. Tissues and styrofoam are difficult or impossible to recycle."
+    },
+    {
+      "id": 105,
+      "type": "assertion-reason",
+      "text": "Assertion: Sustainable practices help preserve resources. Reason: Resources are finite, and over-consumption leads to scarcity.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Sustainability is necessary because Earth's capacity to provide resources is not unlimited."
+    },
+    {
+      "id": 106,
+      "type": "matching",
+      "text": "Match the energy type to its impact:",
+      "pairs": [
+        [
+          "Nuclear",
+          "Low emissions, radioactive storage required"
+        ],
+        [
+          "Fossil Fuels",
+          "High carbon footprint"
+        ],
+        [
+          "Solar",
+          "Zero emissions, high surface area needed"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Energy sources are compared based on carbon footprint and site needs."
+    },
+    {
+      "id": 107,
+      "type": "mcq",
+      "text": "Which biome is characterized by low rainfall, desert-like conditions?",
+      "options": [
+        "A. Desert",
+        "B. Rainforest",
+        "C. Grassland",
+        "D. Savanna"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Deserts are the driest ecosystems on Earth."
+    },
+    {
+      "id": 108,
+      "type": "true-false",
+      "text": "The Earth is composed of four distinct layers.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "They are the crust, mantle, outer core, and inner core."
+    },
+    {
+      "id": 109,
+      "type": "fill-blank",
+      "text": "The gas responsible for global cooling during certain volcanic events is ______.",
+      "answer": "sulfur dioxide",
+      "difficulty": "hard",
+      "explanation": "Volcanic SO2 reflects sunlight, cooling the climate temporarily."
+    },
+    {
+      "id": 110,
+      "type": "multiple-correct",
+      "text": "Which of these gases contribute to air pollution in cities? (Select all correct)",
+      "options": [
+        "A. Sulfur dioxide",
+        "B. Nitrogen oxides",
+        "C. Carbon monoxide",
+        "D. Nitrogen",
+        "E. Oxygen"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "medium",
+      "explanation": "These are common pollutants from combustion engines and power plants."
+    },
+    {
+      "id": 111,
+      "type": "assertion-reason",
+      "text": "Assertion: The water table is dropping in many areas. Reason: Water is being extracted for irrigation faster than it is being replenished.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Groundwater depletion is a serious threat to water security worldwide."
+    },
+    {
+      "id": 112,
+      "type": "matching",
+      "text": "Match the environmental agency to its focus:",
+      "pairs": [
+        [
+          "WWF",
+          "Wildlife conservation"
+        ],
+        [
+          "IPCC",
+          "Climate science"
+        ],
+        [
+          "UNEP",
+          "Environmental policy"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These international entities define global environmental standards and research."
+    },
+    {
+      "id": 113,
+      "type": "mcq",
+      "text": "What is the study of the Earth's atmosphere called?",
+      "options": [
+        "A. Meteorology",
+        "B. Oceanography",
+        "C. Geology",
+        "D. Biology"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Meteorology covers everything related to weather and atmospheric science."
+    },
+    {
+      "id": 114,
+      "type": "true-false",
+      "text": "Carbon footprint is the amount of greenhouse gases released by an entity.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "It's a way to measure the climate impact of an individual or organization."
+    },
+    {
+      "id": 115,
+      "type": "fill-blank",
+      "text": "The ______ gas is often released during decomposition in landfills.",
+      "answer": "methane",
+      "difficulty": "medium",
+      "explanation": "Methane is a potent greenhouse gas produced in anaerobic environments like landfills."
+    },
+    {
+      "id": 116,
+      "type": "multiple-correct",
+      "text": "Which of these are ways to protect wildlife? (Select all correct)",
+      "options": [
+        "A. Habitat preservation",
+        "B. Anti-poaching patrols",
+        "C. Illegal animal trade",
+        "D. Sustainable fishing",
+        "E. Pollution control"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "difficulty": "easy",
+      "explanation": "Habitat, poaching control, sustainable use, and pollution management all support conservation."
+    },
+    {
+      "id": 117,
+      "type": "assertion-reason",
+      "text": "Assertion: Renewable energy reduces carbon footprint. Reason: They don't emit CO2 when generating power.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Renewable sources are the cornerstone of decarbonizing our energy grid."
+    },
+    {
+      "id": 118,
+      "type": "matching",
+      "text": "Match the climate term to its impact:",
+      "pairs": [
+        [
+          "Global Warming",
+          "Overall increase in planet's temperature"
+        ],
+        [
+          "Climate Change",
+          "Long-term shifts in temperature and weather"
+        ],
+        [
+          "Greenhouse Effect",
+          "Heat trapping mechanism"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are the core components of understanding our changing climate."
+    },
+    {
+      "id": 119,
+      "type": "mcq",
+      "text": "Which human activity causes the most deforestation?",
+      "options": [
+        "A. Urban sprawl",
+        "B. Farming",
+        "C. Mining",
+        "D. Road construction"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "The expansion of agricultural land is the primary driver of global deforestation."
+    },
+    {
+      "id": 120,
+      "type": "true-false",
+      "text": "Air pollution only affects large cities.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Air pollution can travel vast distances and affects rural regions and oceans as well."
+    },
+    {
+      "id": 121,
+      "type": "fill-blank",
+      "text": "The ______ of Earth affects seasons by changing the amount of direct sunlight.",
+      "answer": "tilt",
+      "difficulty": "medium",
+      "explanation": "Earth's axial tilt is why we have distinct seasonal variations."
+    },
+    {
+      "id": 122,
+      "type": "multiple-correct",
+      "text": "Which of these are non-renewable energy sources? (Select all correct)",
+      "options": [
+        "A. Nuclear",
+        "B. Solar",
+        "C. Coal",
+        "D. Oil",
+        "E. Natural gas"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Coal, oil, gas, and uranium are finite; solar is infinite on a human timescale."
+    },
+    {
+      "id": 123,
+      "type": "assertion-reason",
+      "text": "Assertion: Recycling aluminum is more efficient than mining new aluminum. Reason: Melting existing aluminum requires far less energy than extracting it from ore.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Recycling aluminum uses about 95% less energy than primary production."
+    },
+    {
+      "id": 124,
+      "type": "matching",
+      "text": "Match the environmental disaster with its location:",
+      "pairs": [
+        [
+          "Chernobyl",
+          "Ukraine"
+        ],
+        [
+          "Bhopal Gas Tragedy",
+          "India"
+        ],
+        [
+          "Deepwater Horizon",
+          "Gulf of Mexico"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are among the most significant industrial and environmental disasters in history."
+    },
+    {
+      "id": 125,
+      "type": "mcq",
+      "text": "What is the primary role of wetlands in the environment?",
+      "options": [
+        "A. Water filtration",
+        "B. Flood protection",
+        "C. Habitat provision",
+        "D. All of the above"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "explanation": "Wetlands are highly productive and versatile systems performing many critical services."
+    },
+    {
+      "id": 126,
+      "type": "true-false",
+      "text": "Wind energy is reliable because it blows at constant speeds everywhere.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Wind is highly intermittent and varies significantly based on time, location, and altitude."
+    },
+    {
+      "id": 127,
+      "type": "fill-blank",
+      "text": "The ______ is a thin layer of gas that shields life from harmful UV radiation.",
+      "answer": "ozone",
+      "difficulty": "easy",
+      "explanation": "The ozone layer is located in the stratosphere."
+    },
+    {
+      "id": 128,
+      "type": "multiple-correct",
+      "text": "Which of these are greenhouse gases? (Select all correct)",
+      "options": [
+        "A. Carbon dioxide",
+        "B. Methane",
+        "C. Water vapor",
+        "D. Oxygen",
+        "E. Nitrogen"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "easy",
+      "explanation": "CO2, methane, and water vapor are the most important natural and anthropogenic greenhouse gases."
+    },
+    {
+      "id": 129,
+      "type": "assertion-reason",
+      "text": "Assertion: Sustainable forest management prevents desertification. Reason: Roots hold soil in place and reduce erosion.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Tree roots act as natural anchors, keeping soil fertile and in place."
+    },
+    {
+      "id": 130,
+      "type": "matching",
+      "text": "Match the climate term with its description:",
+      "pairs": [
+        [
+          "Adaptation",
+          "Adjusting to new environmental conditions"
+        ],
+        [
+          "Mitigation",
+          "Reducing causes of climate change"
+        ],
+        [
+          "Resilience",
+          "Ability of a system to recover"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These concepts are core to climate policy and environmental management."
+    },
+    {
+      "id": 131,
+      "type": "mcq",
+      "text": "Which chemical is often referred to as the 'common salt'?",
+      "options": [
+        "A. Sodium chloride",
+        "B. Magnesium carbonate",
+        "C. Calcium sulfate",
+        "D. Potassium nitrate"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Sodium chloride (NaCl) is the standard salt used in food and industry."
+    },
+    {
+      "id": 132,
+      "type": "true-false",
+      "text": "The greenhouse effect only affects Earth's atmosphere.",
+      "answer": false,
+      "difficulty": "hard",
+      "explanation": "Any planet with an atmosphere can experience the greenhouse effect; it's extremely strong on Venus."
+    },
+    {
+      "id": 133,
+      "type": "fill-blank",
+      "text": "The study of the relationship between living things and their environment is known as ______.",
+      "answer": "ecology",
+      "difficulty": "easy",
+      "explanation": "Ecology provides the framework for understanding biological interactions."
+    },
+    {
+      "id": 134,
+      "type": "multiple-correct",
+      "text": "Which of these are fossil fuels? (Select all correct)",
+      "options": [
+        "A. Natural gas",
+        "B. Peat",
+        "C. Oil",
+        "D. Solar energy",
+        "E. Coal"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "easy",
+      "explanation": "Peat is the first stage of coal formation and is considered a solid fossil fuel."
+    },
+    {
+      "id": 135,
+      "type": "assertion-reason",
+      "text": "Assertion: The polar ice sheets are shrinking. Reason: Increased global temperatures cause them to melt.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "The link between global warming and polar ice melt is firmly established by scientific data."
+    },
+    {
+      "id": 136,
+      "type": "matching",
+      "text": "Match the renewable resource with its limitation:",
+      "pairs": [
+        [
+          "Solar",
+          "Needs sunshine"
+        ],
+        [
+          "Wind",
+          "Needs specific wind speed"
+        ],
+        [
+          "Hydroelectric",
+          "High initial infrastructure cost"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Every energy source has practical constraints for wide-scale deployment."
+    },
+    {
+      "id": 137,
+      "type": "mcq",
+      "text": "What does the 'R' in the 3Rs stand for when referencing waste?",
+      "options": [
+        "A. Reject",
+        "B. Return",
+        "C. Reuse",
+        "D. React"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "The 3Rs are Reduce, Reuse, and Recycle."
+    },
+    {
+      "id": 138,
+      "type": "true-false",
+      "text": "The atmosphere is composed primarily of nitrogen.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Nitrogen makes up roughly 78% of air, followed by 21% oxygen."
+    },
+    {
+      "id": 139,
+      "type": "fill-blank",
+      "text": "The ______ layer of the atmosphere is where weather occurs.",
+      "answer": "troposphere",
+      "difficulty": "medium",
+      "explanation": "The troposphere is the closest layer to the surface and holds most atmospheric moisture."
+    },
+    {
+      "id": 140,
+      "type": "multiple-correct",
+      "text": "Which of these are greenhouse gases? (Select all correct)",
+      "options": [
+        "A. Carbon Dioxide",
+        "B. Methane",
+        "C. Water Vapor",
+        "D. Oxygen",
+        "E. Nitrogen"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "easy",
+      "explanation": "CO2, methane, and water vapor are key contributors to warming."
+    },
+    {
+      "id": 141,
+      "type": "assertion-reason",
+      "text": "Assertion: Sustainable living is essential for the future. Reason: Current consumption patterns exceed planet regeneration rates.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Living within planetary boundaries is the definition of long-term sustainable existence."
+    },
+    {
+      "id": 142,
+      "type": "matching",
+      "text": "Match the environmental issue with the sector primarily responsible:",
+      "pairs": [
+        [
+          "Greenhouse emissions",
+          "Energy and Transportation"
+        ],
+        [
+          "Water pollution",
+          "Industry and Agriculture"
+        ],
+        [
+          "Deforestation",
+          "Agriculture and Logging"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Multiple economic sectors play a role in environmental degradation."
+    },
+    {
+      "id": 143,
+      "type": "mcq",
+      "text": "Which gas is used for photosynthesis?",
+      "options": [
+        "A. Oxygen",
+        "B. Nitrogen",
+        "C. Carbon dioxide",
+        "D. Argon"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Plants take in carbon dioxide and water to produce glucose and oxygen."
+    },
+    {
+      "id": 144,
+      "type": "true-false",
+      "text": "Compost can help improve soil fertility.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Compost is a nutrient-rich soil amendment derived from broken-down organic matter."
+    },
+    {
+      "id": 145,
+      "type": "fill-blank",
+      "text": "The ______ of the Sun helps drive the Earth's water cycle.",
+      "answer": "heat",
+      "difficulty": "easy",
+      "explanation": "The heat from the Sun causes water to evaporate from oceans and land."
+    },
+    {
+      "id": 146,
+      "type": "multiple-correct",
+      "text": "Which of these are major ecosystems? (Select all correct)",
+      "options": [
+        "A. Desert",
+        "B. Rainforest",
+        "C. Ocean",
+        "D. Concrete",
+        "E. Tundra"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "easy",
+      "explanation": "Deserts, rainforests, oceans, and tundras are natural ecosystems."
+    },
+    {
+      "id": 147,
+      "type": "assertion-reason",
+      "text": "Assertion: Plastic is harmful to marine life. Reason: Marine animals often ingest plastic, leading to starvation or choking.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Plastic ingestion is a major cause of death for many marine species."
+    },
+    {
+      "id": 148,
+      "type": "matching",
+      "text": "Match the energy type to its origin:",
+      "pairs": [
+        [
+          "Geothermal",
+          "Earth's interior heat"
+        ],
+        [
+          "Hydropower",
+          "Flowing water"
+        ],
+        [
+          "Wind",
+          "Atmospheric pressure differences"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are the natural origins of major renewable energy sources."
+    },
+    {
+      "id": 149,
+      "type": "mcq",
+      "text": "Which material is easily recycled and helps save the environment?",
+      "options": [
+        "A. Styrofoam",
+        "B. Paper",
+        "C. Plastic bags",
+        "D. Oil"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Paper is highly recyclable and its production uses significant energy and wood."
+    },
+    {
+      "id": 150,
+      "type": "true-false",
+      "text": "Nuclear fusion is the power source of stars.",
+      "answer": true,
+      "difficulty": "hard",
+      "explanation": "Nuclear fusion of hydrogen atoms creates the energy released by the Sun and other stars."
+    },
+    {
+      "id": 151,
+      "type": "fill-blank",
+      "text": "The ______ hole is a depletion in the atmosphere found over Antarctica.",
+      "answer": "ozone",
+      "difficulty": "medium",
+      "explanation": "The ozone hole is a seasonal thinning of the ozone layer due to chemical reactions."
+    },
+    {
+      "id": 152,
+      "type": "multiple-correct",
+      "text": "Which of these are sustainable energy goals? (Select all correct)",
+      "options": [
+        "A. Reducing dependence on oil",
+        "B. Increasing use of wind energy",
+        "C. Building more coal power plants",
+        "D. Improving energy storage",
+        "E. Encouraging high energy waste"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Sustainable goals involve renewable energy and efficiency, not coal or waste."
+    },
+    {
+      "id": 153,
+      "type": "assertion-reason",
+      "text": "Assertion: Environmental conservation is about saving animals. Reason: Biodiversity loss is a threat to ecosystem services.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Conservation protects species, but its true value lies in the services those species provide."
+    },
+    {
+      "id": 154,
+      "type": "matching",
+      "text": "Match the climate term with its phenomenon:",
+      "pairs": [
+        [
+          "Global warming",
+          "Planet-wide rise in temperature"
+        ],
+        [
+          "Greenhouse effect",
+          "Trapping heat in the atmosphere"
+        ],
+        [
+          "Erosion",
+          "Wearing away of soil"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "Clear terminology is essential for discussing environmental issues effectively."
+    },
+    {
+      "id": 155,
+      "type": "mcq",
+      "text": "Which gas is produced as a byproduct of vehicle exhaust, leading to smog?",
+      "options": [
+        "A. Carbon monoxide",
+        "B. Helium",
+        "C. Hydrogen",
+        "D. Nitrogen"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Incomplete combustion in engines releases toxic carbon monoxide."
+    },
+    {
+      "id": 156,
+      "type": "true-false",
+      "text": "Geothermal energy is available everywhere on Earth.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "Geothermal energy is only practically harnessed in areas with high tectonic or volcanic activity."
+    },
+    {
+      "id": 157,
+      "type": "fill-blank",
+      "text": "A ______ species has a major impact on an ecosystem compared to its number.",
+      "answer": "keystone",
+      "difficulty": "hard",
+      "explanation": "Keystone species are essential for ecological balance."
+    },
+    {
+      "id": 158,
+      "type": "multiple-correct",
+      "text": "Which of these are fossil fuel impacts? (Select all correct)",
+      "options": [
+        "A. Climate change",
+        "B. Air pollution",
+        "C. Water contamination",
+        "D. Increased biodiversity",
+        "E. Sustainable power"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "easy",
+      "explanation": "Fossil fuel use causes severe ecological damage; it does not promote biodiversity."
+    },
+    {
+      "id": 159,
+      "type": "assertion-reason",
+      "text": "Assertion: Sustainable development needs global cooperation. Reason: Environmental issues often cross borders.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Pollution and climate change do not respect national boundaries, requiring unified action."
+    },
+    {
+      "id": 160,
+      "type": "matching",
+      "text": "Match the environmental indicator with its definition:",
+      "pairs": [
+        [
+          "Biodiversity",
+          "Variety of species in an area"
+        ],
+        [
+          "Ecosystem",
+          "Interaction of organisms and environment"
+        ],
+        [
+          "Sustainability",
+          "Meeting needs without depleting resources"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Understanding definitions helps in environmental management."
+    },
+    {
+      "id": 161,
+      "type": "mcq",
+      "text": "What is the primary gas released by burning natural gas?",
+      "options": [
+        "A. Nitrogen",
+        "B. Carbon dioxide",
+        "C. Oxygen",
+        "D. Helium"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Combustion of any hydrocarbon, including natural gas, releases carbon dioxide."
+    },
+    {
+      "id": 162,
+      "type": "true-false",
+      "text": "The Earth is effectively a closed system regarding matter.",
+      "answer": true,
+      "difficulty": "hard",
+      "explanation": "Almost no new matter enters or leaves Earth; matter is recycled."
+    },
+    {
+      "id": 163,
+      "type": "fill-blank",
+      "text": "The ______ of Earth around the Sun takes one year.",
+      "answer": "revolution",
+      "difficulty": "easy",
+      "explanation": "Earth's orbit is a revolution causing the calendar year."
+    },
+    {
+      "id": 164,
+      "type": "multiple-correct",
+      "text": "Which of these activities reduce global emissions? (Select all correct)",
+      "options": [
+        "A. Carpooling",
+        "B. Deforestation",
+        "C. Reforestation",
+        "D. Using renewable electricity",
+        "E. Burning trash"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Reducing transit emissions, increasing carbon sinks, and renewable power reduce global climate impacts."
+    },
+    {
+      "id": 165,
+      "type": "assertion-reason",
+      "text": "Assertion: Plastic debris affects ocean currents. Reason: Plastic accumulation changes water temperature.",
+      "assertion": false,
+      "reason": false,
+      "answer": "D",
+      "difficulty": "hard",
+      "explanation": "Plastic debris does not affect ocean currents or water temperature in any scientifically significant way."
+    },
+    {
+      "id": 166,
+      "type": "matching",
+      "text": "Match the environmental hazard to its effect:",
+      "pairs": [
+        [
+          "Oil spills",
+          "Marine life fatality"
+        ],
+        [
+          "Deforestation",
+          "Increased carbon levels"
+        ],
+        [
+          "Erosion",
+          "Soil loss"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These pairings represent direct impacts of human-driven environmental harm."
+    },
+    {
+      "id": 167,
+      "type": "mcq",
+      "text": "Which gas accounts for the most greenhouse warming in the atmosphere?",
+      "options": [
+        "A. CO2",
+        "B. Methane",
+        "C. Water vapor",
+        "D. Nitrous oxide"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "While water vapor is abundant, CO2 is the most significant human-impacted greenhouse gas."
+    },
+    {
+      "id": 168,
+      "type": "true-false",
+      "text": "Solar energy relies on capturing sunlight via panels.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Photovoltaic cells directly convert light energy into electricity."
+    },
+    {
+      "id": 169,
+      "type": "fill-blank",
+      "text": "The ______ of glaciers is a visible sign of global warming.",
+      "answer": "melting",
+      "difficulty": "easy",
+      "explanation": "Retreating glaciers globally indicate a warming climate."
+    },
+    {
+      "id": 170,
+      "type": "multiple-correct",
+      "text": "Which of these are consequences of air pollution? (Select all correct)",
+      "options": [
+        "A. Respiratory illness",
+        "B. Acid rain",
+        "C. Ozone depletion",
+        "D. Better soil health",
+        "E. Smog"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Air pollution impacts health, weather chemistry, and atmospheric layers."
+    },
+    {
+      "id": 171,
+      "type": "assertion-reason",
+      "text": "Assertion: Wind power is emission-free. Reason: Wind turbines do not require fossil fuels to operate.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Wind power is a clean, sustainable electricity source."
+    },
+    {
+      "id": 172,
+      "type": "matching",
+      "text": "Match the environmental term to the process:",
+      "pairs": [
+        [
+          "Transpiration",
+          "Plant water release"
+        ],
+        [
+          "Evaporation",
+          "Liquid water to vapor"
+        ],
+        [
+          "Condensation",
+          "Vapor to liquid clouds"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These processes define the global water cycle."
+    },
+    {
+      "id": 173,
+      "type": "mcq",
+      "text": "Which renewable source is dependent on tides?",
+      "options": [
+        "A. Solar",
+        "B. Wind",
+        "C. Tidal energy",
+        "D. Biomass"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "Tidal power utilizes the gravitational forces of the moon."
+    },
+    {
+      "id": 174,
+      "type": "true-false",
+      "text": "Climate change may lead to more intense storms.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Warmer oceans provide more energy for cyclonic systems, increasing intensity."
+    },
+    {
+      "id": 175,
+      "type": "fill-blank",
+      "text": "______ is a greenhouse gas emitted by rice paddies.",
+      "answer": "methane",
+      "difficulty": "medium",
+      "explanation": "Wetland rice cultivation creates anaerobic conditions conducive to methane production."
+    },
+    {
+      "id": 176,
+      "type": "multiple-correct",
+      "text": "Which of these are environmental threats? (Select all correct)",
+      "options": [
+        "A. Deforestation",
+        "B. Industrial pollution",
+        "C. Sustainable logging",
+        "D. Overfishing",
+        "E. Habitat destruction"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "difficulty": "easy",
+      "explanation": "Threats include destruction and pollution, whereas sustainable logging is a management practice."
+    },
+    {
+      "id": 177,
+      "type": "assertion-reason",
+      "text": "Assertion: Sustainable forestry protects ecosystems. Reason: Trees are replanted as they are harvested.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Sustainable forestry aims to maintain the forest's ecological integrity long-term."
+    },
+    {
+      "id": 178,
+      "type": "matching",
+      "text": "Match the major biomes with characteristic plants:",
+      "pairs": [
+        [
+          "Desert",
+          "Cactus"
+        ],
+        [
+          "Tropical Rainforest",
+          "Broad-leaved trees"
+        ],
+        [
+          "Tundra",
+          "Mosses and lichens"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Plant species are highly adapted to their specific environmental conditions."
+    },
+    {
+      "id": 179,
+      "type": "mcq",
+      "text": "What is the primary gas released during photosynthesis?",
+      "options": [
+        "A. Carbon dioxide",
+        "B. Nitrogen",
+        "C. Oxygen",
+        "D. Helium"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Oxygen is released as a byproduct of splitting water during photosynthesis."
+    },
+    {
+      "id": 180,
+      "type": "true-false",
+      "text": "The ozone layer is located in the thermosphere.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "It is located in the stratosphere."
+    },
+    {
+      "id": 181,
+      "type": "fill-blank",
+      "text": "The ______ of fossil fuels produces the majority of human-made CO2.",
+      "answer": "combustion",
+      "difficulty": "easy",
+      "explanation": "Burning coal, oil, and gas for energy is the main source of atmospheric carbon."
+    },
+    {
+      "id": 182,
+      "type": "multiple-correct",
+      "text": "Which of these are components of soil? (Select all correct)",
+      "options": [
+        "A. Minerals",
+        "B. Organic matter",
+        "C. Water",
+        "D. Plastic",
+        "E. Air"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Soil is a complex mixture of minerals, organic matter, gases, liquids, and organisms."
+    },
+    {
+      "id": 183,
+      "type": "assertion-reason",
+      "text": "Assertion: Water is a renewable resource. Reason: It is recycled through the water cycle.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Though renewable, clean water is becoming a finite resource due to pollution."
+    },
+    {
+      "id": 184,
+      "type": "matching",
+      "text": "Match the environmental concept to the level:",
+      "pairs": [
+        [
+          "Species",
+          "Individual kind of organism"
+        ],
+        [
+          "Population",
+          "Group of one species"
+        ],
+        [
+          "Community",
+          "All species in an area"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "Ecological hierarchies describe the organization of life."
+    },
+    {
+      "id": 185,
+      "type": "mcq",
+      "text": "Which type of energy source provides the most base-load electricity?",
+      "options": [
+        "A. Solar",
+        "B. Wind",
+        "C. Coal/Nuclear",
+        "D. Biofuel"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "Base-load power requires consistent, 24/7 output, currently dominated by coal and nuclear."
+    },
+    {
+      "id": 186,
+      "type": "true-false",
+      "text": "The Earth is tilted on its axis at 23.5 degrees.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "This tilt is the reason for the occurrence of seasons."
+    },
+    {
+      "id": 187,
+      "type": "fill-blank",
+      "text": "The ______ of species can cause ecosystem imbalance.",
+      "answer": "loss",
+      "difficulty": "easy",
+      "explanation": "Biodiversity loss weakens the overall strength of an ecosystem."
+    },
+    {
+      "id": 188,
+      "type": "multiple-correct",
+      "text": "Which of these are greenhouse gases? (Select all correct)",
+      "options": [
+        "A. Methane",
+        "B. CO2",
+        "C. Nitrous oxide",
+        "D. Oxygen",
+        "E. Nitrogen"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "easy",
+      "explanation": "Methane, CO2, and N2O trap heat in the atmosphere."
+    },
+    {
+      "id": 189,
+      "type": "assertion-reason",
+      "text": "Assertion: Plastic in the ocean doesn't go away. Reason: It breaks down into microplastics.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Microplastics remain in the ocean for centuries, entering the food chain."
+    },
+    {
+      "id": 190,
+      "type": "matching",
+      "text": "Match the climate change indicator to the observation:",
+      "pairs": [
+        [
+          "Glacial melt",
+          "Rising sea levels"
+        ],
+        [
+          "Increased storms",
+          "More extreme weather"
+        ],
+        [
+          "Rising CO2",
+          "Enhanced greenhouse effect"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "These observations provide scientific evidence of rapid climate change."
+    },
+    {
+      "id": 191,
+      "type": "mcq",
+      "text": "Which layer of the Earth protects it from space debris?",
+      "options": [
+        "A. Troposphere",
+        "B. Stratosphere",
+        "C. Mesosphere",
+        "D. Thermosphere"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "The mesosphere is where most meteors burn up upon entry."
+    },
+    {
+      "id": 192,
+      "type": "true-false",
+      "text": "Sunlight is a form of electromagnetic radiation.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Sunlight covers a wide spectrum of radiation, including visible light."
+    },
+    {
+      "id": 193,
+      "type": "fill-blank",
+      "text": "The ______ of trees is vital for maintaining the water cycle.",
+      "answer": "transpiration",
+      "difficulty": "hard",
+      "explanation": "Forests play a key role in recycling water through transpiration."
+    },
+    {
+      "id": 194,
+      "type": "multiple-correct",
+      "text": "Which of these are environmental benefits of urban planning? (Select all correct)",
+      "options": [
+        "A. Less car dependency",
+        "B. Improved air quality",
+        "C. More green spaces",
+        "D. Higher energy consumption",
+        "E. Increased sprawl"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "medium",
+      "explanation": "Smart planning reduces travel, improves air, and integrates nature, while sprawl increases energy use."
+    },
+    {
+      "id": 195,
+      "type": "assertion-reason",
+      "text": "Assertion: Sustainable transport reduces urban smog. Reason: It decreases the number of vehicles on the road.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Fewer cars mean fewer emissions, which directly mitigates smog."
+    },
+    {
+      "id": 196,
+      "type": "matching",
+      "text": "Match the environmental threat to the location:",
+      "pairs": [
+        [
+          "Glacial retreat",
+          "Himalayas"
+        ],
+        [
+          "Ocean pollution",
+          "Pacific Ocean"
+        ],
+        [
+          "Desertification",
+          "Sub-Saharan Africa"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Environmental threats are often regional and linked to local climate factors."
+    },
+    {
+      "id": 197,
+      "type": "mcq",
+      "text": "Which gas is released during photosynthesis by plants?",
+      "options": [
+        "A. Nitrogen",
+        "B. Oxygen",
+        "C. Carbon dioxide",
+        "D. Methane"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Oxygen is the byproduct released during the conversion of light into chemical energy."
+    },
+    {
+      "id": 198,
+      "type": "true-false",
+      "text": "Sustainable development is only about environmental protection.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Sustainable development also requires economic growth and social equity."
+    },
+    {
+      "id": 199,
+      "type": "fill-blank",
+      "text": "The ______ layer of Earth is the only one that supports life.",
+      "answer": "crust",
+      "difficulty": "easy",
+      "explanation": "The thin crust is where all terrestrial life exists."
+    },
+    {
+      "id": 200,
+      "type": "multiple-correct",
+      "text": "Which of these are ways to fight climate change? (Select all correct)",
+      "options": [
+        "A. Planting trees",
+        "B. Promoting renewable energy",
+        "C. Increasing waste production",
+        "D. Protecting natural habitats",
+        "E. Improving energy efficiency"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "All listed actions except increasing waste production are vital to climate action."
     }
   ]
 }
+
+```
