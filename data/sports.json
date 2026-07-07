@@ -1,145 +1,674 @@
 {
-  "category": "Sports",
-  "questions": [
-    {
-      "id": 51,
-      "type": "mcq",
-      "text": "How many players are on a soccer/football team on the field?",
-      "options": [
-        "A. 9",
-        "B. 10",
-        "C. 11",
-        "D. 12"
-      ],
-      "answer": "C",
-      "difficulty": "easy",
-      "explanation": "Each team has 11 players on the field in association football."
-    },
-    {
-      "id": 52,
-      "type": "true-false",
-      "text": "Wimbledon is the oldest tennis tournament in the world.",
-      "answer": true,
-      "difficulty": "medium",
-      "explanation": "Wimbledon was first held in 1877 and is the oldest major tennis tournament."
-    },
-    {
-      "id": 53,
-      "type": "mcq",
-      "text": "In which country are the Olympics 2024 being held?",
-      "options": [
-        "A. USA",
-        "B. France",
-        "C. Japan",
-        "D. Australia"
-      ],
-      "answer": "B",
-      "difficulty": "easy",
-      "explanation": "Paris, France hosted the 2024 Summer Olympics."
-    },
-    {
-      "id": 54,
-      "type": "mcq",
-      "text": "Who won the men's singles at Australian Open 2024?",
-      "options": [
-        "A. Novak Djokovic",
-        "B. Carlos Alcaraz",
-        "C. Jannik Sinner",
-        "D. Daniil Medvedev"
-      ],
-      "answer": "C",
-      "difficulty": "hard",
-      "explanation": "Jannik Sinner won the Australian Open 2024 men's singles title."
-    },
-    {
-      "id": 55,
-      "type": "matching",
-      "text": "Match sports with their governing bodies:",
-      "pairs": [
-        [
-          "Cricket",
-          "ICC"
-        ],
-        [
-          "Football",
-          "FIFA"
-        ],
-        [
-          "Tennis",
-          "ITF"
-        ],
-        [
-          "Basketball",
-          "FIBA"
-        ]
-      ],
-      "difficulty": "medium",
-      "explanation": "These are the international governing bodies for each sport."
-    },
-    {
-      "id": 56,
-      "type": "true-false",
-      "text": "The FIFA World Cup is held every 4 years.",
-      "answer": true,
-      "difficulty": "easy",
-      "explanation": "The FIFA World Cup tournament occurs every 4 years."
-    },
-    {
-      "id": 57,
-      "type": "mcq",
-      "text": "Which team won the ICC Women's World Cup 2023?",
-      "options": [
-        "A. USA",
-        "B. England",
-        "C. Spain",
-        "D. Australia"
-      ],
-      "answer": "C",
-      "difficulty": "hard",
-      "explanation": "Spain won the FIFA Women's World Cup 2023."
-    },
-    {
-      "id": 58,
-      "type": "multiple-correct",
-      "text": "Which sports are played with a ball? (Select all correct)",
-      "options": [
-        "A. Cricket",
-        "B. Chess",
-        "C. Badminton",
-        "D. Swimming",
-        "E. Tennis"
-      ],
-      "answer": [
-        "A",
-        "C",
-        "E"
-      ],
-      "difficulty": "easy",
-      "explanation": "Cricket, badminton, and tennis are ball sports. Chess and swimming don't use balls."
-    },
-    {
-      "id": 59,
-      "type": "assertion-reason",
-      "text": "Assertion: Rohan Bopanna became world No. 1 in doubles tennis. Reason: He was the oldest person to achieve this ranking.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "hard",
-      "explanation": "Both statements are accurate regarding Rohan Bopanna's achievement."
-    },
-    {
-      "id": 60,
-      "type": "mcq",
-      "text": "The Wimbledon tennis tournament is played on which surface?",
-      "options": [
-        "A. Hard court",
-        "B. Clay",
-        "C. Grass",
-        "D. Synthetic"
-      ],
-      "answer": "C",
-      "difficulty": "easy",
-      "explanation": "Wimbledon is famous for its grass courts, the only Grand Slam on grass."
-    }
-  ]
+"category": "Sports",
+"questions": [
+{
+"id": 1,
+"type": "mcq",
+"text": "How many players are on a soccer/football team on the field?",
+"options": [
+"A. 9",
+"B. 10",
+"C. 11",
+"D. 12"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "Each team has 11 players on the field in association football."
+},
+{
+"id": 2,
+"type": "true-false",
+"text": "Wimbledon is the oldest tennis tournament in the world.",
+"answer": true,
+"difficulty": "medium",
+"explanation": "Wimbledon was first held in 1877 and is the oldest major tennis tournament."
+},
+{
+"id": 3,
+"type": "mcq",
+"text": "In which country are the Olympics 2024 being held?",
+"options": [
+"A. USA",
+"B. France",
+"C. Japan",
+"D. Australia"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "Paris, France hosted the 2024 Summer Olympics."
+},
+{
+"id": 4,
+"type": "mcq",
+"text": "Who won the men's singles at Australian Open 2024?",
+"options": [
+"A. Novak Djokovic",
+"B. Carlos Alcaraz",
+"C. Jannik Sinner",
+"D. Daniil Medvedev"
+],
+"answer": "C",
+"difficulty": "hard",
+"explanation": "Jannik Sinner won the Australian Open 2024 men's singles title."
+},
+{
+"id": 5,
+"type": "matching",
+"text": "Match sports with their governing bodies:",
+"pairs": [
+[
+"Cricket",
+"ICC"
+],
+[
+"Football",
+"FIFA"
+],
+[
+"Tennis",
+"ITF"
+],
+[
+"Basketball",
+"FIBA"
+]
+],
+"difficulty": "medium",
+"explanation": "These are the international governing bodies for each sport."
+},
+{
+"id": 6,
+"type": "true-false",
+"text": "The FIFA World Cup is held every 4 years.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "The FIFA World Cup tournament occurs every 4 years."
+},
+{
+"id": 7,
+"type": "mcq",
+"text": "Which team won the ICC Women's World Cup 2023?",
+"options": [
+"A. USA",
+"B. England",
+"C. Spain",
+"D. Australia"
+],
+"answer": "C",
+"difficulty": "hard",
+"explanation": "Spain won the FIFA Women's World Cup 2023."
+},
+{
+"id": 8,
+"type": "multiple-correct",
+"text": "Which sports are played with a ball? (Select all correct)",
+"options": [
+"A. Cricket",
+"B. Chess",
+"C. Badminton",
+"D. Swimming",
+"E. Tennis"
+],
+"answer": [
+"A",
+"C",
+"E"
+],
+"difficulty": "easy",
+"explanation": "Cricket, badminton, and tennis are ball sports. Chess and swimming don't use balls."
+},
+{
+"id": 9,
+"type": "assertion-reason",
+"text": "Assertion: Rohan Bopanna became world No. 1 in doubles tennis. Reason: He was the oldest person to achieve this ranking.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "hard",
+"explanation": "Both statements are accurate regarding Rohan Bopanna's achievement."
+},
+{
+"id": 10,
+"type": "mcq",
+"text": "The Wimbledon tennis tournament is played on which surface?",
+"options": [
+"A. Hard court",
+"B. Clay",
+"C. Grass",
+"D. Synthetic"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "Wimbledon is famous for its grass courts, the only Grand Slam on grass."
+},
+{
+"id": 11,
+"type": "mcq",
+"text": "Which country won the ICC Men's Cricket World Cup in 2023?",
+"options": [
+"A. India",
+"B. Australia",
+"C. England",
+"D. New Zealand"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "Australia defeated India in the final to win the ICC Men's Cricket World Cup 2023."
+},
+{
+"id": 12,
+"type": "true-false",
+"text": "Michael Phelps holds the record for the most Olympic gold medals won by an individual.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "Michael Phelps won 23 Olympic gold medals during his swimming career, the most by any athlete."
+},
+{
+"id": 13,
+"type": "fill-blank",
+"text": "The scoring term 'birdie' is primarily used in the sport of ______.",
+"answer": "Golf",
+"difficulty": "easy",
+"explanation": "In golf, a birdie means scoring one stroke under par on a hole."
+},
+{
+"id": 14,
+"type": "multiple-correct",
+"text": "Which of these players have won the prestigious FIFA Ballon d'Or multiple times? (Select all correct)",
+"options": [
+"A. Lionel Messi",
+"B. Cristiano Ronaldo",
+"C. Neymar",
+"D. Michel Platini",
+"E. Wayne Rooney"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "medium",
+"explanation": "Messi, Ronaldo, and Platini have all won multiple Ballon d'Or awards. Neymar and Rooney have not."
+},
+{
+"id": 15,
+"type": "assertion-reason",
+"text": "Assertion: Test cricket is considered the longest format of the game. Reason: A standard Test match is scheduled to be played over five consecutive days.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "easy",
+"explanation": "Both statements are correct, and the five-day duration is exactly why it is the longest format."
+},
+{
+"id": 16,
+"type": "matching",
+"text": "Match the legendary athletes to their primary sport:",
+"pairs": [
+[
+"Usain Bolt",
+"Sprinting"
+],
+[
+"Muhammad Ali",
+"Boxing"
+],
+[
+"Tiger Woods",
+"Golf"
+]
+],
+"difficulty": "easy",
+"explanation": "These athletes are considered among the greatest of all time in their respective sports."
+},
+{
+"id": 17,
+"type": "mcq",
+"text": "In standard basketball rules, how many points is a successful free throw worth?",
+"options": [
+"A. 1",
+"B. 2",
+"C. 3",
+"D. 4"
+],
+"answer": "A",
+"difficulty": "easy",
+"explanation": "A free throw in basketball is awarded after a foul and is worth 1 point."
+},
+{
+"id": 18,
+"type": "true-false",
+"text": "A standard professional baseball game consists of exactly 9 innings.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "Major League Baseball games are played over 9 innings, unless there is a tie requiring extra innings."
+},
+{
+"id": 19,
+"type": "fill-blank",
+"text": "The official national winter sport of Canada is ice ______.",
+"answer": "hockey",
+"difficulty": "easy",
+"explanation": "Ice hockey is deeply ingrained in Canadian culture and is their official national winter sport."
+},
+{
+"id": 20,
+"type": "multiple-correct",
+"text": "Which of the following events are part of a standard Men's Decathlon? (Select all correct)",
+"options": [
+"A. 100m sprint",
+"B. Long jump",
+"C. Swimming",
+"D. Shot put",
+"E. Gymnastics"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "hard",
+"explanation": "The Decathlon consists of 10 track and field events, including the 100m, long jump, and shot put, but not swimming or gymnastics."
+},
+{
+"id": 21,
+"type": "assertion-reason",
+"text": "Assertion: Simone Biles is widely regarded as one of the greatest gymnasts of all time. Reason: She has won the most World Championship medals in gymnastics history.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are true. Her record-breaking medal count is a primary reason for her GOAT status in gymnastics."
+},
+{
+"id": 22,
+"type": "matching",
+"text": "Match the Grand Slam tennis tournaments with their traditional host cities:",
+"pairs": [
+[
+"French Open",
+"Paris"
+],
+[
+"US Open",
+"New York"
+],
+[
+"Australian Open",
+"Melbourne"
+]
+],
+"difficulty": "medium",
+"explanation": "These are the permanent host cities for three of the four tennis Grand Slams."
+},
+{
+"id": 23,
+"type": "mcq",
+"text": "Who holds the current world record for the men's 100m sprint?",
+"options": [
+"A. Tyson Gay",
+"B. Yohan Blake",
+"C. Justin Gatlin",
+"D. Usain Bolt"
+],
+"answer": "D",
+"difficulty": "easy",
+"explanation": "Usain Bolt set the world record of 9.58 seconds at the 2009 World Athletics Championships in Berlin."
+},
+{
+"id": 24,
+"type": "true-false",
+"text": "The Tour de France is an annual multi-stage bicycle race primarily held in France.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "It is the most prestigious and difficult bicycle race in the world, held annually since 1903."
+},
+{
+"id": 25,
+"type": "fill-blank",
+"text": "An official marathon race has a standard distance of exactly ______ miles.",
+"answer": "26.2",
+"difficulty": "medium",
+"explanation": "The official distance of a marathon is 26.2 miles, or 42.195 kilometers."
+},
+{
+"id": 26,
+"type": "multiple-correct",
+"text": "Which of the following national teams have won the FIFA Men's World Cup? (Select all correct)",
+"options": [
+"A. Brazil",
+"B. Germany",
+"C. Netherlands",
+"D. Italy",
+"E. Belgium"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "medium",
+"explanation": "Brazil, Germany, and Italy have all won multiple World Cups. The Netherlands and Belgium have never won."
+},
+{
+"id": 27,
+"type": "assertion-reason",
+"text": "Assertion: The yellow jersey (maillot jaune) in the Tour de France is highly coveted. Reason: It is worn by the rider who is the current overall time leader of the race.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are correct, and being the overall time leader is the exact reason the jersey is awarded."
+},
+{
+"id": 28,
+"type": "matching",
+"text": "Match the NBA franchises to their home cities:",
+"pairs": [
+[
+"Lakers",
+"Los Angeles"
+],
+[
+"Bulls",
+"Chicago"
+],
+[
+"Celtics",
+"Boston"
+]
+],
+"difficulty": "easy",
+"explanation": "These are three of the most historic and successful franchises in NBA history."
+},
+{
+"id": 29,
+"type": "mcq",
+"text": "Which piece in chess is generally considered the most powerful due to its movement capabilities?",
+"options": [
+"A. Knight",
+"B. Rook",
+"C. King",
+"D. Queen"
+],
+"answer": "D",
+"difficulty": "easy",
+"explanation": "The Queen is the most powerful piece as it can move any number of squares vertically, horizontally, or diagonally."
+},
+{
+"id": 30,
+"type": "true-false",
+"text": "In volleyball, a team is allowed a maximum of three touches to return the ball over the net.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "A team can touch the ball up to three times (usually a bump, set, and spike) before it must cross the net."
+},
+{
+"id": 31,
+"type": "fill-blank",
+"text": "The Ryder Cup is a famous biennial men's team competition in the sport of ______.",
+"answer": "golf",
+"difficulty": "medium",
+"explanation": "The Ryder Cup pits teams of professional golfers from Europe against a team from the United States."
+},
+{
+"id": 32,
+"type": "multiple-correct",
+"text": "Which of the following are official strokes used in competitive Olympic swimming? (Select all correct)",
+"options": [
+"A. Butterfly",
+"B. Dog paddle",
+"C. Backstroke",
+"D. Breaststroke",
+"E. Freestyle"
+],
+"answer": [
+"A",
+"C",
+"D",
+"E"
+],
+"difficulty": "easy",
+"explanation": "Butterfly, backstroke, breaststroke, and freestyle are the four official competitive swimming strokes."
+},
+{
+"id": 33,
+"type": "assertion-reason",
+"text": "Assertion: Formula 1 cars are designed with large aerodynamic wings. Reason: The wings generate downforce to push the car into the track, increasing cornering speeds and traction.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are true. Aerodynamic downforce is critical for modern F1 cars to take corners at high speeds."
+},
+{
+"id": 34,
+"type": "matching",
+"text": "Match the martial arts disciplines to their country of origin:",
+"pairs": [
+[
+"Judo",
+"Japan"
+],
+[
+"Taekwondo",
+"South Korea"
+],
+[
+"Kung Fu",
+"China"
+]
+],
+"difficulty": "medium",
+"explanation": "These martial arts are deeply rooted in the history and culture of their respective originating nations."
+},
+{
+"id": 35,
+"type": "mcq",
+"text": "How many pockets are there on a standard snooker or pool table?",
+"options": [
+"A. 4",
+"B. 6",
+"C. 8",
+"D. 10"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "There are six pockets: one in each of the four corners, and one in the middle of each of the two long cushions."
+},
+{
+"id": 36,
+"type": "true-false",
+"text": "The Thomas Cup is a major international team tournament in men's badminton.",
+"answer": true,
+"difficulty": "medium",
+"explanation": "The Thomas Cup is the premier international men's team championship in badminton, analogous to the Davis Cup in tennis."
+},
+{
+"id": 37,
+"type": "fill-blank",
+"text": "In ten-pin bowling, scoring three consecutive strikes is commonly known as a ______.",
+"answer": "turkey",
+"difficulty": "medium",
+"explanation": "The term 'turkey' is a long-standing bowling slang for three strikes in a row."
+},
+{
+"id": 38,
+"type": "multiple-correct",
+"text": "Which of these athletes are famous for their careers in Formula 1 racing? (Select all correct)",
+"options": [
+"A. Lewis Hamilton",
+"B. Max Verstappen",
+"C. Valentino Rossi",
+"D. Fernando Alonso",
+"E. Roger Federer"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "medium",
+"explanation": "Hamilton, Verstappen, and Alonso are F1 World Champions. Rossi is a MotoGP legend, and Federer plays tennis."
+},
+{
+"id": 39,
+"type": "assertion-reason",
+"text": "Assertion: A 'hat-trick' in football refers to a single player scoring three goals in one game. Reason: The term originated from a 19th-century British cricket tradition of presenting a hat to a bowler who took three wickets with three consecutive deliveries.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "hard",
+"explanation": "Both statements are true, and the origin in cricket explains how the term made its way into other sports like football and hockey."
+},
+{
+"id": 40,
+"type": "matching",
+"text": "Match the famous sports trophies to the sport they belong to:",
+"pairs": [
+[
+"Stanley Cup",
+"Ice Hockey"
+],
+[
+"Vince Lombardi Trophy",
+"American Football"
+],
+[
+"The Ashes Urn",
+"Cricket"
+]
+],
+"difficulty": "medium",
+"explanation": "These are the pinnacle championship trophies for the NHL, NFL, and the England-Australia Test cricket series, respectively."
+},
+{
+"id": 41,
+"type": "mcq",
+"text": "The 'Super Bowl' is the annual championship game of which professional sports league?",
+"options": [
+"A. NBA",
+"B. MLB",
+"C. NFL",
+"D. NHL"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "The Super Bowl is the championship game of the National Football League (NFL)."
+},
+{
+"id": 42,
+"type": "true-false",
+"text": "In rugby union, a successfully scored 'try' is worth 5 points.",
+"answer": true,
+"difficulty": "medium",
+"explanation": "A try, scored by grounding the ball in the opponent's in-goal area, awards 5 points to the attacking team."
+},
+{
+"id": 43,
+"type": "fill-blank",
+"text": "The maximum possible break (score in a single visit to the table) without fouls in a standard game of snooker is ______.",
+"answer": "147",
+"difficulty": "hard",
+"explanation": "A maximum break involves potting all 15 reds with 15 blacks, followed by all six colors in sequence, totaling 147 points."
+},
+{
+"id": 44,
+"type": "multiple-correct",
+"text": "Which of the following sports are featured in the Winter Olympic Games? (Select all correct)",
+"options": [
+"A. Figure Skating",
+"B. Curling",
+"C. Surfing",
+"D. Snowboarding",
+"E. Beach Volleyball"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "easy",
+"explanation": "Figure skating, curling, and snowboarding are Winter Olympic sports. Surfing and beach volleyball are in the Summer Games."
+},
+{
+"id": 45,
+"type": "assertion-reason",
+"text": "Assertion: The sport of table tennis has been historically dominated by Asian countries at the Olympics. Reason: China has won the vast majority of all available gold medals in Olympic table tennis history.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are correct. China's sheer dominance in the sport validates the assertion."
+},
+{
+"id": 46,
+"type": "matching",
+"text": "Match the soccer (football) positions to their primary on-field role:",
+"pairs": [
+[
+"Goalkeeper",
+"Stops the ball from entering the net"
+],
+[
+"Striker",
+"Primary goal scorer"
+],
+[
+"Defender",
+"Prevents the opposition from attacking"
+]
+],
+"difficulty": "easy",
+"explanation": "These are the fundamental responsibilities of the basic positions in soccer."
+},
+{
+"id": 47,
+"type": "mcq",
+"text": "The 'All Blacks' rugby team, known for performing the Haka before matches, represents which country?",
+"options": [
+"A. Australia",
+"B. South Africa",
+"C. England",
+"D. New Zealand"
+],
+"answer": "D",
+"difficulty": "medium",
+"explanation": "The New Zealand national rugby union team performs the traditional Māori Haka to challenge their opponents."
+},
+{
+"id": 48,
+"type": "true-false",
+"text": "In field hockey, players are allowed to use both the flat side and the rounded side of their stick to hit the ball.",
+"answer": false,
+"difficulty": "medium",
+"explanation": "Players are only permitted to use the flat side of the stick; using the rounded back side is a foul."
+},
+{
+"id": 49,
+"type": "fill-blank",
+"text": "The definitive winning condition in a game of chess, where the opponent's king is inescapably under attack, is called ______.",
+"answer": "checkmate",
+"difficulty": "easy",
+"explanation": "Checkmate ends the game immediately, declaring the attacking player the winner."
+},
+{
+"id": 50,
+"type": "multiple-correct",
+"text": "Which of these Grand Slam tennis tournaments are played on hard courts? (Select all correct)",
+"options": [
+"A. Australian Open",
+"B. French Open",
+"C. Wimbledon",
+"D. US Open",
+"E. Davis Cup"
+],
+"answer": [
+"A",
+"D"
+],
+"difficulty": "medium",
+"explanation": "The Australian Open and US Open are played on hard courts. The French Open is on clay, and Wimbledon is on grass. The Davis Cup is not a Grand Slam tournament."
+}
+]
 }
