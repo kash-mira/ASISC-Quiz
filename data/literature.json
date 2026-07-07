@@ -2,6 +2,560 @@
   "category": "Literature & Language",
   "questions": [
     {
+      "id": 1,
+      "type": "mcq",
+      "text": "Who is the author of 'Pride and Prejudice'?",
+      "options": [
+        "A. Charlotte Brontë",
+        "B. Jane Austen",
+        "C. Emily Brontë",
+        "D. George Eliot"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Jane Austen wrote 'Pride and Prejudice', published in 1813."
+    },
+    {
+      "id": 2,
+      "type": "true-false",
+      "text": "'Romeo and Juliet' was written by William Shakespeare.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "William Shakespeare wrote the tragedy 'Romeo and Juliet' around 1595."
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "text": "Which literary device compares two unlike things using 'like' or 'as'?",
+      "options": [
+        "A. Metaphor",
+        "B. Simile",
+        "C. Personification",
+        "D. Alliteration"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "A simile makes a comparison using 'like' or 'as', unlike a metaphor which states a direct equivalence."
+    },
+    {
+      "id": 4,
+      "type": "multiple-correct",
+      "text": "Which of these are works by William Shakespeare? (Select all correct)",
+      "options": [
+        "A. Hamlet",
+        "B. Macbeth",
+        "C. Don Quixote",
+        "D. Othello",
+        "E. War and Peace"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Hamlet, Macbeth, and Othello are Shakespeare plays. 'Don Quixote' is by Cervantes and 'War and Peace' is by Tolstoy."
+    },
+    {
+      "id": 5,
+      "type": "assertion-reason",
+      "text": "Assertion: George Orwell's '1984' is a dystopian novel. Reason: It depicts a totalitarian government surveilling its citizens.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are true and correctly related; '1984' portrays a surveillance state under Big Brother."
+    },
+    {
+      "id": 6,
+      "type": "fill-blank",
+      "text": "The famous novel 'Moby-Dick' was written by ______.",
+      "answer": "Herman Melville",
+      "difficulty": "easy",
+      "explanation": "Herman Melville published 'Moby-Dick' in 1851."
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "text": "Who wrote 'The Adventures of Huckleberry Finn'?",
+      "options": [
+        "A. Mark Twain",
+        "B. Nathaniel Hawthorne",
+        "C. Herman Melville",
+        "D. Edgar Allan Poe"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Mark Twain wrote 'The Adventures of Huckleberry Finn', published in 1884."
+    },
+    {
+      "id": 8,
+      "type": "matching",
+      "text": "Match authors with their famous novels:",
+      "pairs": [
+        [
+          "Leo Tolstoy",
+          "War and Peace"
+        ],
+        [
+          "Fyodor Dostoevsky",
+          "Crime and Punishment"
+        ],
+        [
+          "Gabriel García Márquez",
+          "One Hundred Years of Solitude"
+        ],
+        [
+          "Victor Hugo",
+          "Les Misérables"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Each author is famously associated with one of these classic novels."
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "text": "What is the term for a story narrated by a character whose credibility is compromised?",
+      "options": [
+        "A. Omniscient narrator",
+        "B. Unreliable narrator",
+        "C. Limited narrator",
+        "D. Epistolary narrator"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "An unreliable narrator's account of events cannot be fully trusted by the reader."
+    },
+    {
+      "id": 10,
+      "type": "true-false",
+      "text": "A sonnet traditionally has 14 lines.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "The sonnet is a 14-line poetic form, often written in iambic pentameter."
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "text": "Which Indian author wrote 'Midnight's Children'?",
+      "options": [
+        "A. Arundhati Roy",
+        "B. Salman Rushdie",
+        "C. Vikram Seth",
+        "D. R.K. Narayan"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Salman Rushdie wrote 'Midnight's Children', which won the Booker Prize in 1981."
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "text": "What is the setting of William Golding's 'Lord of the Flies'?",
+      "options": [
+        "A. A deserted island",
+        "B. A boarding school",
+        "C. A spaceship",
+        "D. A war-torn city"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "The novel takes place on a deserted island where a group of boys are stranded."
+    },
+    {
+      "id": 13,
+      "type": "fill-blank",
+      "text": "In poetry, a group of lines forming a single unit is called a ______.",
+      "answer": "stanza",
+      "difficulty": "easy",
+      "explanation": "A stanza is a grouped set of lines within a poem, similar to a paragraph in prose."
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "text": "Which literary movement is associated with William Wordsworth and Samuel Taylor Coleridge?",
+      "options": [
+        "A. Modernism",
+        "B. Romanticism",
+        "C. Realism",
+        "D. Naturalism"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Wordsworth and Coleridge co-authored 'Lyrical Ballads', a foundational text of English Romanticism."
+    },
+    {
+      "id": 15,
+      "type": "multiple-correct",
+      "text": "Which of the following are considered epic poems? (Select all correct)",
+      "options": [
+        "A. The Iliad",
+        "B. The Odyssey",
+        "C. Paradise Lost",
+        "D. The Great Gatsby",
+        "E. Mrs Dalloway"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Iliad, The Odyssey, and Paradise Lost are epic poems. The other two are novels."
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "text": "Who is the author of 'To Kill a Mockingbird'?",
+      "options": [
+        "A. Harper Lee",
+        "B. Toni Morrison",
+        "C. John Steinbeck",
+        "D. Ernest Hemingway"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Harper Lee published 'To Kill a Mockingbird' in 1960."
+    },
+    {
+      "id": 17,
+      "type": "true-false",
+      "text": "'The Canterbury Tales' was written by Geoffrey Chaucer.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Geoffrey Chaucer wrote 'The Canterbury Tales' in the late 14th century."
+    },
+    {
+      "id": 18,
+      "type": "assertion-reason",
+      "text": "Assertion: 'Hamlet' is considered a tragedy. Reason: The play ends with the deaths of multiple main characters.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are true and related; the deaths of Hamlet, Claudius, Gertrude, and Laertes mark it as a tragedy."
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "text": "What figure of speech gives human qualities to non-human things?",
+      "options": [
+        "A. Simile",
+        "B. Personification",
+        "C. Hyperbole",
+        "D. Onomatopoeia"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Personification attributes human characteristics to non-human entities or objects."
+    },
+    {
+      "id": 20,
+      "type": "matching",
+      "text": "Match literary terms with their definitions:",
+      "pairs": [
+        [
+          "Metaphor",
+          "A direct comparison without using like or as"
+        ],
+        [
+          "Alliteration",
+          "Repetition of initial consonant sounds"
+        ],
+        [
+          "Irony",
+          "A contrast between expectation and reality"
+        ],
+        [
+          "Foreshadowing",
+          "A hint about events that will happen later"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Each term has a distinct definition used to analyze literary technique."
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "text": "Which novel begins with the line 'It was the best of times, it was the worst of times'?",
+      "options": [
+        "A. Oliver Twist",
+        "B. A Tale of Two Cities",
+        "C. Great Expectations",
+        "D. David Copperfield"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "This is the opening line of Charles Dickens's 'A Tale of Two Cities'."
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "text": "Who wrote the play 'A Doll's House'?",
+      "options": [
+        "A. Anton Chekhov",
+        "B. Henrik Ibsen",
+        "C. George Bernard Shaw",
+        "D. Oscar Wilde"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Henrik Ibsen wrote 'A Doll's House' in 1879, a landmark work of realist drama."
+    },
+    {
+      "id": 23,
+      "type": "fill-blank",
+      "text": "A ______ is a fourteen-line poem often written in iambic pentameter.",
+      "answer": "sonnet",
+      "difficulty": "easy",
+      "explanation": "The sonnet is a well-known 14-line poetic form popularized by poets like Shakespeare and Petrarch."
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "text": "Which Greek writer is known as the father of tragedy?",
+      "options": [
+        "A. Sophocles",
+        "B. Aeschylus",
+        "C. Euripides",
+        "D. Aristophanes"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Aeschylus is often called the father of tragedy for his foundational contributions to Greek drama."
+    },
+    {
+      "id": 25,
+      "type": "true-false",
+      "text": "'Pride and Prejudice' was originally titled 'First Impressions'.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Jane Austen's manuscript was initially titled 'First Impressions' before being revised and published as 'Pride and Prejudice'."
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "text": "Who wrote 'One Hundred Years of Solitude'?",
+      "options": [
+        "A. Jorge Luis Borges",
+        "B. Gabriel García Márquez",
+        "C. Pablo Neruda",
+        "D. Mario Vargas Llosa"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Gabriel García Márquez wrote this landmark work of magical realism, published in 1967."
+    },
+    {
+      "id": 27,
+      "type": "multiple-correct",
+      "text": "Which of the following are plays written by Oscar Wilde? (Select all correct)",
+      "options": [
+        "A. The Importance of Being Earnest",
+        "B. An Ideal Husband",
+        "C. Waiting for Godot",
+        "D. Lady Windermere's Fan",
+        "E. The Cherry Orchard"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Wilde wrote 'The Importance of Being Earnest', 'An Ideal Husband', and 'Lady Windermere's Fan'. The others are by Beckett and Chekhov respectively."
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "text": "What term describes the repetition of a consonant sound at the beginning of closely connected words?",
+      "options": [
+        "A. Assonance",
+        "B. Alliteration",
+        "C. Consonance",
+        "D. Rhyme"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Alliteration is the repetition of initial consonant sounds, as in 'she sells sea shells'."
+    },
+    {
+      "id": 29,
+      "type": "assertion-reason",
+      "text": "Assertion: 'Animal Farm' is an allegory for the Russian Revolution. Reason: The characters and events in the story symbolically represent historical figures and events.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are true and related; George Orwell used farm animals to allegorically depict Soviet history."
+    },
+    {
+      "id": 30,
+      "type": "matching",
+      "text": "Match the following novels with their authors:",
+      "pairs": [
+        [
+          "Wuthering Heights",
+          "Emily Brontë"
+        ],
+        [
+          "Jane Eyre",
+          "Charlotte Brontë"
+        ],
+        [
+          "Frankenstein",
+          "Mary Shelley"
+        ],
+        [
+          "Dracula",
+          "Bram Stoker"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Each of these classic novels is correctly paired with its respective author."
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "text": "In which century did the Romantic literary movement primarily flourish?",
+      "options": [
+        "A. 17th century",
+        "B. 18th-19th century",
+        "C. 20th century",
+        "D. 16th century"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Romanticism flourished from the late 18th century through the mid-19th century."
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "text": "Which of these is NOT a genre of literature?",
+      "options": [
+        "A. Fiction",
+        "B. Non-fiction",
+        "C. Poetry",
+        "D. Algebra"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "explanation": "Algebra is a branch of mathematics, not a literary genre."
+    },
+    {
+      "id": 33,
+      "type": "fill-blank",
+      "text": "The term for the central message or insight of a literary work is called its ______.",
+      "answer": "theme",
+      "difficulty": "easy",
+      "explanation": "The theme is the underlying idea or main message an author explores in a work."
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "text": "Who wrote 'Great Expectations'?",
+      "options": [
+        "A. Charles Dickens",
+        "B. Thomas Hardy",
+        "C. Wilkie Collins",
+        "D. Anthony Trollope"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Charles Dickens wrote 'Great Expectations', published in serial form in 1860-1861."
+    },
+    {
+      "id": 35,
+      "type": "true-false",
+      "text": "An 'antagonist' is the main character of a story who drives the plot forward.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "The main character who drives the plot is the protagonist; the antagonist opposes them."
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "text": "What is a haiku traditionally composed of?",
+      "options": [
+        "A. 5-7-5 syllable structure",
+        "B. 14 lines",
+        "C. Rhyming couplets",
+        "D. Free verse only"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "A traditional haiku follows a three-line 5-7-5 syllable pattern, originating in Japan."
+    },
+    {
+      "id": 37,
+      "type": "multiple-correct",
+      "text": "Which of these are Nobel Prize winners in Literature? (Select all correct)",
+      "options": [
+        "A. Rabindranath Tagore",
+        "B. Ernest Hemingway",
+        "C. J.K. Rowling",
+        "D. Toni Morrison",
+        "E. Stephen King"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Tagore (1913), Hemingway (1954), and Morrison (1993) won the Nobel Prize in Literature. Rowling and King have not."
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "text": "Who is the author of 'The Old Man and the Sea'?",
+      "options": [
+        "A. Ernest Hemingway",
+        "B. F. Scott Fitzgerald",
+        "C. William Faulkner",
+        "D. John Steinbeck"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Ernest Hemingway wrote 'The Old Man and the Sea', published in 1952."
+    },
+    {
+      "id": 39,
+      "type": "assertion-reason",
+      "text": "Assertion: William Shakespeare wrote in both prose and verse. Reason: He often used verse for noble characters and prose for common characters.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are true and correctly related, reflecting a common convention in Shakespearean drama."
+    },
+    {
+      "id": 40,
+      "type": "matching",
+      "text": "Match poets with their famous poems:",
+      "pairs": [
+        [
+          "William Wordsworth",
+          "Daffodils"
+        ],
+        [
+          "Robert Frost",
+          "The Road Not Taken"
+        ],
+        [
+          "John Keats",
+          "Ode to a Nightingale"
+        ],
+        [
+          "Maya Angelou",
+          "Still I Rise"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Each poet is famously associated with one of these well-known poems."
+    },
+    {
       "id": 41,
       "type": "mcq",
       "text": "Who wrote 'Romeo and Juliet'?",
