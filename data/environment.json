@@ -40,6 +40,593 @@
     {
       "id": 4,
       "type": "mcq",
+      "text": "What is the primary cause of acid rain?",
+      "options": [
+        "A. Volcanic eruptions",
+        "B. Industrial emissions of sulfur dioxide and nitrogen oxides",
+        "C. Natural decomposition",
+        "D. Ocean evaporation"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Acid rain is caused by sulfur dioxide and nitrogen oxides from burning fossil fuels."
+    },
+    {
+      "id": 5,
+      "type": "true-false",
+      "text": "Plastic takes approximately 500 years to decompose in nature.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Most plastics take 400-1000 years to decompose, with some estimates even longer."
+    },
+    {
+      "id": 6,
+      "type": "fill-blank",
+      "text": "The process by which a body of water becomes overly enriched with nutrients is called ______.",
+      "answer": "eutrophication",
+      "difficulty": "hard",
+      "explanation": "Eutrophication leads to excessive algal growth and oxygen depletion in water bodies."
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "text": "Which renewable energy source is most abundant in India?",
+      "options": [
+        "A. Hydroelectric power",
+        "B. Solar energy",
+        "C. Wind energy",
+        "D. Geothermal energy"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "India has abundant solar resources due to its tropical and subtropical location."
+    },
+    {
+      "id": 8,
+      "type": "multiple-correct",
+      "text": "Which of these are renewable energy sources? (Select all correct)",
+      "options": [
+        "A. Solar power",
+        "B. Coal",
+        "C. Wind power",
+        "D. Petroleum",
+        "E. Hydroelectric power"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "difficulty": "easy",
+      "explanation": "Solar, wind, and hydroelectric are renewable. Coal and petroleum are fossil fuels."
+    },
+    {
+      "id": 9,
+      "type": "assertion-reason",
+      "text": "Assertion: Melting polar ice caps will raise global sea levels. Reason: The ice contains fresh water that adds volume to the oceans.",
+      "assertion": true,
+      "reason": false,
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "The assertion is true, but the reason is incorrect. Floating sea ice doesn't raise levels when melted; land-based ice does."
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "text": "Which city is known as the 'Green City' of India?",
+      "options": [
+        "A. Bangalore",
+        "B. Jaipur",
+        "C. Mysore",
+        "D. Pune"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "Mysore is known for its green spaces, parks, and environmental conservation efforts."
+    },
+    {
+      "id": 11,
+      "type": "true-false",
+      "text": "Deforestation reduces the amount of carbon dioxide in the atmosphere.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Deforestation increases CO2 levels as trees that absorb carbon are removed."
+    },
+    {
+      "id": 12,
+      "type": "fill-blank",
+      "text": "The Paris Climate Agreement aims to limit global warming to ______ degrees Celsius.",
+      "answer": "1.5",
+      "difficulty": "medium",
+      "explanation": "The goal is to limit warming to 1.5-2°C above pre-industrial levels."
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "text": "Which layer of Earth's atmosphere contains the ozone layer?",
+      "options": [
+        "A. Troposphere",
+        "B. Stratosphere",
+        "C. Mesosphere",
+        "D. Thermosphere"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "The ozone layer is located in the stratosphere, approximately 15-35 km above Earth."
+    },
+    {
+      "id": 14,
+      "type": "matching",
+      "text": "Match environmental organizations with their primary focus:",
+      "pairs": [
+        [
+          "World Wildlife Fund (WWF)",
+          "Wildlife and ecosystem conservation"
+        ],
+        [
+          "Greenpeace",
+          "Environmental activism and campaigns"
+        ],
+        [
+          "The Nature Conservancy",
+          "Land and water protection"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Each organization has distinct approaches to environmental protection."
+    },
+    {
+      "id": 15,
+      "type": "true-false",
+      "text": "The Amazon Rainforest produces 20% of the world's oxygen.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "The Amazon is often called the 'lungs of the Earth' due to its massive oxygen production."
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "text": "Which gas contributes most to ozone layer depletion?",
+      "options": [
+        "A. Carbon dioxide",
+        "B. Chlorofluorocarbons (CFCs)",
+        "C. Methane",
+        "D. Nitrous oxide"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "CFCs were primarily responsible for ozone depletion and are now banned by the Montreal Protocol."
+    },
+    {
+      "id": 17,
+      "type": "fill-blank",
+      "text": "The term ______ refers to the variety of all living species on Earth.",
+      "answer": "biodiversity",
+      "difficulty": "easy",
+      "explanation": "Biodiversity encompasses all plants, animals, fungi, and microorganisms in an ecosystem."
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "text": "Which international agreement was signed to phase out ozone-depleting substances?",
+      "options": [
+        "A. Kyoto Protocol",
+        "B. Montreal Protocol",
+        "C. Paris Agreement",
+        "D. Basel Convention"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "The Montreal Protocol (1987) has been successful in protecting the ozone layer."
+    },
+    {
+      "id": 19,
+      "type": "assertion-reason",
+      "text": "Assertion: Urban areas experience higher temperatures than surrounding rural areas. Reason: Buildings and concrete absorb and retain heat differently than natural surfaces.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "This phenomenon is called the urban heat island effect and is well-documented."
+    },
+    {
+      "id": 20,
+      "type": "multiple-correct",
+      "text": "Which of these are major sources of water pollution? (Select all correct)",
+      "options": [
+        "A. Agricultural runoff",
+        "B. Industrial wastewater",
+        "C. Plastic waste",
+        "D. Air pollution",
+        "E. Marine life"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "medium",
+      "explanation": "Agricultural, industrial, and plastic waste pollute water. Air pollution and marine life are not sources of water pollution."
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "text": "Which species is the national animal of India?",
+      "options": [
+        "A. Asian Elephant",
+        "B. Bengal Tiger",
+        "C. Indian Rhinoceros",
+        "D. Asiatic Lion"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "The Bengal Tiger is India's national animal and a symbol of wildlife conservation."
+    },
+    {
+      "id": 22,
+      "type": "true-false",
+      "text": "Coral reefs are among the most biodiverse ecosystems on Earth.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Coral reefs support about 25% of all marine species despite covering less than 1% of the ocean floor."
+    },
+    {
+      "id": 23,
+      "type": "fill-blank",
+      "text": "The process of converting waste into useful products is called ______.",
+      "answer": "recycling",
+      "difficulty": "easy",
+      "explanation": "Recycling reduces waste and conserves natural resources."
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "text": "Which natural disaster occurs when tectonic plates suddenly release energy?",
+      "options": [
+        "A. Tsunami",
+        "B. Earthquake",
+        "C. Tornado",
+        "D. Landslide"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Earthquakes are caused by the sudden release of energy from tectonic plate movement."
+    },
+    {
+      "id": 25,
+      "type": "assertion-reason",
+      "text": "Assertion: Greenhouse gases trap heat in Earth's atmosphere. Reason: They prevent infrared radiation from escaping to space.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct and explain the mechanism of global warming."
+    },
+    {
+      "id": 26,
+      "type": "matching",
+      "text": "Match climate phenomena with their descriptions:",
+      "pairs": [
+        [
+          "El Niño",
+          "Warming of Pacific Ocean waters"
+        ],
+        [
+          "La Niña",
+          "Cooling of Pacific Ocean waters"
+        ],
+        [
+          "Monsoon",
+          "Seasonal wind bringing heavy rainfall"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "These are major climate patterns affecting weather worldwide."
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "text": "Which country is the world's largest emitter of carbon dioxide?",
+      "options": [
+        "A. United States",
+        "B. India",
+        "C. China",
+        "D. Russia"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "China is currently the world's largest CO2 emitter, followed by the United States."
+    },
+    {
+      "id": 28,
+      "type": "true-false",
+      "text": "Mangrove forests play a crucial role in protecting coastlines from erosion.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Mangroves have dense root systems that stabilize coastlines and prevent erosion."
+    },
+    {
+      "id": 29,
+      "type": "fill-blank",
+      "text": "A species found only in one specific geographical location is called ______.",
+      "answer": "endemic",
+      "difficulty": "hard",
+      "explanation": "Endemic species are particularly vulnerable to extinction."
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "text": "Which renewable energy source harnesses the heat from inside Earth?",
+      "options": [
+        "A. Solar energy",
+        "B. Wind energy",
+        "C. Geothermal energy",
+        "D. Tidal energy"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "Geothermal energy uses Earth's internal heat to generate electricity."
+    },
+    {
+      "id": 31,
+      "type": "multiple-correct",
+      "text": "Which of these are consequences of climate change? (Select all correct)",
+      "options": [
+        "A. Rising sea levels",
+        "B. Increased frequency of extreme weather",
+        "C. Species extinction",
+        "D. Improved air quality",
+        "E. Ocean acidification"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Climate change causes multiple environmental impacts. Improved air quality is not a consequence."
+    },
+    {
+      "id": 32,
+      "type": "assertion-reason",
+      "text": "Assertion: Forests are called the lungs of the Earth. Reason: They produce oxygen through photosynthesis and absorb carbon dioxide.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Both statements are correct and explain the ecological importance of forests."
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "text": "Which Indian national park is famous for its tiger conservation program?",
+      "options": [
+        "A. Jim Corbett National Park",
+        "B. Ranthambore National Park",
+        "C. Sundarbans National Park",
+        "D. All of the above"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "explanation": "All these parks are important tiger conservation areas in India."
+    },
+    {
+      "id": 34,
+      "type": "true-false",
+      "text": "The Kyoto Protocol was an agreement to reduce greenhouse gas emissions.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "The Kyoto Protocol (1997) was the first major international agreement on climate change."
+    },
+    {
+      "id": 35,
+      "type": "fill-blank",
+      "text": "The process where soil is carried away by wind or water is called ______.",
+      "answer": "erosion",
+      "difficulty": "easy",
+      "explanation": "Soil erosion is a major environmental concern affecting agriculture and ecosystems."
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "text": "Which is the world's largest rainforest?",
+      "options": [
+        "A. Congo Rainforest",
+        "B. Amazon Rainforest",
+        "C. Southeast Asian Rainforest",
+        "D. Daintree Rainforest"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "The Amazon Rainforest spans across nine countries and is the largest rainforest on Earth."
+    },
+    {
+      "id": 37,
+      "type": "assertion-reason",
+      "text": "Assertion: Wetlands are important ecosystems despite covering small areas. Reason: They provide habitat for diverse species and filter water.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Wetlands are disproportionately important for their ecological services."
+    },
+    {
+      "id": 38,
+      "type": "matching",
+      "text": "Match endangered animals with their primary habitat:",
+      "pairs": [
+        [
+          "Giant Panda",
+          "Bamboo forests of China"
+        ],
+        [
+          "Black Rhino",
+          "African savannas and forests"
+        ],
+        [
+          "Snow Leopard",
+          "Mountain regions of Central Asia"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Understanding species habitats is crucial for conservation efforts."
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "text": "Which gas is the most abundant in Earth's atmosphere?",
+      "options": [
+        "A. Oxygen",
+        "B. Nitrogen",
+        "C. Carbon dioxide",
+        "D. Argon"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere."
+    },
+    {
+      "id": 40,
+      "type": "true-false",
+      "text": "Biodiversity loss can lead to ecosystem collapse.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Species loss reduces ecosystem resilience and function."
+    },
+    {
+      "id": 41,
+      "type": "fill-blank",
+      "text": "The gradual warming of Earth's climate is called ______.",
+      "answer": "global warming",
+      "difficulty": "easy",
+      "explanation": "Global warming is primarily caused by increased greenhouse gas emissions."
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "text": "Which international organization is primarily responsible for environmental protection worldwide?",
+      "options": [
+        "A. World Health Organization",
+        "B. United Nations Environment Programme",
+        "C. World Trade Organization",
+        "D. International Labour Organization"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "UNEP coordinates global environmental policies and initiatives."
+    },
+    {
+      "id": 43,
+      "type": "multiple-correct",
+      "text": "Which of these are ways to reduce personal carbon footprint? (Select all correct)",
+      "options": [
+        "A. Using public transportation",
+        "B. Eating less meat",
+        "C. Flying frequently",
+        "D. Installing solar panels",
+        "E. Wasting water"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "Public transport, plant-based diet, and renewable energy reduce emissions. Flying and wasting increase carbon footprint."
+    },
+    {
+      "id": 44,
+      "type": "assertion-reason",
+      "text": "Assertion: Protected areas are sufficient to conserve all species. Reason: Reserves prevent all human interference with natural habitats.",
+      "assertion": false,
+      "reason": false,
+      "answer": "D",
+      "difficulty": "hard",
+      "explanation": "Both statements are false. Protected areas alone are insufficient; species need connectivity and resources beyond reserve boundaries."
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "text": "Which process converts nitrogen in the atmosphere into a form plants can use?",
+      "options": [
+        "A. Photosynthesis",
+        "B. Nitrogen fixation",
+        "C. Respiration",
+        "D. Decomposition"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Nitrogen fixation by bacteria and legumes makes atmospheric nitrogen available to ecosystems."
+    },
+    {
+      "id": 46,
+      "type": "true-false",
+      "text": "All plastic is recyclable and can be processed multiple times without degradation.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "Many plastics can only be recycled once or twice before degradation makes them unusable."
+    },
+    {
+      "id": 47,
+      "type": "fill-blank",
+      "text": "The transition away from fossil fuels to renewable energy sources is called the energy ______.",
+      "answer": "transition",
+      "difficulty": "medium",
+      "explanation": "The energy transition is critical for addressing climate change."
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "text": "Which factor is NOT a major cause of deforestation?",
+      "options": [
+        "A. Agricultural expansion",
+        "B. Logging for timber",
+        "C. Urban development",
+        "D. Increased tree planting"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "explanation": "Tree planting actually reduces deforestation; the other options are major causes."
+    },
+    {
+      "id": 49,
+      "type": "assertion-reason",
+      "text": "Assertion: Ocean acidification is a direct consequence of increased atmospheric CO2. Reason: Oceans absorb about 30% of human-emitted CO2.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are correct and explain the mechanism of ocean acidification."
+    },
+    {
+      "id": 50,
+      "type": "matching",
+      "text": "Match environmental threats with their primary causes:",
+      "pairs": [
+        [
+          "Acid rain",
+          "Sulfur dioxide and nitrogen oxides"
+        ],
+        [
+          "Dead zones",
+          "Agricultural nutrient runoff"
+        ],
+        [
+          "Light pollution",
+          "Excessive artificial lighting"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "Understanding cause-and-effect relationships is crucial for environmental problem-solving."
+    }
+  ]
+}      "difficulty": "medium",
+      "explanation": "Ladakh has the highest population of snow leopards in India."
+    },
+    {
+      "id": 4,
+      "type": "mcq",
       "text": "What is the theme of World Environment Day 2024?",
       "options": [
         "A. Beat Plastic Pollution",
