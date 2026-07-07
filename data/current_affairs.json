@@ -76,7 +76,7 @@
 "text": "Assertion: COP28 was held in Dubai. Reason: Dubai is in a developing nation.",
 "assertion": true,
 "reason": false,
-"answer": "C",
+"answer": "A",
 "difficulty": "medium",
 "explanation": "The assertion is true, but the reason is false as UAE is developing."
 },
@@ -153,48 +153,14 @@
 },
 {
 "id": 12,
-"type": "mcq",
-"text": "What is Pakistan's counter-terrorism operation called?",
-"options": [
-"A. Operation Ghazwa-e-Hind",
-"B. Operation Ghazab lil-Haq",
-"C. Operation Zarb-e-Azb",
-"D. Operation Radd-ul-Fasaad"
-],
-"answer": "B",
+"type": "true-false",
+"text": "The Druzhba Oil Pipeline primarily transports oil from Central Asia to China.",
+"answer": false,
 "difficulty": "hard",
-"explanation": "Pakistan launched Operation 'Ghazab lil-Haq' as a decisive strike against Taliban and Afghan militants in February 2026."
+"explanation": "The Druzhba Oil Pipeline transports oil from Russia to Europe."
 },
 {
 "id": 13,
-"type": "mcq",
-"text": "At what rank does India's youth stand in the Global Mental Health Index?",
-"options": [
-"A. 45th position",
-"B. 50th position",
-"C. 60th position",
-"D. 75th position"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "According to February 2026 reports, India's young adults rank 60th in the Global Mental Health Index, highlighting mental health challenges."
-},
-{
-"id": 14,
-"type": "mcq",
-"text": "What is the Druzhba Oil Pipeline primarily used for?",
-"options": [
-"A. Natural gas transport from Russia to Europe",
-"B. Oil transportation from Russia to Europe",
-"C. Oil transport from Central Asia to China",
-"D. Water supply pipeline"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "The Druzhba Oil Pipeline transports oil from Russia to Europe. Its outage in February 2026 stalled new EU sanctions against Russia."
-},
-{
-"id": 15,
 "type": "mcq",
 "text": "Which prestigious Israeli award was conferred upon PM Modi in February 2026?",
 "options": [
@@ -205,136 +171,93 @@
 ],
 "answer": "B",
 "difficulty": "medium",
-"explanation": "PM Modi was conferred with Israel's prestigious 'Speaker of the Knesset Medal' in February 2026."
+"explanation": "PM Modi was conferred with Israel's prestigious 'Speaker of the Knesset Medal'."
+},
+{
+"id": 14,
+"type": "fill-blank",
+"text": "A new species of midge discovered in India in February 2026 is named the ______ Blossom Midge.",
+"answer": "Jasmine",
+"difficulty": "hard",
+"explanation": "A new Jasmine Blossom Midge species was discovered in India, adding to the country's biodiversity."
+},
+{
+"id": 15,
+"type": "assertion-reason",
+"text": "Assertion: India's new GDP calculation series will not use UPI transaction data. Reason: UPI transactions have been completely banned in India.",
+"assertion": true,
+"reason": false,
+"answer": "C",
+"difficulty": "hard",
+"explanation": "The new GDP series will exclude UPI transaction data, but UPI transactions are certainly not banned in India."
 },
 {
 "id": 16,
 "type": "mcq",
-"text": "What is the NAMASTE Scheme primarily focused on?",
+"text": "Where did the 7th edition of Exercise Dharma Guardian commence in February 2026?",
 "options": [
-"A. Healthcare awareness",
-"B. Education for girls",
-"C. Tourism and cultural awareness",
-"D. Agricultural development"
+"A. Pune, Maharashtra",
+"B. Chaubattia, Uttarakhand",
+"C. Jaisalmer, Rajasthan",
+"D. Bakloh, Himachal Pradesh"
 ],
-"answer": "C",
+"answer": "B",
 "difficulty": "medium",
-"explanation": "The NAMASTE Scheme awareness programme was held in Pilibhit in February 2026, focusing on tourism and cultural awareness."
+"explanation": "Exercise Dharma Guardian's 7th edition commenced in Chaubattia, Uttarakhand."
 },
 {
 "id": 17,
-"type": "mcq",
-"text": "Which Indian Air Command conducted the 'Kalari Leap' exercise?",
-"options": [
-"A. Eastern Air Command",
-"B. Northern Air Command",
-"C. Southern Air Command",
-"D. Central Air Command"
+"type": "matching",
+"text": "Match the following government initiatives with their primary focus:",
+"pairs": [
+[
+"PRAHAAR",
+"Internal security blueprint"
 ],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "The Southern Air Command conducted 'Kalari Leap' exercise as a strategic maneuver in February 2026."
+[
+"NAMASTE Scheme",
+"Tourism and cultural awareness"
+],
+[
+"Vanjeevi Didi",
+"Empowering women in wildlife reserves"
+]
+],
+"difficulty": "medium",
+"explanation": "These represent key government programs spanning security, culture, and women's empowerment."
 },
 {
 "id": 18,
-"type": "mcq",
-"text": "A new species of midge was discovered in India in February 2026. What is its name?",
-"options": [
-"A. Jasmine Blossom Midge",
-"B. Rose Petal Midge",
-"C. Lotus Flower Midge",
-"D. Tulip Blossom Midge"
-],
-"answer": "A",
-"difficulty": "hard",
-"explanation": "A new Jasmine Blossom Midge species was discovered in India in February 2026, adding to the country's biodiversity."
+"type": "true-false",
+"text": "In February 2026, the Union Cabinet approved a bill to rename the state of Kerala to 'Keralam'.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "The Union Cabinet approved a bill in February 2026 to rename Kerala to 'Keralam'."
 },
 {
 "id": 19,
 "type": "mcq",
-"text": "What recent change was made to India's GDP calculation series?",
+"text": "For which country did the Indian Embassy issue a safety advisory in February 2026 due to regional tensions?",
 "options": [
-"A. Started using crypto data",
-"B. Will not use UPI transaction data",
-"C. Will include informal sector data",
-"D. Will use real estate data only"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "India's new GDP series announced in February 2026 will not use UPI transaction data in its calculations."
-},
-{
-"id": 20,
-"type": "mcq",
-"text": "Exercise Dharma Guardian is in which edition?",
-"options": [
-"A. 5th edition",
-"B. 6th edition",
-"C. 7th edition",
-"D. 8th edition"
+"A. Syria",
+"B. Afghanistan",
+"C. Iran",
+"D. Pakistan"
 ],
 "answer": "C",
 "difficulty": "medium",
-"explanation": "Exercise Dharma Guardian's 7th edition commenced in Chaubattia, Uttarakhand in February 2026."
+"explanation": "The Indian Embassy issued an advisory for Iran due to ongoing regional tensions and military operations."
+},
+{
+"id": 20,
+"type": "fill-blank",
+"text": "The Election Commission of India introduced a unified voting plan in February 2026 called the 'One ______ List'.",
+"answer": "Voter",
+"difficulty": "hard",
+"explanation": "The 'One Voter List' is the ECI's unified voting plan."
 },
 {
 "id": 21,
-"type": "mcq",
-"text": "What does PRAHAAR stand for in India's internal security policy?",
-"options": [
-"A. A 5-pillar security framework",
-"B. A unified 7-pillar blueprint",
-"C. A 9-pillar internal defense plan",
-"D. A 12-pillar comprehensive policy"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "PRAHAAR is India's first comprehensive anti-terror policy launched as a unified 7-pillar blueprint in February 2026."
-},
-{
-"id": 22,
-"type": "mcq",
-"text": "Which Indian state was approved to be renamed in February 2026?",
-"options": [
-"A. Tamil Nadu to Tamizhnadu",
-"B. Kerala to Keralam",
-"C. Karnataka to Kannadiga",
-"D. Odisha to Odia"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "The Union Cabinet approved a bill in February 2026 to rename Kerala to 'Keralam' ahead of assembly elections."
-},
-{
-"id": 23,
-"type": "mcq",
-"text": "What was the Indian Embassy advisory issued for in February 2026?",
-"options": [
-"A. Pakistan safety",
-"B. Iran safety",
-"C. Afghanistan safety",
-"D. Syria safety"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "The Indian Embassy issued an advisory for Iran in February 2026 due to ongoing regional tensions and military operations."
-},
-{
-"id": 24,
-"type": "mcq",
-"text": "What is the 'One Voter List' initiative by the Election Commission of India?",
-"options": [
-"A. A single voter database per state",
-"B. A unified voting plan across elections",
-"C. A digital voter ID system",
-"D. A single-name voting register"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "The 'One Voter List' is the Election Commission of India's unified voting plan introduced in February 2026."
-},
-{
-"id": 25,
 "type": "mcq",
 "text": "Which Indian film won Best Children's & Family Film at the BAFTA Awards in 2026?",
 "options": [
@@ -348,7 +271,7 @@
 "explanation": "India's 'Boong' won the Best Children's & Family Film at the BAFTA Awards 2026."
 },
 {
-"id": 26,
+"id": 22,
 "type": "multiple-correct",
 "text": "Which of the following are features of the Vanjeevi Didi Initiative? (Select all correct)",
 "options": [
@@ -367,7 +290,7 @@
 "explanation": "The initiative focuses on empowering women in the Palamu Tiger Reserve, Jharkhand."
 },
 {
-"id": 27,
+"id": 23,
 "type": "mcq",
 "text": "Where will the first phase of the Door-to-Door Housing Census 2027 start?",
 "options": [
@@ -381,7 +304,7 @@
 "explanation": "The first phase of the Door-to-Door Housing Census 2027 is slated to begin in Ludhiana."
 },
 {
-"id": 28,
+"id": 24,
 "type": "true-false",
 "text": "The Vibrant Villages Programme-II was launched in the state of Assam.",
 "answer": true,
@@ -389,7 +312,7 @@
 "explanation": "It was launched in Assam's Cachar District in February 2026."
 },
 {
-"id": 29,
+"id": 25,
 "type": "assertion-reason",
 "text": "Assertion: 'Pax Silica' is a new alliance redefining global power. Reason: It is primarily focused on agricultural trade agreements.",
 "assertion": true,
@@ -399,7 +322,7 @@
 "explanation": "Pax Silica is an alliance redefining global power through semiconductors, not agriculture."
 },
 {
-"id": 30,
+"id": 26,
 "type": "mcq",
 "text": "What major decision did the International Paralympic Committee (IPC) take regarding Russia in February 2026?",
 "options": [
@@ -413,7 +336,7 @@
 "explanation": "The IPC lifted the Russian Paralympics ban for the 2026 Games."
 },
 {
-"id": 31,
+"id": 27,
 "type": "fill-blank",
 "text": "MeitY rolled out ______ for next-generation multilingual voice AI in February 2026.",
 "answer": "VoicERA",
@@ -421,7 +344,7 @@
 "explanation": "VoicERA was developed by MeitY as a next-gen multilingual voice AI tool."
 },
 {
-"id": 32,
+"id": 28,
 "type": "mcq",
 "text": "Which tech company announced a $15 billion investment for a full-stack AI hub in Visakhapatnam?",
 "options": [
@@ -435,7 +358,7 @@
 "explanation": "Google announced a $15 billion investment for an AI hub in Visakhapatnam."
 },
 {
-"id": 33,
+"id": 29,
 "type": "matching",
 "text": "Match the recent AI and tech initiatives with their descriptions:",
 "pairs": [
@@ -456,7 +379,7 @@
 "explanation": "These are prominent technology and sustainability portals/tools introduced recently in India."
 },
 {
-"id": 34,
+"id": 30,
 "type": "true-false",
 "text": "NHAI launched the 'Bee Corridors' initiative to create the first-ever pollinator initiative along national highways.",
 "answer": true,
@@ -464,7 +387,7 @@
 "explanation": "Bee Corridors is NHAI's first-ever pollinator initiative launched along highways."
 },
 {
-"id": 35,
+"id": 31,
 "type": "mcq",
 "text": "How many Rafale fighter jets does India plan to acquire in the new deal announced in February 2026?",
 "options": [
@@ -478,7 +401,7 @@
 "explanation": "India plans to acquire 114 Rafale fighter jets in the deal with France."
 },
 {
-"id": 36,
+"id": 32,
 "type": "multiple-correct",
 "text": "Which of the following initiatives were launched by Kiren Rijiju in February 2026? (Select all correct)",
 "options": [
@@ -497,7 +420,7 @@
 "explanation": "He launched the NIGRANI App, AI Chatbots, and the Haj Wrist Band."
 },
 {
-"id": 37,
+"id": 33,
 "type": "mcq",
 "text": "Which Indian female cricketer bagged the BBC Top Honor in February 2026?",
 "options": [
@@ -511,7 +434,7 @@
 "explanation": "Smriti Mandhana received the BBC Top Honor marking a golden year for women's cricket."
 },
 {
-"id": 38,
+"id": 34,
 "type": "fill-blank",
 "text": "AIIMS conducted its first remote ultrasound procedure in the icy region of ______ in February 2026.",
 "answer": "Antarctica",
@@ -519,7 +442,7 @@
 "explanation": "The successful remote ultrasound procedure in Antarctica showcased India's telemedicine capabilities."
 },
 {
-"id": 39,
+"id": 35,
 "type": "mcq",
 "text": "What is 'Bulbul V-3', created in collaboration with Sarvam AI?",
 "options": [
@@ -533,7 +456,7 @@
 "explanation": "Bulbul V-3 is an AI initiative redefining Indian digital public infrastructure at a global level."
 },
 {
-"id": 40,
+"id": 36,
 "type": "assertion-reason",
 "text": "Assertion: Odisha is introducing QR codes on land records. Reason: QR codes will facilitate easy digital verification of the documents.",
 "assertion": true,
@@ -543,7 +466,7 @@
 "explanation": "Odisha announced this measure to streamline and secure land record verification."
 },
 {
-"id": 41,
+"id": 37,
 "type": "mcq",
 "text": "Where was the 14th WTO Ministerial Conference (MC14) held in March 2026?",
 "options": [
@@ -557,73 +480,73 @@
 "explanation": "MC14 was held in Yaoundé, Cameroon, under the chairmanship of Luc Magloire Mbarga Atangana."
 },
 {
-"id": 42,
+"id": 38,
 "type": "true-false",
 "text": "The 28-year e-commerce moratorium on customs duties for digital transmissions was permanently extended at the WTO MC14.",
 "answer": false,
 "difficulty": "hard",
 "explanation": "The moratorium officially lapsed, causing the 'Yaoundé Deadlock' and marking a turning point in digital trade."
+},
+{
+"id": 39,
+"type": "mcq",
+"text": "What is the primary purpose of the 'Jan Samarth Portal'?",
+"options": [
+"A. Student scholarship applications",
+"B. Credit-linked government schemes",
+"C. Healthcare booking system",
+"D. Tax filing and payment"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "It is a national portal for Credit-Linked Government Schemes to connect citizens digitally with these programs."
+},
+{
+"id": 40,
+"type": "fill-blank",
+"text": "India's First Digital Census 2027 is scheduled to begin its operations in ______ 2026.",
+"answer": "April",
+"difficulty": "easy",
+"explanation": "The digital census is scheduled to begin in April 2026, featuring self-enumeration."
+},
+{
+"id": 41,
+"type": "mcq",
+"text": "Which country announced a ban on social media for users under 16 years old in March 2026?",
+"options": [
+"A. Australia",
+"B. Singapore",
+"C. Indonesia",
+"D. Malaysia"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "Indonesia banned social media for under-16 users, establishing strict new digital rules."
+},
+{
+"id": 42,
+"type": "matching",
+"text": "Match the March 2026 discoveries/events with their locations:",
+"pairs": [
+[
+"Hidden ocean in Earth's mantle",
+"Deep inside Earth"
+],
+[
+"Rare Keelback Snake",
+"Northeast India"
+],
+[
+"LPG tankers stuck",
+"Hormuz Strait"
+]
+],
+"difficulty": "hard",
+"explanation": "These events highlight significant geographical, biological, and geopolitical occurrences from March 2026."
 },
 {
 "id": 43,
 "type": "mcq",
-"text": "What is the primary purpose of the 'Jan Samarth Portal'?",
-"options": [
-"A. Student scholarship applications",
-"B. Credit-linked government schemes",
-"C. Healthcare booking system",
-"D. Tax filing and payment"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "It is a national portal for Credit-Linked Government Schemes to connect citizens digitally with these programs."
-},
-{
-"id": 44,
-"type": "fill-blank",
-"text": "India's First Digital Census 2027 is scheduled to begin its operations in ______ 2026.",
-"answer": "April",
-"difficulty": "easy",
-"explanation": "The digital census is scheduled to begin in April 2026, featuring self-enumeration."
-},
-{
-"id": 45,
-"type": "mcq",
-"text": "Which country announced a ban on social media for users under 16 years old in March 2026?",
-"options": [
-"A. Australia",
-"B. Singapore",
-"C. Indonesia",
-"D. Malaysia"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Indonesia banned social media for under-16 users, establishing strict new digital rules."
-},
-{
-"id": 46,
-"type": "matching",
-"text": "Match the March 2026 discoveries/events with their locations:",
-"pairs": [
-[
-"Hidden ocean in Earth's mantle",
-"Deep inside Earth"
-],
-[
-"Rare Keelback Snake",
-"Northeast India"
-],
-[
-"LPG tankers stuck",
-"Hormuz Strait"
-]
-],
-"difficulty": "hard",
-"explanation": "These events highlight significant geographical, biological, and geopolitical occurrences from March 2026."
-},
-{
-"id": 47,
-"type": "mcq",
 "text": "How many railway stations are targeted for redevelopment under the Amrit Bharat Station Scheme?",
 "options": [
 "A. 500",
@@ -636,7 +559,7 @@
 "explanation": "The scheme aims to redevelop 1338 railway stations across India."
 },
 {
-"id": 48,
+"id": 44,
 "type": "multiple-correct",
 "text": "Which of the following states passed the Uniform Civil Code (UCC) Bill in the first quarter of 2026? (Select all correct)",
 "options": [
@@ -654,7 +577,7 @@
 "explanation": "Uttarakhand implemented it first, and Gujarat passed its UCC Bill in March 2026."
 },
 {
-"id": 49,
+"id": 45,
 "type": "assertion-reason",
 "text": "Assertion: BCCI decided to skip the opening ceremony at Chinnaswamy Stadium for IPL 2026. Reason: The stadium was completely destroyed in an earthquake.",
 "assertion": true,
@@ -662,789 +585,54 @@
 "answer": "C",
 "difficulty": "easy",
 "explanation": "The assertion is true, but the reason is fabricated. The ceremony was skipped for logistical/operational reasons, not an earthquake."
+},
+{
+"id": 46,
+"type": "mcq",
+"text": "According to reports from March 2026, which country topped the global pollution index?",
+"options": [
+"A. India",
+"B. China",
+"C. Bangladesh",
+"D. Pakistan"
+],
+"answer": "D",
+"difficulty": "easy",
+"explanation": "Pakistan topped the global pollution list, while India ranked sixth."
+},
+{
+"id": 47,
+"type": "fill-blank",
+"text": "The Lok Sabha passed the ______ Rights Amendment Bill in March 2026 to advance LGBTQ+ protections.",
+"answer": "Transgender",
+"difficulty": "medium",
+"explanation": "The Transgender Rights Amendment Bill 2026 was passed to strengthen protections."
+},
+{
+"id": 48,
+"type": "mcq",
+"text": "What is 'Akasha300 3D', delivered to ISRO by Spacetime 4D?",
+"options": [
+"A. A 3D mapping satellite",
+"B. A 3D printer",
+"C. A 3D space telescope",
+"D. A 3D imaging system"
+],
+"answer": "B",
+"difficulty": "hard",
+"explanation": "Akasha300 3D is a 3D printer delivered for space applications."
+},
+{
+"id": 49,
+"type": "true-false",
+"text": "The Ayush Ministry launched an in-flight yoga routine for air travellers in March 2026.",
+"answer": true,
+"difficulty": "medium",
+"explanation": "This innovative initiative aims to promote wellness during air travel."
 },
 {
 "id": 50,
 "type": "mcq",
-"text": "According to reports from March 2026, which country topped the global pollution index?",
-"options": [
-"A. India",
-"B. China",
-"C. Bangladesh",
-"D. Pakistan"
-],
-"answer": "D",
-"difficulty": "easy",
-"explanation": "Pakistan topped the global pollution list, while India ranked sixth."
-},
-{
-"id": 51,
-"type": "mcq",
-"text": "What is the new UPI-linked withdrawal facility under EPFO 3.0 expected by?",
-"options": [
-"A. January 2026",
-"B. February 2026",
-"C. April 2026",
-"D. June 2026"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The UPI-linked withdrawal facility under EPFO 3.0 is expected to be implemented by April 2026, allowing ATM-like withdrawals."
-},
-{
-"id": 52,
-"type": "mcq",
-"text": "Which Indian organization launched the Responsible Nations Index in January 2026?",
-"options": [
-"A. Ministry of External Affairs",
-"B. World Intellectual Foundation",
-"C. NITI Aayog",
-"D. Observer Research Foundation"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "The World Intellectual Foundation launched the Responsible Nations Index at Dr. Ambedkar International Centre, New Delhi."
-},
-{
-"id": 53,
-"type": "mcq",
-"text": "At what rank did India place in the Responsible Nations Index 2026?",
-"options": [
-"A. 8th position",
-"B. 12th position",
-"C. 16th position",
-"D. 20th position"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "India ranks 16th in the Responsible Nations Index 2026, ahead of the United States (66th) and China (68th)."
-},
-{
-"id": 54,
-"type": "mcq",
-"text": "Which state witnessed the Hot Air Balloon Festival in January 2026?",
-"options": [
-"A. Rajasthan",
-"B. Gujarat",
-"C. Telangana",
-"D. Maharashtra"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The Hot Air Balloon Festival was recently started in Telangana, providing a unique recreational and tourism experience."
-},
-{
-"id": 55,
-"type": "mcq",
-"text": "Who was appointed as the new Director General of NIA in January 2026?",
-"options": [
-"A. Rajesh Agrawal",
-"B. Rakesh Agrawal",
-"C. Rohit Agrawal",
-"D. Ravi Agrawal"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Senior police officer Rakesh Agrawal was appointed as the new Director General of the National Investigation Agency (NIA)."
-},
-{
-"id": 56,
-"type": "mcq",
-"text": "Which bank launched India's first solar-powered ATM van?",
-"options": [
-"A. State Bank of India",
-"B. HDFC Bank",
-"C. Tripura Gramin Bank",
-"D. Punjab National Bank"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Tripura Gramin Bank launched 'TGB On Wheels,' India's first solar-powered mobile ATM van for remote banking services."
-},
-{
-"id": 57,
-"type": "mcq",
-"text": "What is the objective of Tripura Gramin Bank's solar ATM van initiative?",
-"options": [
-"A. Generate revenue for the bank",
-"B. Financial inclusion in remote areas",
-"C. Reduce carbon emissions",
-"D. Showcase green technology"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "The solar ATM van aims to provide uninterrupted banking services to remote and electricity-deficient areas, promoting financial inclusion."
-},
-{
-"id": 58,
-"type": "mcq",
-"text": "What was the combined market value of the India-EU FTA announced?",
-"options": [
-"A. USD 12 trillion",
-"B. USD 18 trillion",
-"C. USD 24 trillion",
-"D. USD 30 trillion"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "The India-EU FTA generates a combined market value of USD 24 trillion, covering the 2nd and 4th largest economies."
-},
-{
-"id": 59,
-"type": "mcq",
-"text": "In which year did India and the EU first launch FTA negotiations?",
-"options": [
-"A. 2005",
-"B. 2007",
-"C. 2010",
-"D. 2012"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "India and the EU first began FTA negotiations in 2007, which were suspended in 2013 and resumed in 2022 before concluding in January 2026."
-},
-{
-"id": 60,
-"type": "mcq",
-"text": "Which Union Minister launched 2 major bamboo projects in the Northeast?",
-"options": [
-"A. Minister of Commerce",
-"B. Minister of Development of North Eastern Region",
-"C. Minister of Agriculture",
-"D. Minister of Rural Development"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Union Minister Jyotiraditya Scindia (Minister of Development of North Eastern Region) launched 2 bamboo projects worth Rs 82.5 crore in Guwahati."
-},
-{
-"id": 61,
-"type": "mcq",
-"text": "What was the total investment in the two bamboo projects launched in the Northeast?",
-"options": [
-"A. Rs 50 crore",
-"B. Rs 70 crore",
-"C. Rs 82.5 crore",
-"D. Rs 100 crore"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The two bamboo projects in the Northeast were worth Rs 82.5 crore, launched on January 26, 2026, in Guwahati."
-},
-{
-"id": 62,
-"type": "mcq",
-"text": "What is the LRASiM missile's striking speed?",
-"options": [
-"A. Mach 5",
-"B. Mach 10",
-"C. Mach 3.37",
-"D. Mach 2.5"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "The Long-Range Anti-Ship Missile (LRASiM) travels at Mach 10 (approx. 3.37 km/sec), making it among the fastest missiles globally."
-},
-{
-"id": 63,
-"type": "mcq",
-"text": "What is the maximum range of India's LRASiM missile?",
-"options": [
-"A. 800 km",
-"B. 1000 km",
-"C. 1500 km",
-"D. 2000 km"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "The LRASiM has a range of 1500 km, allowing the Indian Navy to project power far beyond traditional limits."
-},
-{
-"id": 64,
-"type": "mcq",
-"text": "India became the first country to commercially produce which eco-friendly material?",
-"options": [
-"A. Bio-plastic",
-"B. Bio-bitumen",
-"C. Bio-concrete",
-"D. Bio-steel"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "India became the first country to produce bio-bitumen commercially, using agricultural byproducts as an eco-friendly substitute for petroleum-based bitumen."
-},
-{
-"id": 65,
-"type": "mcq",
-"text": "What percentage of greenhouse gas reduction does bio-bitumen provide compared to conventional bitumen?",
-"options": [
-"A. 30-40%",
-"B. 50-60%",
-"C. 60-70%",
-"D. 75-85%"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "Bio-bitumen reduces greenhouse gases by 60-70% compared to conventional bitumen, helping address climate change and stubble-burning pollution."
-},
-{
-"id": 66,
-"type": "mcq",
-"text": "Which organization led the development of bio-bitumen technology in India?",
-"options": [
-"A. ISRO",
-"B. DRDO",
-"C. CSIR",
-"D. ICAR"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The Council of Scientific and Industrial Research (CSIR), specifically the Indian Institute of Petroleum, developed the bio-bitumen technology."
-},
-{
-"id": 67,
-"type": "mcq",
-"text": "What is the name of Aadhaar's mascot launched in January 2026?",
-"options": [
-"A. Aditya",
-"B. Arjun",
-"C. Udai",
-"D. Akash"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The Unique Identification Authority of India (UIDAI) launched 'Udai' as the Aadhaar mascot to help clear citizens' doubts regarding Aadhaar-related services."
-},
-{
-"id": 68,
-"type": "mcq",
-"text": "Which state recently announced a comprehensive action plan for cheetah conservation in January 2026?",
-"options": [
-"A. Rajasthan",
-"B. Madhya Pradesh",
-"C. Gujarat",
-"D. Maharashtra"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Madhya Pradesh, home to the Kuno National Park, announced a new, enhanced action plan to improve the survival and acclimatization of translocated cheetahs."
-},
-{
-"id": 69,
-"type": "mcq",
-"text": "Which Indian city launched a fully integrated 'Zero Carbon' public transport initiative in early 2026?",
-"options": [
-"A. New Delhi",
-"B. Mumbai",
-"C. Bengaluru",
-"D. Chennai"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Bengaluru launched a comprehensive zero-carbon public transport initiative in early 2026, integrating fully electric buses and extensive renewable charging stations."
-},
-{
-"id": 70,
-"type": "mcq",
-"text": "Who won the Pritzker Architecture Prize in 2026?",
-"options": [
-"A. Balkrishna Doshi",
-"B. Riken Yamamoto",
-"C. David Chipperfield",
-"D. Anne Lacaton"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "Japanese architect Riken Yamamoto was awarded the prestigious Pritzker Architecture Prize in 2026."
-},
-{
-"id": 71,
-"type": "mcq",
-"text": "Which country passed the 'Right to Disconnect' law in March 2026?",
-"options": [
-"A. USA",
-"B. Australia",
-"C. Japan",
-"D. Canada"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Australia introduced the 'Right to Disconnect' law, allowing employees to ignore work-related communications outside of working hours."
-},
-{
-"id": 72,
-"type": "mcq",
-"text": "Which Indian author won the International Booker Prize in 2026?",
-"options": [
-"A. Arundhati Roy",
-"B. Perumal Murugan",
-"C. Geetanjali Shree",
-"D. Amitav Ghosh"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Tamil author Perumal Murugan won the International Booker Prize in 2026 for his distinguished literary work."
-},
-{
-"id": 73,
-"type": "mcq",
-"text": "What is the primary function of the INS Jatayu commissioned in March 2026?",
-"options": [
-"A. Nuclear submarine",
-"B. Naval base in Lakshadweep",
-"C. Aircraft carrier",
-"D. Stealth frigate"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "INS Jatayu was commissioned as a new naval base in Minicoy, Lakshadweep, to enhance India's operational reach in the Indian Ocean."
-},
-{
-"id": 74,
-"type": "mcq",
-"text": "Which company became the first to reach a $4 trillion market cap in 2026?",
-"options": [
-"A. Apple",
-"B. Microsoft",
-"C. NVIDIA",
-"D. Alphabet"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Microsoft briefly crossed the historic $4 trillion market capitalization mark in early 2026."
-},
-{
-"id": 75,
-"type": "mcq",
-"text": "Which country joined the Schengen area in March 2026?",
-"options": [
-"A. Bulgaria and Romania",
-"B. Croatia and Cyprus",
-"C. Serbia and Montenegro",
-"D. Bosnia and Albania"
-],
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Bulgaria and Romania partially joined the Schengen free-travel area, lifting air and sea border controls."
-},
-{
-"id": 76,
-"type": "mcq",
-"text": "What is 'Kalki', launched by the Indian government?",
-"options": [
-"A. A new supercomputer",
-"B. An AI-based translation tool",
-"C. A deep-sea exploration vehicle",
-"D. An educational satellite"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "Kalki is an AI-based real-time translation tool launched to break language barriers across Indian regional languages."
-},
-{
-"id": 77,
-"type": "mcq",
-"text": "Which state launched the 'Indira Gandhi Pyari Behna Samman Nidhi Yojana'?",
-"options": [
-"A. Rajasthan",
-"B. Himachal Pradesh",
-"C. Karnataka",
-"D. Chhattisgarh"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Himachal Pradesh launched this scheme to provide financial assistance to women aged 18 to 60."
-},
-{
-"id": 78,
-"type": "mcq",
-"text": "Which Indian city launched the country's first underwater metro?",
-"options": [
-"A. Mumbai",
-"B. Chennai",
-"C. Kolkata",
-"D. Kochi"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Kolkata inaugurated India's first underwater metro route running beneath the Hooghly River."
-},
-{
-"id": 79,
-"type": "mcq",
-"text": "Who was named the Time Person of the Year for 2025 (announced early 2026)?",
-"options": [
-"A. Sam Altman",
-"B. Taylor Swift",
-"C. Elon Musk",
-"D. Volodymyr Zelensky"
-],
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Sam Altman, CEO of OpenAI, was recognized for his transformative impact on artificial intelligence."
-},
-{
-"id": 80,
-"type": "mcq",
-"text": "Which Indian state inaugurated the Sela Tunnel?",
-"options": [
-"A. Sikkim",
-"B. Uttarakhand",
-"C. Arunachal Pradesh",
-"D. Himachal Pradesh"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The Sela Tunnel, the world's longest twin-lane tunnel above 13,000 feet, was inaugurated in Arunachal Pradesh."
-},
-{
-"id": 81,
-"type": "mcq",
-"text": "Which country successfully tested the 'Avangard' hypersonic missile?",
-"options": [
-"A. USA",
-"B. China",
-"C. Russia",
-"D. India"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "Russia successfully deployed the Avangard hypersonic glide vehicle, capable of maneuvering at extreme speeds."
-},
-{
-"id": 82,
-"type": "mcq",
-"text": "What is the focus of the 'PM-SURAJ' portal?",
-"options": [
-"A. Solar energy adoption",
-"B. Credit support for marginalized sections",
-"C. Space research funding",
-"D. Agricultural subsidies"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "The PM-SURAJ (Pradhan Mantri Samajik Utthan and Rozgar Adharit Jankalyan) portal provides credit support to marginalized communities."
-},
-{
-"id": 83,
-"type": "mcq",
-"text": "What does the 'DigiYatra' facility offer?",
-"options": [
-"A. Digital train ticketing",
-"B. Biometric boarding at airports",
-"C. Digital highway toll collection",
-"D. Online passport application"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "DigiYatra provides a decentralized mobile wallet-based identity platform for biometric boarding at Indian airports."
-},
-{
-"id": 84,
-"type": "mcq",
-"text": "Which of the following is a prominent application of Generative AI?",
-"options": [
-"A. Sorting email into spam folders",
-"B. Predicting housing prices using regression",
-"C. Creating novel images from text descriptions",
-"D. Diagnosing hardware faults"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Generative AI excels at creating new content, such as text, images, or audio, based on learned patterns."
-},
-{
-"id": 85,
-"type": "true-false",
-"text": "Phishing is a cyber attack carried out by destroying physical servers with hardware tools.",
-"answer": false,
-"difficulty": "easy",
-"explanation": "Phishing is a social engineering attack where attackers deceive victims into revealing sensitive information, usually via fraudulent emails."
-},
-{
-"id": 86,
-"type": "fill-blank",
-"text": "The term 'Artificial Intelligence' was first coined by computer scientist John ______ at a conference in 1956.",
-"answer": "McCarthy",
-"difficulty": "hard",
-"explanation": "John McCarthy is recognized as one of the founding fathers of AI, having coined the term for the Dartmouth Conference."
-},
-{
-"id": 87,
-"type": "multiple-correct",
-"text": "Which of these are practical applications of Computer Vision? (Select all correct)",
-"options": [
-"A. Facial recognition on smartphones",
-"B. Text translation via microphone",
-"C. Automated medical image analysis",
-"D. Obstacle detection in self-driving cars",
-"E. Generating random passwords"
-],
-"answer": [
-"A",
-"C",
-"D"
-],
-"difficulty": "medium",
-"explanation": "Computer vision interprets visual data. Text translation uses NLP, and generating passwords relies on cryptographic randomization."
-},
-{
-"id": 88,
-"type": "assertion-reason",
-"text": "Assertion: Reusable rockets have significantly decreased the cost of accessing space. Reason: Instead of burning up in the atmosphere or falling into the ocean, the first stages of these rockets land safely and can be flown again.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Both statements are true. Companies like SpaceX pioneered reusable rocket technology to dramatically lower launch costs."
-},
-{
-"id": 89,
-"type": "matching",
-"text": "Match the types of malicious software to their behavior:",
-"pairs": [
-[
-"Spyware",
-"Secretly monitors user activity"
-],
-[
-"Ransomware",
-"Locks files until a fee is paid"
-],
-[
-"Trojan",
-"Disguises itself as legitimate software"
-]
-],
-"difficulty": "hard",
-"explanation": "These are common classifications of malware based on their specific malicious functions."
-},
-{
-"id": 90,
-"type": "mcq",
-"text": "3D printing is technically classified as what type of manufacturing?",
-"options": [
-"A. Subtractive manufacturing",
-"B. Additive manufacturing",
-"C. Formative manufacturing",
-"D. Reductive manufacturing"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "3D printing creates objects by adding material layer by layer, hence 'additive manufacturing'."
-},
-{
-"id": 91,
-"type": "true-false",
-"text": "A botnet is a network of private computers infected with malicious software and controlled as a group without the owners' knowledge.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "Botnets are frequently used by hackers to launch large-scale Distributed Denial of Service (DDoS) attacks."
-},
-{
-"id": 92,
-"type": "fill-blank",
-"text": "The 'A' in AGI, referring to a hypothetical system that possesses human-level cognitive abilities, stands for ______.",
-"answer": "Artificial",
-"difficulty": "easy",
-"explanation": "AGI stands for Artificial General Intelligence, a machine capable of understanding or learning any intellectual task a human can."
-},
-{
-"id": 93,
-"type": "mcq",
-"text": "In the context of Large Language Models (LLMs), what does an AI 'hallucination' refer to?",
-"options": [
-"A. When the AI overheats the server hardware",
-"B. Confidently generating false or entirely fabricated information",
-"C. When the AI starts recognizing images in text",
-"D. A graphical glitch on the user's screen"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "Hallucinations occur when an AI model confidently presents incorrect, illogical, or made-up facts as the truth."
-},
-{
-"id": 94,
-"type": "mcq",
-"text": "Which Indian city hosted the World Coffee Conference in 2026?",
-"options": [
-"A. Bengaluru",
-"B. Chennai",
-"C. Kochi",
-"D. Hyderabad"
-],
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Bengaluru hosted the World Coffee Conference in early 2026, highlighting India's coffee sector."
-},
-{
-"id": 95,
-"type": "mcq",
-"text": "The 14th WTO Ministerial Conference (MC14) was held in which country in March 2026?",
-"options": [
-"A. Geneva, Switzerland",
-"B. Yaoundé, Cameroon",
-"C. Manila, Philippines",
-"D. Bangkok, Thailand"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "MC14 was held in Yaoundé, Cameroon, under the chairmanship of Luc Magloire Mbarga Atangana."
-},
-{
-"id": 96,
-"type": "true-false",
-"text": "The 28-year e-commerce moratorium on customs duties for digital transmissions was permanently extended at the WTO MC14.",
-"answer": false,
-"difficulty": "hard",
-"explanation": "The moratorium officially lapsed, causing the 'Yaoundé Deadlock' and marking a turning point in digital trade."
-},
-{
-"id": 97,
-"type": "mcq",
-"text": "What is the primary purpose of the 'Jan Samarth Portal'?",
-"options": [
-"A. Student scholarship applications",
-"B. Credit-linked government schemes",
-"C. Healthcare booking system",
-"D. Tax filing and payment"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "It is a national portal for Credit-Linked Government Schemes to connect citizens digitally with these programs."
-},
-{
-"id": 98,
-"type": "fill-blank",
-"text": "India's First Digital Census 2027 is scheduled to begin its operations in ______ 2026.",
-"answer": "April",
-"difficulty": "easy",
-"explanation": "The digital census is scheduled to begin in April 2026, featuring self-enumeration."
-},
-{
-"id": 99,
-"type": "mcq",
-"text": "Which country announced a ban on social media for users under 16 years old in March 2026?",
-"options": [
-"A. Australia",
-"B. Singapore",
-"C. Indonesia",
-"D. Malaysia"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Indonesia banned social media for under-16 users, establishing strict new digital rules."
-},
-{
-"id": 100,
-"type": "matching",
-"text": "Match the March 2026 discoveries/events with their locations:",
-"pairs": [
-[
-"Hidden ocean in Earth's mantle",
-"Deep inside Earth"
-],
-[
-"Rare Keelback Snake",
-"Northeast India"
-],
-[
-"LPG tankers stuck",
-"Hormuz Strait"
-]
-],
-"difficulty": "hard",
-"explanation": "These events highlight significant geographical, biological, and geopolitical occurrences from March 2026."
-},
-{
-"id": 101,
-"type": "mcq",
-"text": "How many railway stations are targeted for redevelopment under the Amrit Bharat Station Scheme?",
-"options": [
-"A. 500",
-"B. 1000",
-"C. 1338",
-"D. 1500"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The scheme aims to redevelop 1338 railway stations across India."
-},
-{
-"id": 102,
-"type": "multiple-correct",
-"text": "Which of the following states passed the Uniform Civil Code (UCC) Bill in the first quarter of 2026? (Select all correct)",
-"options": [
-"A. Uttarakhand",
-"B. Gujarat",
-"C. Kerala",
-"D. Tamil Nadu",
-"E. Punjab"
-],
-"answer": [
-"A",
-"B"
-],
-"difficulty": "medium",
-"explanation": "Uttarakhand implemented it first, and Gujarat passed its UCC Bill in March 2026."
-},
-{
-"id": 103,
-"type": "assertion-reason",
-"text": "Assertion: BCCI decided to skip the opening ceremony at Chinnaswamy Stadium for IPL 2026. Reason: The stadium was completely destroyed in an earthquake.",
-"assertion": true,
-"reason": false,
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The assertion is true, but the reason is fabricated. The ceremony was skipped for logistical/operational reasons, not an earthquake."
-},
-{
-"id": 104,
-"type": "mcq",
-"text": "According to reports from March 2026, which country topped the global pollution index?",
-"options": [
-"A. India",
-"B. China",
-"C. Bangladesh",
-"D. Pakistan"
-],
-"answer": "D",
-"difficulty": "easy",
-"explanation": "Pakistan topped the global pollution list, while India ranked sixth."
-},
-{
-"id": 105,
-"type": "fill-blank",
-"text": "The Lok Sabha passed the ______ Rights Amendment Bill in March 2026 to advance LGBTQ+ protections.",
-"answer": "Transgender",
-"difficulty": "medium",
-"explanation": "The Transgender Rights Amendment Bill 2026 was passed to strengthen protections."
-},
-{
-"id": 106,
-"type": "mcq",
-"text": "What is 'Akasha300 3D', delivered to ISRO by Spacetime 4D?",
-"options": [
-"A. A 3D mapping satellite",
-"B. A 3D printer",
-"C. A 3D space telescope",
-"D. A 3D imaging system"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "Akasha300 3D is a 3D printer delivered for space applications."
-},
-{
-"id": 107,
-"type": "true-false",
-"text": "The Ayush Ministry launched an in-flight yoga routine for air travellers in March 2026.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "This innovative initiative aims to promote wellness during air travel."
-},
-{
-"id": 108,
-"type": "mcq",
 "text": "Which hill was declared a National Geo-Heritage Site in March 2026?",
 "options": [
 "A. Vindhya Hills",
@@ -1455,1260 +643,6 @@
 "answer": "C",
 "difficulty": "hard",
 "explanation": "Kalinjar Hill was declared a National Geo-Heritage Site, recognizing its geological importance."
-},
-{
-"id": 109,
-"type": "mcq",
-"text": "The 'PM Surya Ghar: Muft Bijli Yojana' aims to provide up to how many units of free electricity per month?",
-"options": [
-"A. 150 units",
-"B. 200 units",
-"C. 300 units",
-"D. 400 units"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "The scheme targets 300 units per month to promote solar energy adoption."
-},
-{
-"id": 110,
-"type": "mcq",
-"text": "India's longest sea bridge, Atal Setu, connects Mumbai to which place?",
-"options": [
-"A. Alibaug",
-"B. Pune",
-"C. Navi Mumbai",
-"D. Thane"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Atal Setu connects Mumbai to Navi Mumbai, not Alibaug."
-},
-{
-"id": 111,
-"type": "mcq",
-"text": "Which Indian state recorded the highest number of snow leopards?",
-"options": [
-"A. Himachal Pradesh",
-"B. Uttarakhand",
-"C. Sikkim",
-"D. Ladakh"
-],
-"answer": "D",
-"difficulty": "medium",
-"explanation": "Ladakh has the highest population of snow leopards in India, as per recent surveys."
-},
-{
-"id": 112,
-"type": "mcq",
-"text": "The WTO Ministerial Conference (MC14) in March 2026 saw a significant event related to digital trade. What lapsed for the first time in 26 years?",
-"options": [
-"A. Agricultural subsidies agreement",
-"B. E-commerce moratorium on customs duties",
-"C. Intellectual property protection agreement",
-"D. Textile trade agreement"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "At MC14 in Yaoundé, Cameroon, the e-commerce moratorium on customs duties on digital transmissions lapsed for the first time in 26 years, marking a historic turning point in digital trade."
-},
-{
-"id": 113,
-"type": "mcq",
-"text": "What is the primary purpose of the 'Jan Samarth Portal'?",
-"options": [
-"A. Student scholarship applications",
-"B. Credit-linked government schemes",
-"C. Healthcare booking system",
-"D. Tax filing and payment"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "It is a national portal for Credit-Linked Government Schemes to connect citizens digitally with these programs."
-},
-{
-"id": 114,
-"type": "mcq",
-"text": "Who is the current Secretary-General of the United Nations?",
-"options": [
-"A. Ban Ki-moon",
-"B. António Guterres",
-"C. Tedros Adhanom",
-"D. Kristalina Georgieva"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "António Guterres is the current UN Secretary-General, serving since 2017."
-},
-{
-"id": 115,
-"type": "mcq",
-"text": "Which film won the Academy Award for Best Picture in 2024?",
-"options": [
-"A. Barbie",
-"B. Poor Things",
-"C. Oppenheimer",
-"D. Killers of the Flower Moon"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Oppenheimer won the Best Picture Oscar at the 96th Academy Awards ceremony."
-},
-{
-"id": 116,
-"type": "mcq",
-"text": "Which Indian city launched the country's first underwater metro?",
-"options": [
-"A. Mumbai",
-"B. Chennai",
-"C. Kolkata",
-"D. Kochi"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Kolkata inaugurated India's first underwater metro route running beneath the Hooghly River."
-},
-{
-"id": 117,
-"type": "mcq",
-"text": "Who was named the Time Person of the Year for 2025 (announced early 2026)?",
-"options": [
-"A. Sam Altman",
-"B. Taylor Swift",
-"C. Elon Musk",
-"D. Volodymyr Zelensky"
-],
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Sam Altman, CEO of OpenAI, was recognized for his transformative impact on artificial intelligence."
-},
-{
-"id": 118,
-"type": "mcq",
-"text": "Which Indian state inaugurated the Sela Tunnel?",
-"options": [
-"A. Sikkim",
-"B. Uttarakhand",
-"C. Arunachal Pradesh",
-"D. Himachal Pradesh"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The Sela Tunnel, the world's longest twin-lane tunnel above 13,000 feet, was inaugurated in Arunachal Pradesh."
-},
-{
-"id": 119,
-"type": "mcq",
-"text": "Which country successfully tested the 'Avangard' hypersonic missile?",
-"options": [
-"A. USA",
-"B. China",
-"C. Russia",
-"D. India"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "Russia successfully deployed the Avangard hypersonic glide vehicle, capable of maneuvering at extreme speeds."
-},
-{
-"id": 120,
-"type": "mcq",
-"text": "What is the focus of the 'PM-SURAJ' portal?",
-"options": [
-"A. Solar energy adoption",
-"B. Credit support for marginalized sections",
-"C. Space research funding",
-"D. Agricultural subsidies"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "The PM-SURAJ (Pradhan Mantri Samajik Utthan and Rozgar Adharit Jankalyan) portal provides credit support to marginalized communities."
-},
-{
-"id": 121,
-"type": "mcq",
-"text": "Which country won the ICC Men's Cricket World Cup 2023?",
-"options": [
-"A. India",
-"B. Australia",
-"C. England",
-"D. South Africa"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Australia defeated India in the 2023 Cricket World Cup final."
-},
-{
-"id": 122,
-"type": "mcq",
-"text": "Which Indian state recorded the highest number of snow leopards?",
-"options": [
-"A. Himachal Pradesh",
-"B. Uttarakhand",
-"C. Sikkim",
-"D. Ladakh"
-],
-"answer": "D",
-"difficulty": "medium",
-"explanation": "Ladakh has the highest population of snow leopards in India, as per recent surveys."
-},
-{
-"id": 123,
-"type": "mcq",
-"text": "What is the primary purpose of the 'Jan Samarth Portal'?",
-"options": [
-"A. Student scholarship applications",
-"B. Credit-linked government schemes",
-"C. Healthcare booking system",
-"D. Tax filing and payment"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "It is a national portal for Credit-Linked Government Schemes to connect citizens digitally with these programs."
-},
-{
-"id": 124,
-"type": "mcq",
-"text": "Which Indian city launched a fully integrated 'Zero Carbon' public transport initiative in early 2026?",
-"options": [
-"A. New Delhi",
-"B. Mumbai",
-"C. Bengaluru",
-"D. Chennai"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Bengaluru launched a comprehensive zero-carbon public transport initiative in early 2026, integrating fully electric buses and extensive renewable charging stations."
-},
-{
-"id": 125,
-"type": "mcq",
-"text": "Which Indian state became the first to implement the Uniform Civil Code (UCC) post-independence?",
-"options": [
-"A. Gujarat",
-"B. Uttarakhand",
-"C. Assam",
-"D. Uttar Pradesh"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Uttarakhand became the first state to implement the Uniform Civil Code in 2024."
-},
-{
-"id": 126,
-"type": "mcq",
-"text": "What is the new UPI-linked withdrawal facility under EPFO 3.0 expected by?",
-"options": [
-"A. January 2026",
-"B. February 2026",
-"C. April 2026",
-"D. June 2026"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The UPI-linked withdrawal facility under EPFO 3.0 is expected to be implemented by April 2026, allowing ATM-like withdrawals."
-},
-{
-"id": 127,
-"type": "mcq",
-"text": "Which Indian organization launched the Responsible Nations Index in January 2026?",
-"options": [
-"A. Ministry of External Affairs",
-"B. World Intellectual Foundation",
-"C. NITI Aayog",
-"D. Observer Research Foundation"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "The World Intellectual Foundation launched the Responsible Nations Index at Dr. Ambedkar International Centre, New Delhi."
-},
-{
-"id": 128,
-"type": "mcq",
-"text": "At what rank did India place in the Responsible Nations Index 2026?",
-"options": [
-"A. 8th position",
-"B. 12th position",
-"C. 16th position",
-"D. 20th position"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "India ranks 16th in the Responsible Nations Index 2026, ahead of the United States (66th) and China (68th)."
-},
-{
-"id": 129,
-"type": "mcq",
-"text": "Which state witnessed the Hot Air Balloon Festival in January 2026?",
-"options": [
-"A. Rajasthan",
-"B. Gujarat",
-"C. Telangana",
-"D. Maharashtra"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The Hot Air Balloon Festival was recently started in Telangana, providing a unique recreational and tourism experience."
-},
-{
-"id": 130,
-"type": "mcq",
-"text": "Who was appointed as the new Director General of NIA in January 2026?",
-"options": [
-"A. Rajesh Agrawal",
-"B. Rakesh Agrawal",
-"C. Rohit Agrawal",
-"D. Ravi Agrawal"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Senior police officer Rakesh Agrawal was appointed as the new Director General of the National Investigation Agency (NIA)."
-},
-{
-"id": 131,
-"type": "mcq",
-"text": "Which bank launched India's first solar-powered ATM van?",
-"options": [
-"A. State Bank of India",
-"B. HDFC Bank",
-"C. Tripura Gramin Bank",
-"D. Punjab National Bank"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Tripura Gramin Bank launched 'TGB On Wheels,' India's first solar-powered mobile ATM van for remote banking services."
-},
-{
-"id": 132,
-"type": "mcq",
-"text": "What is the objective of Tripura Gramin Bank's solar ATM van initiative?",
-"options": [
-"A. Generate revenue for the bank",
-"B. Financial inclusion in remote areas",
-"C. Reduce carbon emissions",
-"D. Showcase green technology"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "The solar ATM van aims to provide uninterrupted banking services to remote and electricity-deficient areas, promoting financial inclusion."
-},
-{
-"id": 133,
-"type": "mcq",
-"text": "What was the combined market value of the India-EU FTA announced?",
-"options": [
-"A. USD 12 trillion",
-"B. USD 18 trillion",
-"C. USD 24 trillion",
-"D. USD 30 trillion"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "The India-EU FTA generates a combined market value of USD 24 trillion, covering the 2nd and 4th largest economies."
-},
-{
-"id": 134,
-"type": "mcq",
-"text": "In which year did India and the EU first launch FTA negotiations?",
-"options": [
-"A. 2005",
-"B. 2007",
-"C. 2010",
-"D. 2012"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "India and the EU first began FTA negotiations in 2007, which were suspended in 2013 and resumed in 2022 before concluding in January 2026."
-},
-{
-"id": 135,
-"type": "mcq",
-"text": "Which Union Minister launched 2 major bamboo projects in the Northeast?",
-"options": [
-"A. Minister of Commerce",
-"B. Minister of Development of North Eastern Region",
-"C. Minister of Agriculture",
-"D. Minister of Rural Development"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Union Minister Jyotiraditya Scindia (Minister of Development of North Eastern Region) launched 2 bamboo projects worth Rs 82.5 crore in Guwahati."
-},
-{
-"id": 136,
-"type": "mcq",
-"text": "What was the total investment in the two bamboo projects launched in the Northeast?",
-"options": [
-"A. Rs 50 crore",
-"B. Rs 70 crore",
-"C. Rs 82.5 crore",
-"D. Rs 100 crore"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The two bamboo projects in the Northeast were worth Rs 82.5 crore, launched on January 26, 2026, in Guwahati."
-},
-{
-"id": 137,
-"type": "mcq",
-"text": "What is the LRASiM missile's striking speed?",
-"options": [
-"A. Mach 5",
-"B. Mach 10",
-"C. Mach 3.37",
-"D. Mach 2.5"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "The Long-Range Anti-Ship Missile (LRASiM) travels at Mach 10 (approx. 3.37 km/sec), making it among the fastest missiles globally."
-},
-{
-"id": 138,
-"type": "mcq",
-"text": "What is the maximum range of India's LRASiM missile?",
-"options": [
-"A. 800 km",
-"B. 1000 km",
-"C. 1500 km",
-"D. 2000 km"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "The LRASiM has a range of 1500 km, allowing the Indian Navy to project power far beyond traditional limits."
-},
-{
-"id": 139,
-"type": "mcq",
-"text": "India became the first country to commercially produce which eco-friendly material?",
-"options": [
-"A. Bio-plastic",
-"B. Bio-bitumen",
-"C. Bio-concrete",
-"D. Bio-steel"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "India became the first country to produce bio-bitumen commercially, using agricultural byproducts as an eco-friendly substitute for petroleum-based bitumen."
-},
-{
-"id": 140,
-"type": "mcq",
-"text": "What percentage of greenhouse gas reduction does bio-bitumen provide compared to conventional bitumen?",
-"options": [
-"A. 30-40%",
-"B. 50-60%",
-"C. 60-70%",
-"D. 75-85%"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "Bio-bitumen reduces greenhouse gases by 60-70% compared to conventional bitumen, helping address climate change and stubble-burning pollution."
-},
-{
-"id": 141,
-"type": "mcq",
-"text": "Which organization led the development of bio-bitumen technology in India?",
-"options": [
-"A. ISRO",
-"B. DRDO",
-"C. CSIR",
-"D. ICAR"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The Council of Scientific and Industrial Research (CSIR), specifically the Indian Institute of Petroleum, developed the bio-bitumen technology."
-},
-{
-"id": 142,
-"type": "mcq",
-"text": "What is the name of Aadhaar's mascot launched in January 2026?",
-"options": [
-"A. Aditya",
-"B. Arjun",
-"C. Udai",
-"D. Akash"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The Unique Identification Authority of India (UIDAI) launched 'Udai' as the Aadhaar mascot to help clear citizens' doubts regarding Aadhaar-related services."
-},
-{
-"id": 143,
-"type": "mcq",
-"text": "Which state recently announced a comprehensive action plan for cheetah conservation in January 2026?",
-"options": [
-"A. Rajasthan",
-"B. Madhya Pradesh",
-"C. Gujarat",
-"D. Maharashtra"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Madhya Pradesh, home to the Kuno National Park, announced a new, enhanced action plan to improve the survival and acclimatization of translocated cheetahs."
-},
-{
-"id": 144,
-"type": "mcq",
-"text": "Which Indian city launched a fully integrated 'Zero Carbon' public transport initiative in early 2026?",
-"options": [
-"A. New Delhi",
-"B. Mumbai",
-"C. Bengaluru",
-"D. Chennai"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Bengaluru launched a comprehensive zero-carbon public transport initiative in early 2026, integrating fully electric buses and extensive renewable charging stations."
-},
-{
-"id": 145,
-"type": "mcq",
-"text": "Who won the Pritzker Architecture Prize in 2026?",
-"options": [
-"A. Balkrishna Doshi",
-"B. Riken Yamamoto",
-"C. David Chipperfield",
-"D. Anne Lacaton"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "Japanese architect Riken Yamamoto was awarded the prestigious Pritzker Architecture Prize in 2026."
-},
-{
-"id": 146,
-"type": "mcq",
-"text": "Which country passed the 'Right to Disconnect' law in March 2026?",
-"options": [
-"A. USA",
-"B. Australia",
-"C. Japan",
-"D. Canada"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Australia introduced the 'Right to Disconnect' law, allowing employees to ignore work-related communications outside of working hours."
-},
-{
-"id": 147,
-"type": "mcq",
-"text": "Which Indian author won the International Booker Prize in 2026?",
-"options": [
-"A. Arundhati Roy",
-"B. Perumal Murugan",
-"C. Geetanjali Shree",
-"D. Amitav Ghosh"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Tamil author Perumal Murugan won the International Booker Prize in 2026 for his distinguished literary work."
-},
-{
-"id": 148,
-"type": "mcq",
-"text": "What is the primary function of the INS Jatayu commissioned in March 2026?",
-"options": [
-"A. Nuclear submarine",
-"B. Naval base in Lakshadweep",
-"C. Aircraft carrier",
-"D. Stealth frigate"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "INS Jatayu was commissioned as a new naval base in Minicoy, Lakshadweep, to enhance India's operational reach in the Indian Ocean."
-},
-{
-"id": 149,
-"type": "mcq",
-"text": "Which company became the first to reach a $4 trillion market cap in 2026?",
-"options": [
-"A. Apple",
-"B. Microsoft",
-"C. NVIDIA",
-"D. Alphabet"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Microsoft briefly crossed the historic $4 trillion market capitalization mark in early 2026."
-},
-{
-"id": 150,
-"type": "mcq",
-"text": "Which country joined the Schengen area in March 2026?",
-"options": [
-"A. Bulgaria and Romania",
-"B. Croatia and Cyprus",
-"C. Serbia and Montenegro",
-"D. Bosnia and Albania"
-],
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Bulgaria and Romania partially joined the Schengen free-travel area, lifting air and sea border controls."
-},
-{
-"id": 151,
-"type": "mcq",
-"text": "What is 'Kalki', launched by the Indian government?",
-"options": [
-"A. A new supercomputer",
-"B. An AI-based translation tool",
-"C. A deep-sea exploration vehicle",
-"D. An educational satellite"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "Kalki is an AI-based real-time translation tool launched to break language barriers across Indian regional languages."
-},
-{
-"id": 152,
-"type": "mcq",
-"text": "Which state launched the 'Indira Gandhi Pyari Behna Samman Nidhi Yojana'?",
-"options": [
-"A. Rajasthan",
-"B. Himachal Pradesh",
-"C. Karnataka",
-"D. Chhattisgarh"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Himachal Pradesh launched this scheme to provide financial assistance to women aged 18 to 60."
-},
-{
-"id": 153,
-"type": "mcq",
-"text": "Which Indian city launched the country's first underwater metro?",
-"options": [
-"A. Mumbai",
-"B. Chennai",
-"C. Kolkata",
-"D. Kochi"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Kolkata inaugurated India's first underwater metro route running beneath the Hooghly River."
-},
-{
-"id": 154,
-"type": "mcq",
-"text": "Who was named the Time Person of the Year for 2025 (announced early 2026)?",
-"options": [
-"A. Sam Altman",
-"B. Taylor Swift",
-"C. Elon Musk",
-"D. Volodymyr Zelensky"
-],
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Sam Altman, CEO of OpenAI, was recognized for his transformative impact on artificial intelligence."
-},
-{
-"id": 155,
-"type": "mcq",
-"text": "Which Indian state inaugurated the Sela Tunnel?",
-"options": [
-"A. Sikkim",
-"B. Uttarakhand",
-"C. Arunachal Pradesh",
-"D. Himachal Pradesh"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The Sela Tunnel, the world's longest twin-lane tunnel above 13,000 feet, was inaugurated in Arunachal Pradesh."
-},
-{
-"id": 156,
-"type": "mcq",
-"text": "Which country successfully tested the 'Avangard' hypersonic missile?",
-"options": [
-"A. USA",
-"B. China",
-"C. Russia",
-"D. India"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "Russia successfully deployed the Avangard hypersonic glide vehicle, capable of maneuvering at extreme speeds."
-},
-{
-"id": 157,
-"type": "mcq",
-"text": "What is the focus of the 'PM-SURAJ' portal?",
-"options": [
-"A. Solar energy adoption",
-"B. Credit support for marginalized sections",
-"C. Space research funding",
-"D. Agricultural subsidies"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "The PM-SURAJ (Pradhan Mantri Samajik Utthan and Rozgar Adharit Jankalyan) portal provides credit support to marginalized communities."
-},
-{
-"id": 158,
-"type": "mcq",
-"text": "What does the 'DigiYatra' facility offer?",
-"options": [
-"A. Digital train ticketing",
-"B. Biometric boarding at airports",
-"C. Digital highway toll collection",
-"D. Online passport application"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "DigiYatra provides a decentralized mobile wallet-based identity platform for biometric boarding at Indian airports."
-},
-{
-"id": 159,
-"type": "mcq",
-"text": "Which of the following is a prominent application of Generative AI?",
-"options": [
-"A. Sorting email into spam folders",
-"B. Predicting housing prices using regression",
-"C. Creating novel images from text descriptions",
-"D. Diagnosing hardware faults"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Generative AI excels at creating new content, such as text, images, or audio, based on learned patterns."
-},
-{
-"id": 160,
-"type": "true-false",
-"text": "Phishing is a cyber attack carried out by destroying physical servers with hardware tools.",
-"answer": false,
-"difficulty": "easy",
-"explanation": "Phishing is a social engineering attack where attackers deceive victims into revealing sensitive information, usually via fraudulent emails."
-},
-{
-"id": 161,
-"type": "fill-blank",
-"text": "The term 'Artificial Intelligence' was first coined by computer scientist John ______ at a conference in 1956.",
-"answer": "McCarthy",
-"difficulty": "hard",
-"explanation": "John McCarthy is recognized as one of the founding fathers of AI, having coined the term for the Dartmouth Conference."
-},
-{
-"id": 162,
-"type": "multiple-correct",
-"text": "Which of these are practical applications of Computer Vision? (Select all correct)",
-"options": [
-"A. Facial recognition on smartphones",
-"B. Text translation via microphone",
-"C. Automated medical image analysis",
-"D. Obstacle detection in self-driving cars",
-"E. Generating random passwords"
-],
-"answer": [
-"A",
-"C",
-"D"
-],
-"difficulty": "medium",
-"explanation": "Computer vision interprets visual data. Text translation uses NLP, and generating passwords relies on cryptographic randomization."
-},
-{
-"id": 163,
-"type": "assertion-reason",
-"text": "Assertion: Reusable rockets have significantly decreased the cost of accessing space. Reason: Instead of burning up in the atmosphere or falling into the ocean, the first stages of these rockets land safely and can be flown again.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Both statements are true. Companies like SpaceX pioneered reusable rocket technology to dramatically lower launch costs."
-},
-{
-"id": 164,
-"type": "matching",
-"text": "Match the types of malicious software to their behavior:",
-"pairs": [
-[
-"Spyware",
-"Secretly monitors user activity"
-],
-[
-"Ransomware",
-"Locks files until a fee is paid"
-],
-[
-"Trojan",
-"Disguises itself as legitimate software"
-]
-],
-"difficulty": "hard",
-"explanation": "These are common classifications of malware based on their specific malicious functions."
-},
-{
-"id": 165,
-"type": "mcq",
-"text": "3D printing is technically classified as what type of manufacturing?",
-"options": [
-"A. Subtractive manufacturing",
-"B. Additive manufacturing",
-"C. Formative manufacturing",
-"D. Reductive manufacturing"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "3D printing creates objects by adding material layer by layer, hence 'additive manufacturing'."
-},
-{
-"id": 166,
-"type": "true-false",
-"text": "A botnet is a network of private computers infected with malicious software and controlled as a group without the owners' knowledge.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "Botnets are frequently used by hackers to launch large-scale Distributed Denial of Service (DDoS) attacks."
-},
-{
-"id": 167,
-"type": "fill-blank",
-"text": "The 'A' in AGI, referring to a hypothetical system that possesses human-level cognitive abilities, stands for ______.",
-"answer": "Artificial",
-"difficulty": "easy",
-"explanation": "AGI stands for Artificial General Intelligence, a machine capable of understanding or learning any intellectual task a human can."
-},
-{
-"id": 168,
-"type": "mcq",
-"text": "In the context of Large Language Models (LLMs), what does an AI 'hallucination' refer to?",
-"options": [
-"A. When the AI overheats the server hardware",
-"B. Confidently generating false or entirely fabricated information",
-"C. When the AI starts recognizing images in text",
-"D. A graphical glitch on the user's screen"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "Hallucinations occur when an AI model confidently presents incorrect, illogical, or made-up facts as the truth."
-},
-{
-"id": 169,
-"type": "mcq",
-"text": "Which Indian city hosted the World Coffee Conference in 2026?",
-"options": [
-"A. Bengaluru",
-"B. Chennai",
-"C. Kochi",
-"D. Hyderabad"
-],
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Bengaluru hosted the World Coffee Conference in early 2026, highlighting India's coffee sector."
-},
-{
-"id": 170,
-"type": "mcq",
-"text": "Where was the 14th WTO Ministerial Conference (MC14) held in March 2026?",
-"options": [
-"A. Geneva, Switzerland",
-"B. Yaoundé, Cameroon",
-"C. Manila, Philippines",
-"D. Bangkok, Thailand"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "MC14 was held in Yaoundé, Cameroon, under the chairmanship of Luc Magloire Mbarga Atangana."
-},
-{
-"id": 171,
-"type": "true-false",
-"text": "The 28-year e-commerce moratorium on customs duties for digital transmissions was permanently extended at the WTO MC14.",
-"answer": false,
-"difficulty": "hard",
-"explanation": "The moratorium officially lapsed, causing the 'Yaoundé Deadlock' and marking a turning point in digital trade."
-},
-{
-"id": 172,
-"type": "mcq",
-"text": "What is the primary purpose of the 'Jan Samarth Portal'?",
-"options": [
-"A. Student scholarship applications",
-"B. Credit-linked government schemes",
-"C. Healthcare booking system",
-"D. Tax filing and payment"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "It is a national portal for Credit-Linked Government Schemes to connect citizens digitally with these programs."
-},
-{
-"id": 173,
-"type": "fill-blank",
-"text": "India's First Digital Census 2027 is scheduled to begin its operations in ______ 2026.",
-"answer": "April",
-"difficulty": "easy",
-"explanation": "The digital census is scheduled to begin in April 2026, featuring self-enumeration."
-},
-{
-"id": 174,
-"type": "mcq",
-"text": "Which country announced a ban on social media for users under 16 years old in March 2026?",
-"options": [
-"A. Australia",
-"B. Singapore",
-"C. Indonesia",
-"D. Malaysia"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Indonesia banned social media for under-16 users, establishing strict new digital rules."
-},
-{
-"id": 175,
-"type": "matching",
-"text": "Match the March 2026 discoveries/events with their locations:",
-"pairs": [
-[
-"Hidden ocean in Earth's mantle",
-"Deep inside Earth"
-],
-[
-"Rare Keelback Snake",
-"Northeast India"
-],
-[
-"LPG tankers stuck",
-"Hormuz Strait"
-]
-],
-"difficulty": "hard",
-"explanation": "These events highlight significant geographical, biological, and geopolitical occurrences from March 2026."
-},
-{
-"id": 176,
-"type": "mcq",
-"text": "How many railway stations are targeted for redevelopment under the Amrit Bharat Station Scheme?",
-"options": [
-"A. 500",
-"B. 1000",
-"C. 1338",
-"D. 1500"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The scheme aims to redevelop 1338 railway stations across India."
-},
-{
-"id": 177,
-"type": "multiple-correct",
-"text": "Which of the following states passed the Uniform Civil Code (UCC) Bill in the first quarter of 2026? (Select all correct)",
-"options": [
-"A. Uttarakhand",
-"B. Gujarat",
-"C. Kerala",
-"D. Tamil Nadu",
-"E. Punjab"
-],
-"answer": [
-"A",
-"B"
-],
-"difficulty": "medium",
-"explanation": "Uttarakhand implemented it first, and Gujarat passed its UCC Bill in March 2026."
-},
-{
-"id": 178,
-"type": "assertion-reason",
-"text": "Assertion: BCCI decided to skip the opening ceremony at Chinnaswamy Stadium for IPL 2026. Reason: The stadium was completely destroyed in an earthquake.",
-"assertion": true,
-"reason": false,
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The assertion is true, but the reason is fabricated. The ceremony was skipped for logistical/operational reasons, not an earthquake."
-},
-{
-"id": 179,
-"type": "mcq",
-"text": "According to reports from March 2026, which country topped the global pollution index?",
-"options": [
-"A. India",
-"B. China",
-"C. Bangladesh",
-"D. Pakistan"
-],
-"answer": "D",
-"difficulty": "easy",
-"explanation": "Pakistan topped the global pollution list, while India ranked sixth."
-},
-{
-"id": 180,
-"type": "fill-blank",
-"text": "The Lok Sabha passed the ______ Rights Amendment Bill in March 2026 to advance LGBTQ+ protections.",
-"answer": "Transgender",
-"difficulty": "medium",
-"explanation": "The Transgender Rights Amendment Bill 2026 was passed to strengthen protections."
-},
-{
-"id": 181,
-"type": "mcq",
-"text": "What is 'Akasha300 3D', delivered to ISRO by Spacetime 4D?",
-"options": [
-"A. A 3D mapping satellite",
-"B. A 3D printer",
-"C. A 3D space telescope",
-"D. A 3D imaging system"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "Akasha300 3D is a 3D printer delivered for space applications."
-},
-{
-"id": 182,
-"type": "true-false",
-"text": "The Ayush Ministry launched an in-flight yoga routine for air travellers in March 2026.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "This innovative initiative aims to promote wellness during air travel."
-},
-{
-"id": 183,
-"type": "mcq",
-"text": "Which hill was declared a National Geo-Heritage Site in March 2026?",
-"options": [
-"A. Vindhya Hills",
-"B. Aravallis",
-"C. Kalinjar Hill",
-"D. Satpura Range"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "Kalinjar Hill was declared a National Geo-Heritage Site, recognizing its geological importance."
-},
-{
-"id": 184,
-"type": "mcq",
-"text": "How many Indian states share a land border with Pakistan?",
-"options": [
-"A. 3",
-"B. 4",
-"C. 5",
-"D. 6"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Gujarat, Rajasthan, Punjab, and Jammu & Kashmir (as a Union Territory) share a land border with Pakistan."
-},
-{
-"id": 185,
-"type": "mcq",
-"text": "Which Indian state has the longest coastline?",
-"options": [
-"A. Gujarat",
-"B. Andhra Pradesh",
-"C. Tamil Nadu",
-"D. Maharashtra"
-],
-"answer": "A",
-"difficulty": "easy",
-"explanation": "Gujarat has the longest coastline in India, extending over 1,600 km."
-},
-{
-"id": 186,
-"type": "multiple-correct",
-"text": "Which of the following are major rivers of India? (Select all correct)",
-"options": [
-"A. Ganges",
-"B. Amazon",
-"C. Yamuna",
-"D. Brahmaputra",
-"E. Nile"
-],
-"answer": [
-"A",
-"C",
-"D"
-],
-"difficulty": "easy",
-"explanation": "The Ganges, Yamuna, and Brahmaputra are major Indian rivers. The Amazon and Nile are not."
-},
-{
-"id": 187,
-"type": "assertion-reason",
-"text": "Assertion: The Himalayas are called young fold mountains. Reason: They were formed recently by the collision of tectonic plates.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Both statements are true. The Himalayas are geologically young and still rising due to plate tectonics."
-},
-{
-"id": 188,
-"type": "matching",
-"text": "Match the following Indian cities to their states:",
-"pairs": [
-[
-"Bhopal",
-"Madhya Pradesh"
-],
-[
-"Jaipur",
-"Rajasthan"
-],
-[
-"Patna",
-"Bihar"
-]
-],
-"difficulty": "easy",
-"explanation": "These are well-known state capitals in India."
-},
-{
-"id": 189,
-"type": "mcq",
-"text": "Which is the highest peak in India?",
-"options": [
-"A. Mount Everest",
-"B. Kanchenjunga",
-"C. Nanda Devi",
-"D. K2"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Kanchenjunga is the highest mountain peak in India."
-},
-{
-"id": 190,
-"type": "fill-blank",
-"text": "The ______ desert is the largest hot desert in the world.",
-"answer": "Sahara",
-"difficulty": "easy",
-"explanation": "The Sahara desert in North Africa is the world's largest hot desert."
-},
-{
-"id": 191,
-"type": "mcq",
-"text": "Which Indian city is famously known as the 'Pink City'?",
-"options": [
-"A. Jodhpur",
-"B. Jaipur",
-"C. Udaipur",
-"D. Bikaner"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Jaipur is famously known as the Pink City because of its distinctive building color."
-},
-{
-"id": 192,
-"type": "multiple-correct",
-"text": "Which of these are union territories of India? (Select all correct)",
-"options": [
-"A. Ladakh",
-"B. Puducherry",
-"C. Goa",
-"D. Chandigarh",
-"E. Delhi"
-],
-"answer": [
-"A",
-"B",
-"D",
-"E"
-],
-"difficulty": "easy",
-"explanation": "Ladakh, Puducherry, Chandigarh, and Delhi are union territories. Goa is a state."
-},
-{
-"id": 193,
-"type": "assertion-reason",
-"text": "Assertion: The Thar Desert is located in Western India. Reason: It receives very high annual rainfall.",
-"assertion": true,
-"reason": false,
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The assertion is true, but the reason is false as the Thar Desert receives very little rainfall."
-},
-{
-"id": 194,
-"type": "matching",
-"text": "Match the following continents to their largest country by area:",
-"pairs": [
-[
-"Asia",
-"Russia"
-],
-[
-"North America",
-"Canada"
-],
-[
-"South America",
-"Brazil"
-]
-],
-"difficulty": "medium",
-"explanation": "Russia, Canada, and Brazil are the largest countries in their respective continents."
-},
-{
-"id": 195,
-"type": "mcq",
-"text": "Which of these countries is landlocked?",
-"options": [
-"A. Thailand",
-"B. Vietnam",
-"C. Laos",
-"D. Myanmar"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Laos is the only landlocked country in Southeast Asia."
-},
-{
-"id": 196,
-"type": "mcq",
-"text": "The equator passes through which of these continents?",
-"options": [
-"A. North America",
-"B. Antarctica",
-"C. South America",
-"D. Europe"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The equator passes through South America, Africa, and Asia."
-},
-{
-"id": 197,
-"type": "true-false",
-"text": "The Prime Meridian passes through London.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "The Prime Meridian is defined as passing through the Royal Observatory in Greenwich, London."
-},
-{
-"id": 198,
-"type": "fill-blank",
-"text": "The ______ Ocean is the smallest ocean on Earth.",
-"answer": "Arctic",
-"difficulty": "easy",
-"explanation": "The Arctic Ocean is the smallest and shallowest of the world's five oceans."
-},
-{
-"id": 199,
-"type": "mcq",
-"text": "Which mountain range separates Europe from Asia?",
-"options": [
-"A. Alps",
-"B. Ural Mountains",
-"C. Andes",
-"D. Himalayas"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "The Ural Mountains are commonly considered the boundary between Europe and Asia."
-},
-{
-"id": 200,
-"type": "mcq",
-"text": "Which is the most populous country in the world (as of 2026)?",
-"options": [
-"A. China",
-"B. India",
-"C. USA",
-"D. Indonesia"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "India is now the most populous country in the world."
 }
 ]
 }
