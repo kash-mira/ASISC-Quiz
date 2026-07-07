@@ -1,147 +1,678 @@
 {
-  "category": "Science & Technology",
-  "questions": [
-    {
-      "id": 11,
-      "type": "mcq",
-      "text": "What is 'Sora', recently unveiled by OpenAI?",
-      "options": [
-        "A. A new chatbot",
-        "B. A text-to-video AI model",
-        "C. A quantum computer",
-        "D. A new programming language"
-      ],
-      "answer": "B",
-      "difficulty": "medium",
-      "explanation": "Sora is OpenAI's generative AI model that creates videos from text prompts."
-    },
-    {
-      "id": 12,
-      "type": "mcq",
-      "text": "Which company developed the Gemini AI model?",
-      "options": [
-        "A. Microsoft",
-        "B. Meta",
-        "C. Google",
-        "D. IBM"
-      ],
-      "answer": "C",
-      "difficulty": "easy",
-      "explanation": "Google created Gemini as its advanced multimodal AI model."
-    },
-    {
-      "id": 13,
-      "type": "true-false",
-      "text": "Neuralink successfully implanted a brain chip in a human patient in 2024.",
-      "answer": true,
-      "difficulty": "medium",
-      "explanation": "Yes, Neuralink conducted its first human brain implant procedure."
-    },
-    {
-      "id": 14,
-      "type": "mcq",
-      "text": "What is the name of the first human patient to receive a Neuralink brain implant?",
-      "options": [
-        "A. Noland Arbaugh",
-        "B. Elon Musk",
-        "C. Neil Harbisson",
-        "D. Kevin Warwick"
-      ],
-      "answer": "A",
-      "difficulty": "hard",
-      "explanation": "Noland Arbaugh was the first Neuralink recipient, allowing brain-computer interface."
-    },
-    {
-      "id": 15,
-      "type": "mcq",
-      "text": "India's fastest indigenous AI supercomputer is named:",
-      "options": [
-        "A. PARAM Siddhi",
-        "B. AIRAWAT",
-        "C. Pratyush",
-        "D. Mihir"
-      ],
-      "answer": "B",
-      "difficulty": "hard",
-      "explanation": "AIRAWAT is India's fastest indigenous AI supercomputer developed by C-DAC."
-    },
-    {
-      "id": 16,
-      "type": "matching",
-      "text": "Match AI tools with their primary use:",
-      "pairs": [
-        [
-          "ChatGPT",
-          "Conversational AI"
-        ],
-        [
-          "DALL-E",
-          "Image Generation"
-        ],
-        [
-          "GitHub Copilot",
-          "Code Assistance"
-        ]
-      ],
-      "difficulty": "medium",
-      "explanation": "Each tool serves different AI application purposes."
-    },
-    {
-      "id": 17,
-      "type": "mcq",
-      "text": "Which country launched the world's first 4th-generation nuclear reactor?",
-      "options": [
-        "A. USA",
-        "B. Russia",
-        "C. China",
-        "D. France"
-      ],
-      "answer": "C",
-      "difficulty": "hard",
-      "explanation": "China deployed the HTR-PM reactor, the world's first 4th-gen commercial reactor."
-    },
-    {
-      "id": 18,
-      "type": "multiple-correct",
-      "text": "Select all correct statements about artificial intelligence: (Select all correct)",
-      "options": [
-        "A. AI requires human input for training",
-        "B. AI can only process text",
-        "C. Machine learning is a subset of AI",
-        "D. Neural networks mimic brain structure",
-        "E. AI has achieved complete general intelligence"
-      ],
-      "answer": [
-        "A",
-        "C",
-        "D"
-      ],
-      "difficulty": "hard",
-      "explanation": "A, C, and D are correct. B is false (AI processes multimodal data), E is false (AGI not achieved)."
-    },
-    {
-      "id": 19,
-      "type": "assertion-reason",
-      "text": "Assertion: Quantum computers are faster than classical computers. Reason: They use quantum entanglement.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "hard",
-      "explanation": "Both assertions are correct; quantum entanglement enables quantum speedup."
-    },
-    {
-      "id": 20,
-      "type": "mcq",
-      "text": "What is blockchain primarily used for?",
-      "options": [
-        "A. Video compression",
-        "B. Distributed ledger technology",
-        "C. Weather prediction",
-        "D. Medical imaging"
-      ],
-      "answer": "B",
-      "difficulty": "medium",
-      "explanation": "Blockchain creates immutable distributed ledgers for secure transactions."
-    }
-  ]
+"category": "Science & Technology",
+"questions": [
+{
+"id": 1,
+"type": "mcq",
+"text": "What is 'Sora', recently unveiled by OpenAI?",
+"options": [
+"A. A new chatbot",
+"B. A text-to-video AI model",
+"C. A quantum computer",
+"D. A new programming language"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "Sora is OpenAI's generative AI model that creates videos from text prompts."
+},
+{
+"id": 2,
+"type": "mcq",
+"text": "Which company developed the Gemini AI model?",
+"options": [
+"A. Microsoft",
+"B. Meta",
+"C. Google",
+"D. IBM"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "Google created Gemini as its advanced multimodal AI model."
+},
+{
+"id": 3,
+"type": "true-false",
+"text": "Neuralink successfully implanted a brain chip in a human patient in 2024.",
+"answer": true,
+"difficulty": "medium",
+"explanation": "Yes, Neuralink conducted its first human brain implant procedure."
+},
+{
+"id": 4,
+"type": "mcq",
+"text": "What is the name of the first human patient to receive a Neuralink brain implant?",
+"options": [
+"A. Noland Arbaugh",
+"B. Elon Musk",
+"C. Neil Harbisson",
+"D. Kevin Warwick"
+],
+"answer": "A",
+"difficulty": "hard",
+"explanation": "Noland Arbaugh was the first Neuralink recipient, allowing brain-computer interface."
+},
+{
+"id": 5,
+"type": "mcq",
+"text": "India's fastest indigenous AI supercomputer is named:",
+"options": [
+"A. PARAM Siddhi",
+"B. AIRAWAT",
+"C. Pratyush",
+"D. Mihir"
+],
+"answer": "B",
+"difficulty": "hard",
+"explanation": "AIRAWAT is India's fastest indigenous AI supercomputer developed by C-DAC."
+},
+{
+"id": 6,
+"type": "matching",
+"text": "Match AI tools with their primary use:",
+"pairs": [
+[
+"ChatGPT",
+"Conversational AI"
+],
+[
+"DALL-E",
+"Image Generation"
+],
+[
+"GitHub Copilot",
+"Code Assistance"
+]
+],
+"difficulty": "medium",
+"explanation": "Each tool serves different AI application purposes."
+},
+{
+"id": 7,
+"type": "mcq",
+"text": "Which country launched the world's first 4th-generation nuclear reactor?",
+"options": [
+"A. USA",
+"B. Russia",
+"C. China",
+"D. France"
+],
+"answer": "C",
+"difficulty": "hard",
+"explanation": "China deployed the HTR-PM reactor, the world's first 4th-gen commercial reactor."
+},
+{
+"id": 8,
+"type": "multiple-correct",
+"text": "Select all correct statements about artificial intelligence: (Select all correct)",
+"options": [
+"A. AI requires human input for training",
+"B. AI can only process text",
+"C. Machine learning is a subset of AI",
+"D. Neural networks mimic brain structure",
+"E. AI has achieved complete general intelligence"
+],
+"answer": [
+"A",
+"C",
+"D"
+],
+"difficulty": "hard",
+"explanation": "A, C, and D are correct. B is false (AI processes multimodal data), E is false (AGI not achieved)."
+},
+{
+"id": 9,
+"type": "assertion-reason",
+"text": "Assertion: Quantum computers are faster than classical computers. Reason: They use quantum entanglement.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "hard",
+"explanation": "Both assertions are correct; quantum entanglement enables quantum speedup."
+},
+{
+"id": 10,
+"type": "mcq",
+"text": "What is blockchain primarily used for?",
+"options": [
+"A. Video compression",
+"B. Distributed ledger technology",
+"C. Weather prediction",
+"D. Medical imaging"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "Blockchain creates immutable distributed ledgers for secure transactions."
+},
+{
+"id": 11,
+"type": "mcq",
+"text": "What is the primary objective of ISRO's Aditya-L1 mission?",
+"options": [
+"A. To study the Moon's south pole",
+"B. To study the Sun",
+"C. To explore Mars",
+"D. To monitor Earth's climate"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "Aditya-L1 is India's first dedicated solar mission to study the Sun's atmosphere."
+},
+{
+"id": 12,
+"type": "fill-blank",
+"text": "The James Webb Space Telescope operates primarily at the second Lagrange point, also known as ______.",
+"answer": "L2",
+"difficulty": "medium",
+"explanation": "The telescope orbits the Sun near the second Lagrange point (L2) of the Earth-Sun system."
+},
+{
+"id": 13,
+"type": "true-false",
+"text": "Sound travels faster in water than in air.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "Sound waves travel faster in denser mediums like water compared to less dense mediums like air."
+},
+{
+"id": 14,
+"type": "multiple-correct",
+"text": "Which of the following are considered major greenhouse gases? (Select all correct)",
+"options": [
+"A. Carbon dioxide",
+"B. Methane",
+"C. Oxygen",
+"D. Nitrogen",
+"E. Water vapor"
+],
+"answer": [
+"A",
+"B",
+"E"
+],
+"difficulty": "medium",
+"explanation": "Carbon dioxide, methane, and water vapor are greenhouse gases. Oxygen and nitrogen are not."
+},
+{
+"id": 15,
+"type": "assertion-reason",
+"text": "Assertion: Diamond is the hardest known natural substance. Reason: The carbon atoms in a diamond are arranged in a rigid, three-dimensional tetrahedral lattice.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "hard",
+"explanation": "Both the assertion and the reason are true, and the strong covalent bonding in the lattice explains its hardness."
+},
+{
+"id": 16,
+"type": "matching",
+"text": "Match the planets of our solar system with their distinct features:",
+"pairs": [
+[
+"Mars",
+"Known as the Red Planet"
+],
+[
+"Jupiter",
+"Features the Great Red Spot"
+],
+[
+"Saturn",
+"Famous for its prominent ring system"
+]
+],
+"difficulty": "easy",
+"explanation": "These are defining astronomical characteristics of these specific planets."
+},
+{
+"id": 17,
+"type": "mcq",
+"text": "Which fundamental particle was famously discovered at CERN in 2012?",
+"options": [
+"A. Electron",
+"B. Proton",
+"C. Higgs boson",
+"D. Neutrino"
+],
+"answer": "C",
+"difficulty": "medium",
+"explanation": "The Higgs boson, which gives mass to other elementary particles, was discovered at the Large Hadron Collider."
+},
+{
+"id": 18,
+"type": "fill-blank",
+"text": "The cellular organelle known as the 'powerhouse of the cell' is the ______.",
+"answer": "mitochondrion",
+"difficulty": "easy",
+"explanation": "Mitochondria generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy."
+},
+{
+"id": 19,
+"type": "true-false",
+"text": "Alexander Fleming discovered the first widely used antibiotic, penicillin.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "Alexander Fleming discovered penicillin in 1928, revolutionizing modern medicine."
+},
+{
+"id": 20,
+"type": "mcq",
+"text": "What does the acronym DNA stand for in biology?",
+"options": [
+"A. Deoxyribonucleic acid",
+"B. Dinucleic acid",
+"C. Deoxynitrogen acid",
+"D. Dioxynucleic acid"
+],
+"answer": "A",
+"difficulty": "easy",
+"explanation": "DNA stands for Deoxyribonucleic acid, the molecule that carries genetic information."
+},
+{
+"id": 21,
+"type": "multiple-correct",
+"text": "Which of the following elements belong to the group of noble gases? (Select all correct)",
+"options": [
+"A. Helium",
+"B. Neon",
+"C. Hydrogen",
+"D. Argon",
+"E. Chlorine"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "medium",
+"explanation": "Helium, neon, and argon are noble gases. Hydrogen and chlorine are not."
+},
+{
+"id": 22,
+"type": "assertion-reason",
+"text": "Assertion: Viruses are generally not considered living organisms by biologists. Reason: Viruses cannot metabolize or reproduce on their own without a host cell.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Because they lack cellular machinery and require a host to replicate, they exist on the edge of what is defined as life."
+},
+{
+"id": 23,
+"type": "matching",
+"text": "Match the historical inventions to their primary inventors:",
+"pairs": [
+[
+"Telephone",
+"Alexander Graham Bell"
+],
+[
+"Incandescent Light Bulb",
+"Thomas Edison"
+],
+[
+"Radio",
+"Guglielmo Marconi"
+]
+],
+"difficulty": "easy",
+"explanation": "These inventors hold the primary patents or are widely credited for developing these technologies."
+},
+{
+"id": 24,
+"type": "mcq",
+"text": "What is the chemical symbol for the element gold?",
+"options": [
+"A. Ag",
+"B. Au",
+"C. Gd",
+"D. Go"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "The symbol 'Au' comes from the Latin word for gold, 'aurum'."
+},
+{
+"id": 25,
+"type": "fill-blank",
+"text": "The biological process by which green plants convert light energy into chemical energy is called ______.",
+"answer": "photosynthesis",
+"difficulty": "easy",
+"explanation": "Photosynthesis involves capturing sunlight to synthesize nutrients from carbon dioxide and water."
+},
+{
+"id": 26,
+"type": "true-false",
+"text": "A light-year is a unit of measurement for time in astronomy.",
+"answer": false,
+"difficulty": "medium",
+"explanation": "A light-year is a unit of distance, measuring how far light travels in a vacuum in one Earth year."
+},
+{
+"id": 27,
+"type": "mcq",
+"text": "What is the hardest substance found in the human body?",
+"options": [
+"A. Bone",
+"B. Cartilage",
+"C. Enamel",
+"D. Keratin"
+],
+"answer": "C",
+"difficulty": "medium",
+"explanation": "Tooth enamel is the hardest and most highly mineralized substance in the human body."
+},
+{
+"id": 28,
+"type": "multiple-correct",
+"text": "Which of the following are the four fundamental forces of nature in physics? (Select all correct)",
+"options": [
+"A. Gravity",
+"B. Electromagnetism",
+"C. Strong nuclear force",
+"D. Friction",
+"E. Weak nuclear force"
+],
+"answer": [
+"A",
+"B",
+"C",
+"E"
+],
+"difficulty": "hard",
+"explanation": "Friction is a non-fundamental force derived from electromagnetism. The other four are the fundamental forces."
+},
+{
+"id": 29,
+"type": "assertion-reason",
+"text": "Assertion: The daytime sky appears blue to the human eye. Reason: Molecules in the air scatter blue light from the sun more than they scatter red light because it travels as shorter, smaller waves.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "This phenomenon, known as Rayleigh scattering, correctly explains why the sky is blue."
+},
+{
+"id": 30,
+"type": "matching",
+"text": "Match the vitamins with their corresponding deficiency diseases:",
+"pairs": [
+[
+"Vitamin C",
+"Scurvy"
+],
+[
+"Vitamin D",
+"Rickets"
+],
+[
+"Vitamin A",
+"Night blindness"
+]
+],
+"difficulty": "medium",
+"explanation": "A lack of these specific vitamins directly leads to these well-documented medical conditions."
+},
+{
+"id": 31,
+"type": "mcq",
+"text": "Which gas makes up the majority of Earth's atmosphere?",
+"options": [
+"A. Oxygen",
+"B. Carbon dioxide",
+"C. Nitrogen",
+"D. Hydrogen"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "Nitrogen accounts for approximately 78% of Earth's atmosphere."
+},
+{
+"id": 32,
+"type": "fill-blank",
+"text": "The atomic number of a chemical element is uniquely determined by the number of ______ in its nucleus.",
+"answer": "protons",
+"difficulty": "medium",
+"explanation": "The number of protons in an atom defines its elemental identity and its place on the periodic table."
+},
+{
+"id": 33,
+"type": "true-false",
+"text": "Electrons are subatomic particles with a positive electrical charge.",
+"answer": false,
+"difficulty": "easy",
+"explanation": "Electrons have a negative charge, while protons carry a positive charge."
+},
+{
+"id": 34,
+"type": "mcq",
+"text": "Who is credited with formulating the three laws of motion and universal gravitation?",
+"options": [
+"A. Galileo Galilei",
+"B. Isaac Newton",
+"C. Albert Einstein",
+"D. Johannes Kepler"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "Sir Isaac Newton published his laws of motion and gravitation in the Principia Mathematica in 1687."
+},
+{
+"id": 35,
+"type": "multiple-correct",
+"text": "Which of the following are recognized programming languages used in software development? (Select all correct)",
+"options": [
+"A. Python",
+"B. Java",
+"C. C++",
+"D. HTML",
+"E. CSS"
+],
+"answer": [
+"A",
+"B",
+"C"
+],
+"difficulty": "medium",
+"explanation": "Python, Java, and C++ are programming languages. HTML is a markup language, and CSS is a style sheet language."
+},
+{
+"id": 36,
+"type": "assertion-reason",
+"text": "Assertion: An astronaut weighs less on the surface of the Moon than on Earth. Reason: The Moon has less mass than Earth, resulting in a weaker gravitational pull.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "easy",
+"explanation": "Weight is a measure of gravitational force. Since the moon's gravity is about 1/6th of Earth's, an object weighs less there."
+},
+{
+"id": 37,
+"type": "matching",
+"text": "Match the scientific instruments to the phenomena they measure:",
+"pairs": [
+[
+"Barometer",
+"Atmospheric pressure"
+],
+[
+"Seismograph",
+"Earthquakes and seismic waves"
+],
+[
+"Anemometer",
+"Wind speed"
+]
+],
+"difficulty": "medium",
+"explanation": "These are standard meteorological and geological tools used for precise environmental measurements."
+},
+{
+"id": 38,
+"type": "mcq",
+"text": "Which metal is unique because it is a liquid at standard room temperature?",
+"options": [
+"A. Gallium",
+"B. Mercury",
+"C. Lead",
+"D. Bromine"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "Mercury is the only metallic element that is liquid at standard conditions for temperature and pressure."
+},
+{
+"id": 39,
+"type": "fill-blank",
+"text": "The standard SI unit used to measure electrical resistance is the ______.",
+"answer": "ohm",
+"difficulty": "medium",
+"explanation": "The ohm is named after German physicist Georg Simon Ohm."
+},
+{
+"id": 40,
+"type": "true-false",
+"text": "Water boils at a lower temperature at high altitudes compared to sea level.",
+"answer": true,
+"difficulty": "hard",
+"explanation": "At higher altitudes, atmospheric pressure is lower, so it takes less heat for water vapor pressure to equal the surrounding pressure."
+},
+{
+"id": 41,
+"type": "mcq",
+"text": "What is the largest organ in the human body?",
+"options": [
+"A. Liver",
+"B. Brain",
+"C. Skin",
+"D. Large Intestine"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "The skin is the body's largest organ, protecting internal structures from the external environment."
+},
+{
+"id": 42,
+"type": "multiple-correct",
+"text": "Which of the following are principal blood types in the ABO blood group system? (Select all correct)",
+"options": [
+"A. Type A",
+"B. Type B",
+"C. Type AB",
+"D. Type O",
+"E. Type C"
+],
+"answer": [
+"A",
+"B",
+"C",
+"D"
+],
+"difficulty": "easy",
+"explanation": "The ABO system defines blood types A, B, AB, and O. There is no Type C."
+},
+{
+"id": 43,
+"type": "assertion-reason",
+"text": "Assertion: Einstein's equation E=mc² indicates that mass and energy are interchangeable. Reason: The speed of light squared acts as a conversion factor between mass and rest energy.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "hard",
+"explanation": "The reason correctly provides the mathematical logic behind the assertion of mass-energy equivalence."
+},
+{
+"id": 44,
+"type": "matching",
+"text": "Match the historic space missions to their primary destinations:",
+"pairs": [
+[
+"Apollo 11",
+"Earth's Moon"
+],
+[
+"Voyager 1",
+"Outer solar system and interstellar space"
+],
+[
+"Cassini",
+"Saturn and its moons"
+]
+],
+"difficulty": "medium",
+"explanation": "These are landmark NASA missions that expanded human understanding of our solar system."
+},
+{
+"id": 45,
+"type": "mcq",
+"text": "Which components of human blood are primarily responsible for fighting infections and disease?",
+"options": [
+"A. Red blood cells",
+"B. White blood cells",
+"C. Platelets",
+"D. Plasma"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "White blood cells (leukocytes) are part of the immune system and help protect the body against infectious disease."
+},
+{
+"id": 46,
+"type": "fill-blank",
+"text": "The branch of biology that focuses on the study of heredity and the variation of inherited characteristics is ______.",
+"answer": "Genetics",
+"difficulty": "medium",
+"explanation": "Genetics analyzes how traits are passed down from parents to offspring through genes."
+},
+{
+"id": 47,
+"type": "true-false",
+"text": "The rusting of iron is a classic example of a physical change.",
+"answer": false,
+"difficulty": "easy",
+"explanation": "Rusting is a chemical change, as it involves a chemical reaction between iron, oxygen, and water to form iron oxide."
+},
+{
+"id": 48,
+"type": "mcq",
+"text": "What complex carbohydrate forms the main structural component of plant cell walls?",
+"options": [
+"A. Glucose",
+"B. Glycogen",
+"C. Cellulose",
+"D. Starch"
+],
+"answer": "C",
+"difficulty": "medium",
+"explanation": "Cellulose provides rigidity and strength to plant cell walls."
+},
+{
+"id": 49,
+"type": "multiple-correct",
+"text": "Which of the following are classified as renewable energy sources? (Select all correct)",
+"options": [
+"A. Solar power",
+"B. Coal",
+"C. Wind power",
+"D. Natural Gas",
+"E. Geothermal energy"
+],
+"answer": [
+"A",
+"C",
+"E"
+],
+"difficulty": "easy",
+"explanation": "Solar, wind, and geothermal are renewable. Coal and natural gas are non-renewable fossil fuels."
+},
+{
+"id": 50,
+"type": "assertion-reason",
+"text": "Assertion: Bats can navigate and hunt insects in complete darkness. Reason: They utilize echolocation by emitting high-frequency sounds and interpreting the returning echoes.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "easy",
+"explanation": "Both statements are correct. Echolocation acts as a biological sonar system for bats."
+}
+]
 }
