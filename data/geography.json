@@ -1,146 +1,675 @@
 {
-  "category": "Geography",
-  "questions": [
-    {
-      "id": 31,
-      "type": "mcq",
-      "text": "Which is the longest river in the world?",
-      "options": [
-        "A. Amazon",
-        "B. Nile",
-        "C. Yangtze",
-        "D. Mississippi"
-      ],
-      "answer": "B",
-      "difficulty": "easy",
-      "explanation": "The Nile River is approximately 6,650 km long."
-    },
-    {
-      "id": 32,
-      "type": "true-false",
-      "text": "The Sahara is the largest desert in the world.",
-      "answer": true,
-      "difficulty": "easy",
-      "explanation": "The Sahara Desert in Africa is the largest hot desert."
-    },
-    {
-      "id": 33,
-      "type": "mcq",
-      "text": "Mount Everest is located in which mountain range?",
-      "options": [
-        "A. Andes",
-        "B. Himalayas",
-        "C. Rockies",
-        "D. Alps"
-      ],
-      "answer": "B",
-      "difficulty": "easy",
-      "explanation": "Mount Everest is in the Himalayas on the Nepal-Tibet border."
-    },
-    {
-      "id": 34,
-      "type": "matching",
-      "text": "Match countries with their capitals:",
-      "pairs": [
-        [
-          "Japan",
-          "Tokyo"
-        ],
-        [
-          "Brazil",
-          "Brasília"
-        ],
-        [
-          "Egypt",
-          "Cairo"
-        ],
-        [
-          "Australia",
-          "Canberra"
-        ]
-      ],
-      "difficulty": "easy",
-      "explanation": "These are the official capital cities of these nations."
-    },
-    {
-      "id": 35,
-      "type": "mcq",
-      "text": "How many continents are there?",
-      "options": [
-        "A. 5",
-        "B. 6",
-        "C. 7",
-        "D. 8"
-      ],
-      "answer": "C",
-      "difficulty": "easy",
-      "explanation": "The seven continents are: Africa, Antarctica, Asia, Europe, North America, Oceania, South America."
-    },
-    {
-      "id": 36,
-      "type": "true-false",
-      "text": "The Pacific Ocean is the smallest ocean on Earth.",
-      "answer": false,
-      "difficulty": "medium",
-      "explanation": "The Pacific is the largest ocean, while the Arctic is the smallest."
-    },
-    {
-      "id": 37,
-      "type": "mcq",
-      "text": "Which Indian state has the longest coastline?",
-      "options": [
-        "A. Karnataka",
-        "B. Kerala",
-        "C. Goa",
-        "D. Gujarat"
-      ],
-      "answer": "D",
-      "difficulty": "medium",
-      "explanation": "Gujarat has the longest coastline (1,600+ km) among Indian states."
-    },
-    {
-      "id": 38,
-      "type": "multiple-correct",
-      "text": "Which of these are island nations? (Select all correct)",
-      "options": [
-        "A. Iceland",
-        "B. Japan",
-        "C. Spain",
-        "D. Philippines",
-        "E. New Zealand"
-      ],
-      "answer": [
-        "A",
-        "B",
-        "D",
-        "E"
-      ],
-      "difficulty": "medium",
-      "explanation": "Iceland, Japan, Philippines, and New Zealand are island nations. Spain is mostly peninsular."
-    },
-    {
-      "id": 39,
-      "type": "assertion-reason",
-      "text": "Assertion: The Equator is the longest latitude line. Reason: It divides Earth into Northern and Southern hemispheres.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "hard",
-      "explanation": "The Equator is indeed the longest parallel, and it does divide the hemispheres."
-    },
-    {
-      "id": 40,
-      "type": "mcq",
-      "text": "The Grand Canyon is located in which US state?",
-      "options": [
-        "A. Utah",
-        "B. Arizona",
-        "C. Colorado",
-        "D. Nevada"
-      ],
-      "answer": "B",
-      "difficulty": "easy",
-      "explanation": "The Grand Canyon is in Arizona, carved by the Colorado River."
-    }
-  ]
+"category": "Geography",
+"questions": [
+{
+"id": 1,
+"type": "mcq",
+"text": "Which is the longest river in the world?",
+"options": [
+"A. Amazon",
+"B. Nile",
+"C. Yangtze",
+"D. Mississippi"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "The Nile River is approximately 6,650 km long."
+},
+{
+"id": 2,
+"type": "true-false",
+"text": "The Sahara is the largest desert in the world.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "The Sahara Desert in Africa is the largest hot desert."
+},
+{
+"id": 3,
+"type": "mcq",
+"text": "Mount Everest is located in which mountain range?",
+"options": [
+"A. Andes",
+"B. Himalayas",
+"C. Rockies",
+"D. Alps"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "Mount Everest is in the Himalayas on the Nepal-Tibet border."
+},
+{
+"id": 4,
+"type": "matching",
+"text": "Match countries with their capitals:",
+"pairs": [
+[
+"Japan",
+"Tokyo"
+],
+[
+"Brazil",
+"Brasília"
+],
+[
+"Egypt",
+"Cairo"
+],
+[
+"Australia",
+"Canberra"
+]
+],
+"difficulty": "easy",
+"explanation": "These are the official capital cities of these nations."
+},
+{
+"id": 5,
+"type": "mcq",
+"text": "How many continents are there?",
+"options": [
+"A. 5",
+"B. 6",
+"C. 7",
+"D. 8"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "The seven continents are: Africa, Antarctica, Asia, Europe, North America, Oceania, South America."
+},
+{
+"id": 6,
+"type": "true-false",
+"text": "The Pacific Ocean is the smallest ocean on Earth.",
+"answer": false,
+"difficulty": "medium",
+"explanation": "The Pacific is the largest ocean, while the Arctic is the smallest."
+},
+{
+"id": 7,
+"type": "mcq",
+"text": "Which Indian state has the longest coastline?",
+"options": [
+"A. Karnataka",
+"B. Kerala",
+"C. Goa",
+"D. Gujarat"
+],
+"answer": "D",
+"difficulty": "medium",
+"explanation": "Gujarat has the longest coastline (1,600+ km) among Indian states."
+},
+{
+"id": 8,
+"type": "multiple-correct",
+"text": "Which of these are island nations? (Select all correct)",
+"options": [
+"A. Iceland",
+"B. Japan",
+"C. Spain",
+"D. Philippines",
+"E. New Zealand"
+],
+"answer": [
+"A",
+"B",
+"D",
+"E"
+],
+"difficulty": "medium",
+"explanation": "Iceland, Japan, Philippines, and New Zealand are island nations. Spain is mostly peninsular."
+},
+{
+"id": 9,
+"type": "assertion-reason",
+"text": "Assertion: The Equator is the longest latitude line. Reason: It divides Earth into Northern and Southern hemispheres.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "hard",
+"explanation": "The Equator is indeed the longest parallel, and it does divide the hemispheres."
+},
+{
+"id": 10,
+"type": "mcq",
+"text": "The Grand Canyon is located in which US state?",
+"options": [
+"A. Utah",
+"B. Arizona",
+"C. Colorado",
+"D. Nevada"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "The Grand Canyon is in Arizona, carved by the Colorado River."
+},
+{
+"id": 11,
+"type": "mcq",
+"text": "Which is the smallest country in the world by land area?",
+"options": [
+"A. Monaco",
+"B. Nauru",
+"C. Vatican City",
+"D. San Marino"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "Vatican City is an independent city-state enclaved within Rome, Italy, and is the smallest country by area."
+},
+{
+"id": 12,
+"type": "true-false",
+"text": "Mount Kilimanjaro is the highest peak in Africa.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "Mount Kilimanjaro is a dormant volcano in Tanzania and the highest mountain in Africa."
+},
+{
+"id": 13,
+"type": "fill-blank",
+"text": "The imaginary line that divides the Earth into the Eastern and Western hemispheres is known as the Prime ______.",
+"answer": "Meridian",
+"difficulty": "medium",
+"explanation": "The Prime Meridian is the line of 0 degrees longitude, which passes through Greenwich, England."
+},
+{
+"id": 14,
+"type": "multiple-correct",
+"text": "Which of the following are part of the Great Lakes of North America? (Select all correct)",
+"options": [
+"A. Lake Superior",
+"B. Lake Victoria",
+"C. Lake Baikal",
+"D. Lake Michigan",
+"E. Lake Huron"
+],
+"answer": [
+"A",
+"D",
+"E"
+],
+"difficulty": "medium",
+"explanation": "The Great Lakes include Superior, Michigan, Huron, Erie, and Ontario. Victoria is in Africa and Baikal is in Russia."
+},
+{
+"id": 15,
+"type": "assertion-reason",
+"text": "Assertion: Ocean tides are a recurring natural phenomenon. Reason: The gravitational pull of the Moon and the Sun affects Earth's oceans.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are true, and the gravitational pull is the direct cause of the ocean tides."
+},
+{
+"id": 16,
+"type": "matching",
+"text": "Match the mountain ranges to their respective continents:",
+"pairs": [
+[
+"Andes",
+"South America"
+],
+[
+"Alps",
+"Europe"
+],
+[
+"Rocky Mountains",
+"North America"
+]
+],
+"difficulty": "easy",
+"explanation": "The Andes run through South America, the Alps through Europe, and the Rockies through North America."
+},
+{
+"id": 17,
+"type": "mcq",
+"text": "What is the capital city of Canada?",
+"options": [
+"A. Toronto",
+"B. Vancouver",
+"C. Montreal",
+"D. Ottawa"
+],
+"answer": "D",
+"difficulty": "medium",
+"explanation": "While Toronto and Vancouver are larger cities, Ottawa is the capital of Canada."
+},
+{
+"id": 18,
+"type": "true-false",
+"text": "Greenland is recognized as a fully independent sovereign nation.",
+"answer": false,
+"difficulty": "medium",
+"explanation": "Greenland is an autonomous territory within the Kingdom of Denmark."
+},
+{
+"id": 19,
+"type": "fill-blank",
+"text": "The science or practice of drawing and creating maps is called ______.",
+"answer": "Cartography",
+"difficulty": "medium",
+"explanation": "Cartography is the study and practice of making maps, combining science, aesthetics, and technique."
+},
+{
+"id": 20,
+"type": "multiple-correct",
+"text": "Which of these countries are located in South America? (Select all correct)",
+"options": [
+"A. Brazil",
+"B. Spain",
+"C. Argentina",
+"D. Mexico",
+"E. Chile"
+],
+"answer": [
+"A",
+"C",
+"E"
+],
+"difficulty": "easy",
+"explanation": "Brazil, Argentina, and Chile are in South America. Spain is in Europe, and Mexico is in North America."
+},
+{
+"id": 21,
+"type": "assertion-reason",
+"text": "Assertion: Deserts are always characterized by extremely hot temperatures. Reason: Antarctica is classified as a desert because it receives very little precipitation.",
+"assertion": false,
+"reason": true,
+"answer": "D",
+"difficulty": "hard",
+"explanation": "Deserts are defined by low precipitation, not temperature. Therefore, the cold continent of Antarctica is the largest desert in the world."
+},
+{
+"id": 22,
+"type": "matching",
+"text": "Match the major rivers to the countries they primarily flow through:",
+"pairs": [
+[
+"Ganges",
+"India"
+],
+[
+"Seine",
+"France"
+],
+[
+"Thames",
+"United Kingdom"
+]
+],
+"difficulty": "medium",
+"explanation": "The Ganges is central to India, the Seine flows through Paris, France, and the Thames runs through London, UK."
+},
+{
+"id": 23,
+"type": "mcq",
+"text": "Which country is the largest in the world by total land area?",
+"options": [
+"A. China",
+"B. United States",
+"C. Canada",
+"D. Russia"
+],
+"answer": "D",
+"difficulty": "easy",
+"explanation": "Russia spans Eastern Europe and Northern Asia and is the largest country by landmass."
+},
+{
+"id": 24,
+"type": "true-false",
+"text": "The Amazon rainforest produces roughly 20 percent of the Earth's oxygen.",
+"answer": false,
+"difficulty": "hard",
+"explanation": "It's a common myth; the Amazon consumes almost all the oxygen it produces. Most of Earth's oxygen comes from marine plants like phytoplankton."
+},
+{
+"id": 25,
+"type": "fill-blank",
+"text": "The Great Barrier Reef, the world's largest coral reef system, is located off the coast of ______.",
+"answer": "Australia",
+"difficulty": "easy",
+"explanation": "The Great Barrier Reef is situated in the Coral Sea, off the coast of Queensland, Australia."
+},
+{
+"id": 26,
+"type": "multiple-correct",
+"text": "Which of the following are Scandinavian countries? (Select all correct)",
+"options": [
+"A. Norway",
+"B. Sweden",
+"C. Italy",
+"D. Denmark",
+"E. Greece"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "medium",
+"explanation": "Norway, Sweden, and Denmark make up Scandinavia. Italy and Greece are in Southern Europe."
+},
+{
+"id": 27,
+"type": "assertion-reason",
+"text": "Assertion: Global sea levels have been rising over the past century. Reason: Global warming causes polar ice caps and glaciers to melt, adding water to the oceans.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are true, and the melting of ice due to global warming directly explains the rising sea levels."
+},
+{
+"id": 28,
+"type": "matching",
+"text": "Match the deserts to their respective continents:",
+"pairs": [
+[
+"Gobi Desert",
+"Asia"
+],
+[
+"Kalahari Desert",
+"Africa"
+],
+[
+"Atacama Desert",
+"South America"
+]
+],
+"difficulty": "hard",
+"explanation": "The Gobi is in China and Mongolia, the Kalahari is in Southern Africa, and the Atacama is in Chile."
+},
+{
+"id": 29,
+"type": "mcq",
+"text": "Which is the longest continental mountain range in the world?",
+"options": [
+"A. Himalayas",
+"B. Rocky Mountains",
+"C. Andes",
+"D. Ural Mountains"
+],
+"answer": "C",
+"difficulty": "medium",
+"explanation": "The Andes stretch for over 7,000 km along the western edge of South America."
+},
+{
+"id": 30,
+"type": "true-false",
+"text": "The Dead Sea is known for having an incredibly high salt concentration.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "The Dead Sea is a salt lake bordered by Jordan and Israel, and its high salinity makes it easy to float."
+},
+{
+"id": 31,
+"type": "fill-blank",
+"text": "A narrow strip of water connecting two larger bodies of water is called a ______.",
+"answer": "strait",
+"difficulty": "medium",
+"explanation": "Examples include the Strait of Gibraltar or the Strait of Hormuz."
+},
+{
+"id": 32,
+"type": "multiple-correct",
+"text": "Which of the following Indian states share a land border with Pakistan? (Select all correct)",
+"options": [
+"A. Gujarat",
+"B. Rajasthan",
+"C. Punjab",
+"D. Kerala",
+"E. Tamil Nadu"
+],
+"answer": [
+"A",
+"B",
+"C"
+],
+"difficulty": "medium",
+"explanation": "Gujarat, Rajasthan, and Punjab border Pakistan. Kerala and Tamil Nadu are in southern India."
+},
+{
+"id": 33,
+"type": "assertion-reason",
+"text": "Assertion: The Earth experiences different seasons throughout the year. Reason: The Earth's axis of rotation is tilted relative to its orbital plane around the Sun.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are correct, and the axial tilt is the fundamental reason for the changing seasons."
+},
+{
+"id": 34,
+"type": "matching",
+"text": "Match the famous landmarks to the continents where they are located:",
+"pairs": [
+[
+"Pyramids of Giza",
+"Africa"
+],
+[
+"Machu Picchu",
+"South America"
+],
+[
+"Statue of Liberty",
+"North America"
+]
+],
+"difficulty": "easy",
+"explanation": "These are iconic structures located on their respective continents."
+},
+{
+"id": 35,
+"type": "mcq",
+"text": "What is the capital city of New Zealand?",
+"options": [
+"A. Auckland",
+"B. Christchurch",
+"C. Wellington",
+"D. Hamilton"
+],
+"answer": "C",
+"difficulty": "medium",
+"explanation": "Wellington is the capital, although Auckland is the most populous city."
+},
+{
+"id": 36,
+"type": "true-false",
+"text": "The Tropic of Cancer passes almost halfway through the landmass of India.",
+"answer": true,
+"difficulty": "medium",
+"explanation": "The Tropic of Cancer passes through eight Indian states, dividing the country into roughly two equal parts."
+},
+{
+"id": 37,
+"type": "fill-blank",
+"text": "A piece of land surrounded by water on three sides is called a ______.",
+"answer": "peninsula",
+"difficulty": "easy",
+"explanation": "Examples include the Iberian Peninsula, the Florida Peninsula, and the Indian Peninsula."
+},
+{
+"id": 38,
+"type": "multiple-correct",
+"text": "Which of these countries border the Mediterranean Sea? (Select all correct)",
+"options": [
+"A. Italy",
+"B. Greece",
+"C. Japan",
+"D. Egypt",
+"E. Brazil"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "medium",
+"explanation": "Italy, Greece, and Egypt border the Mediterranean. Japan is in the Pacific, and Brazil borders the Atlantic."
+},
+{
+"id": 39,
+"type": "assertion-reason",
+"text": "Assertion: The 'Ring of Fire' is an area with a high frequency of earthquakes and volcanic eruptions. Reason: It is located along the edges of the Atlantic Ocean basin.",
+"assertion": true,
+"reason": false,
+"answer": "C",
+"difficulty": "hard",
+"explanation": "The assertion is true, but the reason is false. The Ring of Fire surrounds the Pacific Ocean basin, not the Atlantic."
+},
+{
+"id": 40,
+"type": "matching",
+"text": "Match the European countries to their capital cities:",
+"pairs": [
+[
+"France",
+"Paris"
+],
+[
+"Italy",
+"Rome"
+],
+[
+"Germany",
+"Berlin"
+]
+],
+"difficulty": "easy",
+"explanation": "These are major Western European nations and their historic capital cities."
+},
+{
+"id": 41,
+"type": "mcq",
+"text": "Lake Baikal, known for its depth and age, is located in which country?",
+"options": [
+"A. Canada",
+"B. United States",
+"C. Russia",
+"D. Mongolia"
+],
+"answer": "C",
+"difficulty": "hard",
+"explanation": "Lake Baikal is a massive ancient rift lake located in southern Siberia, Russia."
+},
+{
+"id": 42,
+"type": "true-false",
+"text": "Mount Vesuvius is an active volcano located in mainland Europe.",
+"answer": true,
+"difficulty": "medium",
+"explanation": "Mount Vesuvius, famous for destroying Pompeii, is located near Naples, Italy."
+},
+{
+"id": 43,
+"type": "fill-blank",
+"text": "The lowest layer of Earth's atmosphere, where nearly all weather conditions take place, is the ______.",
+"answer": "troposphere",
+"difficulty": "hard",
+"explanation": "The troposphere starts at the Earth's surface and contains most of the atmosphere's mass."
+},
+{
+"id": 44,
+"type": "multiple-correct",
+"text": "Which of the following are landlocked countries? (Select all correct)",
+"options": [
+"A. Nepal",
+"B. Switzerland",
+"C. Australia",
+"D. Chad",
+"E. Japan"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "hard",
+"explanation": "Nepal, Switzerland, and Chad have no coastline. Australia and Japan are island nations."
+},
+{
+"id": 45,
+"type": "assertion-reason",
+"text": "Assertion: Tsunamis are massive tidal waves caused by the gravitational pull of the moon. Reason: Underwater earthquakes or volcanic eruptions generate tsunamis by displacing huge volumes of water.",
+"assertion": false,
+"reason": true,
+"answer": "D",
+"difficulty": "medium",
+"explanation": "Tsunamis are not tidal waves and are not caused by the moon. They are generated by seismic activity, making the reason true and the assertion false."
+},
+{
+"id": 46,
+"type": "matching",
+"text": "Match the Indian states to their capital cities:",
+"pairs": [
+[
+"Maharashtra",
+"Mumbai"
+],
+[
+"Karnataka",
+"Bengaluru"
+],
+[
+"West Bengal",
+"Kolkata"
+]
+],
+"difficulty": "easy",
+"explanation": "These are major Indian states corresponding to their capital megacities."
+},
+{
+"id": 47,
+"type": "mcq",
+"text": "The Mariana Trench, the deepest oceanic trench on Earth, is located in which ocean?",
+"options": [
+"A. Atlantic Ocean",
+"B. Indian Ocean",
+"C. Pacific Ocean",
+"D. Southern Ocean"
+],
+"answer": "C",
+"difficulty": "medium",
+"explanation": "The Mariana Trench is located in the western Pacific Ocean."
+},
+{
+"id": 48,
+"type": "true-false",
+"text": "Vatican City is entirely surrounded by the city of Rome.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "Vatican City is an independent city-state enclaved within Rome, Italy."
+},
+{
+"id": 49,
+"type": "fill-blank",
+"text": "Molten rock generated by geothermal energy beneath the Earth's surface is called ______.",
+"answer": "magma",
+"difficulty": "medium",
+"explanation": "Once magma erupts onto the surface, it is then referred to as lava."
+},
+{
+"id": 50,
+"type": "multiple-correct",
+"text": "Which of the following are official languages of the United Nations? (Select all correct)",
+"options": [
+"A. English",
+"B. French",
+"C. Hindi",
+"D. Spanish",
+"E. German"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "hard",
+"explanation": "The six official languages are Arabic, Chinese, English, French, Russian, and Spanish."
+}
+]
 }
