@@ -29,8 +29,10 @@ const QuizPlatform = () => {
     const [showResults, setShowResults] = useState(false);
     const [quizQuestions, setQuizQuestions] = useState([]);
     
-    // Local state for tracking matching question selections before submission
+    // Local state for tracking selections before submission
     const [matchingSelections, setMatchingSelections] = useState({});
+    const [multipleSelections, setMultipleSelections] = useState([]);
+    const [fillBlankSelection, setFillBlankSelection] = useState("");
 
     // Load all category question banks from the data/ folder
     useEffect(() => {
@@ -70,9 +72,11 @@ const QuizPlatform = () => {
         return () => clearTimeout(timer);
     }, [timeRemaining]);
 
-    // Reset matching selections when moving to a new question
+    // Reset local selections when moving to a new question
     useEffect(() => {
         setMatchingSelections({});
+        setMultipleSelections([]);
+        setFillBlankSelection("");
     }, [currentQuestionIndex]);
 
     // Memoize randomized right-side options for matching questions
@@ -144,6 +148,8 @@ const QuizPlatform = () => {
                     }
                 });
                 if (allCorrect) correct++;
+            } else if (q.type === "fill-blank") {
+                if (String(userAnswer).toLowerCase() === String(q.answer).toLowerCase()) correct++;
             } else if (Array.isArray(q.answer)) {
                 if (JSON.stringify(userAnswer?.sort()) === JSON.stringify(q.answer.sort())) correct++;
             } else if (userAnswer === q.answer) {
@@ -317,14 +323,14 @@ const QuizPlatform = () => {
                     {currentQuestion.type === "true-false" && (
                         <div className="options-container">
                             <div
-                                className={`option ${answers[currentQuestionIndex] === true ? 'selected' : ''}`}
+                                className={`option ${getOptionClass(true)}`}
                                 onClick={() => submitAnswer(true)}
                             >
                                 <span className="option-letter">T</span>
                                 <span className="option-text">True</span>
                             </div>
                             <div
-                                className={`option ${answers[currentQuestionIndex] === false ? 'selected' : ''}`}
+                                className={`option ${getOptionClass(false)}`}
                                 onClick={() => submitAnswer(false)}
                             >
                                 <span className="option-letter">F</span>
@@ -334,28 +340,49 @@ const QuizPlatform = () => {
                     )}
 
                     {currentQuestion.type === "multiple-correct" && (
-                        <div className="options-container">
-                            {currentQuestion.options.map((option, idx) => {
-                                const letter = String.fromCharCode(65 + idx);
-                                const isSelected = answers[currentQuestionIndex]?.includes(letter);
-                                return (
-                                    <div
-                                        key={idx}
-                                        className={`option ${isSelected ? 'selected' : ''}`}
-                                        onClick={() => {
-                                            const current = answers[currentQuestionIndex] || [];
-                                            if (isSelected) {
-                                                submitAnswer(current.filter(a => a !== letter));
-                                            } else {
-                                                submitAnswer([...current, letter]);
-                                            }
-                                        }}
-                                    >
-                                        <span className="option-letter" style={{ fontSize: "1.2rem" }}>☐</span>
-                                        <span className="option-text">{option}</span>
-                                    </div>
-                                );
-                            })}
+                        <div style={{ marginTop: "1rem" }}>
+                            <div className="options-container">
+                                {currentQuestion.options.map((option, idx) => {
+                                    const letter = String.fromCharCode(65 + idx);
+                                    const isSelected = isAnswered 
+                                        ? answers[currentQuestionIndex].includes(letter)
+                                        : multipleSelections.includes(letter);
+                                    
+                                    let optionClass = "";
+                                    if (isAnswered) {
+                                        if (currentQuestion.answer.includes(letter)) optionClass = "correct disabled";
+                                        else if (isSelected) optionClass = "wrong disabled";
+                                        else optionClass = "disabled";
+                                    } else {
+                                        optionClass = isSelected ? "selected" : "";
+                                    }
+
+                                    return (
+                                        <div
+                                            key={idx}
+                                            className={`option ${optionClass}`}
+                                            onClick={() => {
+                                                if (isAnswered) return;
+                                                setMultipleSelections(prev => 
+                                                    prev.includes(letter) ? prev.filter(l => l !== letter) : [...prev, letter]
+                                                );
+                                            }}
+                                        >
+                                            <span className="option-letter" style={{ fontSize: "1.2rem" }}>☐</span>
+                                            <span className="option-text">{option}</span>
+                                        </div>
+                                    );
+                                })}
+                            </div>
+                            {!isAnswered && multipleSelections.length > 0 && (
+                                <button 
+                                    className="btn btn-primary" 
+                                    style={{ marginTop: "1.5rem", width: "100%", padding: "1rem", fontSize: "1.1rem" }}
+                                    onClick={() => submitAnswer(multipleSelections)}
+                                >
+                                    Check Answer
+                                </button>
+                            )}
                         </div>
                     )}
 
@@ -433,37 +460,72 @@ const QuizPlatform = () => {
 
                     {currentQuestion.type === "assertion-reason" && (
                         <div style={{ marginTop: "1rem" }}>
-                            <div style={{ background: "var(--light)", padding: "1rem", borderRadius: "8px", marginBottom: "1rem" }}>
-                                <strong>Assertion:</strong> {currentQuestion.text}
-                            </div>
                             <div className="options-container">
-                                <div className={`option ${answers[currentQuestionIndex] === "A" ? 'selected' : ''}`} onClick={() => submitAnswer("A")}>
-                                    <span className="option-letter">A</span>
-                                    <span className="option-text">Both are true and related</span>
-                                </div>
-                                <div className={`option ${answers[currentQuestionIndex] === "B" ? 'selected' : ''}`} onClick={() => submitAnswer("B")}>
-                                    <span className="option-letter">B</span>
-                                    <span className="option-text">Both are true but not related</span>
-                                </div>
+                                {["A", "B", "C", "D"].map(letter => {
+                                    let text = "";
+                                    if (letter === "A") text = "Both assertion and reason are true, and reason correctly explains assertion";
+                                    if (letter === "B") text = "Both are true, but reason does not explain assertion";
+                                    if (letter === "C") text = "Assertion is true, reason is false";
+                                    if (letter === "D") text = "Assertion is false, reason is true";
+                                    
+                                    return (
+                                        <div 
+                                            key={letter} 
+                                            className={`option ${getOptionClass(letter)}`} 
+                                            onClick={() => submitAnswer(letter)}
+                                        >
+                                            <span className="option-letter">{letter}</span>
+                                            <span className="option-text">{text}</span>
+                                        </div>
+                                    );
+                                })}
                             </div>
                         </div>
                     )}
 
                     {currentQuestion.type === "fill-blank" && (
-                        <input
-                            type="text"
-                            placeholder="Enter your answer"
-                            value={answers[currentQuestionIndex] || ""}
-                            onChange={(e) => submitAnswer(e.target.value)}
-                            style={{
-                                width: "100%",
-                                padding: "1rem",
-                                borderRadius: "8px",
-                                border: "2px solid var(--border)",
-                                fontSize: "1rem",
-                                marginTop: "1rem"
-                            }}
-                        />
+                        <div style={{ marginTop: "1rem" }}>
+                            <input
+                                type="text"
+                                placeholder="Enter your answer"
+                                value={isAnswered ? answers[currentQuestionIndex] : fillBlankSelection}
+                                onChange={(e) => {
+                                    if (!isAnswered) setFillBlankSelection(e.target.value);
+                                }}
+                                disabled={isAnswered}
+                                style={{
+                                    width: "100%",
+                                    padding: "1rem",
+                                    borderRadius: "8px",
+                                    border: isAnswered 
+                                        ? (String(answers[currentQuestionIndex]).toLowerCase() === String(currentQuestion.answer).toLowerCase() 
+                                            ? "2px solid #28a745" 
+                                            : "2px solid #dc3545")
+                                        : "2px solid var(--border)",
+                                    backgroundColor: isAnswered 
+                                        ? (String(answers[currentQuestionIndex]).toLowerCase() === String(currentQuestion.answer).toLowerCase() 
+                                            ? "#d4edda" 
+                                            : "#f8d7da")
+                                        : "#fff",
+                                    fontSize: "1rem",
+                                    outline: "none"
+                                }}
+                            />
+                            {!isAnswered && fillBlankSelection.trim() !== "" && (
+                                <button 
+                                    className="btn btn-primary" 
+                                    style={{ marginTop: "1.5rem", width: "100%", padding: "1rem", fontSize: "1.1rem" }}
+                                    onClick={() => submitAnswer(fillBlankSelection.trim())}
+                                >
+                                    Check Answer
+                                </button>
+                            )}
+                            {isAnswered && String(answers[currentQuestionIndex]).toLowerCase() !== String(currentQuestion.answer).toLowerCase() && (
+                                <div style={{ marginTop: "1rem", color: "#721c24", fontWeight: "bold" }}>
+                                    Correct Answer: {currentQuestion.answer}
+                                </div>
+                            )}
+                        </div>
                     )}
 
                     {isAnswered && (
@@ -507,6 +569,14 @@ const QuizPlatform = () => {
                                 if (userAnswer[pIdx] !== pair[1]) allCorrect = false;
                             });
                             if (allCorrect) catCorrect++;
+                        }
+                    } else if (q.type === "fill-blank") {
+                        if (userAnswer !== undefined && String(userAnswer).toLowerCase() === String(q.answer).toLowerCase()) {
+                            catCorrect++;
+                        }
+                    } else if (Array.isArray(q.answer)) {
+                        if (JSON.stringify(userAnswer?.sort()) === JSON.stringify(q.answer.sort())) {
+                            catCorrect++;
                         }
                     } else if (userAnswer === q.answer) {
                         catCorrect++;
