@@ -1,135 +1,659 @@
 {
-  "category": "History",
-  "questions": [
-    {
-      "id": 21,
-      "type": "mcq",
-      "text": "Who drafted the Indian Constitution?",
-      "options": [
-        "A. Jawaharlal Nehru",
-        "B. Dr. B.R. Ambedkar",
-        "C. Rajendra Prasad",
-        "D. Sardar Patel"
-      ],
-      "answer": "B",
-      "difficulty": "easy",
-      "explanation": "Dr. B.R. Ambedkar chaired the Drafting Committee of the Indian Constitution."
-    },
-    {
-      "id": 22,
-      "type": "true-false",
-      "text": "The Magna Carta was signed in 1215 and limited the powers of the English King.",
-      "answer": true,
-      "difficulty": "easy",
-      "explanation": "The Magna Carta was indeed signed in 1215 by King John."
-    },
-    {
-      "id": 23,
-      "type": "mcq",
-      "text": "Which article of the Indian Constitution grants Fundamental Rights?",
-      "options": [
-        "A. Articles 12–35",
-        "B. Articles 36–51",
-        "C. Articles 52–62",
-        "D. Articles 1–11"
-      ],
-      "answer": "A",
-      "difficulty": "hard",
-      "explanation": "Articles 12–35 of the Indian Constitution deal with Fundamental Rights."
-    },
-    {
-      "id": 24,
-      "type": "matching",
-      "text": "Match the independence leaders with their independence movements:",
-      "pairs": [
-        [
-          "Mahatma Gandhi",
-          "Indian Independence"
-        ],
-        [
-          "Nelson Mandela",
-          "Anti-apartheid"
-        ],
-        [
-          "Ho Chi Minh",
-          "Vietnamese Independence"
-        ]
-      ],
-      "difficulty": "easy",
-      "explanation": "These leaders are associated with their respective freedom movements."
-    },
-    {
-      "id": 25,
-      "type": "mcq",
-      "text": "The Sepoy Mutiny occurred in which year?",
-      "options": [
-        "A. 1857",
-        "B. 1858",
-        "C. 1859",
-        "D. 1860"
-      ],
-      "answer": "A",
-      "difficulty": "easy",
-      "explanation": "The Revolt of 1857 began in May 1857."
-    },
-    {
-      "id": 26,
-      "type": "true-false",
-      "text": "The French Revolution took place in the 18th century.",
-      "answer": true,
-      "difficulty": "easy",
-      "explanation": "The French Revolution began in 1789."
-    },
-    {
-      "id": 27,
-      "type": "multiple-correct",
-      "text": "Which of these were Mughal emperors? (Select all correct)",
-      "options": [
-        "A. Akbar",
-        "B. Ashoka",
-        "C. Shah Jahan",
-        "D. Vikramaditya",
-        "E. Aurangzeb"
-      ],
-      "answer": [
-        "A",
-        "C",
-        "E"
-      ],
-      "difficulty": "medium",
-      "explanation": "Akbar, Shah Jahan, and Aurangzeb were Mughal emperors."
-    },
-    {
-      "id": 28,
-      "type": "assertion-reason",
-      "text": "Assertion: Democracy requires a constitution. Reason: A constitution defines the structure and powers of government.",
-      "assertion": true,
-      "reason": true,
-      "answer": "A",
-      "difficulty": "medium",
-      "explanation": "Both statements are true, and the reason correctly explains the assertion."
-    },
-    {
-      "id": 29,
-      "type": "mcq",
-      "text": "The Universal Declaration of Human Rights was adopted in which year?",
-      "options": [
-        "A. 1945",
-        "B. 1948",
-        "C. 1950",
-        "D. 1952"
-      ],
-      "answer": "B",
-      "difficulty": "medium",
-      "explanation": "The UDHR was adopted by the UN General Assembly on 10 December 1948."
-    },
-    {
-      "id": 30,
-      "type": "fill-blank",
-      "text": "The Indian Constitution currently has ______ Schedules.",
-      "answer": "12",
-      "difficulty": "easy",
-      "explanation": "The Constitution of India currently contains 12 Schedules."
-    }
-  ]
+"category": "History",
+"questions": [
+{
+"id": 1,
+"type": "mcq",
+"text": "Who drafted the Indian Constitution?",
+"options": [
+"A. Jawaharlal Nehru",
+"B. Dr. B.R. Ambedkar",
+"C. Rajendra Prasad",
+"D. Sardar Patel"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "Dr. B.R. Ambedkar chaired the Drafting Committee of the Indian Constitution."
+},
+{
+"id": 2,
+"type": "true-false",
+"text": "The Magna Carta was signed in 1215 and limited the powers of the English King.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "The Magna Carta was indeed signed in 1215 by King John."
+},
+{
+"id": 3,
+"type": "mcq",
+"text": "Which article of the Indian Constitution grants Fundamental Rights?",
+"options": [
+"A. Articles 12–35",
+"B. Articles 36–51",
+"C. Articles 52–62",
+"D. Articles 1–11"
+],
+"answer": "A",
+"difficulty": "hard",
+"explanation": "Articles 12–35 of the Indian Constitution deal with Fundamental Rights."
+},
+{
+"id": 4,
+"type": "matching",
+"text": "Match the independence leaders with their independence movements:",
+"pairs": [
+[
+"Mahatma Gandhi",
+"Indian Independence"
+],
+[
+"Nelson Mandela",
+"Anti-apartheid"
+],
+[
+"Ho Chi Minh",
+"Vietnamese Independence"
+]
+],
+"difficulty": "easy",
+"explanation": "These leaders are associated with their respective freedom movements."
+},
+{
+"id": 5,
+"type": "mcq",
+"text": "The Sepoy Mutiny occurred in which year?",
+"options": [
+"A. 1857",
+"B. 1858",
+"C. 1859",
+"D. 1860"
+],
+"answer": "A",
+"difficulty": "easy",
+"explanation": "The Revolt of 1857 began in May 1857."
+},
+{
+"id": 6,
+"type": "true-false",
+"text": "The French Revolution took place in the 18th century.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "The French Revolution began in 1789."
+},
+{
+"id": 7,
+"type": "multiple-correct",
+"text": "Which of these were Mughal emperors? (Select all correct)",
+"options": [
+"A. Akbar",
+"B. Ashoka",
+"C. Shah Jahan",
+"D. Vikramaditya",
+"E. Aurangzeb"
+],
+"answer": [
+"A",
+"C",
+"E"
+],
+"difficulty": "medium",
+"explanation": "Akbar, Shah Jahan, and Aurangzeb were Mughal emperors."
+},
+{
+"id": 8,
+"type": "assertion-reason",
+"text": "Assertion: Democracy requires a constitution. Reason: A constitution defines the structure and powers of government.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are true, and the reason correctly explains the assertion."
+},
+{
+"id": 9,
+"type": "mcq",
+"text": "The Universal Declaration of Human Rights was adopted in which year?",
+"options": [
+"A. 1945",
+"B. 1948",
+"C. 1950",
+"D. 1952"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "The UDHR was adopted by the UN General Assembly on 10 December 1948."
+},
+{
+"id": 10,
+"type": "fill-blank",
+"text": "The Indian Constitution currently has ______ Schedules.",
+"answer": "12",
+"difficulty": "easy",
+"explanation": "The Constitution of India currently contains 12 Schedules."
+},
+{
+"id": 11,
+"type": "mcq",
+"text": "In which year did the First World War begin?",
+"options": [
+"A. 1912",
+"B. 1914",
+"C. 1916",
+"D. 1918"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "The First World War began in 1914 following the assassination of Archduke Franz Ferdinand."
+},
+{
+"id": 12,
+"type": "true-false",
+"text": "The Industrial Revolution first began in Great Britain.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "The Industrial Revolution originated in Great Britain in the late 18th century before spreading globally."
+},
+{
+"id": 13,
+"type": "fill-blank",
+"text": "The Quit India Movement was launched in the year ________.",
+"answer": "1942",
+"difficulty": "easy",
+"explanation": "Mahatma Gandhi launched the Quit India Movement on August 8, 1942, demanding an end to British rule."
+},
+{
+"id": 14,
+"type": "multiple-correct",
+"text": "Which of the following nations were part of the Axis Powers during World War II? (Select all correct)",
+"options": [
+"A. Germany",
+"B. United Kingdom",
+"C. Italy",
+"D. Soviet Union",
+"E. Japan"
+],
+"answer": [
+"A",
+"C",
+"E"
+],
+"difficulty": "medium",
+"explanation": "Germany, Italy, and Japan formed the core of the Axis Powers during World War II."
+},
+{
+"id": 15,
+"type": "assertion-reason",
+"text": "Assertion: The Cold War did not involve direct large-scale military combat between the USA and the USSR. Reason: Both superpowers possessed nuclear weapons, leading to the doctrine of Mutually Assured Destruction.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both the assertion and the reason are true, and the reason correctly explains why direct military conflict was avoided."
+},
+{
+"id": 16,
+"type": "matching",
+"text": "Match the prominent Indian historical figures with their popular titles:",
+"pairs": [
+[
+"Mohandas Karamchand Gandhi",
+"Mahatma"
+],
+[
+"Subhas Chandra Bose",
+"Netaji"
+],
+[
+"Vallabhbhai Patel",
+"Iron Man of India"
+]
+],
+"difficulty": "easy",
+"explanation": "These leaders were affectionately given these titles by the public and their contemporaries for their roles in India's independence."
+},
+{
+"id": 17,
+"type": "mcq",
+"text": "Who was the first President of the United States of America?",
+"options": [
+"A. Thomas Jefferson",
+"B. Benjamin Franklin",
+"C. George Washington",
+"D. John Adams"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "George Washington served as the first President of the United States from 1789 to 1797."
+},
+{
+"id": 18,
+"type": "true-false",
+"text": "The United Nations was formed immediately after World War I in 1919.",
+"answer": false,
+"difficulty": "easy",
+"explanation": "The League of Nations was formed in 1919. The United Nations was formed in 1945 after World War II."
+},
+{
+"id": 19,
+"type": "fill-blank",
+"text": "Article 14 of the Indian Constitution guarantees the Right to ________.",
+"answer": "Equality",
+"difficulty": "medium",
+"explanation": "Article 14 states that the State shall not deny to any person equality before the law or the equal protection of the laws."
+},
+{
+"id": 20,
+"type": "mcq",
+"text": "The Russian Revolution, which led to the rise of the Soviet Union, occurred in which year?",
+"options": [
+"A. 1905",
+"B. 1914",
+"C. 1917",
+"D. 1923"
+],
+"answer": "C",
+"difficulty": "medium",
+"explanation": "The Russian Revolution took place in 1917, overthrowing the Tsarist autocracy."
+},
+{
+"id": 21,
+"type": "multiple-correct",
+"text": "Which of the following are considered ancient Indian texts? (Select all correct)",
+"options": [
+"A. The Vedas",
+"B. The Iliad",
+"C. The Upanishads",
+"D. The Epic of Gilgamesh",
+"E. The Mahabharata"
+],
+"answer": [
+"A",
+"C",
+"E"
+],
+"difficulty": "easy",
+"explanation": "The Vedas, Upanishads, and Mahabharata are foundational ancient Indian texts."
+},
+{
+"id": 22,
+"type": "assertion-reason",
+"text": "Assertion: India is called a Republic. Reason: The head of the Indian state is an elected President rather than a hereditary monarch.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are true. A republic is a form of government where the country is considered a public matter and the head of state is elected."
+},
+{
+"id": 23,
+"type": "matching",
+"text": "Match the ancient civilizations with the river valleys where they developed:",
+"pairs": [
+[
+"Egyptian Civilization",
+"Nile River"
+],
+[
+"Harappan Civilization",
+"Indus River"
+],
+[
+"Mesopotamian Civilization",
+"Tigris and Euphrates"
+]
+],
+"difficulty": "medium",
+"explanation": "Early human civilizations primarily developed along major river systems which provided water and fertile soil."
+},
+{
+"id": 24,
+"type": "mcq",
+"text": "Who is credited with discovering the direct sea route from Europe to India in 1498?",
+"options": [
+"A. Christopher Columbus",
+"B. Vasco da Gama",
+"C. Ferdinand Magellan",
+"D. Bartholomew Diaz"
+],
+"answer": "B",
+"difficulty": "easy",
+"explanation": "Vasco da Gama reached Calicut in 1498, establishing the first direct sea route from Europe to India."
+},
+{
+"id": 25,
+"type": "true-false",
+"text": "The Constitution of India is the longest written national constitution in the world.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "With a preamble, hundreds of articles, and 12 schedules, the Indian Constitution is the longest written national constitution."
+},
+{
+"id": 26,
+"type": "fill-blank",
+"text": "The First Battle of Panipat was fought in the year ________.",
+"answer": "1526",
+"difficulty": "medium",
+"explanation": "The First Battle of Panipat took place in 1526 between Babur and Ibrahim Lodi, marking the beginning of the Mughal Empire in India."
+},
+{
+"id": 27,
+"type": "multiple-correct",
+"text": "Which of the following are Fundamental Rights guaranteed by the Indian Constitution? (Select all correct)",
+"options": [
+"A. Right to Property",
+"B. Right to Freedom of Religion",
+"C. Right to Strike",
+"D. Right against Exploitation",
+"E. Right to Constitutional Remedies"
+],
+"answer": [
+"B",
+"D",
+"E"
+],
+"difficulty": "hard",
+"explanation": "Right to Property was removed as a Fundamental Right by the 44th Amendment, and Right to Strike is a legal right, not a fundamental one."
+},
+{
+"id": 28,
+"type": "assertion-reason",
+"text": "Assertion: The Jallianwala Bagh massacre of 1919 caused widespread outrage across India. Reason: General Dyer ordered his troops to fire on an unarmed crowd of men, women, and children.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are correct, and the brutal nature of the massacre directly caused the national outrage."
+},
+{
+"id": 29,
+"type": "matching",
+"text": "Match the Indian dynasties with their respective founders:",
+"pairs": [
+[
+"Mauryan Dynasty",
+"Chandragupta Maurya"
+],
+[
+"Gupta Dynasty",
+"Sri Gupta"
+],
+[
+"Mughal Dynasty",
+"Babur"
+]
+],
+"difficulty": "medium",
+"explanation": "These are the historical founders of three of the most significant empires in Indian history."
+},
+{
+"id": 30,
+"type": "mcq",
+"text": "Who gave the famous slogan 'Give me blood, and I shall give you freedom'?",
+"options": [
+"A. Bhagat Singh",
+"B. Bal Gangadhar Tilak",
+"C. Subhas Chandra Bose",
+"D. Lala Lajpat Rai"
+],
+"answer": "C",
+"difficulty": "easy",
+"explanation": "Subhas Chandra Bose delivered this famous quote to motivate the Indian National Army."
+},
+{
+"id": 31,
+"type": "true-false",
+"text": "Apartheid was an institutionalized system of racial segregation in South Africa.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "Apartheid was a policy that governed relations between South Africa's white minority and nonwhite majority from 1948 until the 1990s."
+},
+{
+"id": 32,
+"type": "fill-blank",
+"text": "The capital city of the ancient Mauryan Empire was ________.",
+"answer": "Pataliputra",
+"difficulty": "medium",
+"explanation": "Pataliputra, near modern-day Patna, served as the capital of the Mauryan Empire."
+},
+{
+"id": 33,
+"type": "multiple-correct",
+"text": "Who among the following were prominent founding leaders of the Non-Aligned Movement? (Select all correct)",
+"options": [
+"A. Jawaharlal Nehru",
+"B. Winston Churchill",
+"C. Josip Broz Tito",
+"D. Gamal Abdel Nasser",
+"E. Franklin D. Roosevelt"
+],
+"answer": [
+"A",
+"C",
+"D"
+],
+"difficulty": "hard",
+"explanation": "Nehru (India), Tito (Yugoslavia), and Nasser (Egypt) were key architects of the Non-Aligned Movement."
+},
+{
+"id": 34,
+"type": "assertion-reason",
+"text": "Assertion: The League of Nations ultimately failed to prevent the outbreak of World War II. Reason: The League lacked an armed force of its own and several major powers, including the US, were not members.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are true. The structural weaknesses of the League of Nations directly contributed to its failure."
+},
+{
+"id": 35,
+"type": "matching",
+"text": "Match the historical documents with the years they were adopted:",
+"pairs": [
+[
+"US Declaration of Independence",
+"1776"
+],
+[
+"French Declaration of the Rights of Man",
+"1789"
+],
+[
+"United Nations Charter",
+"1945"
+]
+],
+"difficulty": "hard",
+"explanation": "These are key dates for some of the most important political documents in modern history."
+},
+{
+"id": 36,
+"type": "mcq",
+"text": "Who served as the first Governor-General of independent India?",
+"options": [
+"A. C. Rajagopalachari",
+"B. Lord Mountbatten",
+"C. Lord Dalhousie",
+"D. Warren Hastings"
+],
+"answer": "B",
+"difficulty": "medium",
+"explanation": "Lord Mountbatten was the last Viceroy and the first Governor-General of independent India."
+},
+{
+"id": 37,
+"type": "true-false",
+"text": "The Berlin Wall, which divided East and West Berlin, fell in the year 1989.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "The fall of the Berlin Wall in November 1989 was a pivotal event marking the end of the Cold War."
+},
+{
+"id": 38,
+"type": "fill-blank",
+"text": "The cultural movement known as the Renaissance began in the country of ________.",
+"answer": "Italy",
+"difficulty": "easy",
+"explanation": "The Renaissance originated in Italian city-states like Florence in the 14th century before spreading across Europe."
+},
+{
+"id": 39,
+"type": "multiple-correct",
+"text": "Which of the following are the three primary branches of the Indian Government? (Select all correct)",
+"options": [
+"A. Military",
+"B. Executive",
+"C. Legislative",
+"D. Media",
+"E. Judicial"
+],
+"answer": [
+"B",
+"C",
+"E"
+],
+"difficulty": "easy",
+"explanation": "The Indian Government is divided into the Executive, Legislative, and Judicial branches to ensure a separation of powers."
+},
+{
+"id": 40,
+"type": "assertion-reason",
+"text": "Assertion: The Right to Information (RTI) Act promotes transparency and accountability in India. Reason: It empowers citizens to seek information from public authorities.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both statements are correct, and empowering citizens to access information is the exact reason it promotes transparency."
+},
+{
+"id": 41,
+"type": "matching",
+"text": "Match the significant Indian battles with their corresponding years:",
+"pairs": [
+[
+"Battle of Plassey",
+"1757"
+],
+[
+"Battle of Buxar",
+"1764"
+],
+[
+"Battle of Haldighati",
+"1576"
+]
+],
+"difficulty": "hard",
+"explanation": "These battles were turning points in Indian history, establishing new power dynamics in the subcontinent."
+},
+{
+"id": 42,
+"type": "mcq",
+"text": "The political ideology of Fascism was founded by which 20th-century leader?",
+"options": [
+"A. Adolf Hitler",
+"B. Joseph Stalin",
+"C. Benito Mussolini",
+"D. Francisco Franco"
+],
+"answer": "C",
+"difficulty": "medium",
+"explanation": "Benito Mussolini founded the National Fascist Party in Italy after World War I."
+},
+{
+"id": 43,
+"type": "true-false",
+"text": "The Indus Valley Civilization was known for its advanced urban planning and drainage systems.",
+"answer": true,
+"difficulty": "easy",
+"explanation": "Cities like Harappa and Mohenjo-Daro featured sophisticated grid layouts, baked brick houses, and extensive drainage."
+},
+{
+"id": 44,
+"type": "fill-blank",
+"text": "The first Indian woman to become President of the UN General Assembly was Vijaya Lakshmi ________.",
+"answer": "Pandit",
+"difficulty": "medium",
+"explanation": "Vijaya Lakshmi Pandit was elected as the President of the eighth session of the UN General Assembly in 1953."
+},
+{
+"id": 45,
+"type": "multiple-correct",
+"text": "Which of the following were major causes of the French Revolution? (Select all correct)",
+"options": [
+"A. Social inequality and the estate system",
+"B. Severe economic crisis and debt",
+"C. The invention of the printing press",
+"D. Spread of Enlightenment ideas",
+"E. The discovery of the Americas"
+],
+"answer": [
+"A",
+"B",
+"D"
+],
+"difficulty": "medium",
+"explanation": "Social disparities, a bankrupt treasury, and new philosophical ideas heavily contributed to the outbreak of the French Revolution."
+},
+{
+"id": 46,
+"type": "assertion-reason",
+"text": "Assertion: Emperor Ashoka eventually abandoned military conquest and embraced Buddhism. Reason: He was deeply moved and horrified by the massive loss of life and destruction during the Kalinga War.",
+"assertion": true,
+"reason": true,
+"answer": "A",
+"difficulty": "medium",
+"explanation": "Both the assertion and the reason are true, and the bloodshed at Kalinga was the direct catalyst for his transformation."
+},
+{
+"id": 47,
+"type": "matching",
+"text": "Match the early Presidents of India with their chronological order of service:",
+"pairs": [
+[
+"Dr. Rajendra Prasad",
+"First President"
+],
+[
+"Dr. Sarvepalli Radhakrishnan",
+"Second President"
+],
+[
+"Dr. Zakir Husain",
+"Third President"
+]
+],
+"difficulty": "medium",
+"explanation": "These leaders served sequentially as the first three Presidents of independent India."
+},
+{
+"id": 48,
+"type": "mcq",
+"text": "Which amendment to the Indian Constitution is often referred to as the 'Mini Constitution' due to its comprehensive changes?",
+"options": [
+"A. 24th Amendment",
+"B. 42nd Amendment",
+"C. 44th Amendment",
+"D. 73rd Amendment"
+],
+"answer": "B",
+"difficulty": "hard",
+"explanation": "Enacted during the Emergency in 1976, the 42nd Amendment made widespread changes to the Constitution."
+},
+{
+"id": 49,
+"type": "true-false",
+"text": "The partition of Bengal, ordered by Lord Curzon, took place in 1905.",
+"answer": true,
+"difficulty": "medium",
+"explanation": "The partition of Bengal was enacted in 1905, dividing the largely Muslim eastern areas from the largely Hindu western areas."
+},
+{
+"id": 50,
+"type": "fill-blank",
+"text": "The ancient center of higher learning, ________ University, was located in present-day Bihar.",
+"answer": "Nalanda",
+"difficulty": "medium",
+"explanation": "Nalanda was a renowned Mahavihara (Buddhist monastery) and one of the greatest centers of learning in the ancient world."
+}
+]
 }
