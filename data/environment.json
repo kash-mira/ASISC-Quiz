@@ -1,2618 +1,1329 @@
 {
-"category": "History",
-"questions": [
-{
-"id": 1,
-"type": "mcq",
-"text": "Who drafted the Indian Constitution?",
-"options": [
-"A. Jawaharlal Nehru",
-"B. Dr. B.R. Ambedkar",
-"C. Rajendra Prasad",
-"D. Sardar Patel"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Dr. B.R. Ambedkar chaired the Drafting Committee of the Indian Constitution."
-},
-{
-"id": 2,
-"type": "true-false",
-"text": "The Magna Carta was signed in 1215 and limited the powers of the English King.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "The Magna Carta was indeed signed in 1215 by King John."
-},
-{
-"id": 3,
-"type": "mcq",
-"text": "Which article of the Indian Constitution grants Fundamental Rights?",
-"options": [
-"A. Articles 12–35",
-"B. Articles 36–51",
-"C. Articles 52–62",
-"D. Articles 1–11"
-],
-"answer": "A",
-"difficulty": "easy",
-"explanation": "Articles 12–35 of the Indian Constitution outline the Fundamental Rights granted to all citizens."
-},
-{
-"id": 4,
-"type": "mcq",
-"text": "In which year did India achieve independence from British rule?",
-"options": [
-"A. 1945",
-"B. 1947",
-"C. 1950",
-"D. 1952"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "India gained independence on August 15, 1947."
-},
-{
-"id": 5,
-"type": "true-false",
-"text": "The French Revolution occurred in the 18th century.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "The French Revolution took place from 1789 to 1799."
-},
-{
-"id": 6,
-"type": "fill-blank",
-"text": "The Indian Constitution was adopted on ______ 26, 1950.",
-"answer": "January",
-"difficulty": "easy",
-"explanation": "The Indian Constitution came into effect on January 26, 1950, which is celebrated as Republic Day."
-},
-{
-"id": 7,
-"type": "mcq",
-"text": "Who was the first President of independent India?",
-"options": [
-"A. Jawaharlal Nehru",
-"B. Rajendra Prasad",
-"C. Rajagopalachari",
-"D. Chakravarti Rajagopalachari"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Rajendra Prasad was the first President of India from 1950 to 1962."
-},
-{
-"id": 8,
-"type": "multiple-correct",
-"text": "Which of the following are Fundamental Rights granted by the Indian Constitution? (Select all correct)",
-"options": [
-"A. Right to Equality",
-"B. Right to Freedom of Religion",
-"C. Right to Exploit Resources",
-"D. Right to Constitutional Remedies",
-"E. Right to Unlimited Wealth"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "medium",
-"explanation": "Rights to Equality, Freedom of Religion, and Constitutional Remedies are Fundamental Rights. Exploitation and unlimited wealth are not rights granted."
-},
-{
-"id": 9,
-"type": "assertion-reason",
-"text": "Assertion: The French Revolution influenced democratic movements worldwide. Reason: It established ideals of liberty, equality, and fraternity.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Both the assertion and reason are correct. The French Revolution's principles inspired global democratization."
-},
-{
-"id": 10,
-"type": "mcq",
-"text": "Who was known as the 'Father of the Indian Nation'?",
-"options": [
-"A. Jawaharlal Nehru",
-"B. Sardar Patel",
-"C. Mahatma Gandhi",
-"D. Subhas Chandra Bose"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Mahatma Gandhi is revered as the Father of the Indian Nation for his role in independence."
-},
-{
-"id": 11,
-"type": "true-false",
-"text": "The American Revolution occurred before the French Revolution.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "The American Revolution (1775–1783) preceded the French Revolution (1789–1799)."
-},
-{
-"id": 12,
-"type": "fill-blank",
-"text": "The doctrine of Satyagraha, or non-violent resistance, was championed by ______.",
-"answer": "Mahatma Gandhi",
-"difficulty": "easy",
-"explanation": "Satyagraha, meaning truth and non-violence, was Gandhi's powerful tool against British colonialism."
-},
-{
-"id": 13,
-"type": "mcq",
-"text": "Which ancient civilization built the Great Wall?",
-"options": [
-"A. Roman Empire",
-"B. Chinese Civilization",
-"C. Persian Empire",
-"D. Mesopotamian Civilization"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "China built the Great Wall over many centuries to protect against invasions."
-},
-{
-"id": 14,
-"type": "matching",
-"text": "Match historical figures with their major contributions:",
-"pairs": [
-[
-"Napoleon Bonaparte",
-"Military conquests and Napoleonic Code"
-],
-[
-"Abraham Lincoln",
-"Abolition of slavery in America"
-],
-[
-"Nelson Mandela",
-"End of apartheid in South Africa"
-]
-],
-"difficulty": "medium",
-"explanation": "Each historical figure made significant contributions to their respective nations and the world."
-},
-{
-"id": 15,
-"type": "mcq",
-"text": "In which year was the Preamble to the Indian Constitution adopted?",
-"options": [
-"A. 1946",
-"B. 1949",
-"C. 1950",
-"D. 1952"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "The Preamble to the Indian Constitution was adopted on November 26, 1949."
-},
-{
-"id": 16,
-"type": "true-false",
-"text": "The British East India Company was primarily a military organization.",
-"answer": false,
-"difficulty": "medium",
-"explanation": "The British East India Company was a trading company that eventually became a colonial power."
-},
-{
-"id": 17,
-"type": "fill-blank",
-"text": "The fall of the Berlin Wall in 1989 symbolized the end of the ______ War.",
-"answer": "Cold",
-"difficulty": "medium",
-"explanation": "The fall of the Berlin Wall marked the symbolic end of the Cold War between the Soviet Union and Western powers."
-},
-{
-"id": 18,
-"type": "mcq",
-"text": "Which empire built the Colosseum in Rome?",
-"options": [
-"A. Roman Republic",
-"B. Roman Empire",
-"C. Byzantine Empire",
-"D. Holy Roman Empire"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "The Colosseum was built during the Roman Empire, completed in 80 AD."
-},
-{
-"id": 19,
-"type": "assertion-reason",
-"text": "Assertion: The American Declaration of Independence was signed in 1776. Reason: It proclaimed the thirteen colonies' independence from British rule.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Both statements are correct. The Declaration of Independence was signed on July 4, 1776."
-},
-{
-"id": 20,
-"type": "multiple-correct",
-"text": "Which of the following were key events in the Indian Independence Movement? (Select all correct)",
-"options": [
-"A. Salt March (1930)",
-"B. Quit India Movement (1942)",
-"C. Battle of Plassey (1757)",
-"D. Indian Rebellion of 1857",
-"E. Treaty of Versailles (1919)"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "medium",
-"explanation": "The Salt March, Quit India Movement, and Rebellion of 1857 were key independence events. Plassey was a British victory, and Versailles was post-WWI."
-},
-{
-"id": 21,
-"type": "mcq",
-"text": "Who wrote the American Constitution?",
-"options": [
-"A. Thomas Jefferson",
-"B. George Washington",
-"C. James Madison and the Founding Fathers",
-"D. Benjamin Franklin"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The American Constitution was drafted by James Madison and other Founding Fathers at the Constitutional Convention of 1787."
-},
-{
-"id": 22,
-"type": "true-false",
-"text": "The Renaissance period in Europe occurred during the Middle Ages.",
-"answer": false,
-"difficulty": "medium",
-"explanation": "The Renaissance (14th–17th centuries) followed the Middle Ages and marked the transition to modern Europe."
-},
-{
-"id": 23,
-"type": "fill-blank",
-"text": "The Treaty of ______ ended World War I in 1918.",
-"answer": "Versailles",
-"difficulty": "medium",
-"explanation": "The Treaty of Versailles was signed on June 28, 1919, formally ending WWI."
-},
-{
-"id": 24,
-"type": "mcq",
-"text": "Which ancient wonder of the world still stands today?",
-"options": [
-"A. Colossus of Rhodes",
-"B. Hanging Gardens of Babylon",
-"C. Great Pyramid of Giza",
-"D. Lighthouse of Alexandria"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The Great Pyramid of Giza is the only ancient wonder still largely intact."
-},
-{
-"id": 25,
-"type": "assertion-reason",
-"text": "Assertion: The Industrial Revolution transformed economies from agrarian to industrial. Reason: It introduced mechanization and factory systems.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Both statements are correct. The Industrial Revolution fundamentally changed economic and social structures."
-},
-{
-"id": 26,
-"type": "matching",
-"text": "Match empires with their characteristics:",
-"pairs": [
-[
-"Mughal Empire",
-"Indo-Islamic architecture and culture"
-],
-[
-"Maurya Empire",
-"Emperor Ashoka and early Indian unity"
-],
-[
-"British Raj",
-"Colonial rule over India"
-]
-],
-"difficulty": "medium",
-"explanation": "These empires left distinct cultural, architectural, and political legacies in India."
-},
-{
-"id": 27,
-"type": "mcq",
-"text": "In which year did the Jallianwala Bagh massacre occur?",
-"options": [
-"A. 1919",
-"B. 1920",
-"C. 1917",
-"D. 1925"
-],
-"answer": "A",
-"difficulty": "medium",
-"explanation": "The Jallianwala Bagh massacre occurred on April 13, 1919, in Amritsar."
-},
-{
-"id": 28,
-"type": "true-false",
-"text": "The Indus Valley Civilization is one of the world's oldest known civilizations.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "The Indus Valley Civilization (2600–1900 BCE) is one of the world's oldest urban civilizations."
-},
-{
-"id": 29,
-"type": "fill-blank",
-"text": "The ______ Dynasty ruled the Mughal Empire and left a lasting impact on Indian architecture.",
-"answer": "Mughal",
-"difficulty": "easy",
-"explanation": "The Mughal Dynasty ruled from 1526 to 1857 and built iconic structures like the Taj Mahal."
-},
-{
-"id": 30,
-"type": "mcq",
-"text": "Who was the first Emperor of the Maurya Empire?",
-"options": [
-"A. Ashoka",
-"B. Chandragupta Maurya",
-"C. Bindusara",
-"D. Bimbisara"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Chandragupta Maurya founded the Maurya Empire around 322 BCE."
-},
-{
-"id": 31,
-"type": "multiple-correct",
-"text": "Which of the following were significant women in Indian history? (Select all correct)",
-"options": [
-"A. Rani Lakshmibai",
-"B. Savitribai Phule",
-"C. Indira Gandhi",
-"D. Queen Victoria",
-"E. Kamla Mehta"
-],
-"answer": [
-"A",
-"B",
-"C"
-],
-"difficulty": "hard",
-"explanation": "Rani Lakshmibai, Savitribai Phule, and Indira Gandhi were significant Indian historical figures. Queen Victoria was British."
-},
-{
-"id": 32,
-"type": "assertion-reason",
-"text": "Assertion: The Vedic period is the foundation of Hindu civilization. Reason: The Vedas were the first sacred texts written in Sanskrit.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Both statements are correct. The Vedas form the basis of Hindu philosophy and Indian culture."
-},
-{
-"id": 33,
-"type": "mcq",
-"text": "Which movement advocated for Swadeshi (self-reliance) during the Indian Independence struggle?",
-"options": [
-"A. Khilafat Movement",
-"B. Swadeshi Movement",
-"C. Civil Disobedience Movement",
-"D. Quit India Movement"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "The Swadeshi Movement encouraged Indians to use indigenous products and boycott British goods."
-},
-{
-"id": 34,
-"type": "true-false",
-"text": "The Roman Empire fell completely in 476 AD.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "The Western Roman Empire fell in 476 AD, marking the end of the classical period."
-},
-{
-"id": 35,
-"type": "fill-blank",
-"text": "The ______ Edict of Ashoka promoted Buddhist teachings across his empire.",
-"answer": "Pillars",
-"difficulty": "hard",
-"explanation": "Ashoka's Pillars contained edicts that spread Buddhist teachings and moral teachings throughout the Maurya Empire."
-},
-{
-"id": 36,
-"type": "mcq",
-"text": "In which battle did the British defeat Tipu Sultan?",
-"options": [
-"A. Battle of Plassey",
-"B. Battle of Talikota",
-"C. Battle of Seringapatam",
-"D. Battle of Panipat"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "The Battle of Seringapatam (1799) resulted in Tipu Sultan's defeat and death."
-},
-{
-"id": 37,
-"type": "assertion-reason",
-"text": "Assertion: The partition of India in 1947 created the nations of India and Pakistan. Reason: Religious and communal tensions necessitated the division.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Both statements are correct. Partition was driven by communal differences and led to massive population displacement."
-},
-{
-"id": 38,
-"type": "matching",
-"text": "Match important Indian historical dates with events:",
-"pairs": [
-[
-"1857",
-"Indian Rebellion against British rule"
-],
-[
-"1885",
-"Formation of the Indian National Congress"
-],
-[
-"1947",
-"Independence from British rule"
-]
-],
-"difficulty": "easy",
-"explanation": "These dates mark pivotal moments in India's journey toward independence and nation-building."
-},
-{
-"id": 39,
-"type": "mcq",
-"text": "Who was the first Prime Minister of India?",
-"options": [
-"A. Sardar Patel",
-"B. Rajendra Prasad",
-"C. Jawaharlal Nehru",
-"D. Lal Bahadur Shastri"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Jawaharlal Nehru served as the first Prime Minister of India from 1947 to 1964."
-},
-{
-"id": 40,
-"type": "true-false",
-"text": "The printing press was invented by Johannes Gutenberg in the 15th century.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "Gutenberg invented the movable type printing press around 1440, revolutionizing information dissemination."
-},
-{
-"id": 41,
-"type": "fill-blank",
-"text": "The ______ Pact of 1942 was a failed attempt to resolve political deadlock during India's independence struggle.",
-"answer": "Cripps",
-"difficulty": "hard",
-"explanation": "The Cripps Mission of 1942 proposed dominion status but was rejected by Indian leaders seeking complete independence."
-},
-{
-"id": 42,
-"type": "mcq",
-"text": "Which treaty ended the Napoleonic Wars?",
-"options": [
-"A. Treaty of Westphalia",
-"B. Treaty of Vienna",
-"C. Treaty of Paris",
-"D. Treaty of Utrecht"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "The Congress of Vienna (1815) and resulting treaties ended the Napoleonic Wars."
-},
-{
-"id": 43,
-"type": "assertion-reason",
-"text": "Assertion: The Enlightenment period promoted reason and scientific thinking. Reason: Philosophers like Voltaire and Rousseau challenged traditional authority.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Both statements are correct. Enlightenment thinkers advocated rationalism and individual liberty."
-},
-{
-"id": 44,
-"type": "multiple-correct",
-"text": "Which of the following were features of the Mughal administrative system? (Select all correct)",
-"options": [
-"A. Mansabdari system",
-"B. Persian language usage",
-"C. Federal structure",
-"D. Centralized bureaucracy",
-"E. Democratic institutions"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "hard",
-"explanation": "Mansabdari system, Persian language, and centralized bureaucracy were key features. Federal and democratic elements were absent."
-},
-{
-"id": 45,
-"type": "mcq",
-"text": "Who led the Revolt of 1857 from Kanpur?",
-"options": [
-"A. Rani Lakshmibai",
-"B. Nana Sahib",
-"C. Kunwar Singh",
-"D. Bahadur Shah Zafar"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "Nana Sahib led the rebellion from Kanpur and was one of the revolt's major leaders."
-},
-{
-"id": 46,
-"type": "true-false",
-"text": "The Western Roman Empire and Eastern Byzantine Empire coexisted for centuries.",
-"answer": true,
-"difficulty": "hard",
-"explanation": "After 395 AD, the Roman Empire was divided, with the Byzantine Empire lasting until 1453."
-},
-{
-"id": 47,
-"type": "fill-blank",
-"text": "The ______ was the most significant anti-colonial movement launched by Gandhi in 1942.",
-"answer": "Quit India Movement",
-"difficulty": "medium",
-"explanation": "The Quit India Movement demanded immediate British withdrawal from India."
-},
-{
-"id": 48,
-"type": "mcq",
-"text": "Which ruler unified most of India under the Maurya Empire?",
-"options": [
-"A. Chandragupta Maurya",
-"B. Ashoka",
-"C. Vikramaditya",
-"D. Harsha"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "Emperor Ashoka expanded the Maurya Empire to its greatest extent, ruling most of the Indian subcontinent."
-},
-{
-"id": 49,
-"type": "assertion-reason",
-"text": "Assertion: The Magna Carta established the principle that the king is subject to law. Reason: It limited royal power through written agreements.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Both statements are correct. The Magna Carta was foundational to constitutional governance."
-},
-{
-"id": 50,
-"type": "matching",
-"text": "Match historical figures with their respective nations:",
-"pairs": [
-[
-"Otto von Bismarck",
-"Germany"
-],
-[
-"Giuseppe Garibaldi",
-"Italy"
-],
-[
-"Louis XVI",
-"France"
-]
-],
-"difficulty": "medium",
-"explanation": "These leaders were instrumental in shaping their nations during periods of major political change."
-},
-{
-"id": 51,
-"type": "mcq",
-"text": "Who authored the book 'The Discovery of India'?",
-"options": [
-"A. Mahatma Gandhi",
-"B. Jawaharlal Nehru",
-"C. Sardar Patel",
-"D. Subhas Chandra Bose"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Jawaharlal Nehru wrote 'The Discovery of India' while imprisoned during the independence struggle."
-},
-{
-"id": 52,
-"type": "true-false",
-"text": "The American Civil War was fought between 1861 and 1865.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "The American Civil War occurred from 1861 to 1865, resulting in the abolition of slavery."
-},
-{
-"id": 53,
-"type": "multiple-correct",
-"text": "Which of the following were significant revolts against British rule in India? (Select all correct)",
-"options": [
-"A. Sepoy Mutiny of 1857",
-"B. Moplah Rebellion",
-"C. Khilafat Movement",
-"D. Civil Disobedience Movement",
-"E. Treaty of Amritsar"
-],
-"answer": [
-"A",
-"B",
-"C",
-"D"
-],
-"difficulty": "hard",
-"explanation": "Sepoy Mutiny, Moplah Rebellion, Khilafat Movement, and Civil Disobedience Movement were significant revolts. Treaty of Amritsar was a peace treaty."
-},
-{
-"id": 54,
-"type": "mcq",
-"text": "Who is known as the 'Iron Man of India'?",
-"options": [
-"A. Subhas Chandra Bose",
-"B. Sardar Vallabhbhai Patel",
-"C. Bhagat Singh",
-"D. Chandrashekhar Azad"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Sardar Patel earned this title for his crucial role in integrating princely states."
-},
-{
-"id": 55,
-"type": "true-false",
-"text": "The battle of Waterloo marked the final defeat of Napoleon Bonaparte.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "Napoleon was defeated at Waterloo in 1815, ending his rule as French Emperor."
-},
-{
-"id": 56,
-"type": "fill-blank",
-"text": "The ancient trade network connecting the East and West is called the ______ Road.",
-"answer": "Silk",
-"difficulty": "easy",
-"explanation": "The Silk Road facilitated trade and cultural exchange across Eurasia."
-},
-{
-"id": 57,
-"type": "matching",
-"text": "Match the civilization to its writing system:",
-"pairs": [
-[
-"Ancient Egypt",
-"Hieroglyphics"
-],
-[
-"Sumeria",
-"Cuneiform"
-],
-[
-"Indus Valley",
-"Undeciphered script"
-]
-],
-"difficulty": "hard",
-"explanation": "These early writing systems were vital for administration and record keeping."
-},
-{
-"id": 58,
-"type": "multiple-correct",
-"text": "Which of these leaders were associated with the Axis powers in WWII? (Select all correct)",
-"options": [
-"A. Adolf Hitler",
-"B. Winston Churchill",
-"C. Benito Mussolini",
-"D. Hideki Tojo",
-"E. Franklin D. Roosevelt"
-],
-"answer": [
-"A",
-"C",
-"D"
-],
-"difficulty": "medium",
-"explanation": "Hitler, Mussolini, and Tojo led Germany, Italy, and Japan. Churchill and Roosevelt were Allied leaders."
-},
-{
-"id": 59,
-"type": "assertion-reason",
-"text": "Assertion: The League of Nations failed to prevent World War II. Reason: It lacked an armed force and key global powers were absent.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Both statements are correct. The League's structural weaknesses led to its ultimate collapse."
-},
-{
-"id": 60,
-"type": "mcq",
-"text": "Which Indian ruler was known for his policy of Dhamma?",
-"options": [
-"A. Akbar",
-"B. Ashoka",
-"C. Harsha",
-"D. Kanishka"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Ashoka's policy of Dhamma was based on tolerance, non-violence, and respect."
-},
-{
-"id": 61,
-"type": "true-false",
-"text": "The Industrial Revolution began in France.",
-"answer": false,
-"difficulty": "easy",
-"explanation": "It originated in Great Britain in the late 18th century."
-},
-{
-"id": 62,
-"type": "fill-blank",
-"text": "The period of political tension between the US and USSR after WWII is known as the ______ War.",
-"answer": "Cold",
-"difficulty": "easy",
-"explanation": "The Cold War dominated global geopolitics from 1947 to 1991."
-},
-{
-"id": 63,
-"type": "matching",
-"text": "Match the dynasty to its founder:",
-"pairs": [
-[
-"Slave Dynasty",
-"Qutb-ud-din Aibak"
-],
-[
-"Khilji Dynasty",
-"Jalal-ud-din Khilji"
-],
-[
-"Tughlaq Dynasty",
-"Ghiyas-ud-din Tughlaq"
-]
-],
-"difficulty": "hard",
-"explanation": "These leaders established prominent dynasties of the Delhi Sultanate."
-},
-{
-"id": 64,
-"type": "multiple-correct",
-"text": "Which of these were components of Gandhi's Non-Cooperation Movement? (Select all correct)",
-"options": [
-"A. Surrender of titles",
-"B. Boycott of foreign goods",
-"C. Armed rebellion",
-"D. Boycott of government schools",
-"E. Support for British war efforts"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "medium",
-"explanation": "The movement emphasized peaceful boycotts; armed rebellion and war support were contrary to its goals."
-},
-{
-"id": 65,
-"type": "assertion-reason",
-"text": "Assertion: The Treaty of Versailles imposed harsh penalties on Germany. Reason: The Allies blamed Germany entirely for starting World War I.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "The 'War Guilt Clause' justified the massive reparations and territorial losses imposed on Germany."
-},
-{
-"id": 66,
-"type": "mcq",
-"text": "Who discovered the sea route to India in 1498?",
-"options": [
-"A. Christopher Columbus",
-"B. Vasco da Gama",
-"C. Ferdinand Magellan",
-"D. Marco Polo"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Portuguese explorer Vasco da Gama reached Calicut, India, in 1498."
-},
-{
-"id": 67,
-"type": "true-false",
-"text": "The Berlin Wall was constructed in 1961.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "It was built by East Germany to prevent citizens from fleeing to West Berlin."
-},
-{
-"id": 68,
-"type": "fill-blank",
-"text": "The ______ Mutiny of 1857 is also known as India's First War of Independence.",
-"answer": "Sepoy",
-"difficulty": "easy",
-"explanation": "The rebellion was triggered by the introduction of new rifle cartridges."
-},
-{
-"id": 69,
-"type": "matching",
-"text": "Match the explorer with their achievement:",
-"pairs": [
-[
-"Christopher Columbus",
-"Discovered the Americas"
-],
-[
-"Ferdinand Magellan",
-"Led first circumnavigation"
-],
-[
-"Roald Amundsen",
-"First to reach the South Pole"
-]
-],
-"difficulty": "medium",
-"explanation": "These explorers made landmark geographical discoveries."
-},
-{
-"id": 70,
-"type": "multiple-correct",
-"text": "Which of these were ancient Greek city-states? (Select all correct)",
-"options": [
-"A. Athens",
-"B. Sparta",
-"C. Carthage",
-"D. Corinth",
-"E. Thebes"
-],
-"answer": [
-"A",
-"B",
-"E"
-],
-"difficulty": "hard",
-"explanation": "Athens, Sparta, and Thebes were prominent Greek poleis. Carthage was Phoenician."
-},
-{
-"id": 71,
-"type": "assertion-reason",
-"text": "Assertion: The Gupta period is called the Golden Age of India. Reason: It witnessed significant achievements in science, math, and arts.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "The Gupta Empire saw immense cultural and scientific prosperity."
-},
-{
-"id": 72,
-"type": "mcq",
-"text": "Which event marked the beginning of World War II in Europe?",
-"options": [
-"A. Assassination of Archduke Franz Ferdinand",
-"B. Invasion of Poland",
-"C. Attack on Pearl Harbor",
-"D. Fall of France"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Germany's invasion of Poland in September 1939 triggered declarations of war."
-},
-{
-"id": 73,
-"type": "true-false",
-"text": "Buddhism originated in ancient China.",
-"answer": false,
-"difficulty": "easy",
-"explanation": "Buddhism originated in ancient India before spreading to East Asia."
-},
-{
-"id": 74,
-"type": "fill-blank",
-"text": "The ______ system was a social stratification system deeply rooted in ancient India.",
-"answer": "caste",
-"difficulty": "easy",
-"explanation": "The varna or caste system organized society into hierarchical groups."
-},
-{
-"id": 75,
-"type": "matching",
-"text": "Match the European colonial power to its primary Indian settlement:",
-"pairs": [
-[
-"Portugal",
-"Goa"
-],
-[
-"France",
-"Pondicherry"
-],
-[
-"Britain",
-"Calcutta"
-]
-],
-"difficulty": "medium",
-"explanation": "These powers established distinct coastal strongholds in India."
-},
-{
-"id": 76,
-"type": "multiple-correct",
-"text": "Which of these acts were passed by the British in India? (Select all correct)",
-"options": [
-"A. Rowlatt Act",
-"B. Vernacular Press Act",
-"C. Indian Independence Act",
-"D. Stamp Act",
-"E. Intolerable Acts"
-],
-"answer": [
-"A",
-"B",
-"C"
-],
-"difficulty": "hard",
-"explanation": "Stamp and Intolerable Acts were passed in colonial America, not India."
-},
-{
-"id": 77,
-"type": "assertion-reason",
-"text": "Assertion: King Henry VIII was executed during the French Revolution. Reason: He was a monarch of France during 1789.",
-"assertion": false,
-"reason": false,
-"answer": "D",
-"difficulty": "medium",
-"explanation": "King Louis XVI was executed during the French Revolution; Henry VIII was an English king centuries earlier."
-},
-{
-"id": 78,
-"type": "mcq",
-"text": "What was the capital of the Byzantine Empire?",
-"options": [
-"A. Rome",
-"B. Athens",
-"C. Constantinople",
-"D. Alexandria"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Constantinople served as the capital until its fall in 1453."
-},
-{
-"id": 79,
-"type": "true-false",
-"text": "Raja Ram Mohan Roy was a prominent social reformer who campaigned against Sati.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "His efforts led to the abolition of the Sati practice in 1829."
-},
-{
-"id": 80,
-"type": "fill-blank",
-"text": "The bombing of ______ and Nagasaki led to Japan's surrender in WWII.",
-"answer": "Hiroshima",
-"difficulty": "easy",
-"explanation": "Atomic bombs were dropped on these two cities in August 1945."
-},
-{
-"id": 81,
-"type": "matching",
-"text": "Match the philosophical movement to its era:",
-"pairs": [
-[
-"Humanism",
-"Renaissance"
-],
-[
-"Rationalism",
-"Enlightenment"
-],
-[
-"Scholasticism",
-"Middle Ages"
-]
-],
-"difficulty": "hard",
-"explanation": "These dominant philosophies shaped their respective historical periods."
-},
-{
-"id": 82,
-"type": "multiple-correct",
-"text": "Which ancient empires were located in the Americas? (Select all correct)",
-"options": [
-"A. Inca",
-"B. Aztec",
-"C. Maya",
-"D. Khmer",
-"E. Ottoman"
-],
-"answer": [
-"A",
-"B",
-"C"
-],
-"difficulty": "easy",
-"explanation": "Inca, Aztec, and Maya were pre-Columbian American civilizations."
-},
-{
-"id": 83,
-"type": "assertion-reason",
-"text": "Assertion: The Non-Aligned Movement emerged during the Cold War. Reason: Developing nations wished to remain neutral between the US and Soviet blocs.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "NAM was established precisely to avoid alignment with major power blocs."
-},
-{
-"id": 84,
-"type": "mcq",
-"text": "Which famous traveler wrote extensively about his time in the Mongol court of Kublai Khan?",
-"options": [
-"A. Ibn Battuta",
-"B. Marco Polo",
-"C. Zheng He",
-"D. Faxian"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Marco Polo's travels introduced Europeans to Central Asia and China."
-},
-{
-"id": 85,
-"type": "true-false",
-"text": "The partition of Bengal was announced by Lord Mountbatten.",
-"answer": false,
-"difficulty": "medium",
-"explanation": "It was announced by Lord Curzon in 1905."
-},
-{
-"id": 86,
-"type": "fill-blank",
-"text": "The ______ Empire was founded by Babur after his victory at Panipat.",
-"answer": "Mughal",
-"difficulty": "easy",
-"explanation": "Babur defeated Ibrahim Lodi in 1526, establishing the empire."
-},
-{
-"id": 87,
-"type": "matching",
-"text": "Match the World War II conference to its outcome:",
-"pairs": [
-[
-"Yalta Conference",
-"Division of Germany"
-],
-[
-"Potsdam Conference",
-"Finalized post-war borders"
-],
-[
-"Tehran Conference",
-"Commitment to open a second front"
-]
-],
-"difficulty": "hard",
-"explanation": "These 'Big Three' conferences shaped the post-war world order."
-},
-{
-"id": 88,
-"type": "multiple-correct",
-"text": "Which of these were leaders of the Indian National Army (INA)? (Select all correct)",
-"options": [
-"A. Subhas Chandra Bose",
-"B. Mohan Singh",
-"C. Shah Nawaz Khan",
-"D. B.R. Ambedkar",
-"E. Vallabhbhai Patel"
-],
-"answer": [
-"A",
-"B",
-"C"
-],
-"difficulty": "hard",
-"explanation": "Bose, Singh, and Khan were key figures in the INA."
-},
-{
-"id": 89,
-"type": "assertion-reason",
-"text": "Assertion: Shivaji Maharaj established a competent naval force. Reason: He recognized the importance of coastal defense against European powers and pirates.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Shivaji's strategic vision included a strong navy to protect the Konkan coast."
-},
-{
-"id": 90,
-"type": "mcq",
-"text": "What was the main purpose of the Crusades?",
-"options": [
-"A. To explore the Americas",
-"B. To reclaim the Holy Land from Muslim rule",
-"C. To spread Christianity to Asia",
-"D. To defeat the Mongol Empire"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "The Crusades were a series of religious wars sanctioned by the Latin Church in the medieval period."
-},
-{
-"id": 91,
-"type": "true-false",
-"text": "The United Nations was established immediately after World War I.",
-"answer": false,
-"difficulty": "easy",
-"explanation": "The League of Nations followed WWI; the UN was founded after WWII in 1945."
-},
-{
-"id": 92,
-"type": "fill-blank",
-"text": "The Chola Dynasty is best known for its exceptional ______ administration and naval power.",
-"answer": "local",
-"difficulty": "hard",
-"explanation": "The Cholas had highly developed local self-government structures (ur and sabha)."
-},
-{
-"id": 93,
-"type": "matching",
-"text": "Match the revolutionary with their organization:",
-"pairs": [
-[
-"Bhagat Singh",
-"Hindustan Socialist Republican Association"
-],
-[
-"V.D. Savarkar",
-"Abhinav Bharat Society"
-],
-[
-"Surya Sen",
-"Indian Republican Army"
-]
-],
-"difficulty": "hard",
-"explanation": "These leaders founded militant groups challenging British rule."
-},
-{
-"id": 94,
-"type": "multiple-correct",
-"text": "Which of these countries were part of the Allied powers in WWII? (Select all correct)",
-"options": [
-"A. Great Britain",
-"B. Soviet Union",
-"C. Italy",
-"D. United States",
-"E. Japan"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "easy",
-"explanation": "Italy and Japan were part of the Axis powers."
-},
-{
-"id": 95,
-"type": "assertion-reason",
-"text": "Assertion: The printing press accelerated the Protestant Reformation. Reason: It allowed for the rapid reproduction and dissemination of religious texts and reformist ideas.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Gutenberg's invention was critical to the spread of Martin Luther's writings."
-},
-{
-"id": 96,
-"type": "mcq",
-"text": "Which Indian state was ruled by the Nizam before its integration into India?",
-"options": [
-"A. Mysore",
-"B. Junagadh",
-"C. Hyderabad",
-"D. Travancore"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The princely state of Hyderabad was ruled by the Nizams."
-},
-{
-"id": 97,
-"type": "true-false",
-"text": "The French Revolution resulted in the immediate and permanent establishment of a democratic republic.",
-"answer": false,
-"difficulty": "medium",
-"explanation": "It was followed by the Reign of Terror, the Directory, and eventually Napoleon's empire."
-},
-{
-"id": 98,
-"type": "fill-blank",
-"text": "The ______ Empire was the largest contiguous land empire in history.",
-"answer": "Mongol",
-"difficulty": "medium",
-"explanation": "Led initially by Genghis Khan, it stretched from Eastern Europe to Asia."
-},
-{
-"id": 99,
-"type": "matching",
-"text": "Match the war to its timeframe:",
-"pairs": [
-[
-"Thirty Years' War",
-"1618–1648"
-],
-[
-"Seven Years' War",
-"1756–1763"
-],
-[
-"Hundred Years' War",
-"1337–1453"
-]
-],
-"difficulty": "hard",
-"explanation": "These prolonged European conflicts significantly altered territorial and religious boundaries."
-},
-{
-"id": 100,
-"type": "multiple-correct",
-"text": "Which of these rivers were cradles of ancient civilization? (Select all correct)",
-"options": [
-"A. Nile",
-"B. Tigris",
-"C. Amazon",
-"D. Yellow River",
-"E. Thames"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "easy",
-"explanation": "Egypt, Mesopotamia, and China developed along the Nile, Tigris/Euphrates, and Yellow rivers."
-},
-{
-"id": 101,
-"type": "assertion-reason",
-"text": "Assertion: The Dandi March was a protest against the British salt tax. Reason: Salt was an essential item consumed by both rich and poor.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "easy",
-"explanation": "Gandhi chose salt as a powerful unifying symbol for mass civil disobedience."
-},
-{
-"id": 102,
-"type": "mcq",
-"text": "Which European nation first colonized South Africa?",
-"options": [
-"A. Great Britain",
-"B. The Netherlands (Dutch)",
-"C. Portugal",
-"D. Spain"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "The Dutch East India Company established a settlement at the Cape of Good Hope in 1652."
-},
-{
-"id": 103,
-"type": "true-false",
-"text": "Florence Nightingale is famous for her work during the Crimean War.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "She became a foundational figure in modern nursing for her efforts caring for wounded soldiers."
-},
-{
-"id": 104,
-"type": "fill-blank",
-"text": "The systematic state-sponsored genocide of six million Jews during WWII is known as the ______.",
-"answer": "Holocaust",
-"difficulty": "easy",
-"explanation": "The Holocaust was perpetrated by Nazi Germany and its collaborators."
-},
-{
-"id": 105,
-"type": "matching",
-"text": "Match the ancient Indian text to its subject matter:",
-"pairs": [
-[
-"Arthashastra",
-"Statecraft and military strategy"
-],
-[
-"Sushruta Samhita",
-"Medicine and surgery"
-],
-[
-"Natya Shastra",
-"Performing arts and theater"
-]
-],
-"difficulty": "hard",
-"explanation": "These classical treatises codified profound knowledge in diverse disciplines."
-},
-{
-"id": 106,
-"type": "multiple-correct",
-"text": "Which of these nations formed the Central Powers during WWI? (Select all correct)",
-"options": [
-"A. Germany",
-"B. Austria-Hungary",
-"C. Ottoman Empire",
-"D. Russia",
-"E. France"
-],
-"answer": [
-"A",
-"B",
-"C"
-],
-"difficulty": "medium",
-"explanation": "Russia and France were part of the Allied Powers opposing the Central Powers."
-},
-{
-"id": 107,
-"type": "assertion-reason",
-"text": "Assertion: The Cabinet Mission to India was entirely successful. Reason: It immediately established an independent Indian government.",
-"assertion": false,
-"reason": false,
-"answer": "D",
-"difficulty": "medium",
-"explanation": "The Cabinet Mission (1946) ultimately failed to provide a fully accepted constitutional framework, leading to partition."
-},
-{
-"id": 108,
-"type": "mcq",
-"text": "What was the main outcome of the Glorious Revolution in England (1688)?",
-"options": [
-"A. Establishment of an absolute monarchy",
-"B. Execution of the King",
-"C. Establishment of a constitutional monarchy",
-"D. Adoption of a republican constitution"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "It resulted in the English Bill of Rights and ensured Parliament's supremacy over the Crown."
-},
-{
-"id": 109,
-"type": "true-false",
-"text": "The Taj Mahal was constructed during the reign of Akbar.",
-"answer": false,
-"difficulty": "easy",
-"explanation": "It was commissioned by Emperor Shah Jahan in memory of his wife Mumtaz Mahal."
-},
-{
-"id": 110,
-"type": "fill-blank",
-"text": "The brutal passage that transported enslaved Africans to the Americas was called the ______ Passage.",
-"answer": "Middle",
-"difficulty": "medium",
-"explanation": "It was the central, deadliest leg of the transatlantic triangular trade."
-},
-{
-"id": 111,
-"type": "matching",
-"text": "Match the prominent battle with its victor:",
-"pairs": [
-[
-"Battle of Hastings (1066)",
-"William the Conqueror"
-],
-[
-"Battle of Agincourt (1415)",
-"Henry V of England"
-],
-[
-"Battle of Tours (732)",
-"Charles Martel"
-]
-],
-"difficulty": "hard",
-"explanation": "These medieval battles decisively shaped European history."
-},
-{
-"id": 112,
-"type": "multiple-correct",
-"text": "Which of these were prominent freedom fighters from Bengal? (Select all correct)",
-"options": [
-"A. Bipin Chandra Pal",
-"B. Aurobindo Ghosh",
-"C. Lala Lajpat Rai",
-"D. Khudiram Bose",
-"E. Bal Gangadhar Tilak"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "hard",
-"explanation": "Lajpat Rai was from Punjab, and Tilak was from Maharashtra (the Lal-Bal-Pal trio)."
-},
-{
-"id": 113,
-"type": "assertion-reason",
-"text": "Assertion: The establishment of the League of Nations was a direct result of Woodrow Wilson's Fourteen Points. Reason: Wilson envisioned an international body to mediate disputes and maintain peace.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Wilson's advocacy at the Paris Peace Conference directly led to the League's creation."
-},
-{
-"id": 114,
-"type": "mcq",
-"text": "Which empire was ruled by Suleiman the Magnificent?",
-"options": [
-"A. Safavid Empire",
-"B. Ottoman Empire",
-"C. Mughal Empire",
-"D. Mali Empire"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Suleiman expanded the Ottoman Empire and instituted major legislative reforms in the 16th century."
-},
-{
-"id": 115,
-"type": "true-false",
-"text": "The Cuban Missile Crisis occurred in 1962.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "It was a 13-day confrontation bringing the US and USSR to the brink of nuclear war."
-},
-{
-"id": 116,
-"type": "fill-blank",
-"text": "The ______ Rebellion of 1900 in China was an anti-imperialist uprising against foreign influence.",
-"answer": "Boxer",
-"difficulty": "hard",
-"explanation": "The 'Boxers' besieged foreign embassies in Beijing before an international coalition defeated them."
-},
-{
-"id": 117,
-"type": "matching",
-"text": "Match the Indian governor-general/viceroy to a key event:",
-"pairs": [
-[
-"Lord Dalhousie",
-"Doctrine of Lapse"
-],
-[
-"Lord William Bentinck",
-"Abolition of Sati"
-],
-[
-"Lord Ripon",
-"Repeal of Vernacular Press Act"
-]
-],
-"difficulty": "hard",
-"explanation": "These British officials implemented major administrative and social policies in India."
-},
-{
-"id": 118,
-"type": "multiple-correct",
-"text": "Which of these ideologies strongly influenced the Russian Revolution? (Select all correct)",
-"options": [
-"A. Marxism",
-"B. Fascism",
-"C. Socialism",
-"D. Imperialism",
-"E. Communism"
-],
-"answer": [
-"A",
-"C",
-"E"
-],
-"difficulty": "easy",
-"explanation": "The Bolsheviks were guided by Marxist-Leninist communist and socialist ideologies."
-},
-{
-"id": 119,
-"type": "assertion-reason",
-"text": "Assertion: Feudalism defined the medieval European socio-economic structure. Reason: It was based on land grants in exchange for military service and loyalty.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Feudalism decentralized power into local lord-vassal relationships."
-},
-{
-"id": 120,
-"type": "mcq",
-"text": "Which Chinese dynasty is famed for the widespread production of porcelain and the early completion of the Grand Canal?",
-"options": [
-"A. Han",
-"B. Tang",
-"C. Song",
-"D. Ming"
-],
-"answer": "D",
-"difficulty": "hard",
-"explanation": "The Ming Dynasty (1368–1644) is celebrated for its exquisite blue-and-white porcelain and massive public works."
-},
-{
-"id": 121,
-"type": "true-false",
-"text": "The Black Death (Bubonic Plague) killed an estimated 30-50% of Europe's population in the 14th century.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "It was one of the most devastating pandemics in human history, drastically altering European society."
-},
-{
-"id": 122,
-"type": "fill-blank",
-"text": "A massive fleet called the Spanish ______ was defeated by the English in 1588.",
-"answer": "Armada",
-"difficulty": "medium",
-"explanation": "Its defeat shifted naval supremacy toward England."
-},
-{
-"id": 123,
-"type": "matching",
-"text": "Match the ancient philosopher to their origin:",
-"pairs": [
-[
-"Socrates",
-"Greece"
-],
-[
-"Confucius",
-"China"
-],
-[
-"Chanakya",
-"India"
-]
-],
-"difficulty": "easy",
-"explanation": "These thinkers laid the intellectual foundations for their respective regions."
-},
-{
-"id": 124,
-"type": "multiple-correct",
-"text": "Which of these territories were acquired by the United States through purchase? (Select all correct)",
-"options": [
-"A. Louisiana",
-"B. Alaska",
-"C. Texas",
-"D. Puerto Rico",
-"E. Florida"
-],
-"answer": [
-"A",
-"B"
-],
-"difficulty": "hard",
-"explanation": "Louisiana (from France) and Alaska (from Russia) were notable purchases."
-},
-{
-"id": 125,
-"type": "assertion-reason",
-"text": "Assertion: The creation of the East India Company signaled the start of globalization. Reason: It established the first permanent trans-continental trade network controlled by joint-stock shareholders.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Joint-stock companies like the EIC pioneered modern corporate capitalism and global trade."
-},
-{
-"id": 126,
-"type": "mcq",
-"text": "Which architectural style is characterized by pointed arches and flying buttresses?",
-"options": [
-"A. Romanesque",
-"B. Gothic",
-"C. Baroque",
-"D. Neoclassical"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Gothic architecture flourished in the High and Late Middle Ages in Europe."
-},
-{
-"id": 127,
-"type": "true-false",
-"text": "The League of Nations successfully stopped the Italian invasion of Ethiopia in 1935.",
-"answer": false,
-"difficulty": "medium",
-"explanation": "The League failed to stop Mussolini's invasion, highlighting its impotence against aggression."
-},
-{
-"id": 128,
-"type": "fill-blank",
-"text": "The ______ code, written around 1750 BCE, is one of the oldest deciphered writings of significant length in the world.",
-"answer": "Hammurabi",
-"difficulty": "hard",
-"explanation": "King Hammurabi of Babylon enacted this comprehensive legal code."
-},
-{
-"id": 129,
-"type": "matching",
-"text": "Match the post-WWII leader to their nation:",
-"pairs": [
-[
-"Harry S. Truman",
-"United States"
-],
-[
-"Clement Attlee",
-"Great Britain"
-],
-[
-"Joseph Stalin",
-"Soviet Union"
-]
-],
-"difficulty": "medium",
-"explanation": "These leaders navigated the immediate aftermath of WWII and the onset of the Cold War."
-},
-{
-"id": 130,
-"type": "multiple-correct",
-"text": "Which of these were prominent cities in the Indus Valley Civilization? (Select all correct)",
-"options": [
-"A. Harappa",
-"B. Mohenjo-Daro",
-"C. Pataliputra",
-"D. Lothal",
-"E. Ujjain"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "medium",
-"explanation": "Pataliputra and Ujjain became prominent in later historical periods."
-},
-{
-"id": 131,
-"type": "assertion-reason",
-"text": "Assertion: The Reign of Terror was a peaceful period of democratic transition. Reason: Maximilien Robespierre advocated for non-violent political reform.",
-"assertion": false,
-"reason": false,
-"answer": "D",
-"difficulty": "medium",
-"explanation": "The Reign of Terror was marked by mass executions led by Robespierre."
-},
-{
-"id": 132,
-"type": "mcq",
-"text": "Who delivered the famous 'Tryst with Destiny' speech?",
-"options": [
-"A. Mahatma Gandhi",
-"B. Subhas Chandra Bose",
-"C. Jawaharlal Nehru",
-"D. B.R. Ambedkar"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Nehru delivered this iconic speech on the eve of India's independence."
-},
-{
-"id": 133,
-"type": "true-false",
-"text": "Apartheid in South Africa officially ended in the 1990s.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "Nelson Mandela's election as president in 1994 marked the final end of the apartheid system."
-},
-{
-"id": 134,
-"type": "fill-blank",
-"text": "The ______ parameter, establishing the border between India and Pakistan, was drawn by a British lawyer.",
-"answer": "Radcliffe",
-"difficulty": "hard",
-"explanation": "Cyril Radcliffe chaired the boundary commissions that partitioned British India."
-},
-{
-"id": 135,
-"type": "matching",
-"text": "Match the historical author to their work:",
-"pairs": [
-[
-"Homer",
-"The Iliad"
-],
-[
-"Sun Tzu",
-"The Art of War"
-],
-[
-"Niccolò Machiavelli",
-"The Prince"
-]
-],
-"difficulty": "medium",
-"explanation": "These foundational texts deeply influenced classical thought and military/political strategy."
-},
-{
-"id": 136,
-"type": "multiple-correct",
-"text": "Which of these were causes of the Great Depression? (Select all correct)",
-"options": [
-"A. 1929 Stock Market Crash",
-"B. Bank failures",
-"C. Overproduction of goods",
-"D. Discovery of oil in the Middle East",
-"E. The start of WWII"
-],
-"answer": [
-"A",
-"B",
-"C"
-],
-"difficulty": "hard",
-"explanation": "Financial panics and systemic economic imbalances triggered the Depression. WWII actually helped end it."
-},
-{
-"id": 137,
-"type": "assertion-reason",
-"text": "Assertion: The space race was a major component of Cold War rivalry. Reason: The US and USSR competed to demonstrate ideological and technological superiority.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "easy",
-"explanation": "Space exploration became a proxy battlefield for superpower dominance."
-},
-{
-"id": 138,
-"type": "mcq",
-"text": "Who was the founder of the Maratha Empire?",
-"options": [
-"A. Baji Rao I",
-"B. Shivaji Maharaj",
-"C. Sambhaji",
-"D. Shahaji"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Shivaji established the independent Maratha kingdom in the 17th century."
-},
-{
-"id": 139,
-"type": "true-false",
-"text": "The Ottoman Empire captured Constantinople in 1453.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "Mehmed the Conqueror captured the city, extinguishing the Byzantine Empire."
-},
-{
-"id": 140,
-"type": "fill-blank",
-"text": "The first successful successful slave rebellion leading to an independent state occurred in ______.",
-"answer": "Haiti",
-"difficulty": "hard",
-"explanation": "The Haitian Revolution (1791–1804) established the first free black republic."
-},
-{
-"id": 141,
-"type": "matching",
-"text": "Match the South American civilization to its location:",
-"pairs": [
-[
-"Inca",
-"Andes Mountains (Peru)"
-],
-[
-"Aztec",
-"Central Mexico"
-],
-[
-"Maya",
-"Yucatán Peninsula"
-]
-],
-"difficulty": "medium",
-"explanation": "These distinct pre-Columbian civilizations flourished in diverse topographies."
-},
-{
-"id": 142,
-"type": "multiple-correct",
-"text": "Which of these events took place during the 1960s? (Select all correct)",
-"options": [
-"A. Cuban Missile Crisis",
-"B. Moon Landing",
-"C. Assassination of JFK",
-"D. Fall of the Berlin Wall",
-"E. Korean War begins"
-],
-"answer": [
-"A",
-"B",
-"C"
-],
-"difficulty": "hard",
-"explanation": "The Berlin Wall fell in 1989, and the Korean War began in 1950."
-},
-{
-"id": 143,
-"type": "assertion-reason",
-"text": "Assertion: The First Battle of Panipat led to the establishment of the Mughal Empire. Reason: Babur's forces utilized artillery effectively against Ibrahim Lodi.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Babur's superior military tactics and use of firearms secured his victory in 1526."
-},
-{
-"id": 144,
-"type": "mcq",
-"text": "Which treaty concluded the American Revolutionary War?",
-"options": [
-"A. Treaty of Ghent",
-"B. Treaty of Paris (1783)",
-"C. Treaty of Versailles",
-"D. Treaty of Tordesillas"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "The 1783 Treaty of Paris formally recognized the independence of the United States."
-},
-{
-"id": 145,
-"type": "true-false",
-"text": "The Suez Canal was opened during the 19th century.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "It opened in 1869, drastically reducing the maritime distance between Europe and Asia."
-},
-{
-"id": 146,
-"type": "fill-blank",
-"text": "The rigid racial segregation policy enforced in South Africa was known as ______.",
-"answer": "apartheid",
-"difficulty": "easy",
-"explanation": "The system oppressed non-white citizens and provoked international condemnation."
-},
-{
-"id": 147,
-"type": "matching",
-"text": "Match the Indian social reformer to their organization:",
-"pairs": [
-[
-"Raja Ram Mohan Roy",
-"Brahmo Samaj"
-],
-[
-"Swami Dayananda Saraswati",
-"Arya Samaj"
-],
-[
-"Swami Vivekananda",
-"Ramakrishna Mission"
-]
-],
-"difficulty": "hard",
-"explanation": "These leaders led the 19th-century socio-religious awakening in India."
-},
-{
-"id": 148,
-"type": "multiple-correct",
-"text": "Which of these were major trade commodities of the East India Company? (Select all correct)",
-"options": [
-"A. Cotton",
-"B. Silk",
-"C. Uranium",
-"D. Tea",
-"E. Spices"
-],
-"answer": [
-"A",
-"B",
-"D",
-"E"
-],
-"difficulty": "medium",
-"explanation": "Textiles, tea, and spices were colonial staples. Uranium is a modern commodity."
-},
-{
-"id": 149,
-"type": "assertion-reason",
-"text": "Assertion: The Monroe Doctrine aimed to limit European colonization in the Americas. Reason: The US wanted to assert its sphere of influence over the Western Hemisphere.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Announced in 1823, it became a cornerstone of US foreign policy."
-},
-{
-"id": 150,
-"type": "mcq",
-"text": "The period in Japan marked by rapid modernization and westernization in the late 19th century is called the:",
-"options": [
-"A. Edo Period",
-"B. Meiji Restoration",
-"C. Showa Era",
-"D. Taisho Era"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "The Meiji Restoration transformed Japan from an isolated feudal state into an industrialized world power."
-},
-{
-"id": 151,
-"type": "true-false",
-"text": "The Wright brothers flew the first successful powered airplane in 1903.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "Their flight at Kitty Hawk, North Carolina, inaugurated the aviation age."
-},
-{
-"id": 152,
-"type": "fill-blank",
-"text": "The massive fortified barrier dividing Germany during the Cold War was the ______ Wall.",
-"answer": "Berlin",
-"difficulty": "easy",
-"explanation": "It stood as the physical and ideological boundary between East and West."
-},
-{
-"id": 153,
-"type": "matching",
-"text": "Match the global conflict to the decade it started:",
-"pairs": [
-[
-"World War I",
-"1910s"
-],
-[
-"World War II",
-"1930s"
-],
-[
-"Korean War",
-"1950s"
-]
-],
-"difficulty": "medium",
-"explanation": "WWI (1914), WWII (1939), Korean War (1950)."
-},
-{
-"id": 154,
-"type": "multiple-correct",
-"text": "Which of these leaders attended the Yalta Conference? (Select all correct)",
-"options": [
-"A. Franklin D. Roosevelt",
-"B. Winston Churchill",
-"C. Joseph Stalin",
-"D. Charles de Gaulle",
-"E. Harry Truman"
-],
-"answer": [
-"A",
-"B",
-"C"
-],
-"difficulty": "hard",
-"explanation": "FDR, Churchill, and Stalin met at Yalta in February 1945."
-},
-{
-"id": 155,
-"type": "assertion-reason",
-"text": "Assertion: Ashoka's conversion to Buddhism followed a bloodless, peaceful conquest. Reason: Ashoka abhorred violence from the beginning of his reign.",
-"assertion": false,
-"reason": false,
-"answer": "D",
-"difficulty": "medium",
-"explanation": "Ashoka converted after the immensely bloody and destructive Kalinga War."
-},
-{
-"id": 156,
-"type": "mcq",
-"text": "Which revolutionary wrote the pamphlet 'Common Sense'?",
-"options": [
-"A. Thomas Paine",
-"B. John Locke",
-"C. Karl Marx",
-"D. Jean-Jacques Rousseau"
-],
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Thomas Paine's 1776 pamphlet forcefully argued for American independence."
-},
-{
-"id": 157,
-"type": "true-false",
-"text": "The United Nations Charter was signed in San Francisco.",
-"answer": true,
-"difficulty": "hard",
-"explanation": "It was signed on June 26, 1945, at the UN Conference on International Organization."
-},
-{
-"id": 158,
-"type": "fill-blank",
-"text": "The indigenous people of Australia are known as ******.",
-"answer": "Aboriginal",
-"difficulty": "medium",
-"explanation": "Aboriginal Australians have inhabited the continent for tens of thousands of years."
-},
-{
-"id": 159,
-"type": "matching",
-"text": "Match the political ideology to its key figure:",
-"pairs": [
-[
-"Communism",
-"Karl Marx"
-],
-[
-"Fascism",
-"Benito Mussolini"
-],
-[
-"Capitalism",
-"Adam Smith"
-]
-],
-"difficulty": "medium",
-"explanation": "These thinkers heavily influenced the dominant economic and political systems of the modern era."
-},
-{
-"id": 160,
-"type": "multiple-correct",
-"text": "Which of these were pre-colonial African empires? (Select all correct)",
-"options": [
-"A. Mali Empire",
-"B. Songhai Empire",
-"C. Zulu Kingdom",
-"D. Mughal Empire",
-"E. Kingdom of Kush"
-],
-"answer": [
-"A",
-"B",
-"C",
-"E"
-],
-"difficulty": "hard",
-"explanation": "The Mughal Empire was in the Indian subcontinent, not Africa."
-},
-{
-"id": 161,
-"type": "assertion-reason",
-"text": "Assertion: The invention of the telegraph revolutionized global communication in the 19th century. Reason: It allowed for near-instantaneous transmission of messages over long distances via electrical signals.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "easy",
-"explanation": "The telegraph laid the groundwork for the modern telecommunications era."
-},
-{
-"id": 162,
-"type": "mcq",
-"text": "Which battle marked the turning point on the Eastern Front in WWII?",
-"options": [
-"A. Battle of the Bulge",
-"B. Battle of Stalingrad",
-"C. Battle of Midway",
-"D. Battle of El Alamein"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "The Soviet victory at Stalingrad decimated the German army and shifted the momentum of the war."
-},
-{
-"id": 163,
-"type": "true-false",
-"text": "The Taj Mahal was completed within two years.",
-"answer": false,
-"difficulty": "medium",
-"explanation": "It took approximately 22 years to complete the complex."
-},
-{
-"id": 164,
-"type": "fill-blank",
-"text": "The ______ was the systematic destruction of European Jewry by the Nazis.",
-"answer": "Holocaust",
-"difficulty": "easy",
-"explanation": "The tragic genocide claimed over six million Jewish lives."
-},
-{
-"id": 165,
-"type": "matching",
-"text": "Match the ancient architecture to its culture:",
-"pairs": [
-[
-"Ziggurat",
-"Mesopotamia"
-],
-[
-"Pyramid",
-"Egypt"
-],
-[
-"Parthenon",
-"Greece"
-]
-],
-"difficulty": "medium",
-"explanation": "These structures reflect the religious and civic priorities of ancient societies."
-},
-{
-"id": 166,
-"type": "multiple-correct",
-"text": "Which of these were central tenets of the Protestant Reformation? (Select all correct)",
-"options": [
-"A. Justification by faith",
-"B. Papal infallibility",
-"C. Authority of scripture",
-"D. Sale of indulgences",
-"E. Priesthood of all believers"
-],
-"answer": [
-"A",
-"C",
-"E"
-],
-"difficulty": "hard",
-"explanation": "The Reformation explicitly rejected papal infallibility and the sale of indulgences."
-},
-{
-"id": 167,
-"type": "assertion-reason",
-"text": "Assertion: The Spanish flu pandemic of 1918 killed more people than combat in WWI. Reason: The virus was highly lethal and spread rapidly due to wartime troop movements.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "The pandemic infected one-third of the global population and killed an estimated 50 million."
-},
-{
-"id": 168,
-"type": "mcq",
-"text": "Which famous document begins with 'We the People'?",
-"options": [
-"A. Magna Carta",
-"B. UN Charter",
-"C. US Constitution",
-"D. Declaration of Independence"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The Preamble to the US Constitution emphasizes popular sovereignty."
-},
-{
-"id": 169,
-"type": "true-false",
-"text": "The Silk Road only facilitated the trade of physical goods, not ideas.",
-"answer": false,
-"difficulty": "easy",
-"explanation": "The Silk Road was crucial for the transmission of religion, technology, and culture (e.g., Buddhism)."
-},
-{
-"id": 170,
-"type": "fill-blank",
-"text": "The period of European history from the 5th to the 15th century is generally called the ______ Ages.",
-"answer": "Middle",
-"difficulty": "medium",
-"explanation": "Also known as the medieval period, it bridges antiquity and the modern era."
-},
-{
-"id": 171,
-"type": "matching",
-"text": "Match the modern nation to its former colonial ruler:",
-"pairs": [
-[
-"Brazil",
-"Portugal"
-],
-[
-"Mexico",
-"Spain"
-],
-[
-"Indonesia",
-"Netherlands"
-]
-],
-"difficulty": "hard",
-"explanation": "Colonial legacies shaped the language and culture of these nations."
-},
-{
-"id": 172,
-"type": "multiple-correct",
-"text": "Which of these technological innovations originated in ancient China? (Select all correct)",
-"options": [
-"A. Gunpowder",
-"B. Paper making",
-"C. The compass",
-"D. The steam engine",
-"E. Printing"
-],
-"answer": [
-"A",
-"B",
-"C",
-"E"
-],
-"difficulty": "medium",
-"explanation": "These are collectively known as the Four Great Inventions of ancient China. The steam engine was British."
-},
-{
-"id": 173,
-"type": "assertion-reason",
-"text": "Assertion: The Scramble for Africa resulted in arbitrary national borders. Reason: European powers drew boundaries based on their own strategic interests rather than existing ethnic divisions.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "The 1884 Berlin Conference formalized the partition of Africa without African representation."
-},
-{
-"id": 174,
-"type": "mcq",
-"text": "Who delivered the 'I Have a Dream' speech?",
-"options": [
-"A. Malcolm X",
-"B. John F. Kennedy",
-"C. Martin Luther King Jr.",
-"D. Rosa Parks"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Dr. King delivered this defining speech of the American Civil Rights Movement in 1963."
-},
-{
-"id": 175,
-"type": "true-false",
-"text": "Cleopatra was a ruler of the Roman Empire.",
-"answer": false,
-"difficulty": "easy",
-"explanation": "Cleopatra was the last active ruler of the Ptolemaic Kingdom of Egypt."
-},
-{
-"id": 176,
-"type": "fill-blank",
-"text": "The ______ was a series of trade routes linking China with the West.",
-"answer": "Silk Road",
-"difficulty": "easy",
-"explanation": "It derived its name from the lucrative trade in Chinese silk."
-},
-{
-"id": 177,
-"type": "matching",
-"text": "Match the treaty to the war it ended:",
-"pairs": [
-[
-"Treaty of Paris (1783)",
-"American Revolutionary War"
-],
-[
-"Treaty of Versailles",
-"World War I"
-],
-[
-"Treaty of Portsmouth",
-"Russo-Japanese War"
-]
-],
-"difficulty": "hard",
-"explanation": "These treaties dictated post-war territorial and diplomatic conditions."
-},
-{
-"id": 178,
-"type": "multiple-correct",
-"text": "Which of these were famous queens or empresses? (Select all correct)",
-"options": [
-"A. Catherine the Great",
-"B. Elizabeth I",
-"C. Joan of Arc",
-"D. Wu Zetian",
-"E. Marie Antoinette"
-],
-"answer": [
-"A",
-"B",
-"D",
-"E"
-],
-"difficulty": "medium",
-"explanation": "Joan of Arc was a military leader and saint, but never a monarch."
-},
-{
-"id": 179,
-"type": "assertion-reason",
-"text": "Assertion: The Great Depression was localized only to the United States. Reason: European economies were booming due to post-WWI reconstruction.",
-"assertion": false,
-"reason": false,
-"answer": "D",
-"difficulty": "medium",
-"explanation": "The Great Depression was a global economic collapse that severely affected Europe as well."
-},
-{
-"id": 180,
-"type": "mcq",
-"text": "What was the capital of the Aztec Empire?",
-"options": [
-"A. Cuzco",
-"B. Tenochtitlan",
-"C. Tikal",
-"D. Teotihuacan"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "Tenochtitlan was a massive city built on an island in Lake Texcoco."
-},
-{
-"id": 181,
-"type": "true-false",
-"text": "The battle of Gettysburg was a turning point in the American Civil War.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "The Union victory stopped Confederate General Robert E. Lee's invasion of the North."
-},
-{
-"id": 182,
-"type": "fill-blank",
-"text": "Nelson ______ was imprisoned for 27 years before becoming South Africa's president.",
-"answer": "Mandela",
-"difficulty": "easy",
-"explanation": "He was a key figure in dismantling the apartheid regime."
-},
-{
-"id": 183,
-"type": "matching",
-"text": "Match the Cold War proxy conflict to its decade of greatest intensity:",
-"pairs": [
-[
-"Korean War",
-"1950s"
-],
-[
-"Vietnam War",
-"1960s/70s"
-],
-[
-"Soviet-Afghan War",
-"1980s"
-]
-],
-"difficulty": "medium",
-"explanation": "These conflicts defined Cold War military engagement."
-},
-{
-"id": 184,
-"type": "multiple-correct",
-"text": "Which of these architectural landmarks are in India? (Select all correct)",
-"options": [
-"A. Taj Mahal",
-"B. Angkor Wat",
-"C. Qutub Minar",
-"D. Red Fort",
-"E. Petra"
-],
-"answer": [
-"A",
-"C",
-"D"
-],
-"difficulty": "easy",
-"explanation": "Angkor Wat is in Cambodia, and Petra is in Jordan."
-},
-{
-"id": 185,
-"type": "assertion-reason",
-"text": "Assertion: The invention of agriculture initiated the Neolithic Revolution. Reason: It allowed humans to transition from nomadic hunting/gathering to settled communities.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Farming created food surpluses, enabling the rise of cities and complex civilization."
-},
-{
-"id": 186,
-"type": "mcq",
-"text": "Which civilization is known for its intricate calendar and massive step pyramids in Central America?",
-"options": [
-"A. Inca",
-"B. Maya",
-"C. Olmec",
-"D. Moche"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "The Maya excelled in astronomy, mathematics, and monumental architecture."
-},
-{
-"id": 187,
-"type": "true-false",
-"text": "Joan of Arc played a major role in the Hundred Years' War.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "She led French forces to several crucial victories before her capture and execution."
-},
-{
-"id": 188,
-"type": "fill-blank",
-"text": "The systematic mass murder of ethnic Tutsis took place in ______ in 1994.",
-"answer": "Rwanda",
-"difficulty": "hard",
-"explanation": "An estimated 800,000 people were killed in just 100 days during the Rwandan genocide."
-},
-{
-"id": 189,
-"type": "matching",
-"text": "Match the inventor to their invention:",
-"pairs": [
-[
-"James Watt",
-"Improved Steam Engine"
-],
-[
-"Alexander Graham Bell",
-"Telephone"
-],
-[
-"Thomas Edison",
-"Practical Incandescent Light Bulb"
-]
-],
-"difficulty": "easy",
-"explanation": "These inventions were foundational to the modern technological age."
-},
-{
-"id": 190,
-"type": "multiple-correct",
-"text": "Which of these were prominent features of the Roman Empire? (Select all correct)",
-"options": [
-"A. Aqueducts",
-"B. Representative democracy",
-"C. Gladiatorial games",
-"D. Extensive road networks",
-"E. Invention of gunpowder"
-],
-"answer": [
-"A",
-"C",
-"D"
-],
-"difficulty": "medium",
-"explanation": "The Empire was an autocracy, not a democracy, and gunpowder was invented in China."
-},
-{
-"id": 191,
-"type": "assertion-reason",
-"text": "Assertion: The Fall of the Roman Empire immediately launched Europe into an era of advanced scientific discovery. Reason: The Germanic tribes established universities throughout Europe.",
-"assertion": false,
-"reason": false,
-"answer": "D",
-"difficulty": "medium",
-"explanation": "The fall of Rome ushered in the early Middle Ages (Dark Ages), a period of relative decline in formal scientific advancement."
-},
-{
-"id": 192,
-"type": "mcq",
-"text": "What was the primary goal of the Apollo 11 mission?",
-"options": [
-"A. Establish a space station",
-"B. Land humans on the moon and return them safely",
-"C. Launch the first satellite",
-"D. Send a rover to Mars"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Apollo 11 successfully landed Neil Armstrong and Buzz Aldrin on the moon in 1969."
-},
-{
-"id": 193,
-"type": "true-false",
-"text": "The East India Company successfully governed India without any uprisings until 1947.",
-"answer": false,
-"difficulty": "easy",
-"explanation": "The Company faced numerous uprisings, most notably the Rebellion of 1857, after which the British Crown took direct control."
-},
-{
-"id": 194,
-"type": "fill-blank",
-"text": "The belief that monarchs derive their authority directly from God is known as the ______ Right of Kings.",
-"answer": "Divine",
-"difficulty": "medium",
-"explanation": "This doctrine was used to justify absolutism in early modern Europe."
-},
-{
-"id": 195,
-"type": "matching",
-"text": "Match the post-colonial leader to their country:",
-"pairs": [
-[
-"Jomo Kenyatta",
-"Kenya"
-],
-[
-"Kwame Nkrumah",
-"Ghana"
-],
-[
-"Ho Chi Minh",
-"Vietnam"
-]
-],
-"difficulty": "hard",
-"explanation": "These leaders were central to anti-colonial independence movements."
-},
-{
-"id": 196,
-"type": "multiple-correct",
-"text": "Which of these conflicts involved the British Empire? (Select all correct)",
-"options": [
-"A. Opium Wars",
-"B. Boer War",
-"C. Spanish-American War",
-"D. Crimean War",
-"E. Peloponnesian War"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "hard",
-"explanation": "The Peloponnesian War was ancient Greek, and the Spanish-American War involved Spain and the US."
-},
-{
-"id": 197,
-"type": "assertion-reason",
-"text": "Assertion: The Atlantic slave trade severely destabilized African societies. Reason: It caused immense population loss, escalated warfare, and disrupted economic development.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "The slave trade had catastrophic, long-lasting demographic and political impacts on the African continent."
-},
-{
-"id": 198,
-"type": "mcq",
-"text": "Which movement was characterized by the rebirth of classical art and learning?",
-"options": [
-"A. The Reformation",
-"B. The Enlightenment",
-"C. The Renaissance",
-"D. The Industrial Revolution"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The Renaissance fundamentally transformed European art, architecture, and intellect."
-},
-{
-"id": 199,
-"type": "true-false",
-"text": "Alexander the Great's empire stretched from Greece to India.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "He conquered the Persian Empire and campaigned as far east as the Punjab region of India."
-},
-{
-"id": 200,
-"type": "fill-blank",
-"text": "The ideological barrier separating the Soviet bloc from the West was famously dubbed the '****** Curtain' by Winston Churchill.",
-"answer": "Iron",
-"difficulty": "medium",
-"explanation": "The term symbolized the physical and ideological division of Europe during the Cold War."
-}
-]
+  "category": "Environment & Climate",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "text": "Which gas is most responsible for global warming?",
+      "options": [
+        "A. Nitrogen",
+        "B. Carbon Dioxide",
+        "C. Oxygen",
+        "D. Hydrogen"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "CO2 is the primary greenhouse gas responsible for climate change."
+    },
+    {
+      "id": 2,
+      "type": "true-false",
+      "text": "The ozone layer protects us from ultraviolet radiation.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Yes, the ozone layer in the stratosphere blocks harmful UV rays."
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "text": "Which Indian state recorded the highest number of snow leopards?",
+      "options": [
+        "A. Himachal Pradesh",
+        "B. Uttarakhand",
+        "C. Sikkim",
+        "D. Ladakh"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "explanation": "Ladakh has the highest population of snow leopards in India."
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "text": "What is the theme of World Environment Day 2024?",
+      "options": [
+        "A. Beat Plastic Pollution",
+        "B. Ecosystem Restoration",
+        "C. Land restoration, desertification and drought resilience",
+        "D. Only One Earth"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "The 2024 theme focuses on land restoration and combating desertification."
+    },
+    {
+      "id": 5,
+      "type": "matching",
+      "text": "Match environmental issues with their effects:",
+      "pairs": [
+        [
+          "Deforestation",
+          "Loss of biodiversity"
+        ],
+        [
+          "Pollution",
+          "Acid rain"
+        ],
+        [
+          "Climate change",
+          "Rising sea levels"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Each environmental issue has significant documented effects."
+    },
+    {
+      "id": 6,
+      "type": "true-false",
+      "text": "Plastic takes more than 400 years to decompose in nature.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Most plastics take 400-1000 years to decompose."
+    },
+    {
+      "id": 7,
+      "type": "multiple-correct",
+      "text": "Which of these are renewable energy sources? (Select all correct)",
+      "options": [
+        "A. Solar power",
+        "B. Coal",
+        "C. Wind power",
+        "D. Petroleum",
+        "E. Hydroelectric"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Solar, wind, and hydroelectric are renewable. Coal and petroleum are fossil fuels."
+    },
+    {
+      "id": 8,
+      "type": "assertion-reason",
+      "text": "Assertion: Melting polar ice raises sea levels. Reason: Ice displacement increases ocean volume.",
+      "assertion": true,
+      "reason": false,
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "The assertion is true, but the reason is incorrect (it's about land ice melting, not floating ice)."
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "text": "Which city is known as the 'Tiger Capital of India'?",
+      "options": [
+        "A. Bhopal",
+        "B. Nagpur",
+        "C. Dehradun",
+        "D. Mysore"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Nagpur has the highest tiger population in India."
+    },
+    {
+      "id": 10,
+      "type": "fill-blank",
+      "text": "The Paris Agreement aims to limit global warming to ______ degrees Celsius.",
+      "answer": [
+        "1.5",
+        "2"
+      ],
+      "difficulty": "medium",
+      "explanation": "The goal is to limit warming to 1.5-2°C above pre-industrial levels."
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "text": "What is the most abundant greenhouse gas naturally present in Earth's atmosphere?",
+      "options": [
+        "A. Carbon dioxide",
+        "B. Methane",
+        "C. Water vapor",
+        "D. Nitrous oxide"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "Water vapor is the most abundant greenhouse gas in the atmosphere, significantly contributing to the natural greenhouse effect."
+    },
+    {
+      "id": 12,
+      "type": "true-false",
+      "text": "Deforestation decreases the amount of carbon dioxide in the atmosphere.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Deforestation increases carbon dioxide levels because fewer trees are available to absorb the gas, and burned/decayed trees release stored carbon."
+    },
+    {
+      "id": 13,
+      "type": "fill-blank",
+      "text": "The natural environment where an organism lives and thrives is called its ______.",
+      "answer": "habitat",
+      "difficulty": "easy",
+      "explanation": "A habitat provides the essential food, water, shelter, and space necessary for an organism's survival."
+    },
+    {
+      "id": 14,
+      "type": "multiple-correct",
+      "text": "Which of the following are recognized consequences of acid rain? (Select all correct)",
+      "options": [
+        "A. Damage to forests",
+        "B. Increased soil fertility",
+        "C. Harm to aquatic life",
+        "D. Corrosion of buildings",
+        "E. Ozone depletion"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Acid rain strips nutrients from soil, damages trees, acidifies lakes, and corrodes limestone buildings. It does not cause ozone depletion or increase fertility."
+    },
+    {
+      "id": 15,
+      "type": "assertion-reason",
+      "text": "Assertion: Chlorofluorocarbons (CFCs) were banned by the Montreal Protocol. Reason: They are responsible for the depletion of the stratospheric ozone layer.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both the assertion and reason are true, and the ozone-depleting nature of CFCs is exactly why the Montreal Protocol banned them."
+    },
+    {
+      "id": 16,
+      "type": "matching",
+      "text": "Match the international environmental agreements to their primary focus:",
+      "pairs": [
+        [
+          "Kyoto Protocol",
+          "Greenhouse gas emissions"
+        ],
+        [
+          "Montreal Protocol",
+          "Ozone depletion"
+        ],
+        [
+          "CITES",
+          "Endangered species trade"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are key international treaties designed to combat specific global environmental crises."
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "text": "What does the acronym 'WWF' stand for in the context of environmental conservation?",
+      "options": [
+        "A. World Wildlife Federation",
+        "B. World Wide Fund for Nature",
+        "C. World Water Foundation",
+        "D. Wildlife Welfare Fund"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "The World Wide Fund for Nature (WWF) is an international non-governmental organization working on wilderness preservation."
+    },
+    {
+      "id": 18,
+      "type": "true-false",
+      "text": "Composting is a natural process of recycling organic matter into fertilizer.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Composting relies on microorganisms to break down organic waste, such as food scraps and leaves, into nutrient-rich soil."
+    },
+    {
+      "id": 19,
+      "type": "fill-blank",
+      "text": "The large-scale introduction of harmful substances into the environment is called ______.",
+      "answer": "pollution",
+      "difficulty": "easy",
+      "explanation": "Pollution can take the form of chemical substances or energy, such as noise, heat, or light, introduced into the natural environment."
+    },
+    {
+      "id": 20,
+      "type": "multiple-correct",
+      "text": "Which of these gases are classified as greenhouse gases? (Select all correct)",
+      "options": [
+        "A. Methane",
+        "B. Nitrous oxide",
+        "C. Argon",
+        "D. Ozone",
+        "E. Neon"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "hard",
+      "explanation": "Methane, nitrous oxide, and ozone trap heat in the atmosphere. Argon and neon are noble gases that do not contribute to the greenhouse effect."
+    },
+    {
+      "id": 21,
+      "type": "assertion-reason",
+      "text": "Assertion: Coral reefs worldwide are experiencing unprecedented bleaching events. Reason: Ocean acidification and rising sea temperatures cause corals to expel their symbiotic algae.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct, and environmental stress directly causes the corals to lose the algae that give them color and nutrients."
+    },
+    {
+      "id": 22,
+      "type": "matching",
+      "text": "Match the terrestrial biome with its characteristic climate:",
+      "pairs": [
+        [
+          "Tundra",
+          "Extremely cold and dry"
+        ],
+        [
+          "Tropical Rainforest",
+          "Hot and humid year-round"
+        ],
+        [
+          "Desert",
+          "Very low precipitation"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "Biomes are largely defined by their temperature and precipitation patterns over long periods."
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "text": "Which layer of the Earth's atmosphere contains the protective ozone layer?",
+      "options": [
+        "A. Troposphere",
+        "B. Stratosphere",
+        "C. Mesosphere",
+        "D. Thermosphere"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "The ozone layer is located in the lower portion of the stratosphere, roughly 15 to 35 kilometers above Earth."
+    },
+    {
+      "id": 24,
+      "type": "true-false",
+      "text": "Mangrove forests play a crucial role in protecting coastlines from erosion and storm surges.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Mangroves have dense root systems that stabilize coastlines and act as a natural barrier against storms and rising tides."
+    },
+    {
+      "id": 25,
+      "type": "fill-blank",
+      "text": "The variety of plant and animal life in the world or in a particular habitat is known as ______.",
+      "answer": "biodiversity",
+      "difficulty": "easy",
+      "explanation": "High biodiversity is an indicator of a healthy, resilient, and productive ecosystem."
+    },
+    {
+      "id": 26,
+      "type": "multiple-correct",
+      "text": "Which of the following human activities contribute significantly to soil erosion? (Select all correct)",
+      "options": [
+        "A. Overgrazing",
+        "B. Crop rotation",
+        "C. Deforestation",
+        "D. Urbanization",
+        "E. Organic farming"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Overgrazing, deforestation, and urbanization remove vegetative cover, exposing soil to wind and water erosion. Crop rotation and organic farming conserve soil."
+    },
+    {
+      "id": 27,
+      "type": "assertion-reason",
+      "text": "Assertion: Fossil fuels like coal and petroleum are considered non-renewable resources. Reason: They take millions of years to form and are being consumed much faster than they are naturally replenished.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Both the assertion and the reason are true. The extreme time required for their formation defines them as non-renewable on a human timescale."
+    },
+    {
+      "id": 28,
+      "type": "matching",
+      "text": "Match the waste management 'Three Rs' to their definitions:",
+      "pairs": [
+        [
+          "Reduce",
+          "Using fewer resources in the first place"
+        ],
+        [
+          "Reuse",
+          "Using an item more than once"
+        ],
+        [
+          "Recycle",
+          "Converting waste into new materials"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "The Three Rs are the fundamental hierarchy for responsible waste management and sustainability."
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "text": "What is the ecological term for a species that has a disproportionately large effect on its natural environment relative to its abundance?",
+      "options": [
+        "A. Indicator species",
+        "B. Keystone species",
+        "C. Invasive species",
+        "D. Endemic species"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Keystone species play a critical role in maintaining the structure of an ecological community, much like the keystone in an arch."
+    },
+    {
+      "id": 30,
+      "type": "true-false",
+      "text": "The greenhouse effect is entirely caused by human activities and never occurs naturally.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "The greenhouse effect is a natural phenomenon essential for keeping the Earth warm enough to support life. Human activities have artificially amplified it."
+    },
+    {
+      "id": 31,
+      "type": "fill-blank",
+      "text": "The acronym 'AQI' used globally for measuring and reporting daily air pollution stands for Air Quality ______.",
+      "answer": "Index",
+      "difficulty": "easy",
+      "explanation": "The Air Quality Index communicates how polluted the air currently is or how polluted it is forecast to become."
+    },
+    {
+      "id": 32,
+      "type": "multiple-correct",
+      "text": "Which of the following animals are currently listed as critically endangered due to environmental pressures? (Select all correct)",
+      "options": [
+        "A. Javan Rhino",
+        "B. Mountain Gorilla",
+        "C. Red Fox",
+        "D. Hawksbill Turtle",
+        "E. White-tailed Deer"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "hard",
+      "explanation": "Javan Rhinos, Mountain Gorillas, and Hawksbill Turtles face extreme risk of extinction. Foxes and deer are abundant."
+    },
+    {
+      "id": 33,
+      "type": "assertion-reason",
+      "text": "Assertion: Marine phytoplankton are essential for the survival of life on Earth. Reason: They produce a significant portion of the world's atmospheric oxygen through photosynthesis.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct. Phytoplankton form the base of the marine food web and generate about half of the oxygen we breathe."
+    },
+    {
+      "id": 34,
+      "type": "matching",
+      "text": "Match the type of pollution to a common source:",
+      "pairs": [
+        [
+          "Water pollution",
+          "Agricultural fertilizer runoff"
+        ],
+        [
+          "Air pollution",
+          "Vehicle exhaust emissions"
+        ],
+        [
+          "Noise pollution",
+          "Heavy construction sites"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These pairings illustrate everyday human activities that directly contribute to specific categories of pollution."
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "text": "Which international protocol was established in 1997 to commit state parties to reduce greenhouse gas emissions?",
+      "options": [
+        "A. Kyoto Protocol",
+        "B. Paris Agreement",
+        "C. Montreal Protocol",
+        "D. Geneva Convention"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "The Kyoto Protocol operationalized the UN Framework Convention on Climate Change by committing industrialized countries to limit emissions."
+    },
+    {
+      "id": 36,
+      "type": "true-false",
+      "text": "Renewable energy currently accounts for more than 90% of global electricity production.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "While growing rapidly, renewable energy accounts for roughly 30% of global electricity production, with fossil fuels still dominating."
+    },
+    {
+      "id": 37,
+      "type": "fill-blank",
+      "text": "An area of land where all flowing surface water converges to a single point, such as a river mouth, is called a ______.",
+      "answer": "watershed",
+      "difficulty": "hard",
+      "explanation": "A watershed (or drainage basin) channels rainfall and snowmelt to creeks, streams, and rivers, and eventually to outflow points."
+    },
+    {
+      "id": 38,
+      "type": "multiple-correct",
+      "text": "Which of the following are examples of e-waste (electronic waste)? (Select all correct)",
+      "options": [
+        "A. Discarded smartphones",
+        "B. Broken glass bottles",
+        "C. Old computers",
+        "D. Used lithium batteries",
+        "E. Leftover food scraps"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "E-waste comprises discarded electrical or electronic devices. Glass and food are different waste streams."
+    },
+    {
+      "id": 39,
+      "type": "assertion-reason",
+      "text": "Assertion: The Amazon Rainforest is often referred to as the 'lungs of the Earth'. Reason: It absorbs massive amounts of carbon dioxide and releases oxygen back into the atmosphere.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Both statements are correct. The vast expanse of vegetation in the Amazon performs large-scale photosynthesis, critical for climate regulation."
+    },
+    {
+      "id": 40,
+      "type": "matching",
+      "text": "Match the environmental concepts to their definitions:",
+      "pairs": [
+        [
+          "Carbon footprint",
+          "Total greenhouse gas emissions caused by an individual or entity"
+        ],
+        [
+          "Sustainability",
+          "Meeting present needs without compromising future generations"
+        ],
+        [
+          "Ecology",
+          "Study of organisms and how they interact with their environment"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are foundational terms used in environmental science and policy-making."
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "text": "Which phenomenon describes the trapping of the sun's warmth in a planet's lower atmosphere?",
+      "options": [
+        "A. Ozone depletion",
+        "B. Global dimming",
+        "C. Greenhouse effect",
+        "D. Albedo effect"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "The greenhouse effect occurs when atmospheric gases trap heat radiating from Earth toward space."
+    },
+    {
+      "id": 42,
+      "type": "true-false",
+      "text": "Hydrofluorocarbons (HFCs) were introduced as replacements for CFCs but are highly potent greenhouse gases themselves.",
+      "answer": true,
+      "difficulty": "hard",
+      "explanation": "While HFCs do not deplete the ozone layer like CFCs, they have a high global warming potential, leading to efforts to phase them out."
+    },
+    {
+      "id": 43,
+      "type": "fill-blank",
+      "text": "The gradual increase in the overall temperature of the earth's atmosphere is generally attributed to the ______ effect.",
+      "answer": "greenhouse",
+      "difficulty": "easy",
+      "explanation": "The enhanced greenhouse effect, driven by human emissions, is the primary cause of global warming."
+    },
+    {
+      "id": 44,
+      "type": "multiple-correct",
+      "text": "Which of these practices promote sustainable agriculture? (Select all correct)",
+      "options": [
+        "A. Monoculture farming",
+        "B. Crop rotation",
+        "C. Heavy use of synthetic pesticides",
+        "D. Integrated pest management",
+        "E. Conservation tillage"
+      ],
+      "answer": [
+        "B",
+        "D",
+        "E"
+      ],
+      "difficulty": "hard",
+      "explanation": "Crop rotation, integrated pest management, and conservation tillage protect soil health and biodiversity. Monoculture and heavy pesticide use harm the environment."
+    },
+    {
+      "id": 45,
+      "type": "assertion-reason",
+      "text": "Assertion: Nuclear energy is considered a low-carbon energy source. Reason: Nuclear power plants emit zero carbon dioxide during their active power generation operation.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct, and the lack of operational carbon emissions is why nuclear power is considered a low-carbon alternative to fossil fuels."
+    },
+    {
+      "id": 46,
+      "type": "matching",
+      "text": "Match the extreme weather event to its characteristic:",
+      "pairs": [
+        [
+          "Hurricane",
+          "Tropical cyclone with high winds"
+        ],
+        [
+          "Drought",
+          "Prolonged period of abnormally low rainfall"
+        ],
+        [
+          "Heatwave",
+          "Extended period of excessively hot weather"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "Climate change is increasing the frequency and severity of these extreme weather patterns."
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "text": "What is the main cause of the ocean acidification currently being observed by scientists?",
+      "options": [
+        "A. Oil spills",
+        "B. Plastic pollution",
+        "C. Absorption of carbon dioxide from the atmosphere",
+        "D. Runoff of agricultural fertilizers"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "The ocean absorbs about 30% of the CO2 released into the atmosphere, causing chemical reactions that lower the water's pH."
+    },
+    {
+      "id": 48,
+      "type": "true-false",
+      "text": "A species that is native to and restricted to a certain defined geographical area is called an endemic species.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Endemic species are uniquely vulnerable to extinction because they only exist in one specific part of the world."
+    },
+    {
+      "id": 49,
+      "type": "fill-blank",
+      "text": "The transition to a more circular economy focuses on eliminating ______ and ensuring the continual use of resources.",
+      "answer": "waste",
+      "difficulty": "medium",
+      "explanation": "A circular economy aims to design out waste and pollution, keeping products and materials in use rather than throwing them away."
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "text": "Which international organization publishes the widely recognized Red List of Threatened Species?",
+      "options": [
+        "A. UNEP",
+        "B. IUCN",
+        "C. WWF",
+        "D. IPCC"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "The International Union for Conservation of Nature (IUCN) compiles the Red List, the world's most comprehensive inventory of the global conservation status of species."
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "text": "Which process converts nitrogen in the atmosphere into usable forms for living organisms?",
+      "options": [
+        "A. Denitrification",
+        "B. Nitrogen fixation",
+        "C. Nitrification",
+        "D. Ammonification"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Nitrogen fixation, performed by certain bacteria and lightning, converts atmospheric nitrogen into ammonia that plants can absorb."
+    },
+    {
+      "id": 52,
+      "type": "true-false",
+      "text": "Geothermal energy is one of the most environmentally friendly renewable energy sources available.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Geothermal energy produces minimal greenhouse gases and has a small environmental footprint compared to fossil fuels."
+    },
+    {
+      "id": 53,
+      "type": "fill-blank",
+      "text": "The practice of growing different crops in the same area in successive seasons is called ______.",
+      "answer": "crop rotation",
+      "difficulty": "easy",
+      "explanation": "Crop rotation helps maintain soil fertility and reduces the need for synthetic fertilizers."
+    },
+    {
+      "id": 54,
+      "type": "multiple-correct",
+      "text": "Which of these are sources of plastic pollution? (Select all correct)",
+      "options": [
+        "A. Single-use plastic bags",
+        "B. Plastic packaging",
+        "C. Microplastics from cosmetics",
+        "D. Paper straws",
+        "E. Plastic bottles and containers"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Plastics from various consumer products and microplastics pollute ecosystems. Paper straws are biodegradable."
+    },
+    {
+      "id": 55,
+      "type": "assertion-reason",
+      "text": "Assertion: Peatlands are critical carbon sinks. Reason: They store twice as much carbon as all the world's forests combined.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are true, making peatland conservation crucial for climate change mitigation."
+    },
+    {
+      "id": 56,
+      "type": "matching",
+      "text": "Match renewable energy sources with their primary advantage:",
+      "pairs": [
+        [
+          "Solar energy",
+          "Abundant and widely available"
+        ],
+        [
+          "Wind energy",
+          "No emissions during operation"
+        ],
+        [
+          "Hydroelectric power",
+          "Reliable and consistent output"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Each renewable source has distinct advantages for energy production."
+    },
+    {
+      "id": 57,
+      "type": "mcq",
+      "text": "Which tropical forest region is being lost at the fastest rate?",
+      "options": [
+        "A. Amazon Rainforest",
+        "B. Congo Rainforest",
+        "C. Southeast Asian Rainforest",
+        "D. Daintree Rainforest"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "The Amazon Rainforest is experiencing the highest deforestation rate among tropical forests."
+    },
+    {
+      "id": 58,
+      "type": "true-false",
+      "text": "Wildlife corridors help endangered species move between fragmented habitats.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Wildlife corridors are essential for maintaining genetic diversity and allowing species migration."
+    },
+    {
+      "id": 59,
+      "type": "fill-blank",
+      "text": "The term used to describe the movement of pollutants through air and water across international boundaries is ______.",
+      "answer": "transboundary",
+      "difficulty": "hard",
+      "explanation": "Transboundary pollution affects multiple countries and requires international cooperation to address."
+    },
+    {
+      "id": 60,
+      "type": "multiple-correct",
+      "text": "Which of these are impacts of desertification? (Select all correct)",
+      "options": [
+        "A. Loss of agricultural land",
+        "B. Increased biodiversity",
+        "C. Food insecurity",
+        "D. Water scarcity",
+        "E. Economic growth"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Desertification causes land degradation, food and water insecurity. It reduces biodiversity and harms economies."
+    },
+    {
+      "id": 61,
+      "type": "assertion-reason",
+      "text": "Assertion: The ozone hole over Antarctica is recovering. Reason: The Montreal Protocol has been effective in reducing CFC emissions.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct; the protocol's success demonstrates that global action can address environmental problems."
+    },
+    {
+      "id": 62,
+      "type": "matching",
+      "text": "Match conservation strategies with their approaches:",
+      "pairs": [
+        [
+          "Protected areas",
+          "Establishing reserves for species preservation"
+        ],
+        [
+          "Community-based conservation",
+          "Involving local people in resource management"
+        ],
+        [
+          "Captive breeding",
+          "Breeding endangered species in controlled environments"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "Different conservation strategies address environmental protection through various methods."
+    },
+    {
+      "id": 63,
+      "type": "mcq",
+      "text": "Which ocean currently has the largest dead zone?",
+      "options": [
+        "A. Atlantic Ocean",
+        "B. Pacific Ocean",
+        "C. Indian Ocean",
+        "D. Arctic Ocean"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "The Pacific Ocean has the largest oxygen-depleted dead zone off the coast of the United States."
+    },
+    {
+      "id": 64,
+      "type": "true-false",
+      "text": "Bioluminescence is used by some marine organisms as a defense mechanism against predators.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Some deep-sea organisms use bioluminescence to attract predators away or to confuse attackers."
+    },
+    {
+      "id": 65,
+      "type": "fill-blank",
+      "text": "The ______ Protocol is an international treaty designed to control hazardous waste exports.",
+      "answer": "Basel",
+      "difficulty": "hard",
+      "explanation": "The Basel Convention regulates the transboundary movement of hazardous wastes."
+    },
+    {
+      "id": 66,
+      "type": "multiple-correct",
+      "text": "Which of these are indicators of climate change? (Select all correct)",
+      "options": [
+        "A. Rising global temperatures",
+        "B. Melting ice caps",
+        "C. Changing migration patterns of birds",
+        "D. Decreasing humidity",
+        "E. Rising sea levels"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Multiple observable phenomena indicate climate change. Humidity patterns vary regionally and are not a universal indicator."
+    },
+    {
+      "id": 67,
+      "type": "assertion-reason",
+      "text": "Assertion: Agricultural runoff is a major cause of water eutrophication. Reason: Excess nutrients from fertilizers promote excessive algal growth.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct; algal blooms deplete oxygen and harm aquatic ecosystems."
+    },
+    {
+      "id": 68,
+      "type": "matching",
+      "text": "Match types of forests with their characteristics:",
+      "pairs": [
+        [
+          "Boreal forests",
+          "Found at high latitudes with coniferous trees"
+        ],
+        [
+          "Temperate deciduous forests",
+          "Trees that lose leaves seasonally in moderate climates"
+        ],
+        [
+          "Tropical rainforests",
+          "Year-round warm and wet conditions"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "Forest types are distinguished by climate and vegetation characteristics."
+    },
+    {
+      "id": 69,
+      "type": "mcq",
+      "text": "Which phenomenon causes the Earth's average temperature to rise despite some regions experiencing cooling?",
+      "options": [
+        "A. Solar cycle variation",
+        "B. Volcanic activity",
+        "C. Unequal distribution of greenhouse gases",
+        "D. Atmospheric circulation changes"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "Global average temperature increases even when some regions cool due to the overall concentration of greenhouse gases."
+    },
+    {
+      "id": 70,
+      "type": "true-false",
+      "text": "Biomagnification is the process where toxin concentrations increase up the food chain.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Biomagnification causes higher concentrations of toxic substances in organisms at higher trophic levels."
+    },
+    {
+      "id": 71,
+      "type": "fill-blank",
+      "text": "The practice of restoring degraded ecosystems to their original state is called ecosystem ______.",
+      "answer": "restoration",
+      "difficulty": "medium",
+      "explanation": "Ecosystem restoration aims to rebuild biodiversity and ecological functions."
+    },
+    {
+      "id": 72,
+      "type": "multiple-correct",
+      "text": "Which of these contribute to urban heat island effect? (Select all correct)",
+      "options": [
+        "A. Dark pavement and roofs",
+        "B. Lack of vegetation",
+        "C. Abundant green spaces",
+        "D. Dense building materials",
+        "E. Water bodies"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Dark materials, reduced vegetation, and dense buildings increase urban temperatures. Green spaces and water cool areas."
+    },
+    {
+      "id": 73,
+      "type": "assertion-reason",
+      "text": "Assertion: Wetlands are disappearing at twice the rate of forests. Reason: Wetlands are often drained for agriculture and urban development.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are correct; wetland loss is a critical environmental concern."
+    },
+    {
+      "id": 74,
+      "type": "matching",
+      "text": "Match environmental disasters with their causes:",
+      "pairs": [
+        [
+          "Bhopal Gas Tragedy",
+          "Chemical plant leak"
+        ],
+        [
+          "Love Canal",
+          "Hazardous waste dumping"
+        ],
+        [
+          "Fukushima Daiichi",
+          "Nuclear accident"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "These historical disasters demonstrate various environmental hazards."
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "text": "Which nutrient deficiency in soil is most commonly addressed through nitrogen fixation?",
+      "options": [
+        "A. Potassium deficiency",
+        "B. Nitrogen deficiency",
+        "C. Phosphorus deficiency",
+        "D. Sulfur deficiency"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Nitrogen is essential for plant growth, and fixation makes it available from the atmosphere."
+    },
+    {
+      "id": 76,
+      "type": "true-false",
+      "text": "Sustainable fishing practices help maintain fish populations and ecosystem health.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Sustainable practices prevent overfishing and maintain aquatic biodiversity."
+    },
+    {
+      "id": 77,
+      "type": "fill-blank",
+      "text": "The ______ Index measures a country's ecological impact and resource consumption.",
+      "answer": "Ecological Footprint",
+      "difficulty": "hard",
+      "explanation": "The Ecological Footprint calculates the land area required to support a population's lifestyle."
+    },
+    {
+      "id": 78,
+      "type": "multiple-correct",
+      "text": "Which of these are natural carbon sinks? (Select all correct)",
+      "options": [
+        "A. Forests",
+        "B. Oceans",
+        "C. Peatlands",
+        "D. Deserts",
+        "E. Soils"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "hard",
+      "explanation": "Forests, oceans, peatlands, and soils absorb and store carbon. Deserts store minimal carbon."
+    },
+    {
+      "id": 79,
+      "type": "assertion-reason",
+      "text": "Assertion: Pollinator populations are declining globally. Reason: Loss of habitat and pesticide use threaten bee and butterfly populations.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct; pollinator decline threatens food security and ecosystems."
+    },
+    {
+      "id": 80,
+      "type": "matching",
+      "text": "Match environmental laws with their countries of origin:",
+      "pairs": [
+        [
+          "Clean Air Act",
+          "United States"
+        ],
+        [
+          "Environmental Protection Act",
+          "India"
+        ],
+        [
+          "Water Resources Act",
+          "United Kingdom"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These landmark environmental laws established protection frameworks."
+    },
+    {
+      "id": 81,
+      "type": "mcq",
+      "text": "Which gas contributes most to photochemical smog formation in urban areas?",
+      "options": [
+        "A. Sulfur dioxide",
+        "B. Nitrogen oxides",
+        "C. Carbon monoxide",
+        "D. Methane"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Nitrogen oxides react with sunlight to form ozone and other compounds that create smog."
+    },
+    {
+      "id": 82,
+      "type": "true-false",
+      "text": "Renewable energy can completely replace fossil fuels in the near term.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "While renewables are growing, the transition requires decades and infrastructure changes."
+    },
+    {
+      "id": 83,
+      "type": "fill-blank",
+      "text": "The practice of using natural enemies to control pest populations is called ______.",
+      "answer": "biological control",
+      "difficulty": "medium",
+      "explanation": "Biological control reduces the need for chemical pesticides."
+    },
+    {
+      "id": 84,
+      "type": "multiple-correct",
+      "text": "Which of these are benefits of marine protected areas? (Select all correct)",
+      "options": [
+        "A. Fish population recovery",
+        "B. Increased pollution",
+        "C. Coral reef protection",
+        "D. Habitat restoration",
+        "E. Species extinction"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Protected areas support marine recovery and biodiversity. Pollution and extinction are harms, not benefits."
+    },
+    {
+      "id": 85,
+      "type": "assertion-reason",
+      "text": "Assertion: The Antarctic ice sheet contains 90% of the world's ice. Reason: It is the largest polar ice reserve on Earth.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct; Antarctic ice is critical for global sea levels."
+    },
+    {
+      "id": 86,
+      "type": "matching",
+      "text": "Match ecosystem services with their examples:",
+      "pairs": [
+        [
+          "Provisioning services",
+          "Food, water, timber, fuel"
+        ],
+        [
+          "Regulating services",
+          "Climate regulation, pollination, water purification"
+        ],
+        [
+          "Cultural services",
+          "Recreation, spiritual value, educational value"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "Ecosystems provide diverse services essential for human well-being."
+    },
+    {
+      "id": 87,
+      "type": "mcq",
+      "text": "Which factor has the greatest influence on photosynthesis rates in aquatic ecosystems?",
+      "options": [
+        "A. Water temperature",
+        "B. Light availability",
+        "C. Salinity",
+        "D. Pressure"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Light is essential for photosynthesis and is often limiting in aquatic environments."
+    },
+    {
+      "id": 88,
+      "type": "true-false",
+      "text": "Carbon sequestration in soils can help mitigate climate change.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Soil carbon storage through conservation practices supports climate action."
+    },
+    {
+      "id": 89,
+      "type": "fill-blank",
+      "text": "The ______ is the measure of how efficiently an organism converts food into body mass.",
+      "answer": "trophic efficiency",
+      "difficulty": "hard",
+      "explanation": "Only about 10% of energy transfers to the next trophic level."
+    },
+    {
+      "id": 90,
+      "type": "multiple-correct",
+      "text": "Which of these are examples of green technology? (Select all correct)",
+      "options": [
+        "A. Solar panels",
+        "B. Electric vehicles",
+        "C. Fossil fuel power plants",
+        "D. Wind turbines",
+        "E. LED lighting"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "difficulty": "easy",
+      "explanation": "Solar, wind, electric vehicles, and LED lighting reduce environmental impact. Fossil fuel plants do not."
+    },
+    {
+      "id": 91,
+      "type": "assertion-reason",
+      "text": "Assertion: Green infrastructure reduces urban flooding. Reason: Permeable surfaces and vegetation absorb and filter rainwater.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct; green infrastructure provides environmental and urban planning benefits."
+    },
+    {
+      "id": 92,
+      "type": "matching",
+      "text": "Match environmental goals with the SDG numbers:",
+      "pairs": [
+        [
+          "Clean water and sanitation",
+          "SDG 6"
+        ],
+        [
+          "Affordable and clean energy",
+          "SDG 7"
+        ],
+        [
+          "Climate action",
+          "SDG 13"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "UN Sustainable Development Goals address environmental protection."
+    },
+    {
+      "id": 93,
+      "type": "mcq",
+      "text": "Which is the primary driver of species loss in tropical regions?",
+      "options": [
+        "A. Climate change alone",
+        "B. Habitat loss and fragmentation",
+        "C. Invasive species only",
+        "D. Pollution only"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Habitat destruction and fragmentation are the leading causes of biodiversity loss."
+    },
+    {
+      "id": 94,
+      "type": "true-false",
+      "text": "Microplastics have been found in human blood and organs.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Recent research confirms microplastics penetrate human tissues and pose health risks."
+    },
+    {
+      "id": 95,
+      "type": "fill-blank",
+      "text": "The practice of leaving part of a forest standing during logging is called ______.",
+      "answer": "selective logging",
+      "difficulty": "medium",
+      "explanation": "Selective logging maintains forest structure and biodiversity better than clear-cutting."
+    },
+    {
+      "id": 96,
+      "type": "multiple-correct",
+      "text": "Which of these are ways to reduce carbon emissions? (Select all correct)",
+      "options": [
+        "A. Increasing public transportation use",
+        "B. Promoting electric vehicles",
+        "C. Expanding coal mining",
+        "D. Protecting forests",
+        "E. Improving energy efficiency"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Transportation, energy, and forest conservation reduce emissions. Coal expansion increases them."
+    },
+    {
+      "id": 97,
+      "type": "assertion-reason",
+      "text": "Assertion: Rainwater harvesting reduces water scarcity. Reason: It captures and stores precipitation for later use.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Both statements are correct; rainwater harvesting is a sustainable water management practice."
+    },
+    {
+      "id": 98,
+      "type": "matching",
+      "text": "Match climate phenomena with their timescales:",
+      "pairs": [
+        [
+          "Weather",
+          "Hours to weeks"
+        ],
+        [
+          "Climate",
+          "Decades to centuries"
+        ],
+        [
+          "Long-term climate patterns",
+          "Thousands of years"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Understanding different timescales is crucial for climate science."
+    },
+    {
+      "id": 99,
+      "type": "mcq",
+      "text": "Which breakthrough technology shows promise in carbon capture and utilization?",
+      "options": [
+        "A. Traditional fossil fuel refineries",
+        "B. Direct air capture systems",
+        "C. Plastic production factories",
+        "D. Concrete manufacturing plants"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Direct air capture technology removes CO2 from the atmosphere for storage or reuse."
+    },
+    {
+      "id": 100,
+      "type": "true-false",
+      "text": "Indigenous land management practices contribute significantly to forest conservation.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Indigenous territories maintain high biodiversity and have lower deforestation rates."
+    }
+  ]
 }
