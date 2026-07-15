@@ -1316,6 +1316,669 @@
       "answer": "data augmentation",
       "difficulty": "hard",
       "explanation": "Data augmentation helps models generalize better by increasing dataset diversity and teaching invariance to transformations."
+    },
+    {
+      "id": 101,
+      "type": "mcq",
+      "text": "In the context of modern AI, what does RAG stand for?",
+      "options": [
+        "A. Random Access Generation",
+        "B. Retrieval-Augmented Generation",
+        "C. Recurrent Algorithmic Growth",
+        "D. Rapid Artificial Graphics"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "RAG combines generative AI with an external knowledge retrieval system to provide more accurate and context-aware responses."
+    },
+    {
+      "id": 102,
+      "type": "true-false",
+      "text": "The Transformer architecture, which underpins models like GPT, relies heavily on a mechanism called 'self-attention'.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Introduced in the paper 'Attention Is All You Need', self-attention allows the model to weigh the importance of different words in a sequence."
+    },
+    {
+      "id": 103,
+      "type": "fill-blank",
+      "text": "The 'G' in GAN, a type of machine learning framework involving two competing neural networks, stands for ______.",
+      "answer": "Generative",
+      "difficulty": "medium",
+      "explanation": "GAN stands for Generative Adversarial Network, which consists of a generator and a discriminator."
+    },
+    {
+      "id": 104,
+      "type": "multiple-correct",
+      "text": "Which of the following are core concepts typically associated with Web3? (Select all correct)",
+      "options": [
+        "A. Decentralization",
+        "B. Centralized server farms",
+        "C. Blockchain technology",
+        "D. Token-based economics",
+        "E. Dial-up networking"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Web3 envisions a decentralized internet built upon blockchain technologies and tokenomics, moving away from centralized control."
+    },
+    {
+      "id": 105,
+      "type": "matching",
+      "text": "Match the cybersecurity threat to its description:",
+      "pairs": [
+        [
+          "Spoofing",
+          "Falsifying data to appear as a trusted source"
+        ],
+        [
+          "Man-in-the-Middle",
+          "Secretly intercepting and altering communications"
+        ],
+        [
+          "SQL Injection",
+          "Inserting malicious code into database queries"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "These represent specific attack vectors hackers use to breach systems or steal data."
+    },
+    {
+      "id": 106,
+      "type": "assertion-reason",
+      "text": "Assertion: Federated learning helps preserve user privacy. Reason: It trains algorithms across multiple decentralized devices holding local data samples without exchanging them.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both are true. Federated learning sends model updates rather than raw user data to the central server, enhancing privacy."
+    },
+    {
+      "id": 107,
+      "type": "mcq",
+      "text": "What is a 'hyperparameter' in machine learning?",
+      "options": [
+        "A. A parameter that is learned automatically from the data",
+        "B. A configuration setting defined by the user before training begins",
+        "C. A very fast processing unit used in servers",
+        "D. The final output score of an AI model"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Unlike model parameters (like weights) which are learned during training, hyperparameters (like learning rate) are set manually prior to training."
+    },
+    {
+      "id": 108,
+      "type": "true-false",
+      "text": "In asymmetric cryptography, you should freely share your private key so others can securely message you.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "You share your PUBLIC key for others to encrypt messages to you; your PRIVATE key must be kept secret to decrypt them."
+    },
+    {
+      "id": 109,
+      "type": "fill-blank",
+      "text": "In NLP, the process of reducing words to their root or base form (e.g., 'running' to 'run') is called ______.",
+      "answer": "stemming",
+      "difficulty": "medium",
+      "explanation": "Stemming and lemmatization are common preprocessing steps in Natural Language Processing to normalize text."
+    },
+    {
+      "id": 110,
+      "type": "multiple-correct",
+      "text": "Which of the following are examples of Vector Databases designed for AI workloads? (Select all correct)",
+      "options": [
+        "A. Pinecone",
+        "B. MySQL",
+        "C. Milvus",
+        "D. Weaviate",
+        "E. Microsoft Excel"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "hard",
+      "explanation": "Pinecone, Milvus, and Weaviate are purpose-built for storing and querying vector embeddings used in modern AI."
+    },
+    {
+      "id": 111,
+      "type": "matching",
+      "text": "Match the technology stack acronyms with their core database component:",
+      "pairs": [
+        [
+          "MERN",
+          "MongoDB"
+        ],
+        [
+          "MEAN",
+          "MongoDB"
+        ],
+        [
+          "LAMP",
+          "MySQL"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "MERN and MEAN use MongoDB (a NoSQL database), while the older LAMP stack uses MySQL (a relational database)."
+    },
+    {
+      "id": 112,
+      "type": "assertion-reason",
+      "text": "Assertion: Digital twins are highly valuable in manufacturing and urban planning. Reason: They provide a virtual representation of a physical object or system that updates in real-time.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct. Digital twins allow for simulation, monitoring, and optimization of physical assets without risking the actual asset."
+    },
+    {
+      "id": 113,
+      "type": "mcq",
+      "text": "AI image generators like Midjourney and DALL-E are primarily built upon which type of model architecture?",
+      "options": [
+        "A. Convolutional Neural Networks only",
+        "B. Diffusion models",
+        "C. Recurrent Neural Networks",
+        "D. Decision Trees"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Modern AI image generation is dominated by diffusion models, which learn to create images by gradually removing mathematical noise."
+    },
+    {
+      "id": 114,
+      "type": "true-false",
+      "text": "As of 2024, 6G is the globally adopted standard for mainstream mobile communications.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "5G is the current mainstream standard. While 6G is in research and development, it is not expected to be commercially available until around 2030."
+    },
+    {
+      "id": 115,
+      "type": "fill-blank",
+      "text": "To prevent decoherence and maintain quantum states, the physical hardware of superconducting quantum computers must be cooled to near absolute ______.",
+      "answer": "zero",
+      "difficulty": "medium",
+      "explanation": "Quantum processors require extreme cooling (close to 0 Kelvin / Absolute Zero) to stabilize the delicate qubits."
+    },
+    {
+      "id": 116,
+      "type": "multiple-correct",
+      "text": "Which of the following are examples of prominent open-weights or open-source Large Language Models? (Select all correct)",
+      "options": [
+        "A. LLaMA (Meta)",
+        "B. GPT-4 (OpenAI)",
+        "C. Mistral",
+        "D. Falcon",
+        "E. Claude 3 (Anthropic)"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "hard",
+      "explanation": "LLaMA, Mistral, and Falcon offer open weights. GPT-4 and Claude 3 are proprietary, closed models."
+    },
+    {
+      "id": 117,
+      "type": "matching",
+      "text": "Match the networking protocol to its primary function:",
+      "pairs": [
+        [
+          "HTTP",
+          "Web page data transfer"
+        ],
+        [
+          "FTP",
+          "File transfer between client and server"
+        ],
+        [
+          "SMTP",
+          "Sending email messages"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These protocols dictate how different types of data are transmitted across the internet."
+    },
+    {
+      "id": 118,
+      "type": "assertion-reason",
+      "text": "Assertion: NFTs (Non-Fungible Tokens) can be used to prove ownership of digital assets. Reason: NFTs are recorded on a blockchain, providing a public and immutable ledger of authenticity.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct, and the blockchain ledger is precisely what allows NFTs to act as verifiable certificates of ownership."
+    },
+    {
+      "id": 119,
+      "type": "mcq",
+      "text": "Which library has become widely popular for orchestrating complex LLM applications and connecting them to external tools?",
+      "options": [
+        "A. React",
+        "B. LangChain",
+        "C. Bootstrap",
+        "D. Tailwind CSS"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "LangChain is a framework designed to simplify the creation of applications using large language models by linking them with other components."
+    },
+    {
+      "id": 120,
+      "type": "true-false",
+      "text": "In machine learning, a 'model' is essentially a mathematical equation or set of rules that has been learned from data.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "An ML model is the output of the training process—a mathematical representation that can make predictions on new data."
+    },
+    {
+      "id": 121,
+      "type": "fill-blank",
+      "text": "A ______ force attack is a hacking method that uses trial and error to guess passwords or encryption keys.",
+      "answer": "brute",
+      "difficulty": "easy",
+      "explanation": "Brute force attacks systematically check all possible combinations until the correct one is found."
+    },
+    {
+      "id": 122,
+      "type": "multiple-correct",
+      "text": "Which of the following traits are used in modern biometric security systems? (Select all correct)",
+      "options": [
+        "A. Iris patterns",
+        "B. Passwords",
+        "C. Voice recognition",
+        "D. Facial structure",
+        "E. Security questions"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "Biometrics rely on physical or behavioral traits. Passwords and security questions are knowledge-based, not biometric."
+    },
+    {
+      "id": 123,
+      "type": "matching",
+      "text": "Match the cloud storage type to its common use case:",
+      "pairs": [
+        [
+          "Object Storage",
+          "Unstructured data like images and backups (e.g., AWS S3)"
+        ],
+        [
+          "Block Storage",
+          "High-performance databases and OS drives (e.g., AWS EBS)"
+        ],
+        [
+          "File Storage",
+          "Shared network drives across multiple servers"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "Understanding storage paradigms is crucial for optimizing cloud infrastructure performance and costs."
+    },
+    {
+      "id": 124,
+      "type": "assertion-reason",
+      "text": "Assertion: Social engineering is a highly effective cybersecurity threat. Reason: It targets software vulnerabilities in firewalls rather than human psychology.",
+      "assertion": true,
+      "reason": false,
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "The assertion is true, but the reason is false. Social engineering specifically targets human psychology (tricking people), not software vulnerabilities."
+    },
+    {
+      "id": 125,
+      "type": "mcq",
+      "text": "What does 'Zero-Day' refer to in cybersecurity?",
+      "options": [
+        "A. The day a project is officially launched",
+        "B. A vulnerability that is exploited before the software creator has time to release a patch",
+        "C. An attack that deletes all data, bringing the server to zero bytes",
+        "D. The initial installation phase of an antivirus"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "A zero-day exploit means the developers have had 'zero days' to fix the flaw since it became known or was exploited."
+    },
+    {
+      "id": 126,
+      "type": "true-false",
+      "text": "It is considered a good security practice to hardcode API keys directly into your application's source code before pushing to GitHub.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Hardcoding API keys is dangerous. They should be stored in secure environment variables to prevent hackers from stealing them."
+    },
+    {
+      "id": 127,
+      "type": "fill-blank",
+      "text": "An AI's ability to correctly classify or generate responses for tasks it wasn't explicitly trained on is called ______-shot learning.",
+      "answer": "zero",
+      "difficulty": "hard",
+      "explanation": "Zero-shot learning allows models (especially modern LLMs) to handle novel tasks by generalizing from their broad pre-training."
+    },
+    {
+      "id": 128,
+      "type": "multiple-correct",
+      "text": "Which of the following are characteristics typically associated with 'Cloud Native' application architecture? (Select all correct)",
+      "options": [
+        "A. Monolithic design",
+        "B. Microservices",
+        "C. Containerization",
+        "D. Dynamic orchestration (e.g., Kubernetes)",
+        "E. Mainframe reliance"
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "difficulty": "hard",
+      "explanation": "Cloud-native apps are built as microservices, packaged in containers, and managed by dynamic orchestrators. Monoliths and mainframes are legacy architectures."
+    },
+    {
+      "id": 129,
+      "type": "matching",
+      "text": "Match the robotics component to its function:",
+      "pairs": [
+        [
+          "Sensor",
+          "Gathers data from the environment"
+        ],
+        [
+          "Actuator",
+          "Provides physical movement and mechanical force"
+        ],
+        [
+          "Controller",
+          "Processes data and sends commands"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These three components act as the 'senses, muscles, and brain' of a robotic system."
+    },
+    {
+      "id": 130,
+      "type": "assertion-reason",
+      "text": "Assertion: Network slicing is a key feature of 5G technology. Reason: It allows operators to create multiple virtual networks with different performance characteristics on a single physical network.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are true. Network slicing allows tailoring connectivity (e.g., ultra-low latency for autonomous cars vs. high bandwidth for streaming) on the same infrastructure."
+    },
+    {
+      "id": 131,
+      "type": "mcq",
+      "text": "What is the primary function of an Intrusion Detection System (IDS)?",
+      "options": [
+        "A. To encrypt data at rest",
+        "B. To monitor network traffic for suspicious activity and issue alerts",
+        "C. To physically prevent unauthorized personnel from entering a server room",
+        "D. To automatically delete detected malware"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "An IDS monitors and alerts on suspicious traffic. Unlike an IPS (Intrusion Prevention System), an IDS does not actively block the traffic on its own."
+    },
+    {
+      "id": 132,
+      "type": "true-false",
+      "text": "Solid State Drives (SSDs) use rotating magnetic platters to store and retrieve data.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "SSDs use flash memory chips with no moving parts. Hard Disk Drives (HDDs) use rotating magnetic platters."
+    },
+    {
+      "id": 133,
+      "type": "fill-blank",
+      "text": "The principle of ensuring AI systems do not disproportionately harm or disadvantage specific demographic groups is known as AI ______.",
+      "answer": "fairness",
+      "difficulty": "medium",
+      "explanation": "AI fairness is a major focus in AI ethics, aiming to mitigate algorithmic bias and discrimination."
+    },
+    {
+      "id": 134,
+      "type": "multiple-correct",
+      "text": "Which of the following are examples of cryptographic hash functions? (Select all correct)",
+      "options": [
+        "A. SHA-256",
+        "B. MD5",
+        "C. AES",
+        "D. SHA-3",
+        "E. RSA"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "hard",
+      "explanation": "SHA-256, MD5, and SHA-3 are hash functions. AES is a symmetric encryption algorithm, and RSA is an asymmetric encryption algorithm."
+    },
+    {
+      "id": 135,
+      "type": "matching",
+      "text": "Match the machine learning evaluation metric to its appropriate task:",
+      "pairs": [
+        [
+          "Accuracy",
+          "Classification tasks"
+        ],
+        [
+          "Mean Squared Error (MSE)",
+          "Regression tasks"
+        ],
+        [
+          "Intersection over Union (IoU)",
+          "Object detection / Image segmentation"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "Different types of AI tasks require specialized mathematical metrics to properly measure their performance."
+    },
+    {
+      "id": 136,
+      "type": "assertion-reason",
+      "text": "Assertion: Facial recognition systems have historically shown higher error rates for people with darker skin tones. Reason: Early training datasets lacked diverse representation across different demographic groups.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are true. If an AI is trained predominantly on one demographic, it will perform poorly on others."
+    },
+    {
+      "id": 137,
+      "type": "mcq",
+      "text": "In database terminology, what does ACID stand for?",
+      "options": [
+        "A. Automatic, Computed, Isolated, Distributed",
+        "B. Atomicity, Consistency, Isolation, Durability",
+        "C. Advanced Cloud Integration Design",
+        "D. Asynchronous Code Integration Data"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "ACID properties ensure database transactions are processed reliably, maintaining data integrity."
+    },
+    {
+      "id": 138,
+      "type": "true-false",
+      "text": "Prompt engineering is the practice of carefully designing and refining inputs to elicit optimal responses from generative AI models.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Prompt engineering has emerged as a crucial skill for effectively interacting with LLMs like ChatGPT or Claude."
+    },
+    {
+      "id": 139,
+      "type": "fill-blank",
+      "text": "The 'S' in the HTTPS web protocol stands for ______.",
+      "answer": "Secure",
+      "difficulty": "easy",
+      "explanation": "HTTPS (Hypertext Transfer Protocol Secure) indicates that the communication between the browser and website is encrypted."
+    },
+    {
+      "id": 140,
+      "type": "multiple-correct",
+      "text": "Which of the following sensor technologies are heavily utilized by autonomous vehicles to perceive their environment? (Select all correct)",
+      "options": [
+        "A. LiDAR",
+        "B. Radar",
+        "C. Barometers",
+        "D. Ultrasonic sensors",
+        "E. Cameras"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Self-driving cars rely on a fusion of data from LiDAR, radar, cameras, and ultrasonic sensors. Barometers measure air pressure and are not primary environmental sensors."
+    },
+    {
+      "id": 141,
+      "type": "matching",
+      "text": "Match the 'as a Service' acronym with an example product:",
+      "pairs": [
+        [
+          "SaaS (Software)",
+          "Google Workspace / Microsoft 365"
+        ],
+        [
+          "PaaS (Platform)",
+          "Heroku / Google App Engine"
+        ],
+        [
+          "IaaS (Infrastructure)",
+          "AWS EC2 / DigitalOcean Droplets"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These represent the three main categories of cloud computing, moving from ready-to-use software down to bare compute resources."
+    },
+    {
+      "id": 142,
+      "type": "assertion-reason",
+      "text": "Assertion: AlphaGo's victory over Lee Sedol was considered a massive milestone in AI. Reason: The game of Go has too many possible board configurations to be solved by brute-force calculation alone.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are true. DeepMind used deep reinforcement learning to build intuition into the model, overcoming the limitations of traditional search trees."
+    },
+    {
+      "id": 143,
+      "type": "mcq",
+      "text": "In cryptography, what is a 'salt'?",
+      "options": [
+        "A. A physical USB key required for login",
+        "B. Random data added to a password before it is hashed",
+        "C. A method to securely delete files",
+        "D. An error code generated when a password is wrong"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Salting passwords ensures that even if two users have the same password, their resulting hash will be completely different, protecting against rainbow table attacks."
+    },
+    {
+      "id": 144,
+      "type": "true-false",
+      "text": "A smart security camera that runs facial recognition algorithms locally on the camera itself, rather than sending video to the cloud, is an example of Edge AI.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Edge AI refers to deploying artificial intelligence algorithms directly onto physical devices at the 'edge' of the network."
+    },
+    {
+      "id": 145,
+      "type": "fill-blank",
+      "text": "The discipline that combines software engineering with machine learning to automate the deployment and maintenance of AI models in production is known as ______.",
+      "answer": "MLOps",
+      "difficulty": "medium",
+      "explanation": "MLOps (Machine Learning Operations) aims to unify ML system development and operation, much like DevOps does for traditional software."
+    },
+    {
+      "id": 146,
+      "type": "multiple-correct",
+      "text": "Which of the following are primary components of a standard CPU (Central Processing Unit)? (Select all correct)",
+      "options": [
+        "A. Arithmetic Logic Unit (ALU)",
+        "B. Graphics Pipeline",
+        "C. Control Unit",
+        "D. Registers",
+        "E. HDMI Port"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "The ALU, Control Unit, and Registers are core CPU components. The graphics pipeline belongs to the GPU, and HDMI is an external interface."
+    },
+    {
+      "id": 147,
+      "type": "matching",
+      "text": "Match the technology pioneer to their major contribution:",
+      "pairs": [
+        [
+          "Ada Lovelace",
+          "Considered the first computer programmer"
+        ],
+        [
+          "Tim Berners-Lee",
+          "Invented the World Wide Web"
+        ],
+        [
+          "Alan Turing",
+          "Formalized concepts of algorithm and computation with a theoretical machine"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These foundational figures laid the groundwork for modern computer science and networking."
+    },
+    {
+      "id": 148,
+      "type": "assertion-reason",
+      "text": "Assertion: Multi-Factor Authentication (MFA) requires at least three forms of identification. Reason: Using only a password and an SMS code is considered Single-Factor Authentication.",
+      "assertion": false,
+      "reason": false,
+      "answer": "D",
+      "difficulty": "medium",
+      "explanation": "Both statements are false. MFA requires two OR MORE factors. A password and an SMS code together constitute Two-Factor Authentication (2FA), which is a type of MFA."
+    },
+    {
+      "id": 149,
+      "type": "mcq",
+      "text": "What does the term 'dark data' refer to in enterprise IT?",
+      "options": [
+        "A. Data purchased illegally on the dark web",
+        "B. Information assets organizations collect and store but generally fail to use for analytics or operations",
+        "C. Data that has been permanently deleted from backup tapes",
+        "D. Encrypted passwords stored in a database"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Dark data takes up massive storage space and represents missed opportunities for insights, as companies collect it but never analyze it."
+    },
+    {
+      "id": 150,
+      "type": "true-false",
+      "text": "Artificial General Intelligence (AGI), defined as a machine capable of matching or exceeding human intellect across all cognitive tasks, has already been achieved and deployed by major tech companies as of 2024.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Current AI is 'Narrow AI'—highly specialized for specific tasks. AGI remains a theoretical goal of AI research and has not yet been achieved."
     }
   ]
 }
