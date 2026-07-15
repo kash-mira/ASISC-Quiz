@@ -513,8 +513,8 @@
       "options": [
         "A. Ernest Hemingway",
         "B. F. Scott Fitzgerald",
-        "C. William Faulkner",
-        "D. John Steinbeck"
+        "C. John Steinbeck",
+        "D. William Faulkner"
       ],
       "answer": "A",
       "difficulty": "medium",
@@ -685,6 +685,728 @@
       "answer": "Hamlet",
       "difficulty": "easy",
       "explanation": "This is the opening line of the soliloquy in Hamlet, Act III, Scene 1."
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "text": "Which author created the fictional detective Sherlock Holmes?",
+      "options": [
+        "A. Agatha Christie",
+        "B. Arthur Conan Doyle",
+        "C. Raymond Chandler",
+        "D. Edgar Allan Poe"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Sir Arthur Conan Doyle introduced Sherlock Holmes in 'A Study in Scarlet' (1887)."
+    },
+    {
+      "id": 52,
+      "type": "true-false",
+      "text": "Emily Dickinson is known for her extensive use of the em-dash in her poetry.",
+      "answer": true,
+      "difficulty": "hard",
+      "explanation": "Emily Dickinson famously used unconventional punctuation, especially the em-dash, in her manuscript poems."
+    },
+    {
+      "id": 53,
+      "type": "fill-blank",
+      "text": "The novel '1984' introduced the concept of ______ as a fictional language designed to limit freedom of thought.",
+      "answer": "Newspeak",
+      "difficulty": "medium",
+      "explanation": "Newspeak is the controlled language in Orwell's '1984' intended to make subversive thought impossible."
+    },
+    {
+      "id": 54,
+      "type": "multiple-correct",
+      "text": "Which of these are novels by Charles Dickens? (Select all correct)",
+      "options": [
+        "A. Oliver Twist",
+        "B. Bleak House",
+        "C. Jane Eyre",
+        "D. A Christmas Carol",
+        "E. Wuthering Heights"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Dickens wrote Oliver Twist, Bleak House, and A Christmas Carol. Jane Eyre and Wuthering Heights are by the Brontë sisters."
+    },
+    {
+      "id": 55,
+      "type": "matching",
+      "text": "Match authors to their birth countries:",
+      "pairs": [
+        [
+          "William Shakespeare",
+          "England"
+        ],
+        [
+          "Leo Tolstoy",
+          "Russia"
+        ],
+        [
+          "Gabriel García Márquez",
+          "Colombia"
+        ],
+        [
+          "Mark Twain",
+          "United States"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "medium",
+      "explanation": "Each author is associated with their native country."
+    },
+    {
+      "id": 56,
+      "type": "mcq",
+      "text": "Which of these is a famous epic poem by Homer?",
+      "options": [
+        "A. Beowulf",
+        "B. The Aeneid",
+        "C. The Odyssey",
+        "D. Divine Comedy"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Homer is credited with composing 'The Odyssey' and 'The Iliad'."
+    },
+    {
+      "id": 57,
+      "type": "true-false",
+      "text": "The term 'magical realism' is most closely associated with Latin American literature.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Magical realism became a major stylistic hallmark of Latin American writers like Márquez and Borges."
+    },
+    {
+      "id": 58,
+      "type": "fill-blank",
+      "text": "The fictional land created by C.S. Lewis in 'The Chronicles of Narnia' is called ______.",
+      "answer": "Narnia",
+      "difficulty": "easy",
+      "explanation": "Narnia is a fantasy world featuring talking animals and magic, discovered through a wardrobe."
+    },
+    {
+      "id": 59,
+      "type": "multiple-correct",
+      "text": "Which of these characters are from 'Alice's Adventures in Wonderland'? (Select all correct)",
+      "options": [
+        "A. The Mad Hatter",
+        "B. The Cheshire Cat",
+        "C. Atticus Finch",
+        "D. The White Rabbit",
+        "E. Elizabeth Bennet"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Mad Hatter, Cheshire Cat, and White Rabbit appear in Lewis Carroll's work. The others do not."
+    },
+    {
+      "id": 60,
+      "type": "assertion-reason",
+      "text": "Assertion: James Joyce's 'Ulysses' is known for stream-of-consciousness writing. Reason: Joyce wanted to capture the unstructured flow of human thought.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Stream-of-consciousness is the defining modernist technique in 'Ulysses' to simulate inner experience."
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "text": "Who wrote 'The Raven'?",
+      "options": [
+        "A. Edgar Allan Poe",
+        "B. Walt Whitman",
+        "C. Emily Dickinson",
+        "D. Ralph Waldo Emerson"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Edgar Allan Poe's 'The Raven' is a famous narrative poem known for its musicality and atmosphere."
+    },
+    {
+      "id": 62,
+      "type": "true-false",
+      "text": "Dystopian literature typically depicts an ideal, perfect society.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Dystopian literature depicts a society that is undesirable, oppressive, or frightening, often a failed utopia."
+    },
+    {
+      "id": 63,
+      "type": "fill-blank",
+      "text": "The main character of 'The Catcher in the Rye' is ______.",
+      "answer": "Holden Caulfield",
+      "difficulty": "medium",
+      "explanation": "Holden Caulfield is the iconic, cynical protagonist of J.D. Salinger's 1951 novel."
+    },
+    {
+      "id": 64,
+      "type": "multiple-correct",
+      "text": "Which of these are literary genres? (Select all correct)",
+      "options": [
+        "A. Satire",
+        "B. Biography",
+        "C. Memoir",
+        "D. Syntax",
+        "E. Epistolary"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Satire, biography, memoir, and epistolary (letters) are literary genres/forms. Syntax is a linguistic term."
+    },
+    {
+      "id": 65,
+      "type": "matching",
+      "text": "Match characters with their novels:",
+      "pairs": [
+        [
+          "Elizabeth Bennet",
+          "Pride and Prejudice"
+        ],
+        [
+          "Jay Gatsby",
+          "The Great Gatsby"
+        ],
+        [
+          "Atticus Finch",
+          "To Kill a Mockingbird"
+        ],
+        [
+          "Hester Prynne",
+          "The Scarlet Letter"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "medium",
+      "explanation": "These characters are central to their respective canonical novels."
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "text": "Who authored the collection of essays 'Self-Reliance'?",
+      "options": [
+        "A. Henry David Thoreau",
+        "B. Ralph Waldo Emerson",
+        "C. Walt Whitman",
+        "D. Nathaniel Hawthorne"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Ralph Waldo Emerson published 'Self-Reliance' in 1841, a core text of American Transcendentalism."
+    },
+    {
+      "id": 67,
+      "type": "true-false",
+      "text": "An 'onomatopoeia' is a word that sounds like what it describes.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Examples include 'buzz', 'hiss', or 'bang'."
+    },
+    {
+      "id": 68,
+      "type": "fill-blank",
+      "text": "The ______ Prize is an annual award for excellence in American journalism and literature.",
+      "answer": "Pulitzer",
+      "difficulty": "easy",
+      "explanation": "The Pulitzer Prize is the most prestigious award in US journalism, books, drama, and music."
+    },
+    {
+      "id": 69,
+      "type": "multiple-correct",
+      "text": "Which of these were members of the 'Lost Generation' of writers? (Select all correct)",
+      "options": [
+        "A. Ernest Hemingway",
+        "B. F. Scott Fitzgerald",
+        "C. Gertrude Stein",
+        "D. J.K. Rowling",
+        "E. William Shakespeare"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "hard",
+      "explanation": "Hemingway, Fitzgerald, and Stein were prominent writers in post-WWI Paris, often referred to as the 'Lost Generation'."
+    },
+    {
+      "id": 70,
+      "type": "assertion-reason",
+      "text": "Assertion: Epic poetry often focuses on a hero's journey. Reason: Epics are designed to celebrate the history and culture of a specific people.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are true and explain the traditional role and structure of epic poems."
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "text": "Which novel was written by Mary Shelley as a challenge?",
+      "options": [
+        "A. Dracula",
+        "B. Frankenstein",
+        "C. The Vampyre",
+        "D. Jane Eyre"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Mary Shelley wrote 'Frankenstein' as part of a ghost story competition among friends, including Lord Byron."
+    },
+    {
+      "id": 72,
+      "type": "true-false",
+      "text": "A palindrome is a word that reads the same backward as forward.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Examples include 'radar', 'level', or 'madam'."
+    },
+    {
+      "id": 73,
+      "type": "fill-blank",
+      "text": "The main setting for many of William Faulkner's novels is the fictional ______ County in Mississippi.",
+      "answer": "Yoknapatawpha",
+      "difficulty": "hard",
+      "explanation": "Yoknapatawpha County is the elaborate fictional world Faulkner created for his Southern Gothic novels."
+    },
+    {
+      "id": 74,
+      "type": "multiple-correct",
+      "text": "Which of these are literary devices? (Select all correct)",
+      "options": [
+        "A. Flashback",
+        "B. Foreshadowing",
+        "C. Imagery",
+        "D. Punctuation",
+        "E. Symbolism"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "easy",
+      "explanation": "Flashback, foreshadowing, imagery, and symbolism are literary devices; punctuation is a technical convention of writing."
+    },
+    {
+      "id": 75,
+      "type": "matching",
+      "text": "Match the books with their opening lines:",
+      "pairs": [
+        [
+          "Moby-Dick",
+          "Call me Ishmael."
+        ],
+        [
+          "Pride and Prejudice",
+          "It is a truth universally acknowledged..."
+        ],
+        [
+          "A Tale of Two Cities",
+          "It was the best of times..."
+        ],
+        [
+          "The Great Gatsby",
+          "In my younger and more vulnerable years..."
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "hard",
+      "explanation": "These are some of the most famous opening lines in English literature."
+    },
+    {
+      "id": 76,
+      "type": "mcq",
+      "text": "Which American writer is best known for 'The Tell-Tale Heart'?",
+      "options": [
+        "A. Nathaniel Hawthorne",
+        "B. Edgar Allan Poe",
+        "C. Mark Twain",
+        "D. Herman Melville"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Poe's 'The Tell-Tale Heart' is a seminal work of gothic psychological fiction."
+    },
+    {
+      "id": 77,
+      "type": "true-false",
+      "text": "A novella is shorter than a novel but longer than a short story.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "A novella generally sits between 17,500 and 40,000 words."
+    },
+    {
+      "id": 78,
+      "type": "fill-blank",
+      "text": "The ______ movement in the 1920s was a cultural, social, and artistic explosion in New York.",
+      "answer": "Harlem Renaissance",
+      "difficulty": "medium",
+      "explanation": "The Harlem Renaissance was a landmark period for African American art, music, and literature."
+    },
+    {
+      "id": 79,
+      "type": "multiple-correct",
+      "text": "Which of these poets were part of the 'Beat Generation'? (Select all correct)",
+      "options": [
+        "A. Allen Ginsberg",
+        "B. Jack Kerouac",
+        "C. William S. Burroughs",
+        "D. T.S. Eliot",
+        "E. Ezra Pound"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "hard",
+      "explanation": "Ginsberg, Kerouac, and Burroughs are the iconic figures of the Beat Generation movement."
+    },
+    {
+      "id": 80,
+      "type": "assertion-reason",
+      "text": "Assertion: Modernism in literature often rejected traditional narrative structures. Reason: Modernists wanted to reflect the fragmentation and chaos of the early 20th century.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "The desire to break from the past was a core tenet of the Modernist reaction to WWI and technological change."
+    },
+    {
+      "id": 81,
+      "type": "mcq",
+      "text": "Who is the author of 'The Picture of Dorian Gray'?",
+      "options": [
+        "A. Oscar Wilde",
+        "B. Bram Stoker",
+        "C. Robert Louis Stevenson",
+        "D. Henry James"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Oscar Wilde's only novel, 'The Picture of Dorian Gray', explored aestheticism and morality."
+    },
+    {
+      "id": 82,
+      "type": "true-false",
+      "text": "The 'genre' of science fiction explores themes relating to science and technology.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Science fiction uses scientific concepts, often futuristic, as a basis for exploring social or philosophical questions."
+    },
+    {
+      "id": 83,
+      "type": "fill-blank",
+      "text": "A ______ is a humorous or satirical imitation of a writer, artist, or genre.",
+      "answer": "parody",
+      "difficulty": "medium",
+      "explanation": "Parody relies on mimicking the style of the original work for comedic or critical effect."
+    },
+    {
+      "id": 84,
+      "type": "multiple-correct",
+      "text": "Which of these are major works of Virginia Woolf? (Select all correct)",
+      "options": [
+        "A. Mrs Dalloway",
+        "B. To the Lighthouse",
+        "C. A Room of One's Own",
+        "D. Jane Eyre",
+        "E. Wuthering Heights"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "medium",
+      "explanation": "Woolf wrote 'Mrs Dalloway', 'To the Lighthouse', and the essay 'A Room of One's Own'. The Brontës wrote the others."
+    },
+    {
+      "id": 85,
+      "type": "matching",
+      "text": "Match the book titles to their themes:",
+      "pairs": [
+        [
+          "The Handmaid's Tale",
+          "Dystopian feminism"
+        ],
+        [
+          "Brave New World",
+          "Technological control"
+        ],
+        [
+          "Lord of the Flies",
+          "Human savagery"
+        ],
+        [
+          "The Great Gatsby",
+          "The American Dream"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "hard",
+      "explanation": "These represent the central thematic focus of these seminal literary works."
+    },
+    {
+      "id": 86,
+      "type": "mcq",
+      "text": "Which famous work by Dante Alighieri describes a journey through Hell, Purgatory, and Heaven?",
+      "options": [
+        "A. The Inferno",
+        "B. The Divine Comedy",
+        "C. The Canterbury Tales",
+        "D. Paradise Lost"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "'The Divine Comedy' is Dante's epic masterpiece detailing his allegorical journey through the afterlife."
+    },
+    {
+      "id": 87,
+      "type": "assertion-reason",
+      "text": "Assertion: Hemmingway's prose style is often called 'minimalist'. Reason: He utilized short, direct sentences to convey intense emotion and action.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Hemingway's 'Iceberg Theory' style relies on simplicity and avoiding unnecessary ornamentation."
+    },
+    {
+      "id": 88,
+      "type": "fill-blank",
+      "text": "The ______ movement in poetry was characterized by concrete, precise imagery.",
+      "answer": "Imagist",
+      "difficulty": "hard",
+      "explanation": "Imagism was a style of poetry led by Ezra Pound that prioritized clarity and exactness."
+    },
+    {
+      "id": 89,
+      "type": "multiple-correct",
+      "text": "Which of these authors wrote children's fantasy books? (Select all correct)",
+      "options": [
+        "A. C.S. Lewis",
+        "B. Roald Dahl",
+        "C. J.K. Rowling",
+        "D. Ernest Hemingway",
+        "E. Jane Austen"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "easy",
+      "explanation": "Lewis, Dahl, and Rowling are famous for their major children's fantasy works."
+    },
+    {
+      "id": 90,
+      "type": "matching",
+      "text": "Match characters with the novels they appear in:",
+      "pairs": [
+        [
+          "Holden Caulfield",
+          "The Catcher in the Rye"
+        ],
+        [
+          "Scout Finch",
+          "To Kill a Mockingbird"
+        ],
+        [
+          "Katniss Everdeen",
+          "The Hunger Games"
+        ],
+        [
+          "Harry Potter",
+          "Harry Potter series"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "easy",
+      "explanation": "These are the protagonists of these iconic contemporary novels."
+    },
+    {
+      "id": 91,
+      "type": "mcq",
+      "text": "Which author penned 'Fahrenheit 451'?",
+      "options": [
+        "A. Isaac Asimov",
+        "B. Ray Bradbury",
+        "C. Philip K. Dick",
+        "D. H.G. Wells"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "'Fahrenheit 451' is a dystopian novel by Bradbury set in a future where books are burned."
+    },
+    {
+      "id": 92,
+      "type": "true-false",
+      "text": "A 'prologue' is the concluding section of a literary work.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "A prologue is an introduction; an epilogue is the concluding section."
+    },
+    {
+      "id": 93,
+      "type": "fill-blank",
+      "text": "The main character in the 'Sherlock Holmes' stories is known for his skill in ______.",
+      "answer": "deduction",
+      "difficulty": "easy",
+      "explanation": "Holmes's 'science of deduction' is central to his legendary crime-solving abilities."
+    },
+    {
+      "id": 94,
+      "type": "multiple-correct",
+      "text": "Which of these are genres of theatre? (Select all correct)",
+      "options": [
+        "A. Tragedy",
+        "B. Comedy",
+        "C. Farce",
+        "D. Fiction",
+        "E. Melodrama"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Tragedy, comedy, farce, and melodrama are theatrical genres. Fiction is a broad literary category."
+    },
+    {
+      "id": 95,
+      "type": "matching",
+      "text": "Match authors to their birth countries:",
+      "pairs": [
+        [
+          "Oscar Wilde",
+          "Ireland"
+        ],
+        [
+          "Toni Morrison",
+          "United States"
+        ],
+        [
+          "Rabindranath Tagore",
+          "India"
+        ],
+        [
+          "Charles Dickens",
+          "England"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "medium",
+      "explanation": "Each author is associated with their respective country of origin."
+    },
+    {
+      "id": 96,
+      "type": "mcq",
+      "text": "Which of these novels is by Alexandre Dumas?",
+      "options": [
+        "A. The Three Musketeers",
+        "B. Les Misérables",
+        "C. The Count of Monte Cristo",
+        "D. Both A and C"
+      ],
+      "answer": "D",
+      "difficulty": "hard",
+      "explanation": "Dumas wrote both 'The Three Musketeers' and 'The Count of Monte Cristo'."
+    },
+    {
+      "id": 97,
+      "type": "assertion-reason",
+      "text": "Assertion: The dictionary is a primary resource for linguistics. Reason: It defines meaning, usage, and etymology of words.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "The dictionary is the foundational tool for understanding and standardizing language usage."
+    },
+    {
+      "id": 98,
+      "type": "fill-blank",
+      "text": "The ______ voice is a grammatical structure where the subject of the sentence receives the action.",
+      "answer": "passive",
+      "difficulty": "medium",
+      "explanation": "In passive voice, the focus is on the object being acted upon (e.g., 'The book was read by him')."
+    },
+    {
+      "id": 99,
+      "type": "multiple-correct",
+      "text": "Which of these are literary movements? (Select all correct)",
+      "options": [
+        "A. Romanticism",
+        "B. Realism",
+        "C. Modernism",
+        "D. Surrealism",
+        "E. Paragraph"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "These represent significant historical movements in literature and art. A paragraph is a basic unit of writing."
+    },
+    {
+      "id": 100,
+      "type": "true-false",
+      "text": "The phrase 'once upon a time' is a common opening for fairy tales.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "This phrase is an iconic storytelling convention found in numerous folklore traditions."
     }
   ]
 }
