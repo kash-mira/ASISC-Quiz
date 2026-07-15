@@ -1,678 +1,1333 @@
 {
-"category": "Science & Technology",
-"questions": [
-{
-"id": 1,
-"type": "mcq",
-"text": "What is 'Sora', recently unveiled by OpenAI?",
-"options": [
-"A. A new chatbot",
-"B. A text-to-video AI model",
-"C. A quantum computer",
-"D. A new programming language"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Sora is OpenAI's generative AI model that creates videos from text prompts."
-},
-{
-"id": 2,
-"type": "mcq",
-"text": "Which company developed the Gemini AI model?",
-"options": [
-"A. Microsoft",
-"B. Meta",
-"C. Google",
-"D. IBM"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Google created Gemini as its advanced multimodal AI model."
-},
-{
-"id": 3,
-"type": "true-false",
-"text": "Neuralink successfully implanted a brain chip in a human patient in 2024.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "Yes, Neuralink conducted its first human brain implant procedure."
-},
-{
-"id": 4,
-"type": "mcq",
-"text": "What is the name of the first human patient to receive a Neuralink brain implant?",
-"options": [
-"A. Noland Arbaugh",
-"B. Elon Musk",
-"C. Neil Harbisson",
-"D. Kevin Warwick"
-],
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Noland Arbaugh was the first Neuralink recipient, allowing brain-computer interface."
-},
-{
-"id": 5,
-"type": "mcq",
-"text": "India's fastest indigenous AI supercomputer is named:",
-"options": [
-"A. PARAM Siddhi",
-"B. AIRAWAT",
-"C. Pratyush",
-"D. Mihir"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "AIRAWAT is India's fastest indigenous AI supercomputer developed by C-DAC."
-},
-{
-"id": 6,
-"type": "matching",
-"text": "Match AI tools with their primary use:",
-"pairs": [
-[
-"ChatGPT",
-"Conversational AI"
-],
-[
-"DALL-E",
-"Image Generation"
-],
-[
-"GitHub Copilot",
-"Code Assistance"
-]
-],
-"difficulty": "medium",
-"explanation": "Each tool serves different AI application purposes."
-},
-{
-"id": 7,
-"type": "mcq",
-"text": "Which country launched the world's first 4th-generation nuclear reactor?",
-"options": [
-"A. USA",
-"B. Russia",
-"C. China",
-"D. France"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "China deployed the HTR-PM reactor, the world's first 4th-gen commercial reactor."
-},
-{
-"id": 8,
-"type": "multiple-correct",
-"text": "Select all correct statements about artificial intelligence: (Select all correct)",
-"options": [
-"A. AI requires human input for training",
-"B. AI can only process text",
-"C. Machine learning is a subset of AI",
-"D. Neural networks mimic brain structure",
-"E. AI has achieved complete general intelligence"
-],
-"answer": [
-"A",
-"C",
-"D"
-],
-"difficulty": "hard",
-"explanation": "A, C, and D are correct. B is false (AI processes multimodal data), E is false (AGI not achieved)."
-},
-{
-"id": 9,
-"type": "assertion-reason",
-"text": "Assertion: Quantum computers are faster than classical computers. Reason: They use quantum entanglement.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Both assertions are correct; quantum entanglement enables quantum speedup."
-},
-{
-"id": 10,
-"type": "mcq",
-"text": "What is blockchain primarily used for?",
-"options": [
-"A. Video compression",
-"B. Distributed ledger technology",
-"C. Weather prediction",
-"D. Medical imaging"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Blockchain creates immutable distributed ledgers for secure transactions."
-},
-{
-"id": 11,
-"type": "mcq",
-"text": "What is the primary objective of ISRO's Aditya-L1 mission?",
-"options": [
-"A. To study the Moon's south pole",
-"B. To study the Sun",
-"C. To explore Mars",
-"D. To monitor Earth's climate"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Aditya-L1 is India's first dedicated solar mission to study the Sun's atmosphere."
-},
-{
-"id": 12,
-"type": "fill-blank",
-"text": "The James Webb Space Telescope operates primarily at the second Lagrange point, also known as ______.",
-"answer": "L2",
-"difficulty": "medium",
-"explanation": "The telescope orbits the Sun near the second Lagrange point (L2) of the Earth-Sun system."
-},
-{
-"id": 13,
-"type": "true-false",
-"text": "Sound travels faster in water than in air.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "Sound waves travel faster in denser mediums like water compared to less dense mediums like air."
-},
-{
-"id": 14,
-"type": "multiple-correct",
-"text": "Which of the following are considered major greenhouse gases? (Select all correct)",
-"options": [
-"A. Carbon dioxide",
-"B. Methane",
-"C. Oxygen",
-"D. Nitrogen",
-"E. Water vapor"
-],
-"answer": [
-"A",
-"B",
-"E"
-],
-"difficulty": "medium",
-"explanation": "Carbon dioxide, methane, and water vapor are greenhouse gases. Oxygen and nitrogen are not."
-},
-{
-"id": 15,
-"type": "assertion-reason",
-"text": "Assertion: Diamond is the hardest known natural substance. Reason: The carbon atoms in a diamond are arranged in a rigid, three-dimensional tetrahedral lattice.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Both the assertion and the reason are true, and the strong covalent bonding in the lattice explains its hardness."
-},
-{
-"id": 16,
-"type": "matching",
-"text": "Match the planets of our solar system with their distinct features:",
-"pairs": [
-[
-"Mars",
-"Known as the Red Planet"
-],
-[
-"Jupiter",
-"Features the Great Red Spot"
-],
-[
-"Saturn",
-"Famous for its prominent ring system"
-]
-],
-"difficulty": "easy",
-"explanation": "These are defining astronomical characteristics of these specific planets."
-},
-{
-"id": 17,
-"type": "mcq",
-"text": "Which fundamental particle was famously discovered at CERN in 2012?",
-"options": [
-"A. Electron",
-"B. Proton",
-"C. Higgs boson",
-"D. Neutrino"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The Higgs boson, which gives mass to other elementary particles, was discovered at the Large Hadron Collider."
-},
-{
-"id": 18,
-"type": "fill-blank",
-"text": "The cellular organelle known as the 'powerhouse of the cell' is the ______.",
-"answer": "mitochondrion",
-"difficulty": "easy",
-"explanation": "Mitochondria generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy."
-},
-{
-"id": 19,
-"type": "true-false",
-"text": "Alexander Fleming discovered the first widely used antibiotic, penicillin.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "Alexander Fleming discovered penicillin in 1928, revolutionizing modern medicine."
-},
-{
-"id": 20,
-"type": "mcq",
-"text": "What does the acronym DNA stand for in biology?",
-"options": [
-"A. Deoxyribonucleic acid",
-"B. Dinucleic acid",
-"C. Deoxynitrogen acid",
-"D. Dioxynucleic acid"
-],
-"answer": "A",
-"difficulty": "easy",
-"explanation": "DNA stands for Deoxyribonucleic acid, the molecule that carries genetic information."
-},
-{
-"id": 21,
-"type": "multiple-correct",
-"text": "Which of the following elements belong to the group of noble gases? (Select all correct)",
-"options": [
-"A. Helium",
-"B. Neon",
-"C. Hydrogen",
-"D. Argon",
-"E. Chlorine"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "medium",
-"explanation": "Helium, neon, and argon are noble gases. Hydrogen and chlorine are not."
-},
-{
-"id": 22,
-"type": "assertion-reason",
-"text": "Assertion: Viruses are generally not considered living organisms by biologists. Reason: Viruses cannot metabolize or reproduce on their own without a host cell.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Because they lack cellular machinery and require a host to replicate, they exist on the edge of what is defined as life."
-},
-{
-"id": 23,
-"type": "matching",
-"text": "Match the historical inventions to their primary inventors:",
-"pairs": [
-[
-"Telephone",
-"Alexander Graham Bell"
-],
-[
-"Incandescent Light Bulb",
-"Thomas Edison"
-],
-[
-"Radio",
-"Guglielmo Marconi"
-]
-],
-"difficulty": "easy",
-"explanation": "These inventors hold the primary patents or are widely credited for developing these technologies."
-},
-{
-"id": 24,
-"type": "mcq",
-"text": "What is the chemical symbol for the element gold?",
-"options": [
-"A. Ag",
-"B. Au",
-"C. Gd",
-"D. Go"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "The symbol 'Au' comes from the Latin word for gold, 'aurum'."
-},
-{
-"id": 25,
-"type": "fill-blank",
-"text": "The biological process by which green plants convert light energy into chemical energy is called ______.",
-"answer": "photosynthesis",
-"difficulty": "easy",
-"explanation": "Photosynthesis involves capturing sunlight to synthesize nutrients from carbon dioxide and water."
-},
-{
-"id": 26,
-"type": "true-false",
-"text": "A light-year is a unit of measurement for time in astronomy.",
-"answer": false,
-"difficulty": "medium",
-"explanation": "A light-year is a unit of distance, measuring how far light travels in a vacuum in one Earth year."
-},
-{
-"id": 27,
-"type": "mcq",
-"text": "What is the hardest substance found in the human body?",
-"options": [
-"A. Bone",
-"B. Cartilage",
-"C. Enamel",
-"D. Keratin"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Tooth enamel is the hardest and most highly mineralized substance in the human body."
-},
-{
-"id": 28,
-"type": "multiple-correct",
-"text": "Which of the following are the four fundamental forces of nature in physics? (Select all correct)",
-"options": [
-"A. Gravity",
-"B. Electromagnetism",
-"C. Strong nuclear force",
-"D. Friction",
-"E. Weak nuclear force"
-],
-"answer": [
-"A",
-"B",
-"C",
-"E"
-],
-"difficulty": "hard",
-"explanation": "Friction is a non-fundamental force derived from electromagnetism. The other four are the fundamental forces."
-},
-{
-"id": 29,
-"type": "assertion-reason",
-"text": "Assertion: The daytime sky appears blue to the human eye. Reason: Molecules in the air scatter blue light from the sun more than they scatter red light because it travels as shorter, smaller waves.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "This phenomenon, known as Rayleigh scattering, correctly explains why the sky is blue."
-},
-{
-"id": 30,
-"type": "matching",
-"text": "Match the vitamins with their corresponding deficiency diseases:",
-"pairs": [
-[
-"Vitamin C",
-"Scurvy"
-],
-[
-"Vitamin D",
-"Rickets"
-],
-[
-"Vitamin A",
-"Night blindness"
-]
-],
-"difficulty": "medium",
-"explanation": "A lack of these specific vitamins directly leads to these well-documented medical conditions."
-},
-{
-"id": 31,
-"type": "mcq",
-"text": "Which gas makes up the majority of Earth's atmosphere?",
-"options": [
-"A. Oxygen",
-"B. Carbon dioxide",
-"C. Nitrogen",
-"D. Hydrogen"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Nitrogen accounts for approximately 78% of Earth's atmosphere."
-},
-{
-"id": 32,
-"type": "fill-blank",
-"text": "The atomic number of a chemical element is uniquely determined by the number of ______ in its nucleus.",
-"answer": "protons",
-"difficulty": "medium",
-"explanation": "The number of protons in an atom defines its elemental identity and its place on the periodic table."
-},
-{
-"id": 33,
-"type": "true-false",
-"text": "Electrons are subatomic particles with a positive electrical charge.",
-"answer": false,
-"difficulty": "easy",
-"explanation": "Electrons have a negative charge, while protons carry a positive charge."
-},
-{
-"id": 34,
-"type": "mcq",
-"text": "Who is credited with formulating the three laws of motion and universal gravitation?",
-"options": [
-"A. Galileo Galilei",
-"B. Isaac Newton",
-"C. Albert Einstein",
-"D. Johannes Kepler"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Sir Isaac Newton published his laws of motion and gravitation in the Principia Mathematica in 1687."
-},
-{
-"id": 35,
-"type": "multiple-correct",
-"text": "Which of the following are recognized programming languages used in software development? (Select all correct)",
-"options": [
-"A. Python",
-"B. Java",
-"C. C++",
-"D. HTML",
-"E. CSS"
-],
-"answer": [
-"A",
-"B",
-"C"
-],
-"difficulty": "medium",
-"explanation": "Python, Java, and C++ are programming languages. HTML is a markup language, and CSS is a style sheet language."
-},
-{
-"id": 36,
-"type": "assertion-reason",
-"text": "Assertion: An astronaut weighs less on the surface of the Moon than on Earth. Reason: The Moon has less mass than Earth, resulting in a weaker gravitational pull.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "easy",
-"explanation": "Weight is a measure of gravitational force. Since the moon's gravity is about 1/6th of Earth's, an object weighs less there."
-},
-{
-"id": 37,
-"type": "matching",
-"text": "Match the scientific instruments to the phenomena they measure:",
-"pairs": [
-[
-"Barometer",
-"Atmospheric pressure"
-],
-[
-"Seismograph",
-"Earthquakes and seismic waves"
-],
-[
-"Anemometer",
-"Wind speed"
-]
-],
-"difficulty": "medium",
-"explanation": "These are standard meteorological and geological tools used for precise environmental measurements."
-},
-{
-"id": 38,
-"type": "mcq",
-"text": "Which metal is unique because it is a liquid at standard room temperature?",
-"options": [
-"A. Gallium",
-"B. Mercury",
-"C. Lead",
-"D. Bromine"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Mercury is the only metallic element that is liquid at standard conditions for temperature and pressure."
-},
-{
-"id": 39,
-"type": "fill-blank",
-"text": "The standard SI unit used to measure electrical resistance is the ______.",
-"answer": "ohm",
-"difficulty": "medium",
-"explanation": "The ohm is named after German physicist Georg Simon Ohm."
-},
-{
-"id": 40,
-"type": "true-false",
-"text": "Water boils at a lower temperature at high altitudes compared to sea level.",
-"answer": true,
-"difficulty": "hard",
-"explanation": "At higher altitudes, atmospheric pressure is lower, so it takes less heat for water vapor pressure to equal the surrounding pressure."
-},
-{
-"id": 41,
-"type": "mcq",
-"text": "What is the largest organ in the human body?",
-"options": [
-"A. Liver",
-"B. Brain",
-"C. Skin",
-"D. Large Intestine"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The skin is the body's largest organ, protecting internal structures from the external environment."
-},
-{
-"id": 42,
-"type": "multiple-correct",
-"text": "Which of the following are principal blood types in the ABO blood group system? (Select all correct)",
-"options": [
-"A. Type A",
-"B. Type B",
-"C. Type AB",
-"D. Type O",
-"E. Type C"
-],
-"answer": [
-"A",
-"B",
-"C",
-"D"
-],
-"difficulty": "easy",
-"explanation": "The ABO system defines blood types A, B, AB, and O. There is no Type C."
-},
-{
-"id": 43,
-"type": "assertion-reason",
-"text": "Assertion: Einstein's equation E=mc² indicates that mass and energy are interchangeable. Reason: The speed of light squared acts as a conversion factor between mass and rest energy.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "The reason correctly provides the mathematical logic behind the assertion of mass-energy equivalence."
-},
-{
-"id": 44,
-"type": "matching",
-"text": "Match the historic space missions to their primary destinations:",
-"pairs": [
-[
-"Apollo 11",
-"Earth's Moon"
-],
-[
-"Voyager 1",
-"Outer solar system and interstellar space"
-],
-[
-"Cassini",
-"Saturn and its moons"
-]
-],
-"difficulty": "medium",
-"explanation": "These are landmark NASA missions that expanded human understanding of our solar system."
-},
-{
-"id": 45,
-"type": "mcq",
-"text": "Which components of human blood are primarily responsible for fighting infections and disease?",
-"options": [
-"A. Red blood cells",
-"B. White blood cells",
-"C. Platelets",
-"D. Plasma"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "White blood cells (leukocytes) are part of the immune system and help protect the body against infectious disease."
-},
-{
-"id": 46,
-"type": "fill-blank",
-"text": "The branch of biology that focuses on the study of heredity and the variation of inherited characteristics is ______.",
-"answer": "Genetics",
-"difficulty": "medium",
-"explanation": "Genetics analyzes how traits are passed down from parents to offspring through genes."
-},
-{
-"id": 47,
-"type": "true-false",
-"text": "The rusting of iron is a classic example of a physical change.",
-"answer": false,
-"difficulty": "easy",
-"explanation": "Rusting is a chemical change, as it involves a chemical reaction between iron, oxygen, and water to form iron oxide."
-},
-{
-"id": 48,
-"type": "mcq",
-"text": "What complex carbohydrate forms the main structural component of plant cell walls?",
-"options": [
-"A. Glucose",
-"B. Glycogen",
-"C. Cellulose",
-"D. Starch"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Cellulose provides rigidity and strength to plant cell walls."
-},
-{
-"id": 49,
-"type": "multiple-correct",
-"text": "Which of the following are classified as renewable energy sources? (Select all correct)",
-"options": [
-"A. Solar power",
-"B. Coal",
-"C. Wind power",
-"D. Natural Gas",
-"E. Geothermal energy"
-],
-"answer": [
-"A",
-"C",
-"E"
-],
-"difficulty": "easy",
-"explanation": "Solar, wind, and geothermal are renewable. Coal and natural gas are non-renewable fossil fuels."
-},
-{
-"id": 50,
-"type": "assertion-reason",
-"text": "Assertion: Bats can navigate and hunt insects in complete darkness. Reason: They utilize echolocation by emitting high-frequency sounds and interpreting the returning echoes.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "easy",
-"explanation": "Both statements are correct. Echolocation acts as a biological sonar system for bats."
-}
-]
+  "category": "Science & Technology",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "text": "What is 'Sora', recently unveiled by OpenAI?",
+      "options": [
+        "A. A new chatbot",
+        "B. A text-to-video AI model",
+        "C. A quantum computer",
+        "D. A new programming language"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Sora is OpenAI's generative AI model that creates videos from text prompts."
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "text": "Which company developed the Gemini AI model?",
+      "options": [
+        "A. Microsoft",
+        "B. Meta",
+        "C. Google",
+        "D. IBM"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Google created Gemini as its advanced multimodal AI model."
+    },
+    {
+      "id": 3,
+      "type": "true-false",
+      "text": "Neuralink successfully implanted a brain chip in a human patient in 2024.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Yes, Neuralink conducted its first human brain implant procedure."
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "text": "What is the name of the first human patient to receive a Neuralink brain implant?",
+      "options": [
+        "A. Noland Arbaugh",
+        "B. Elon Musk",
+        "C. Neil Harbisson",
+        "D. Kevin Warwick"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Noland Arbaugh was the first Neuralink recipient, allowing brain-computer interface."
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "text": "India's fastest indigenous AI supercomputer is named:",
+      "options": [
+        "A. PARAM Siddhi",
+        "B. AIRAWAT",
+        "C. Pratyush",
+        "D. Mihir"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "AIRAWAT is India's fastest indigenous AI supercomputer developed by C-DAC."
+    },
+    {
+      "id": 6,
+      "type": "matching",
+      "text": "Match AI tools with their primary use:",
+      "pairs": [
+        [
+          "ChatGPT",
+          "Conversational AI"
+        ],
+        [
+          "DALL-E",
+          "Image Generation"
+        ],
+        [
+          "GitHub Copilot",
+          "Code Assistance"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Each tool serves different AI application purposes."
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "text": "Which country launched the world's first 4th-generation nuclear reactor?",
+      "options": [
+        "A. USA",
+        "B. Russia",
+        "C. China",
+        "D. France"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "China deployed the HTR-PM reactor, the world's first 4th-gen commercial reactor."
+    },
+    {
+      "id": 8,
+      "type": "multiple-correct",
+      "text": "Select all correct statements about artificial intelligence: (Select all correct)",
+      "options": [
+        "A. AI requires human input for training",
+        "B. AI can only process text",
+        "C. Machine learning is a subset of AI",
+        "D. Neural networks mimic brain structure",
+        "E. AI has achieved complete general intelligence"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "hard",
+      "explanation": "A, C, and D are correct. B is false (AI processes multimodal data), E is false (AGI not achieved)."
+    },
+    {
+      "id": 9,
+      "type": "assertion-reason",
+      "text": "Assertion: Quantum computers are faster than classical computers. Reason: They use quantum entanglement.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both assertions are correct; quantum entanglement enables quantum speedup."
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "text": "What is blockchain primarily used for?",
+      "options": [
+        "A. Video compression",
+        "B. Distributed ledger technology",
+        "C. Weather prediction",
+        "D. Medical imaging"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Blockchain creates immutable distributed ledgers for secure transactions."
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "text": "What is the primary objective of ISRO's Aditya-L1 mission?",
+      "options": [
+        "A. To study the Moon's south pole",
+        "B. To study the Sun",
+        "C. To explore Mars",
+        "D. To monitor Earth's climate"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Aditya-L1 is India's first dedicated solar mission to study the Sun's atmosphere."
+    },
+    {
+      "id": 12,
+      "type": "fill-blank",
+      "text": "The James Webb Space Telescope operates primarily at the second Lagrange point, also known as ______.",
+      "answer": "L2",
+      "difficulty": "medium",
+      "explanation": "The telescope orbits the Sun near the second Lagrange point (L2) of the Earth-Sun system."
+    },
+    {
+      "id": 13,
+      "type": "true-false",
+      "text": "Sound travels faster in water than in air.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Sound waves travel faster in denser mediums like water compared to less dense mediums like air."
+    },
+    {
+      "id": 14,
+      "type": "multiple-correct",
+      "text": "Which of the following are considered major greenhouse gases? (Select all correct)",
+      "options": [
+        "A. Carbon dioxide",
+        "B. Methane",
+        "C. Oxygen",
+        "D. Nitrogen",
+        "E. Water vapor"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Carbon dioxide, methane, and water vapor are greenhouse gases. Oxygen and nitrogen are not."
+    },
+    {
+      "id": 15,
+      "type": "assertion-reason",
+      "text": "Assertion: Diamond is the hardest known natural substance. Reason: The carbon atoms in a diamond are arranged in a rigid, three-dimensional tetrahedral lattice.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both the assertion and the reason are true, and the strong covalent bonding in the lattice explains its hardness."
+    },
+    {
+      "id": 16,
+      "type": "matching",
+      "text": "Match the planets of our solar system with their distinct features:",
+      "pairs": [
+        [
+          "Mars",
+          "Known as the Red Planet"
+        ],
+        [
+          "Jupiter",
+          "Features the Great Red Spot"
+        ],
+        [
+          "Saturn",
+          "Famous for its prominent ring system"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These are defining astronomical characteristics of these specific planets."
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "text": "Which fundamental particle was famously discovered at CERN in 2012?",
+      "options": [
+        "A. Electron",
+        "B. Proton",
+        "C. Higgs boson",
+        "D. Neutrino"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "The Higgs boson, which gives mass to other elementary particles, was discovered at the Large Hadron Collider."
+    },
+    {
+      "id": 18,
+      "type": "fill-blank",
+      "text": "The cellular organelle known as the 'powerhouse of the cell' is the ______.",
+      "answer": "mitochondrion",
+      "difficulty": "easy",
+      "explanation": "Mitochondria generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy."
+    },
+    {
+      "id": 19,
+      "type": "true-false",
+      "text": "Alexander Fleming discovered the first widely used antibiotic, penicillin.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Alexander Fleming discovered penicillin in 1928, revolutionizing modern medicine."
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "text": "What does the acronym DNA stand for in biology?",
+      "options": [
+        "A. Deoxyribonucleic acid",
+        "B. Dinucleic acid",
+        "C. Deoxynitrogen acid",
+        "D. Dioxynucleic acid"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "DNA stands for Deoxyribonucleic acid, the molecule that carries genetic information."
+    },
+    {
+      "id": 21,
+      "type": "multiple-correct",
+      "text": "Which of the following elements belong to the group of noble gases? (Select all correct)",
+      "options": [
+        "A. Helium",
+        "B. Neon",
+        "C. Hydrogen",
+        "D. Argon",
+        "E. Chlorine"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Helium, neon, and argon are noble gases. Hydrogen and chlorine are not."
+    },
+    {
+      "id": 22,
+      "type": "assertion-reason",
+      "text": "Assertion: Viruses are generally not considered living organisms by biologists. Reason: Viruses cannot metabolize or reproduce on their own without a host cell.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Because they lack cellular machinery and require a host to replicate, they exist on the edge of what is defined as life."
+    },
+    {
+      "id": 23,
+      "type": "matching",
+      "text": "Match the historical inventions to their primary inventors:",
+      "pairs": [
+        [
+          "Telephone",
+          "Alexander Graham Bell"
+        ],
+        [
+          "Incandescent Light Bulb",
+          "Thomas Edison"
+        ],
+        [
+          "Radio",
+          "Guglielmo Marconi"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These inventors hold the primary patents or are widely credited for developing these technologies."
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "text": "What is the chemical symbol for the element gold?",
+      "options": [
+        "A. Ag",
+        "B. Au",
+        "C. Gd",
+        "D. Go"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "The symbol 'Au' comes from the Latin word for gold, 'aurum'."
+    },
+    {
+      "id": 25,
+      "type": "fill-blank",
+      "text": "The biological process by which green plants convert light energy into chemical energy is called ______.",
+      "answer": "photosynthesis",
+      "difficulty": "easy",
+      "explanation": "Photosynthesis involves capturing sunlight to synthesize nutrients from carbon dioxide and water."
+    },
+    {
+      "id": 26,
+      "type": "true-false",
+      "text": "A light-year is a unit of measurement for time in astronomy.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "A light-year is a unit of distance, measuring how far light travels in a vacuum in one Earth year."
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "text": "What is the hardest substance found in the human body?",
+      "options": [
+        "A. Bone",
+        "B. Cartilage",
+        "C. Enamel",
+        "D. Keratin"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "Tooth enamel is the hardest and most highly mineralized substance in the human body."
+    },
+    {
+      "id": 28,
+      "type": "multiple-correct",
+      "text": "Which of the following are the four fundamental forces of nature in physics? (Select all correct)",
+      "options": [
+        "A. Gravity",
+        "B. Electromagnetism",
+        "C. Strong nuclear force",
+        "D. Friction",
+        "E. Weak nuclear force"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "hard",
+      "explanation": "Friction is a non-fundamental force derived from electromagnetism. The other four are the fundamental forces."
+    },
+    {
+      "id": 29,
+      "type": "assertion-reason",
+      "text": "Assertion: The daytime sky appears blue to the human eye. Reason: Molecules in the air scatter blue light from the sun more than they scatter red light because it travels as shorter, smaller waves.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "This phenomenon, known as Rayleigh scattering, correctly explains why the sky is blue."
+    },
+    {
+      "id": 30,
+      "type": "matching",
+      "text": "Match the vitamins with their corresponding deficiency diseases:",
+      "pairs": [
+        [
+          "Vitamin C",
+          "Scurvy"
+        ],
+        [
+          "Vitamin D",
+          "Rickets"
+        ],
+        [
+          "Vitamin A",
+          "Night blindness"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "A lack of these specific vitamins directly leads to these well-documented medical conditions."
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "text": "Which gas makes up the majority of Earth's atmosphere?",
+      "options": [
+        "A. Oxygen",
+        "B. Carbon dioxide",
+        "C. Nitrogen",
+        "D. Hydrogen"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Nitrogen accounts for approximately 78% of Earth's atmosphere."
+    },
+    {
+      "id": 32,
+      "type": "fill-blank",
+      "text": "The atomic number of a chemical element is uniquely determined by the number of ______ in its nucleus.",
+      "answer": "protons",
+      "difficulty": "medium",
+      "explanation": "The number of protons in an atom defines its elemental identity and its place on the periodic table."
+    },
+    {
+      "id": 33,
+      "type": "true-false",
+      "text": "Electrons are subatomic particles with a positive electrical charge.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Electrons have a negative charge, while protons carry a positive charge."
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "text": "Who is credited with formulating the three laws of motion and universal gravitation?",
+      "options": [
+        "A. Galileo Galilei",
+        "B. Isaac Newton",
+        "C. Albert Einstein",
+        "D. Johannes Kepler"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Sir Isaac Newton published his laws of motion and gravitation in the Principia Mathematica in 1687."
+    },
+    {
+      "id": 35,
+      "type": "multiple-correct",
+      "text": "Which of the following are recognized programming languages used in software development? (Select all correct)",
+      "options": [
+        "A. Python",
+        "B. Java",
+        "C. C++",
+        "D. HTML",
+        "E. CSS"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "medium",
+      "explanation": "Python, Java, and C++ are programming languages. HTML is a markup language, and CSS is a style sheet language."
+    },
+    {
+      "id": 36,
+      "type": "assertion-reason",
+      "text": "Assertion: An astronaut weighs less on the surface of the Moon than on Earth. Reason: The Moon has less mass than Earth, resulting in a weaker gravitational pull.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Weight is a measure of gravitational force. Since the moon's gravity is about 1/6th of Earth's, an object weighs less there."
+    },
+    {
+      "id": 37,
+      "type": "matching",
+      "text": "Match the scientific instruments to the phenomena they measure:",
+      "pairs": [
+        [
+          "Barometer",
+          "Atmospheric pressure"
+        ],
+        [
+          "Seismograph",
+          "Earthquakes and seismic waves"
+        ],
+        [
+          "Anemometer",
+          "Wind speed"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are standard meteorological and geological tools used for precise environmental measurements."
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "text": "Which metal is unique because it is a liquid at standard room temperature?",
+      "options": [
+        "A. Gallium",
+        "B. Mercury",
+        "C. Lead",
+        "D. Bromine"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Mercury is the only metallic element that is liquid at standard conditions for temperature and pressure."
+    },
+    {
+      "id": 39,
+      "type": "fill-blank",
+      "text": "The standard SI unit used to measure electrical resistance is the ______.",
+      "answer": "ohm",
+      "difficulty": "medium",
+      "explanation": "The ohm is named after German physicist Georg Simon Ohm."
+    },
+    {
+      "id": 40,
+      "type": "true-false",
+      "text": "Water boils at a lower temperature at high altitudes compared to sea level.",
+      "answer": true,
+      "difficulty": "hard",
+      "explanation": "At higher altitudes, atmospheric pressure is lower, so it takes less heat for water vapor pressure to equal the surrounding pressure."
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "text": "What is the largest organ in the human body?",
+      "options": [
+        "A. Liver",
+        "B. Brain",
+        "C. Skin",
+        "D. Large Intestine"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "The skin is the body's largest organ, protecting internal structures from the external environment."
+    },
+    {
+      "id": 42,
+      "type": "multiple-correct",
+      "text": "Which of the following are principal blood types in the ABO blood group system? (Select all correct)",
+      "options": [
+        "A. Type A",
+        "B. Type B",
+        "C. Type AB",
+        "D. Type O",
+        "E. Type C"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "The ABO system defines blood types A, B, AB, and O. There is no Type C."
+    },
+    {
+      "id": 43,
+      "type": "assertion-reason",
+      "text": "Assertion: Einstein's equation E=mc² indicates that mass and energy are interchangeable. Reason: The speed of light squared acts as a conversion factor between mass and rest energy.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "The reason correctly provides the mathematical logic behind the assertion of mass-energy equivalence."
+    },
+    {
+      "id": 44,
+      "type": "matching",
+      "text": "Match the historic space missions to their primary destinations:",
+      "pairs": [
+        [
+          "Apollo 11",
+          "Earth's Moon"
+        ],
+        [
+          "Voyager 1",
+          "Outer solar system and interstellar space"
+        ],
+        [
+          "Cassini",
+          "Saturn and its moons"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are landmark NASA missions that expanded human understanding of our solar system."
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "text": "Which components of human blood are primarily responsible for fighting infections and disease?",
+      "options": [
+        "A. Red blood cells",
+        "B. White blood cells",
+        "C. Platelets",
+        "D. Plasma"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "White blood cells (leukocytes) are part of the immune system and help protect the body against infectious disease."
+    },
+    {
+      "id": 46,
+      "type": "fill-blank",
+      "text": "The branch of biology that focuses on the study of heredity and the variation of inherited characteristics is ______.",
+      "answer": "Genetics",
+      "difficulty": "medium",
+      "explanation": "Genetics analyzes how traits are passed down from parents to offspring through genes."
+    },
+    {
+      "id": 47,
+      "type": "true-false",
+      "text": "The rusting of iron is a classic example of a physical change.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Rusting is a chemical change, as it involves a chemical reaction between iron, oxygen, and water to form iron oxide."
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "text": "What complex carbohydrate forms the main structural component of plant cell walls?",
+      "options": [
+        "A. Glucose",
+        "B. Glycogen",
+        "C. Cellulose",
+        "D. Starch"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "Cellulose provides rigidity and strength to plant cell walls."
+    },
+    {
+      "id": 49,
+      "type": "multiple-correct",
+      "text": "Which of the following are classified as renewable energy sources? (Select all correct)",
+      "options": [
+        "A. Solar power",
+        "B. Coal",
+        "C. Wind power",
+        "D. Natural Gas",
+        "E. Geothermal energy"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "difficulty": "easy",
+      "explanation": "Solar, wind, and geothermal are renewable. Coal and natural gas are non-renewable fossil fuels."
+    },
+    {
+      "id": 50,
+      "type": "assertion-reason",
+      "text": "Assertion: Bats can navigate and hunt insects in complete darkness. Reason: They utilize echolocation by emitting high-frequency sounds and interpreting the returning echoes.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Both statements are correct. Echolocation acts as a biological sonar system for bats."
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "text": "What is the pH level of pure water at standard room temperature?",
+      "options": [
+        "A. 0",
+        "B. 5",
+        "C. 7",
+        "D. 14"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Pure water is neutral, meaning it has a pH of exactly 7."
+    },
+    {
+      "id": 52,
+      "type": "true-false",
+      "text": "Absolute zero, the lowest possible temperature where all molecular motion stops, is equivalent to 0 degrees Celsius.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "Absolute zero is 0 Kelvin, which is equal to -273.15 degrees Celsius."
+    },
+    {
+      "id": 53,
+      "type": "fill-blank",
+      "text": "In computer networking, HTTP stands for Hypertext Transfer ______.",
+      "answer": "Protocol",
+      "difficulty": "easy",
+      "explanation": "HTTP is the foundation of data communication for the World Wide Web."
+    },
+    {
+      "id": 54,
+      "type": "multiple-correct",
+      "text": "Which of the following characteristics are generally true for all mammals? (Select all correct)",
+      "options": [
+        "A. They are warm-blooded",
+        "B. They lay eggs",
+        "C. They possess hair or fur at some stage of life",
+        "D. They produce milk to nourish their young",
+        "E. They have gills for breathing"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Mammals are warm-blooded, have hair, and produce milk. Very few lay eggs (monotremes), and none have gills."
+    },
+    {
+      "id": 55,
+      "type": "matching",
+      "text": "Match the famous moons to their respective host planets:",
+      "pairs": [
+        [
+          "Titan",
+          "Saturn"
+        ],
+        [
+          "Europa",
+          "Jupiter"
+        ],
+        [
+          "Phobos",
+          "Mars"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "Titan is Saturn's largest moon, Europa is an icy moon of Jupiter, and Phobos is the larger moon of Mars."
+    },
+    {
+      "id": 56,
+      "type": "assertion-reason",
+      "text": "Assertion: Earth experiences different seasons throughout the year. Reason: Earth's axis of rotation is tilted relative to its orbital plane around the Sun.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "The 23.5-degree axial tilt means different hemispheres receive varying amounts of direct sunlight during the orbit."
+    },
+    {
+      "id": 57,
+      "type": "mcq",
+      "text": "What is the main difference between RAM and ROM in a computer system?",
+      "options": [
+        "A. RAM is slower than ROM",
+        "B. RAM is permanent, ROM is temporary",
+        "C. RAM is volatile, ROM is non-volatile",
+        "D. RAM stores the BIOS, ROM stores active apps"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "RAM loses its data when power is turned off (volatile), while ROM retains its data permanently (non-volatile)."
+    },
+    {
+      "id": 58,
+      "type": "true-false",
+      "text": "Python is a compiled programming language, meaning code must be explicitly compiled into machine code before it can be run.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "Python is primarily an interpreted language. The code is executed line-by-line by an interpreter rather than being pre-compiled."
+    },
+    {
+      "id": 59,
+      "type": "fill-blank",
+      "text": "According to Newton's Second Law of Motion, Force equals Mass times ______.",
+      "answer": "Acceleration",
+      "difficulty": "easy",
+      "explanation": "The formula F = ma is fundamental in classical mechanics."
+    },
+    {
+      "id": 60,
+      "type": "multiple-correct",
+      "text": "Which of the following tech companies are traditionally considered part of the 'FAANG' acronym? (Select all correct)",
+      "options": [
+        "A. Facebook (Meta)",
+        "B. Amazon",
+        "C. Apple",
+        "D. Microsoft",
+        "E. Netflix"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "easy",
+      "explanation": "FAANG stands for Facebook, Amazon, Apple, Netflix, and Google (Alphabet). Microsoft is not included in this specific acronym."
+    },
+    {
+      "id": 61,
+      "type": "matching",
+      "text": "Match the human organ to its primary biological system:",
+      "pairs": [
+        [
+          "Heart",
+          "Circulatory System"
+        ],
+        [
+          "Lungs",
+          "Respiratory System"
+        ],
+        [
+          "Stomach",
+          "Digestive System"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These organs play central roles in their respective bodily systems."
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "text": "What is the most abundant chemical element in the observable universe?",
+      "options": [
+        "A. Oxygen",
+        "B. Carbon",
+        "C. Helium",
+        "D. Hydrogen"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "explanation": "Hydrogen makes up about 75% of all normal matter in the universe."
+    },
+    {
+      "id": 63,
+      "type": "true-false",
+      "text": "The International Astronomical Union (IAU) currently classifies Pluto as a major planet in our solar system.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "In 2006, the IAU reclassified Pluto as a 'dwarf planet'."
+    },
+    {
+      "id": 64,
+      "type": "fill-blank",
+      "text": "In web terminology, URL stands for Uniform Resource ______.",
+      "answer": "Locator",
+      "difficulty": "easy",
+      "explanation": "A URL provides a way to locate a resource on the web, acting as a web address."
+    },
+    {
+      "id": 65,
+      "type": "assertion-reason",
+      "text": "Assertion: The speed of light in a vacuum is considered the ultimate speed limit of the universe. Reason: According to special relativity, an object with mass would require infinite energy to reach the speed of light.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are correct. Einstein's theory of special relativity dictates that nothing with mass can accelerate to light speed."
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "text": "Which blood type is known as the 'universal donor' for red blood cell transfusions?",
+      "options": [
+        "A. A positive",
+        "B. AB positive",
+        "C. O negative",
+        "D. B negative"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "O negative blood lacks A, B, and Rh antigens, making it safe to transfuse into patients of any blood type."
+    },
+    {
+      "id": 67,
+      "type": "true-false",
+      "text": "Water (H2O) is classified as a chemical element on the periodic table.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Water is a compound made up of two different elements: hydrogen and oxygen."
+    },
+    {
+      "id": 68,
+      "type": "fill-blank",
+      "text": "The dense central region of an atom, consisting of protons and neutrons, is called the ______.",
+      "answer": "nucleus",
+      "difficulty": "easy",
+      "explanation": "The nucleus contains almost all the mass of an atom."
+    },
+    {
+      "id": 69,
+      "type": "multiple-correct",
+      "text": "Which of the following are examples of Operating Systems? (Select all correct)",
+      "options": [
+        "A. Linux",
+        "B. Google Chrome",
+        "C. macOS",
+        "D. Windows",
+        "E. Adobe Photoshop"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "Linux, macOS, and Windows are operating systems. Chrome is a browser, and Photoshop is an application."
+    },
+    {
+      "id": 70,
+      "type": "matching",
+      "text": "Match the phase change to its correct scientific term:",
+      "pairs": [
+        [
+          "Solid to Liquid",
+          "Melting"
+        ],
+        [
+          "Liquid to Gas",
+          "Evaporation"
+        ],
+        [
+          "Solid directly to Gas",
+          "Sublimation"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These terms describe the thermodynamic transitions of states of matter."
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "text": "Excluding the Sun, what is the closest star to Earth?",
+      "options": [
+        "A. Sirius",
+        "B. Alpha Centauri A",
+        "C. Proxima Centauri",
+        "D. Betelgeuse"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "Proxima Centauri, a red dwarf, is located about 4.24 light-years away from Earth."
+    },
+    {
+      "id": 72,
+      "type": "true-false",
+      "text": "A healthy human somatic (body) cell contains exactly 46 chromosomes.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Human cells typically contain 23 pairs of chromosomes, totaling 46."
+    },
+    {
+      "id": 73,
+      "type": "fill-blank",
+      "text": "In computer hardware, CPU stands for Central ______ Unit.",
+      "answer": "Processing",
+      "difficulty": "easy",
+      "explanation": "The CPU acts as the primary component of a computer that acts as its 'brain'."
+    },
+    {
+      "id": 74,
+      "type": "assertion-reason",
+      "text": "Assertion: A feather and a hammer dropped simultaneously on the Moon will hit the ground at the same time. Reason: In the absence of air resistance, all objects fall with the same acceleration due to gravity regardless of their mass.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "This was famously demonstrated by Apollo 15 astronaut David Scott on the lunar surface."
+    },
+    {
+      "id": 75,
+      "type": "multiple-correct",
+      "text": "Which of the following elements are classified as halogens? (Select all correct)",
+      "options": [
+        "A. Fluorine",
+        "B. Chlorine",
+        "C. Sodium",
+        "D. Iodine",
+        "E. Calcium"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "hard",
+      "explanation": "Fluorine, chlorine, and iodine are in Group 17 (halogens). Sodium and calcium are metals."
+    },
+    {
+      "id": 76,
+      "type": "matching",
+      "text": "Match the tech founders to the companies they co-founded:",
+      "pairs": [
+        [
+          "Steve Jobs",
+          "Apple"
+        ],
+        [
+          "Bill Gates",
+          "Microsoft"
+        ],
+        [
+          "Larry Page",
+          "Google"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These individuals were key architects behind the creation of the world's most dominant tech corporations."
+    },
+    {
+      "id": 77,
+      "type": "mcq",
+      "text": "In physics, what is the standard SI unit of power?",
+      "options": [
+        "A. Joule",
+        "B. Newton",
+        "C. Watt",
+        "D. Volt"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "Power is measured in Watts, defined as one joule per second."
+    },
+    {
+      "id": 78,
+      "type": "true-false",
+      "text": "Venus is the hottest planet in our solar system, despite Mercury being closer to the Sun.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Venus has a thick atmosphere of carbon dioxide that creates a runaway greenhouse effect, making it hotter than Mercury."
+    },
+    {
+      "id": 79,
+      "type": "fill-blank",
+      "text": "The scientific study of fungi, including mushrooms and yeasts, is known as ______.",
+      "answer": "Mycology",
+      "difficulty": "hard",
+      "explanation": "Mycology is a branch of biology dedicated to the genetic and biochemical properties of fungi."
+    },
+    {
+      "id": 80,
+      "type": "assertion-reason",
+      "text": "Assertion: Noble gases like Neon and Argon are generally unreactive. Reason: They have complete valence electron shells, making them highly stable.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct. A full outer electron shell means they do not need to share, lose, or gain electrons easily."
+    },
+    {
+      "id": 81,
+      "type": "mcq",
+      "text": "What does a GPU primarily excel at compared to a standard CPU?",
+      "options": [
+        "A. Storing large text files",
+        "B. Performing simple sequential tasks rapidly",
+        "C. Performing massive amounts of parallel mathematical operations",
+        "D. Managing computer networks"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "GPUs are designed with thousands of smaller cores for parallel processing, making them ideal for rendering graphics and training AI."
+    },
+    {
+      "id": 82,
+      "type": "multiple-correct",
+      "text": "Which of the following are the nitrogenous bases found in DNA? (Select all correct)",
+      "options": [
+        "A. Adenine",
+        "B. Uracil",
+        "C. Thymine",
+        "D. Guanine",
+        "E. Cytosine"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "difficulty": "hard",
+      "explanation": "DNA contains Adenine, Thymine, Guanine, and Cytosine. Uracil is found in RNA instead of Thymine."
+    },
+    {
+      "id": 83,
+      "type": "matching",
+      "text": "Match the type of electromagnetic radiation to its general application:",
+      "pairs": [
+        [
+          "Radio waves",
+          "Communication and broadcasting"
+        ],
+        [
+          "X-rays",
+          "Medical imaging of bones"
+        ],
+        [
+          "Microwaves",
+          "Heating food and radar systems"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "Different wavelengths on the electromagnetic spectrum serve distinct technological and medical purposes."
+    },
+    {
+      "id": 84,
+      "type": "true-false",
+      "text": "The Linux operating system kernel is proprietary software owned entirely by Microsoft.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Linux is a highly popular open-source kernel, meaning its source code is free and available for anyone to use and modify."
+    },
+    {
+      "id": 85,
+      "type": "fill-blank",
+      "text": "The curved path that a planet follows as it revolves around a star is called its ______.",
+      "answer": "orbit",
+      "difficulty": "easy",
+      "explanation": "Orbits are typically elliptical and are governed by the gravitational pull of the more massive body."
+    },
+    {
+      "id": 86,
+      "type": "mcq",
+      "text": "Which subatomic particle carries no electrical charge?",
+      "options": [
+        "A. Proton",
+        "B. Electron",
+        "C. Neutron",
+        "D. Positron"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Neutrons are neutral particles found in the atomic nucleus alongside positively charged protons."
+    },
+    {
+      "id": 87,
+      "type": "assertion-reason",
+      "text": "Assertion: Vaccines can help eradicate certain infectious diseases globally. Reason: They stimulate the body's immune system to recognize and fight specific pathogens without causing the disease.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct. The eradication of smallpox is a prime example of this mechanism working on a global scale."
+    },
+    {
+      "id": 88,
+      "type": "multiple-correct",
+      "text": "Which of the following planets are classified as 'Terrestrial' (rocky) planets? (Select all correct)",
+      "options": [
+        "A. Earth",
+        "B. Jupiter",
+        "C. Venus",
+        "D. Mars",
+        "E. Neptune"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Mercury, Venus, Earth, and Mars are terrestrial. Jupiter and Neptune are gas/ice giants."
+    },
+    {
+      "id": 89,
+      "type": "matching",
+      "text": "Match the common keyboard shortcut to its function (Windows/Linux standard):",
+      "pairs": [
+        [
+          "Ctrl + C",
+          "Copy"
+        ],
+        [
+          "Ctrl + V",
+          "Paste"
+        ],
+        [
+          "Ctrl + Z",
+          "Undo"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These are universally recognized shortcuts for basic text and file manipulation."
+    },
+    {
+      "id": 90,
+      "type": "true-false",
+      "text": "Sound waves can travel through the vacuum of space.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Sound is a mechanical wave that requires a medium (like air, water, or solid matter) to travel. It cannot travel in a vacuum."
+    },
+    {
+      "id": 91,
+      "type": "fill-blank",
+      "text": "The process by which a liquid turns into a gas at temperatures below its boiling point is called ______.",
+      "answer": "evaporation",
+      "difficulty": "medium",
+      "explanation": "Evaporation is a type of vaporization that occurs on the surface of a liquid."
+    },
+    {
+      "id": 92,
+      "type": "mcq",
+      "text": "An animal that can live both on land and in water is biologically classified as an:",
+      "options": [
+        "A. Arthropod",
+        "B. Amphibian",
+        "C. Echinoderm",
+        "D. Annelid"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Amphibians, such as frogs and salamanders, typically start life in the water and mature to live on land."
+    },
+    {
+      "id": 93,
+      "type": "assertion-reason",
+      "text": "Assertion: Solid State Drives (SSDs) are generally faster than Hard Disk Drives (HDDs). Reason: SSDs rely on faster magnetic platters spinning at high RPMs.",
+      "assertion": true,
+      "reason": false,
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "The assertion is true, but the reason is false. SSDs are faster because they use flash memory with no moving parts; HDDs use spinning magnetic platters."
+    },
+    {
+      "id": 94,
+      "type": "multiple-correct",
+      "text": "Which of the following are considered classical 'simple machines' in physics? (Select all correct)",
+      "options": [
+        "A. The Lever",
+        "B. The Pulley",
+        "C. The Combustion Engine",
+        "D. The Inclined Plane",
+        "E. The Transistor"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Levers, pulleys, and inclined planes change the direction or magnitude of a force. Engines and transistors are complex systems."
+    },
+    {
+      "id": 95,
+      "type": "matching",
+      "text": "Match the astronomical structure to its definition:",
+      "pairs": [
+        [
+          "Asteroid",
+          "A small rocky body orbiting the sun"
+        ],
+        [
+          "Comet",
+          "An icy body that releases gas/dust as it warms"
+        ],
+        [
+          "Galaxy",
+          "A massive system of stars, gas, and dark matter"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "Understanding these classifications is fundamental to observational astronomy."
+    },
+    {
+      "id": 96,
+      "type": "true-false",
+      "text": "When iron rusts, it undergoes a chemical reaction resulting in a substance known as iron oxide.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Rust is the common name for iron oxide, which forms when iron is exposed to oxygen and moisture."
+    },
+    {
+      "id": 97,
+      "type": "fill-blank",
+      "text": "In software, GUI stands for Graphical ______ Interface.",
+      "answer": "User",
+      "difficulty": "easy",
+      "explanation": "A GUI allows users to interact with electronic devices through graphical icons and audio indicator instead of text-based command lines."
+    },
+    {
+      "id": 98,
+      "type": "mcq",
+      "text": "Which organ is primarily responsible for pumping blood throughout the human body?",
+      "options": [
+        "A. Lungs",
+        "B. Kidney",
+        "C. Heart",
+        "D. Pancreas"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "The heart acts as the pump for the circulatory system, delivering oxygen and nutrients via blood."
+    },
+    {
+      "id": 99,
+      "type": "assertion-reason",
+      "text": "Assertion: You typically see lightning before you hear thunder during a storm. Reason: Light travels significantly faster than sound.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Both statements are correct. Light travels at nearly 300,000 km/s, while sound travels at about 0.34 km/s in air."
+    },
+    {
+      "id": 100,
+      "type": "multiple-correct",
+      "text": "Which of the following software applications are popular Web Browsers? (Select all correct)",
+      "options": [
+        "A. Mozilla Firefox",
+        "B. Microsoft Excel",
+        "C. Google Chrome",
+        "D. Apple Safari",
+        "E. VLC Media Player"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "Firefox, Chrome, and Safari are built for browsing the internet. Excel is a spreadsheet tool, and VLC plays media files."
+    }
+  ]
 }
