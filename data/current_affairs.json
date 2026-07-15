@@ -1,648 +1,1296 @@
 {
-"category": "Current Affairs",
-"questions": [
-{
-"id": 1,
-"type": "mcq",
-"text": "Which Indian state became the first to implement the Uniform Civil Code (UCC) post-independence?",
-"options": [
-"A. Gujarat",
-"B. Uttarakhand",
-"C. Assam",
-"D. Uttar Pradesh"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Uttarakhand became the first state to implement the Uniform Civil Code in 2024."
-},
-{
-"id": 2,
-"type": "mcq",
-"text": "The 'PM Surya Ghar: Muft Bijli Yojana' aims to provide up to how many units of free electricity per month?",
-"options": [
-"A. 150 units",
-"B. 200 units",
-"C. 300 units",
-"D. 400 units"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "The scheme targets 300 units per month to promote solar energy adoption."
-},
-{
-"id": 3,
-"type": "true-false",
-"text": "India's longest sea bridge, Atal Setu, connects Mumbai to Alibaug.",
-"answer": false,
-"difficulty": "medium",
-"explanation": "Atal Setu connects Mumbai to Navi Mumbai, not Alibaug."
-},
-{
-"id": 4,
-"type": "mcq",
-"text": "ISRO's Aditya-L1 mission is designed to study:",
-"options": [
-"A. The Moon",
-"B. Mars",
-"C. The Sun",
-"D. Venus"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Aditya-L1 is India's solar mission to study the Sun's corona."
-},
-{
-"id": 5,
-"type": "multiple-correct",
-"text": "Which of the following were part of the BRICS expansion in 2024? (Select all correct)",
-"options": [
-"A. Egypt",
-"B. Argentina",
-"C. Ethiopia",
-"D. UAE",
-"E. Saudi Arabia"
-],
-"answer": [
-"A",
-"C",
-"E"
-],
-"difficulty": "hard",
-"explanation": "Egypt, Ethiopia, and Saudi Arabia joined BRICS in the 2024 expansion."
-},
-{
-"id": 6,
-"type": "assertion-reason",
-"text": "Assertion: COP28 was held in Dubai. Reason: Dubai is in a developing nation.",
-"assertion": true,
-"reason": false,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "The assertion is true, but the reason is false as UAE is developing."
-},
-{
-"id": 7,
-"type": "mcq",
-"text": "Which country won the ICC Men's Cricket World Cup 2023?",
-"options": [
-"A. India",
-"B. Australia",
-"C. England",
-"D. South Africa"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Australia defeated India in the 2023 Cricket World Cup final."
-},
-{
-"id": 8,
-"type": "matching",
-"text": "Match the following missions with their targets:",
-"pairs": [
-[
-"Chandrayaan-3",
-"Moon"
-],
-[
-"Aditya-L1",
-"Sun"
-],
-[
-"Mangalyaan",
-"Mars"
-]
-],
-"difficulty": "medium",
-"explanation": "These are India's major space missions targeting different celestial bodies."
-},
-{
-"id": 9,
-"type": "mcq",
-"text": "Who is the current Secretary-General of the United Nations?",
-"options": [
-"A. Ban Ki-moon",
-"B. António Guterres",
-"C. Tedros Adhanom",
-"D. Kristalina Georgieva"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "António Guterres is serving as UN Secretary-General since 2017."
-},
-{
-"id": 10,
-"type": "fill-blank",
-"text": "India's first semiconductor fab will be established by Tata Group and PSMC in ______.",
-"answer": "Gujarat",
-"difficulty": "hard",
-"explanation": "The fab is being set up in Gujarat as part of the semiconductor mission."
-},
-{
-"id": 11,
-"type": "mcq",
-"text": "What is the name of the military operation launched by the US against Iran in February 2026?",
-"options": [
-"A. Operation Desert Storm",
-"B. Operation Epic Fury",
-"C. Operation Thunder Strike",
-"D. Operation Red Alert"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "The US launched 'Operation Epic Fury' involving massive strikes on Tehran in February 2026."
-},
-{
-"id": 12,
-"type": "true-false",
-"text": "The Druzhba Oil Pipeline primarily transports oil from Central Asia to China.",
-"answer": false,
-"difficulty": "hard",
-"explanation": "The Druzhba Oil Pipeline transports oil from Russia to Europe."
-},
-{
-"id": 13,
-"type": "mcq",
-"text": "Which prestigious Israeli award was conferred upon PM Modi in February 2026?",
-"options": [
-"A. Israel Peace Medal",
-"B. Speaker of the Knesset Medal",
-"C. Israeli Presidential Award",
-"D. Jerusalem Peace Prize"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "PM Modi was conferred with Israel's prestigious 'Speaker of the Knesset Medal'."
-},
-{
-"id": 14,
-"type": "fill-blank",
-"text": "A new species of midge discovered in India in February 2026 is named the ______ Blossom Midge.",
-"answer": "Jasmine",
-"difficulty": "hard",
-"explanation": "A new Jasmine Blossom Midge species was discovered in India, adding to the country's biodiversity."
-},
-{
-"id": 15,
-"type": "assertion-reason",
-"text": "Assertion: India's new GDP calculation series will not use UPI transaction data. Reason: UPI transactions have been completely banned in India.",
-"assertion": true,
-"reason": false,
-"answer": "C",
-"difficulty": "hard",
-"explanation": "The new GDP series will exclude UPI transaction data, but UPI transactions are certainly not banned in India."
-},
-{
-"id": 16,
-"type": "mcq",
-"text": "Where did the 7th edition of Exercise Dharma Guardian commence in February 2026?",
-"options": [
-"A. Pune, Maharashtra",
-"B. Chaubattia, Uttarakhand",
-"C. Jaisalmer, Rajasthan",
-"D. Bakloh, Himachal Pradesh"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Exercise Dharma Guardian's 7th edition commenced in Chaubattia, Uttarakhand."
-},
-{
-"id": 17,
-"type": "matching",
-"text": "Match the following government initiatives with their primary focus:",
-"pairs": [
-[
-"PRAHAAR",
-"Internal security blueprint"
-],
-[
-"NAMASTE Scheme",
-"Tourism and cultural awareness"
-],
-[
-"Vanjeevi Didi",
-"Empowering women in wildlife reserves"
-]
-],
-"difficulty": "medium",
-"explanation": "These represent key government programs spanning security, culture, and women's empowerment."
-},
-{
-"id": 18,
-"type": "true-false",
-"text": "In February 2026, the Union Cabinet approved a bill to rename the state of Kerala to 'Keralam'.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "The Union Cabinet approved a bill in February 2026 to rename Kerala to 'Keralam'."
-},
-{
-"id": 19,
-"type": "mcq",
-"text": "For which country did the Indian Embassy issue a safety advisory in February 2026 due to regional tensions?",
-"options": [
-"A. Syria",
-"B. Afghanistan",
-"C. Iran",
-"D. Pakistan"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The Indian Embassy issued an advisory for Iran due to ongoing regional tensions and military operations."
-},
-{
-"id": 20,
-"type": "fill-blank",
-"text": "The Election Commission of India introduced a unified voting plan in February 2026 called the 'One ______ List'.",
-"answer": "Voter",
-"difficulty": "hard",
-"explanation": "The 'One Voter List' is the ECI's unified voting plan."
-},
-{
-"id": 21,
-"type": "mcq",
-"text": "Which Indian film won Best Children's & Family Film at the BAFTA Awards in 2026?",
-"options": [
-"A. Bollywood Boong",
-"B. Boong",
-"C. The Boong Story",
-"D. Innocent Boong"
-],
-"answer": "A",
-"difficulty": "medium",
-"explanation": "India's 'Boong' won the Best Children's & Family Film at the BAFTA Awards 2026."
-},
-{
-"id": 22,
-"type": "multiple-correct",
-"text": "Which of the following are features of the Vanjeevi Didi Initiative? (Select all correct)",
-"options": [
-"A. Empowering women in wildlife reserves",
-"B. Based in Palamu Tiger Reserve",
-"C. Focused on space exploration",
-"D. Launched in Jharkhand",
-"E. Aimed at urban transportation"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "medium",
-"explanation": "The initiative focuses on empowering women in the Palamu Tiger Reserve, Jharkhand."
-},
-{
-"id": 23,
-"type": "mcq",
-"text": "Where will the first phase of the Door-to-Door Housing Census 2027 start?",
-"options": [
-"A. Amritsar",
-"B. Chandigarh",
-"C. Ludhiana",
-"D. Jalandhar"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The first phase of the Door-to-Door Housing Census 2027 is slated to begin in Ludhiana."
-},
-{
-"id": 24,
-"type": "true-false",
-"text": "The Vibrant Villages Programme-II was launched in the state of Assam.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "It was launched in Assam's Cachar District in February 2026."
-},
-{
-"id": 25,
-"type": "assertion-reason",
-"text": "Assertion: 'Pax Silica' is a new alliance redefining global power. Reason: It is primarily focused on agricultural trade agreements.",
-"assertion": true,
-"reason": false,
-"answer": "C",
-"difficulty": "hard",
-"explanation": "Pax Silica is an alliance redefining global power through semiconductors, not agriculture."
-},
-{
-"id": 26,
-"type": "mcq",
-"text": "What major decision did the International Paralympic Committee (IPC) take regarding Russia in February 2026?",
-"options": [
-"A. Banned Russia permanently",
-"B. Lifted the Russian Paralympics ban",
-"C. Suspended Russia indefinitely",
-"D. Imposed new financial sanctions"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "The IPC lifted the Russian Paralympics ban for the 2026 Games."
-},
-{
-"id": 27,
-"type": "fill-blank",
-"text": "MeitY rolled out ______ for next-generation multilingual voice AI in February 2026.",
-"answer": "VoicERA",
-"difficulty": "hard",
-"explanation": "VoicERA was developed by MeitY as a next-gen multilingual voice AI tool."
-},
-{
-"id": 28,
-"type": "mcq",
-"text": "Which tech company announced a $15 billion investment for a full-stack AI hub in Visakhapatnam?",
-"options": [
-"A. Microsoft",
-"B. Apple",
-"C. Google",
-"D. Amazon"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "Google announced a $15 billion investment for an AI hub in Visakhapatnam."
-},
-{
-"id": 29,
-"type": "matching",
-"text": "Match the recent AI and tech initiatives with their descriptions:",
-"pairs": [
-[
-"SAHI",
-"Healthcare AI solution"
-],
-[
-"VoicERA",
-"Multilingual voice AI"
-],
-[
-"Prakriti 2026",
-"Carbon market portal"
-]
-],
-"difficulty": "hard",
-"explanation": "These are prominent technology and sustainability portals/tools introduced recently in India."
-},
-{
-"id": 30,
-"type": "true-false",
-"text": "NHAI launched the 'Bee Corridors' initiative to create the first-ever pollinator initiative along national highways.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "Bee Corridors is NHAI's first-ever pollinator initiative launched along highways."
-},
-{
-"id": 31,
-"type": "mcq",
-"text": "How many Rafale fighter jets does India plan to acquire in the new deal announced in February 2026?",
-"options": [
-"A. 36",
-"B. 72",
-"C. 114",
-"D. 120"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "India plans to acquire 114 Rafale fighter jets in the deal with France."
-},
-{
-"id": 32,
-"type": "multiple-correct",
-"text": "Which of the following initiatives were launched by Kiren Rijiju in February 2026? (Select all correct)",
-"options": [
-"A. NIGRANI App",
-"B. Digital tourism initiative",
-"C. Haj Wrist Band",
-"D. AI Chatbots",
-"E. Smart city project"
-],
-"answer": [
-"A",
-"C",
-"D"
-],
-"difficulty": "medium",
-"explanation": "He launched the NIGRANI App, AI Chatbots, and the Haj Wrist Band."
-},
-{
-"id": 33,
-"type": "mcq",
-"text": "Which Indian female cricketer bagged the BBC Top Honor in February 2026?",
-"options": [
-"A. Harmanpreet Kaur",
-"B. Mithali Raj",
-"C. Smriti Mandhana",
-"D. Shafali Verma"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Smriti Mandhana received the BBC Top Honor marking a golden year for women's cricket."
-},
-{
-"id": 34,
-"type": "fill-blank",
-"text": "AIIMS conducted its first remote ultrasound procedure in the icy region of ______ in February 2026.",
-"answer": "Antarctica",
-"difficulty": "medium",
-"explanation": "The successful remote ultrasound procedure in Antarctica showcased India's telemedicine capabilities."
-},
-{
-"id": 35,
-"type": "mcq",
-"text": "What is 'Bulbul V-3', created in collaboration with Sarvam AI?",
-"options": [
-"A. A military drone",
-"B. An entertainment AI",
-"C. An initiative redefining Indian digital public infrastructure",
-"D. A weather prediction tool"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "Bulbul V-3 is an AI initiative redefining Indian digital public infrastructure at a global level."
-},
-{
-"id": 36,
-"type": "assertion-reason",
-"text": "Assertion: Odisha is introducing QR codes on land records. Reason: QR codes will facilitate easy digital verification of the documents.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "easy",
-"explanation": "Odisha announced this measure to streamline and secure land record verification."
-},
-{
-"id": 37,
-"type": "mcq",
-"text": "Where was the 14th WTO Ministerial Conference (MC14) held in March 2026?",
-"options": [
-"A. Geneva, Switzerland",
-"B. Yaoundé, Cameroon",
-"C. Manila, Philippines",
-"D. Bangkok, Thailand"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "MC14 was held in Yaoundé, Cameroon, under the chairmanship of Luc Magloire Mbarga Atangana."
-},
-{
-"id": 38,
-"type": "true-false",
-"text": "The 28-year e-commerce moratorium on customs duties for digital transmissions was permanently extended at the WTO MC14.",
-"answer": false,
-"difficulty": "hard",
-"explanation": "The moratorium officially lapsed, causing the 'Yaoundé Deadlock' and marking a turning point in digital trade."
-},
-{
-"id": 39,
-"type": "mcq",
-"text": "What is the primary purpose of the 'Jan Samarth Portal'?",
-"options": [
-"A. Student scholarship applications",
-"B. Credit-linked government schemes",
-"C. Healthcare booking system",
-"D. Tax filing and payment"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "It is a national portal for Credit-Linked Government Schemes to connect citizens digitally with these programs."
-},
-{
-"id": 40,
-"type": "fill-blank",
-"text": "India's First Digital Census 2027 is scheduled to begin its operations in ______ 2026.",
-"answer": "April",
-"difficulty": "easy",
-"explanation": "The digital census is scheduled to begin in April 2026, featuring self-enumeration."
-},
-{
-"id": 41,
-"type": "mcq",
-"text": "Which country announced a ban on social media for users under 16 years old in March 2026?",
-"options": [
-"A. Australia",
-"B. Singapore",
-"C. Indonesia",
-"D. Malaysia"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Indonesia banned social media for under-16 users, establishing strict new digital rules."
-},
-{
-"id": 42,
-"type": "matching",
-"text": "Match the March 2026 discoveries/events with their locations:",
-"pairs": [
-[
-"Hidden ocean in Earth's mantle",
-"Deep inside Earth"
-],
-[
-"Rare Keelback Snake",
-"Northeast India"
-],
-[
-"LPG tankers stuck",
-"Hormuz Strait"
-]
-],
-"difficulty": "hard",
-"explanation": "These events highlight significant geographical, biological, and geopolitical occurrences from March 2026."
-},
-{
-"id": 43,
-"type": "mcq",
-"text": "How many railway stations are targeted for redevelopment under the Amrit Bharat Station Scheme?",
-"options": [
-"A. 500",
-"B. 1000",
-"C. 1338",
-"D. 1500"
-],
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The scheme aims to redevelop 1338 railway stations across India."
-},
-{
-"id": 44,
-"type": "multiple-correct",
-"text": "Which of the following states passed the Uniform Civil Code (UCC) Bill in the first quarter of 2026? (Select all correct)",
-"options": [
-"A. Uttarakhand",
-"B. Gujarat",
-"C. Kerala",
-"D. Tamil Nadu",
-"E. Punjab"
-],
-"answer": [
-"A",
-"B"
-],
-"difficulty": "medium",
-"explanation": "Uttarakhand implemented it first, and Gujarat passed its UCC Bill in March 2026."
-},
-{
-"id": 45,
-"type": "assertion-reason",
-"text": "Assertion: BCCI decided to skip the opening ceremony at Chinnaswamy Stadium for IPL 2026. Reason: The stadium was completely destroyed in an earthquake.",
-"assertion": true,
-"reason": false,
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The assertion is true, but the reason is fabricated. The ceremony was skipped for logistical/operational reasons, not an earthquake."
-},
-{
-"id": 46,
-"type": "mcq",
-"text": "According to reports from March 2026, which country topped the global pollution index?",
-"options": [
-"A. India",
-"B. China",
-"C. Bangladesh",
-"D. Pakistan"
-],
-"answer": "D",
-"difficulty": "easy",
-"explanation": "Pakistan topped the global pollution list, while India ranked sixth."
-},
-{
-"id": 47,
-"type": "fill-blank",
-"text": "The Lok Sabha passed the ______ Rights Amendment Bill in March 2026 to advance LGBTQ+ protections.",
-"answer": "Transgender",
-"difficulty": "medium",
-"explanation": "The Transgender Rights Amendment Bill 2026 was passed to strengthen protections."
-},
-{
-"id": 48,
-"type": "mcq",
-"text": "What is 'Akasha300 3D', delivered to ISRO by Spacetime 4D?",
-"options": [
-"A. A 3D mapping satellite",
-"B. A 3D printer",
-"C. A 3D space telescope",
-"D. A 3D imaging system"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "Akasha300 3D is a 3D printer delivered for space applications."
-},
-{
-"id": 49,
-"type": "true-false",
-"text": "The Ayush Ministry launched an in-flight yoga routine for air travellers in March 2026.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "This innovative initiative aims to promote wellness during air travel."
-},
-{
-"id": 50,
-"type": "mcq",
-"text": "Which hill was declared a National Geo-Heritage Site in March 2026?",
-"options": [
-"A. Vindhya Hills",
-"B. Aravallis",
-"C. Kalinjar Hill",
-"D. Satpura Range"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "Kalinjar Hill was declared a National Geo-Heritage Site, recognizing its geological importance."
-}
-]
+  "category": "Current Affairs",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "text": "Which Indian state became the first to implement the Uniform Civil Code (UCC) post-independence?",
+      "options": [
+        "A. Gujarat",
+        "B. Uttarakhand",
+        "C. Assam",
+        "D. Uttar Pradesh"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Uttarakhand became the first state to implement the Uniform Civil Code in 2024."
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "text": "The 'PM Surya Ghar: Muft Bijli Yojana' aims to provide up to how many units of free electricity per month?",
+      "options": [
+        "A. 150 units",
+        "B. 200 units",
+        "C. 300 units",
+        "D. 400 units"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "The scheme targets 300 units per month to promote solar energy adoption."
+    },
+    {
+      "id": 3,
+      "type": "true-false",
+      "text": "India's longest sea bridge, Atal Setu, connects Mumbai to Alibaug.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "Atal Setu connects Mumbai to Navi Mumbai, not Alibaug."
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "text": "ISRO's Aditya-L1 mission is designed to study:",
+      "options": [
+        "A. The Moon",
+        "B. Mars",
+        "C. The Sun",
+        "D. Venus"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Aditya-L1 is India's solar mission to study the Sun's corona."
+    },
+    {
+      "id": 5,
+      "type": "multiple-correct",
+      "text": "Which of the following were part of the BRICS expansion in 2024? (Select all correct)",
+      "options": [
+        "A. Egypt",
+        "B. Argentina",
+        "C. Ethiopia",
+        "D. UAE",
+        "E. Saudi Arabia"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "difficulty": "hard",
+      "explanation": "Egypt, Ethiopia, and Saudi Arabia joined BRICS in the 2024 expansion."
+    },
+    {
+      "id": 6,
+      "type": "assertion-reason",
+      "text": "Assertion: COP28 was held in Dubai. Reason: Dubai is in a developing nation.",
+      "assertion": true,
+      "reason": false,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "The assertion is true, but the reason is false as UAE is developing."
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "text": "Which country won the ICC Men's Cricket World Cup 2023?",
+      "options": [
+        "A. India",
+        "B. Australia",
+        "C. England",
+        "D. South Africa"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Australia defeated India in the 2023 Cricket World Cup final."
+    },
+    {
+      "id": 8,
+      "type": "matching",
+      "text": "Match the following missions with their targets:",
+      "pairs": [
+        [
+          "Chandrayaan-3",
+          "Moon"
+        ],
+        [
+          "Aditya-L1",
+          "Sun"
+        ],
+        [
+          "Mangalyaan",
+          "Mars"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are India's major space missions targeting different celestial bodies."
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "text": "Who is the current Secretary-General of the United Nations?",
+      "options": [
+        "A. Ban Ki-moon",
+        "B. António Guterres",
+        "C. Tedros Adhanom",
+        "D. Kristalina Georgieva"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "António Guterres is serving as UN Secretary-General since 2017."
+    },
+    {
+      "id": 10,
+      "type": "fill-blank",
+      "text": "India's first semiconductor fab will be established by Tata Group and PSMC in ______.",
+      "answer": "Gujarat",
+      "difficulty": "hard",
+      "explanation": "The fab is being set up in Gujarat as part of the semiconductor mission."
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "text": "What is the name of the military operation launched by the US against Iran in February 2026?",
+      "options": [
+        "A. Operation Desert Storm",
+        "B. Operation Epic Fury",
+        "C. Operation Thunder Strike",
+        "D. Operation Red Alert"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "The US launched 'Operation Epic Fury' involving massive strikes on Tehran in February 2026."
+    },
+    {
+      "id": 12,
+      "type": "true-false",
+      "text": "The Druzhba Oil Pipeline primarily transports oil from Central Asia to China.",
+      "answer": false,
+      "difficulty": "hard",
+      "explanation": "The Druzhba Oil Pipeline transports oil from Russia to Europe."
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "text": "Which prestigious Israeli award was conferred upon PM Modi in February 2026?",
+      "options": [
+        "A. Israel Peace Medal",
+        "B. Speaker of the Knesset Medal",
+        "C. Israeli Presidential Award",
+        "D. Jerusalem Peace Prize"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "PM Modi was conferred with Israel's prestigious 'Speaker of the Knesset Medal'."
+    },
+    {
+      "id": 14,
+      "type": "fill-blank",
+      "text": "A new species of midge discovered in India in February 2026 is named the ______ Blossom Midge.",
+      "answer": "Jasmine",
+      "difficulty": "hard",
+      "explanation": "A new Jasmine Blossom Midge species was discovered in India, adding to the country's biodiversity."
+    },
+    {
+      "id": 15,
+      "type": "assertion-reason",
+      "text": "Assertion: India's new GDP calculation series will not use UPI transaction data. Reason: UPI transactions have been completely banned in India.",
+      "assertion": true,
+      "reason": false,
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "The new GDP series will exclude UPI transaction data, but UPI transactions are certainly not banned in India."
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "text": "Where did the 7th edition of Exercise Dharma Guardian commence in February 2026?",
+      "options": [
+        "A. Pune, Maharashtra",
+        "B. Chaubattia, Uttarakhand",
+        "C. Jaisalmer, Rajasthan",
+        "D. Bakloh, Himachal Pradesh"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Exercise Dharma Guardian's 7th edition commenced in Chaubattia, Uttarakhand."
+    },
+    {
+      "id": 17,
+      "type": "matching",
+      "text": "Match the following government initiatives with their primary focus:",
+      "pairs": [
+        [
+          "PRAHAAR",
+          "Internal security blueprint"
+        ],
+        [
+          "NAMASTE Scheme",
+          "Tourism and cultural awareness"
+        ],
+        [
+          "Vanjeevi Didi",
+          "Empowering women in wildlife reserves"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These represent key government programs spanning security, culture, and women's empowerment."
+    },
+    {
+      "id": 18,
+      "type": "true-false",
+      "text": "In February 2026, the Union Cabinet approved a bill to rename the state of Kerala to 'Keralam'.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "The Union Cabinet approved a bill in February 2026 to rename Kerala to 'Keralam'."
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "text": "For which country did the Indian Embassy issue a safety advisory in February 2026 due to regional tensions?",
+      "options": [
+        "A. Syria",
+        "B. Afghanistan",
+        "C. Iran",
+        "D. Pakistan"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "The Indian Embassy issued an advisory for Iran due to ongoing regional tensions and military operations."
+    },
+    {
+      "id": 20,
+      "type": "fill-blank",
+      "text": "The Election Commission of India introduced a unified voting plan in February 2026 called the 'One ______ List'.",
+      "answer": "Voter",
+      "difficulty": "hard",
+      "explanation": "The 'One Voter List' is the ECI's unified voting plan."
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "text": "Which Indian film won Best Children's & Family Film at the BAFTA Awards in 2026?",
+      "options": [
+        "A. Bollywood Boong",
+        "B. Boong",
+        "C. The Boong Story",
+        "D. Innocent Boong"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "India's 'Boong' won the Best Children's & Family Film at the BAFTA Awards 2026."
+    },
+    {
+      "id": 22,
+      "type": "multiple-correct",
+      "text": "Which of the following are features of the Vanjeevi Didi Initiative? (Select all correct)",
+      "options": [
+        "A. Empowering women in wildlife reserves",
+        "B. Based in Palamu Tiger Reserve",
+        "C. Focused on space exploration",
+        "D. Launched in Jharkhand",
+        "E. Aimed at urban transportation"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "The initiative focuses on empowering women in the Palamu Tiger Reserve, Jharkhand."
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "text": "Where will the first phase of the Door-to-Door Housing Census 2027 start?",
+      "options": [
+        "A. Amritsar",
+        "B. Chandigarh",
+        "C. Ludhiana",
+        "D. Jalandhar"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "The first phase of the Door-to-Door Housing Census 2027 is slated to begin in Ludhiana."
+    },
+    {
+      "id": 24,
+      "type": "true-false",
+      "text": "The Vibrant Villages Programme-II was launched in the state of Assam.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "It was launched in Assam's Cachar District in February 2026."
+    },
+    {
+      "id": 25,
+      "type": "assertion-reason",
+      "text": "Assertion: 'Pax Silica' is a new alliance redefining global power. Reason: It is primarily focused on agricultural trade agreements.",
+      "assertion": true,
+      "reason": false,
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "Pax Silica is an alliance redefining global power through semiconductors, not agriculture."
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "text": "What major decision did the International Paralympic Committee (IPC) take regarding Russia in February 2026?",
+      "options": [
+        "A. Banned Russia permanently",
+        "B. Lifted the Russian Paralympics ban",
+        "C. Suspended Russia indefinitely",
+        "D. Imposed new financial sanctions"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "The IPC lifted the Russian Paralympics ban for the 2026 Games."
+    },
+    {
+      "id": 27,
+      "type": "fill-blank",
+      "text": "MeitY rolled out ______ for next-generation multilingual voice AI in February 2026.",
+      "answer": "VoicERA",
+      "difficulty": "hard",
+      "explanation": "VoicERA was developed by MeitY as a next-gen multilingual voice AI tool."
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "text": "Which tech company announced a $15 billion investment for a full-stack AI hub in Visakhapatnam?",
+      "options": [
+        "A. Microsoft",
+        "B. Apple",
+        "C. Google",
+        "D. Amazon"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "Google announced a $15 billion investment for an AI hub in Visakhapatnam."
+    },
+    {
+      "id": 29,
+      "type": "matching",
+      "text": "Match the recent AI and tech initiatives with their descriptions:",
+      "pairs": [
+        [
+          "SAHI",
+          "Healthcare AI solution"
+        ],
+        [
+          "VoicERA",
+          "Multilingual voice AI"
+        ],
+        [
+          "Prakriti 2026",
+          "Carbon market portal"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "These are prominent technology and sustainability portals/tools introduced recently in India."
+    },
+    {
+      "id": 30,
+      "type": "true-false",
+      "text": "NHAI launched the 'Bee Corridors' initiative to create the first-ever pollinator initiative along national highways.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Bee Corridors is NHAI's first-ever pollinator initiative launched along highways."
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "text": "How many Rafale fighter jets does India plan to acquire in the new deal announced in February 2026?",
+      "options": [
+        "A. 36",
+        "B. 72",
+        "C. 114",
+        "D. 120"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "India plans to acquire 114 Rafale fighter jets in the deal with France."
+    },
+    {
+      "id": 32,
+      "type": "multiple-correct",
+      "text": "Which of the following initiatives were launched by Kiren Rijiju in February 2026? (Select all correct)",
+      "options": [
+        "A. NIGRANI App",
+        "B. Digital tourism initiative",
+        "C. Haj Wrist Band",
+        "D. AI Chatbots",
+        "E. Smart city project"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "He launched the NIGRANI App, AI Chatbots, and the Haj Wrist Band."
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "text": "Which Indian female cricketer bagged the BBC Top Honor in February 2026?",
+      "options": [
+        "A. Harmanpreet Kaur",
+        "B. Mithali Raj",
+        "C. Smriti Mandhana",
+        "D. Shafali Verma"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Smriti Mandhana received the BBC Top Honor marking a golden year for women's cricket."
+    },
+    {
+      "id": 34,
+      "type": "fill-blank",
+      "text": "AIIMS conducted its first remote ultrasound procedure in the icy region of ______ in February 2026.",
+      "answer": "Antarctica",
+      "difficulty": "medium",
+      "explanation": "The successful remote ultrasound procedure in Antarctica showcased India's telemedicine capabilities."
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "text": "What is 'Bulbul V-3', created in collaboration with Sarvam AI?",
+      "options": [
+        "A. A military drone",
+        "B. An entertainment AI",
+        "C. An initiative redefining Indian digital public infrastructure",
+        "D. A weather prediction tool"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "Bulbul V-3 is an AI initiative redefining Indian digital public infrastructure at a global level."
+    },
+    {
+      "id": 36,
+      "type": "assertion-reason",
+      "text": "Assertion: Odisha is introducing QR codes on land records. Reason: QR codes will facilitate easy digital verification of the documents.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Odisha announced this measure to streamline and secure land record verification."
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "text": "Where was the 14th WTO Ministerial Conference (MC14) held in March 2026?",
+      "options": [
+        "A. Geneva, Switzerland",
+        "B. Yaoundé, Cameroon",
+        "C. Manila, Philippines",
+        "D. Bangkok, Thailand"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "MC14 was held in Yaoundé, Cameroon, under the chairmanship of Luc Magloire Mbarga Atangana."
+    },
+    {
+      "id": 38,
+      "type": "true-false",
+      "text": "The 28-year e-commerce moratorium on customs duties for digital transmissions was permanently extended at the WTO MC14.",
+      "answer": false,
+      "difficulty": "hard",
+      "explanation": "The moratorium officially lapsed, causing the 'Yaoundé Deadlock' and marking a turning point in digital trade."
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "text": "What is the primary purpose of the 'Jan Samarth Portal'?",
+      "options": [
+        "A. Student scholarship applications",
+        "B. Credit-linked government schemes",
+        "C. Healthcare booking system",
+        "D. Tax filing and payment"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "It is a national portal for Credit-Linked Government Schemes to connect citizens digitally with these programs."
+    },
+    {
+      "id": 40,
+      "type": "fill-blank",
+      "text": "India's First Digital Census 2027 is scheduled to begin its operations in ______ 2026.",
+      "answer": "April",
+      "difficulty": "easy",
+      "explanation": "The digital census is scheduled to begin in April 2026, featuring self-enumeration."
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "text": "Which country announced a ban on social media for users under 16 years old in March 2026?",
+      "options": [
+        "A. Australia",
+        "B. Singapore",
+        "C. Indonesia",
+        "D. Malaysia"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Indonesia banned social media for under-16 users, establishing strict new digital rules."
+    },
+    {
+      "id": 42,
+      "type": "matching",
+      "text": "Match the March 2026 discoveries/events with their locations:",
+      "pairs": [
+        [
+          "Hidden ocean in Earth's mantle",
+          "Deep inside Earth"
+        ],
+        [
+          "Rare Keelback Snake",
+          "Northeast India"
+        ],
+        [
+          "LPG tankers stuck",
+          "Hormuz Strait"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "These events highlight significant geographical, biological, and geopolitical occurrences from March 2026."
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "text": "How many railway stations are targeted for redevelopment under the Amrit Bharat Station Scheme?",
+      "options": [
+        "A. 500",
+        "B. 1000",
+        "C. 1338",
+        "D. 1500"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "The scheme aims to redevelop 1338 railway stations across India."
+    },
+    {
+      "id": 44,
+      "type": "multiple-correct",
+      "text": "Which of the following states passed the Uniform Civil Code (UCC) Bill in the first quarter of 2026? (Select all correct)",
+      "options": [
+        "A. Uttarakhand",
+        "B. Gujarat",
+        "C. Kerala",
+        "D. Tamil Nadu",
+        "E. Punjab"
+      ],
+      "answer": [
+        "A",
+        "B"
+      ],
+      "difficulty": "medium",
+      "explanation": "Uttarakhand implemented it first, and Gujarat passed its UCC Bill in March 2026."
+    },
+    {
+      "id": 45,
+      "type": "assertion-reason",
+      "text": "Assertion: BCCI decided to skip the opening ceremony at Chinnaswamy Stadium for IPL 2026. Reason: The stadium was completely destroyed in an earthquake.",
+      "assertion": true,
+      "reason": false,
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "The assertion is true, but the reason is fabricated. The ceremony was skipped for logistical/operational reasons, not an earthquake."
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "text": "According to reports from March 2026, which country topped the global pollution index?",
+      "options": [
+        "A. India",
+        "B. China",
+        "C. Bangladesh",
+        "D. Pakistan"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "explanation": "Pakistan topped the global pollution list, while India ranked sixth."
+    },
+    {
+      "id": 47,
+      "type": "fill-blank",
+      "text": "The Lok Sabha passed the ______ Rights Amendment Bill in March 2026 to advance LGBTQ+ protections.",
+      "answer": "Transgender",
+      "difficulty": "medium",
+      "explanation": "The Transgender Rights Amendment Bill 2026 was passed to strengthen protections."
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "text": "What is 'Akasha300 3D', delivered to ISRO by Spacetime 4D?",
+      "options": [
+        "A. A 3D mapping satellite",
+        "B. A 3D printer",
+        "C. A 3D space telescope",
+        "D. A 3D imaging system"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Akasha300 3D is a 3D printer delivered for space applications."
+    },
+    {
+      "id": 49,
+      "type": "true-false",
+      "text": "The Ayush Ministry launched an in-flight yoga routine for air travellers in March 2026.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "This innovative initiative aims to promote wellness during air travel."
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "text": "Which hill was declared a National Geo-Heritage Site in March 2026?",
+      "options": [
+        "A. Vindhya Hills",
+        "B. Aravallis",
+        "C. Kalinjar Hill",
+        "D. Satpura Range"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "Kalinjar Hill was declared a National Geo-Heritage Site, recognizing its geological importance."
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "text": "Which Indian state launched the 'Green Corridor 2026' for electric vehicles?",
+      "options": [
+        "A. Tamil Nadu",
+        "B. Maharashtra",
+        "C. Karnataka",
+        "D. Telangana"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Maharashtra launched the Green Corridor 2026 to promote EV infrastructure on major highways."
+    },
+    {
+      "id": 52,
+      "type": "true-false",
+      "text": "The 2026 G20 Summit is scheduled to be held in Brazil.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Brazil holds the G20 presidency for the 2026 summit."
+    },
+    {
+      "id": 53,
+      "type": "fill-blank",
+      "text": "In April 2026, the RBI announced a new ______ policy to curb inflation.",
+      "answer": "monetary",
+      "difficulty": "easy",
+      "explanation": "The RBI frequently adjusts monetary policy to manage liquidity and inflation."
+    },
+    {
+      "id": 54,
+      "type": "multiple-correct",
+      "text": "Which of these Indian cities are part of the 'Smart City Mission'? (Select all correct)",
+      "options": [
+        "A. Pune",
+        "B. Surat",
+        "C. Indore",
+        "D. Bhubaneshwar",
+        "E. London"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "Pune, Surat, Indore, and Bhubaneshwar are prominent cities under the Smart City Mission."
+    },
+    {
+      "id": 55,
+      "type": "assertion-reason",
+      "text": "Assertion: Solar energy is becoming cheaper in India. Reason: Increased government subsidies and technological advancements have reduced costs.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Policy support and efficiency gains are driving down solar energy costs in India."
+    },
+    {
+      "id": 56,
+      "type": "mcq",
+      "text": "Who is the Chief Justice of India as of April 2026?",
+      "options": [
+        "A. DY Chandrachud",
+        "B. UU Lalit",
+        "C. NV Ramana",
+        "D. Sharad Bobde"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "D.Y. Chandrachud serves as the Chief Justice of India in 2026."
+    },
+    {
+      "id": 57,
+      "type": "true-false",
+      "text": "The 'Nari Shakti Vandan Adhiniyam' provides reservation for women in the Lok Sabha.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "The Women's Reservation Bill ensures 33% reservation for women in the Lok Sabha."
+    },
+    {
+      "id": 58,
+      "type": "fill-blank",
+      "text": "The Indian Navy's recent exercise in the Indian Ocean was named ______.",
+      "answer": "MILAN",
+      "difficulty": "medium",
+      "explanation": "Exercise MILAN is a major biennial naval exercise hosted by the Indian Navy."
+    },
+    {
+      "id": 59,
+      "type": "multiple-correct",
+      "text": "Which of these are major space agencies? (Select all correct)",
+      "options": [
+        "A. ISRO",
+        "B. NASA",
+        "C. ESA",
+        "D. JAXA",
+        "E. UNICEF"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "ISRO, NASA, ESA, and JAXA are national/regional space agencies. UNICEF is a child-focused UN organization."
+    },
+    {
+      "id": 60,
+      "type": "matching",
+      "text": "Match the government ministries to their ministers (as of April 2026):",
+      "pairs": [
+        [
+          "Finance",
+          "Nirmala Sitharaman"
+        ],
+        [
+          "External Affairs",
+          "S. Jaishankar"
+        ],
+        [
+          "Road Transport",
+          "Nitin Gadkari"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are current ministerial portfolios in the Indian government."
+    },
+    {
+      "id": 61,
+      "type": "mcq",
+      "text": "Which organization recently released the 'World Economic Outlook 2026' report?",
+      "options": [
+        "A. IMF",
+        "B. World Bank",
+        "C. WTO",
+        "D. UN"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "The IMF regularly publishes the World Economic Outlook report."
+    },
+    {
+      "id": 62,
+      "type": "true-false",
+      "text": "The 'Gaganyaan' mission aims to send Indian astronauts into space.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Gaganyaan is ISRO's human spaceflight program."
+    },
+    {
+      "id": 63,
+      "type": "fill-blank",
+      "text": "The new headquarters of the RBI is located in ______.",
+      "answer": "Mumbai",
+      "difficulty": "easy",
+      "explanation": "The central office of the Reserve Bank of India is in Mumbai."
+    },
+    {
+      "id": 64,
+      "type": "multiple-correct",
+      "text": "Which of these are sustainable energy types? (Select all correct)",
+      "options": [
+        "A. Wind",
+        "B. Solar",
+        "C. Hydroelectric",
+        "D. Coal",
+        "E. Diesel"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "easy",
+      "explanation": "Wind, solar, and hydroelectric are sustainable/renewable sources."
+    },
+    {
+      "id": 65,
+      "type": "assertion-reason",
+      "text": "Assertion: Global temperatures are rising. Reason: Greenhouse gas emissions from human activities are the primary cause.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Scientific consensus confirms that human-induced emissions are the primary driver of climate change."
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "text": "Who is the Prime Minister of the United Kingdom as of April 2026?",
+      "options": [
+        "A. Keir Starmer",
+        "B. Rishi Sunak",
+        "C. Boris Johnson",
+        "D. Liz Truss"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Keir Starmer serves as the UK Prime Minister."
+    },
+    {
+      "id": 67,
+      "type": "true-false",
+      "text": "The FIFA World Cup 2026 will be hosted by North America.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "USA, Canada, and Mexico are jointly hosting the 2026 FIFA World Cup."
+    },
+    {
+      "id": 68,
+      "type": "fill-blank",
+      "text": "The ______ agreement focuses on global climate change targets.",
+      "answer": "Paris",
+      "difficulty": "easy",
+      "explanation": "The Paris Agreement is an international treaty on climate change adopted in 2015."
+    },
+    {
+      "id": 69,
+      "type": "multiple-correct",
+      "text": "Which of these are Indian payment systems? (Select all correct)",
+      "options": [
+        "A. UPI",
+        "B. IMPS",
+        "C. RTGS",
+        "D. PayPal",
+        "E. Apple Pay"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "easy",
+      "explanation": "UPI, IMPS, and RTGS are key pillars of the Indian digital payment infrastructure."
+    },
+    {
+      "id": 70,
+      "type": "matching",
+      "text": "Match countries with their currencies:",
+      "pairs": [
+        [
+          "India",
+          "Rupee"
+        ],
+        [
+          "Japan",
+          "Yen"
+        ],
+        [
+          "USA",
+          "Dollar"
+        ],
+        [
+          "UK",
+          "Pound"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "easy",
+      "explanation": "These are the official legal tender for the specified countries."
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "text": "The 'Vande Bharat' trains are a symbol of which sector in India?",
+      "options": [
+        "A. Aviation",
+        "B. Railways",
+        "C. Shipping",
+        "D. Highways"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Vande Bharat trains represent the modernization of Indian Railways."
+    },
+    {
+      "id": 72,
+      "type": "true-false",
+      "text": "The G7 consists of seven industrialized nations.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "The G7 includes Canada, France, Germany, Italy, Japan, UK, and the US."
+    },
+    {
+      "id": 73,
+      "type": "fill-blank",
+      "text": "The ______ is the highest mountain in the world.",
+      "answer": "Everest",
+      "difficulty": "easy",
+      "explanation": "Mount Everest is the highest peak above sea level."
+    },
+    {
+      "id": 74,
+      "type": "multiple-correct",
+      "text": "Which of these are major social media platforms? (Select all correct)",
+      "options": [
+        "A. Instagram",
+        "B. X",
+        "C. LinkedIn",
+        "D. Reddit",
+        "E. Microsoft Word"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "Instagram, X, LinkedIn, and Reddit are prominent social media networks."
+    },
+    {
+      "id": 75,
+      "type": "assertion-reason",
+      "text": "Assertion: Inflation affects the purchasing power of money. Reason: Higher prices for goods and services mean one unit of currency buys less.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Inflation inherently reduces the amount of goods that can be bought for a fixed amount of currency."
+    },
+    {
+      "id": 76,
+      "type": "mcq",
+      "text": "Which state launched the 'Mission Shakti' for women's development?",
+      "options": [
+        "A. Odisha",
+        "B. West Bengal",
+        "C. Bihar",
+        "D. Punjab"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Odisha's Mission Shakti is a flagship program for women's self-help groups."
+    },
+    {
+      "id": 77,
+      "type": "true-false",
+      "text": "India is a member of the G20.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "India is a key member of the G20 group of major economies."
+    },
+    {
+      "id": 78,
+      "type": "fill-blank",
+      "text": "The ______ Bank was established in 1935 as the central bank of India.",
+      "answer": "Reserve",
+      "difficulty": "medium",
+      "explanation": "The Reserve Bank of India (RBI) was established on April 1, 1935."
+    },
+    {
+      "id": 79,
+      "type": "multiple-correct",
+      "text": "Which of these cities are in India? (Select all correct)",
+      "options": [
+        "A. Delhi",
+        "B. Mumbai",
+        "C. Chennai",
+        "D. Kolkata",
+        "E. Sydney"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "Delhi, Mumbai, Chennai, and Kolkata are major Indian cities."
+    },
+    {
+      "id": 80,
+      "type": "matching",
+      "text": "Match inventors to their inventions:",
+      "pairs": [
+        [
+          "Thomas Edison",
+          "Light Bulb"
+        ],
+        [
+          "Alexander Bell",
+          "Telephone"
+        ],
+        [
+          "Wright Brothers",
+          "Airplane"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These are world-changing historical inventions."
+    },
+    {
+      "id": 81,
+      "type": "mcq",
+      "text": "Which planet is known as the 'Red Planet'?",
+      "options": [
+        "A. Earth",
+        "B. Mars",
+        "C. Venus",
+        "D. Saturn"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Mars appears red due to iron oxide on its surface."
+    },
+    {
+      "id": 82,
+      "type": "true-false",
+      "text": "The Sun is a star.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "The Sun is a G-type main-sequence star at the center of our solar system."
+    },
+    {
+      "id": 83,
+      "type": "fill-blank",
+      "text": "The chemical symbol for water is ______.",
+      "answer": "H2O",
+      "difficulty": "easy",
+      "explanation": "H2O represents two hydrogen atoms and one oxygen atom."
+    },
+    {
+      "id": 84,
+      "type": "multiple-correct",
+      "text": "Which of these are continents? (Select all correct)",
+      "options": [
+        "A. Africa",
+        "B. Asia",
+        "C. Europe",
+        "D. India",
+        "E. Australia"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "easy",
+      "explanation": "Africa, Asia, Europe, and Australia are continents. India is a country."
+    },
+    {
+      "id": 85,
+      "type": "assertion-reason",
+      "text": "Assertion: Plants are green. Reason: They contain chlorophyll, which absorbs light for photosynthesis.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Chlorophyll gives plants their green color and is essential for converting light into energy."
+    },
+    {
+      "id": 86,
+      "type": "mcq",
+      "text": "Which is the largest country in the world by population?",
+      "options": [
+        "A. China",
+        "B. India",
+        "C. USA",
+        "D. Russia"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "India has the world's largest population."
+    },
+    {
+      "id": 87,
+      "type": "true-false",
+      "text": "The moon orbits the Earth.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "The Moon is Earth's only natural satellite, orbiting it once every 27.3 days."
+    },
+    {
+      "id": 88,
+      "type": "fill-blank",
+      "text": "The ______ is the center of our solar system.",
+      "answer": "Sun",
+      "difficulty": "easy",
+      "explanation": "Everything in our solar system orbits around the Sun."
+    },
+    {
+      "id": 89,
+      "type": "multiple-correct",
+      "text": "Which of these are noble gases? (Select all correct)",
+      "options": [
+        "A. Helium",
+        "B. Neon",
+        "C. Argon",
+        "D. Carbon",
+        "E. Oxygen"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "medium",
+      "explanation": "Helium, neon, and argon are noble gases in Group 18 of the periodic table."
+    },
+    {
+      "id": 90,
+      "type": "matching",
+      "text": "Match the following:",
+      "pairs": [
+        [
+          "Water",
+          "Liquid"
+        ],
+        [
+          "Ice",
+          "Solid"
+        ],
+        [
+          "Steam",
+          "Gas"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These are the three common states of water."
+    },
+    {
+      "id": 91,
+      "type": "mcq",
+      "text": "Which ocean is located between the US and Europe?",
+      "options": [
+        "A. Pacific",
+        "B. Indian",
+        "C. Atlantic",
+        "D. Arctic"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "The Atlantic Ocean separates North America from Europe and Africa."
+    },
+    {
+      "id": 92,
+      "type": "true-false",
+      "text": "A day on Earth is 24 hours.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "A day on Earth is defined by one full rotation on its axis, roughly 24 hours."
+    },
+    {
+      "id": 93,
+      "type": "fill-blank",
+      "text": "The ______ is the largest ocean on Earth.",
+      "answer": "Pacific",
+      "difficulty": "easy",
+      "explanation": "The Pacific Ocean is the largest and deepest of the five oceans."
+    },
+    {
+      "id": 94,
+      "type": "multiple-correct",
+      "text": "Which of these are renewable energy sources? (Select all correct)",
+      "options": [
+        "A. Solar",
+        "B. Wind",
+        "C. Oil",
+        "D. Hydro",
+        "E. Coal"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "Solar, wind, and hydro are renewable. Oil and coal are non-renewable."
+    },
+    {
+      "id": 95,
+      "type": "assertion-reason",
+      "text": "Assertion: Humans need oxygen to survive. Reason: Oxygen is vital for cellular respiration.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Oxygen is a primary reactant in the process that generates energy in our cells."
+    },
+    {
+      "id": 96,
+      "type": "mcq",
+      "text": "Who was the first person to step on the moon?",
+      "options": [
+        "A. Yuri Gagarin",
+        "B. Buzz Aldrin",
+        "C. Neil Armstrong",
+        "D. Michael Collins"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Neil Armstrong was the first human to step on the Moon in 1969."
+    },
+    {
+      "id": 97,
+      "type": "true-false",
+      "text": "The equator receives direct sunlight year-round.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Because of Earth's orientation, the equator is the region that receives the most direct solar energy."
+    },
+    {
+      "id": 98,
+      "type": "fill-blank",
+      "text": "The largest continent is ______.",
+      "answer": "Asia",
+      "difficulty": "easy",
+      "explanation": "Asia is the largest continent by both area and population."
+    },
+    {
+      "id": 99,
+      "type": "multiple-correct",
+      "text": "Which of these are planets in our solar system? (Select all correct)",
+      "options": [
+        "A. Mars",
+        "B. Jupiter",
+        "C. Venus",
+        "D. Moon",
+        "E. Saturn"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "easy",
+      "explanation": "Mars, Jupiter, Venus, and Saturn are planets. The Moon is a satellite."
+    },
+    {
+      "id": 100,
+      "type": "true-false",
+      "text": "Water freezes at 0 degrees Celsius.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "At sea-level atmospheric pressure, water freezes at 0°C."
+    }
+  ]
 }
