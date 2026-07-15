@@ -1,674 +1,1329 @@
 {
-"category": "Sports",
-"questions": [
-{
-"id": 1,
-"type": "mcq",
-"text": "How many players are on a soccer/football team on the field?",
-"options": [
-"A. 9",
-"B. 10",
-"C. 11",
-"D. 12"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Each team has 11 players on the field in association football."
-},
-{
-"id": 2,
-"type": "true-false",
-"text": "Wimbledon is the oldest tennis tournament in the world.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "Wimbledon was first held in 1877 and is the oldest major tennis tournament."
-},
-{
-"id": 3,
-"type": "mcq",
-"text": "In which country are the Olympics 2024 being held?",
-"options": [
-"A. USA",
-"B. France",
-"C. Japan",
-"D. Australia"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Paris, France hosted the 2024 Summer Olympics."
-},
-{
-"id": 4,
-"type": "mcq",
-"text": "Who won the men's singles at Australian Open 2024?",
-"options": [
-"A. Novak Djokovic",
-"B. Carlos Alcaraz",
-"C. Jannik Sinner",
-"D. Daniil Medvedev"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "Jannik Sinner won the Australian Open 2024 men's singles title."
-},
-{
-"id": 5,
-"type": "matching",
-"text": "Match sports with their governing bodies:",
-"pairs": [
-[
-"Cricket",
-"ICC"
-],
-[
-"Football",
-"FIFA"
-],
-[
-"Tennis",
-"ITF"
-],
-[
-"Basketball",
-"FIBA"
-]
-],
-"difficulty": "medium",
-"explanation": "These are the international governing bodies for each sport."
-},
-{
-"id": 6,
-"type": "true-false",
-"text": "The FIFA World Cup is held every 4 years.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "The FIFA World Cup tournament occurs every 4 years."
-},
-{
-"id": 7,
-"type": "mcq",
-"text": "Which team won the ICC Women's World Cup 2023?",
-"options": [
-"A. USA",
-"B. England",
-"C. Spain",
-"D. Australia"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "Spain won the FIFA Women's World Cup 2023."
-},
-{
-"id": 8,
-"type": "multiple-correct",
-"text": "Which sports are played with a ball? (Select all correct)",
-"options": [
-"A. Cricket",
-"B. Chess",
-"C. Badminton",
-"D. Swimming",
-"E. Tennis"
-],
-"answer": [
-"A",
-"C",
-"E"
-],
-"difficulty": "easy",
-"explanation": "Cricket, badminton, and tennis are ball sports. Chess and swimming don't use balls."
-},
-{
-"id": 9,
-"type": "assertion-reason",
-"text": "Assertion: Rohan Bopanna became world No. 1 in doubles tennis. Reason: He was the oldest person to achieve this ranking.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Both statements are accurate regarding Rohan Bopanna's achievement."
-},
-{
-"id": 10,
-"type": "mcq",
-"text": "The Wimbledon tennis tournament is played on which surface?",
-"options": [
-"A. Hard court",
-"B. Clay",
-"C. Grass",
-"D. Synthetic"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Wimbledon is famous for its grass courts, the only Grand Slam on grass."
-},
-{
-"id": 11,
-"type": "mcq",
-"text": "Which country won the ICC Men's Cricket World Cup in 2023?",
-"options": [
-"A. India",
-"B. Australia",
-"C. England",
-"D. New Zealand"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Australia defeated India in the final to win the ICC Men's Cricket World Cup 2023."
-},
-{
-"id": 12,
-"type": "true-false",
-"text": "Michael Phelps holds the record for the most Olympic gold medals won by an individual.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "Michael Phelps won 23 Olympic gold medals during his swimming career, the most by any athlete."
-},
-{
-"id": 13,
-"type": "fill-blank",
-"text": "The scoring term 'birdie' is primarily used in the sport of ______.",
-"answer": "Golf",
-"difficulty": "easy",
-"explanation": "In golf, a birdie means scoring one stroke under par on a hole."
-},
-{
-"id": 14,
-"type": "multiple-correct",
-"text": "Which of these players have won the prestigious FIFA Ballon d'Or multiple times? (Select all correct)",
-"options": [
-"A. Lionel Messi",
-"B. Cristiano Ronaldo",
-"C. Neymar",
-"D. Michel Platini",
-"E. Wayne Rooney"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "medium",
-"explanation": "Messi, Ronaldo, and Platini have all won multiple Ballon d'Or awards. Neymar and Rooney have not."
-},
-{
-"id": 15,
-"type": "assertion-reason",
-"text": "Assertion: Test cricket is considered the longest format of the game. Reason: A standard Test match is scheduled to be played over five consecutive days.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "easy",
-"explanation": "Both statements are correct, and the five-day duration is exactly why it is the longest format."
-},
-{
-"id": 16,
-"type": "matching",
-"text": "Match the legendary athletes to their primary sport:",
-"pairs": [
-[
-"Usain Bolt",
-"Sprinting"
-],
-[
-"Muhammad Ali",
-"Boxing"
-],
-[
-"Tiger Woods",
-"Golf"
-]
-],
-"difficulty": "easy",
-"explanation": "These athletes are considered among the greatest of all time in their respective sports."
-},
-{
-"id": 17,
-"type": "mcq",
-"text": "In standard basketball rules, how many points is a successful free throw worth?",
-"options": [
-"A. 1",
-"B. 2",
-"C. 3",
-"D. 4"
-],
-"answer": "A",
-"difficulty": "easy",
-"explanation": "A free throw in basketball is awarded after a foul and is worth 1 point."
-},
-{
-"id": 18,
-"type": "true-false",
-"text": "A standard professional baseball game consists of exactly 9 innings.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "Major League Baseball games are played over 9 innings, unless there is a tie requiring extra innings."
-},
-{
-"id": 19,
-"type": "fill-blank",
-"text": "The official national winter sport of Canada is ice ______.",
-"answer": "hockey",
-"difficulty": "easy",
-"explanation": "Ice hockey is deeply ingrained in Canadian culture and is their official national winter sport."
-},
-{
-"id": 20,
-"type": "multiple-correct",
-"text": "Which of the following events are part of a standard Men's Decathlon? (Select all correct)",
-"options": [
-"A. 100m sprint",
-"B. Long jump",
-"C. Swimming",
-"D. Shot put",
-"E. Gymnastics"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "hard",
-"explanation": "The Decathlon consists of 10 track and field events, including the 100m, long jump, and shot put, but not swimming or gymnastics."
-},
-{
-"id": 21,
-"type": "assertion-reason",
-"text": "Assertion: Simone Biles is widely regarded as one of the greatest gymnasts of all time. Reason: She has won the most World Championship medals in gymnastics history.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Both statements are true. Her record-breaking medal count is a primary reason for her GOAT status in gymnastics."
-},
-{
-"id": 22,
-"type": "matching",
-"text": "Match the Grand Slam tennis tournaments with their traditional host cities:",
-"pairs": [
-[
-"French Open",
-"Paris"
-],
-[
-"US Open",
-"New York"
-],
-[
-"Australian Open",
-"Melbourne"
-]
-],
-"difficulty": "medium",
-"explanation": "These are the permanent host cities for three of the four tennis Grand Slams."
-},
-{
-"id": 23,
-"type": "mcq",
-"text": "Who holds the current world record for the men's 100m sprint?",
-"options": [
-"A. Tyson Gay",
-"B. Yohan Blake",
-"C. Justin Gatlin",
-"D. Usain Bolt"
-],
-"answer": "D",
-"difficulty": "easy",
-"explanation": "Usain Bolt set the world record of 9.58 seconds at the 2009 World Athletics Championships in Berlin."
-},
-{
-"id": 24,
-"type": "true-false",
-"text": "The Tour de France is an annual multi-stage bicycle race primarily held in France.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "It is the most prestigious and difficult bicycle race in the world, held annually since 1903."
-},
-{
-"id": 25,
-"type": "fill-blank",
-"text": "An official marathon race has a standard distance of exactly ______ miles.",
-"answer": "26.2",
-"difficulty": "medium",
-"explanation": "The official distance of a marathon is 26.2 miles, or 42.195 kilometers."
-},
-{
-"id": 26,
-"type": "multiple-correct",
-"text": "Which of the following national teams have won the FIFA Men's World Cup? (Select all correct)",
-"options": [
-"A. Brazil",
-"B. Germany",
-"C. Netherlands",
-"D. Italy",
-"E. Belgium"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "medium",
-"explanation": "Brazil, Germany, and Italy have all won multiple World Cups. The Netherlands and Belgium have never won."
-},
-{
-"id": 27,
-"type": "assertion-reason",
-"text": "Assertion: The yellow jersey (maillot jaune) in the Tour de France is highly coveted. Reason: It is worn by the rider who is the current overall time leader of the race.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Both statements are correct, and being the overall time leader is the exact reason the jersey is awarded."
-},
-{
-"id": 28,
-"type": "matching",
-"text": "Match the NBA franchises to their home cities:",
-"pairs": [
-[
-"Lakers",
-"Los Angeles"
-],
-[
-"Bulls",
-"Chicago"
-],
-[
-"Celtics",
-"Boston"
-]
-],
-"difficulty": "easy",
-"explanation": "These are three of the most historic and successful franchises in NBA history."
-},
-{
-"id": 29,
-"type": "mcq",
-"text": "Which piece in chess is generally considered the most powerful due to its movement capabilities?",
-"options": [
-"A. Knight",
-"B. Rook",
-"C. King",
-"D. Queen"
-],
-"answer": "D",
-"difficulty": "easy",
-"explanation": "The Queen is the most powerful piece as it can move any number of squares vertically, horizontally, or diagonally."
-},
-{
-"id": 30,
-"type": "true-false",
-"text": "In volleyball, a team is allowed a maximum of three touches to return the ball over the net.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "A team can touch the ball up to three times (usually a bump, set, and spike) before it must cross the net."
-},
-{
-"id": 31,
-"type": "fill-blank",
-"text": "The Ryder Cup is a famous biennial men's team competition in the sport of ______.",
-"answer": "golf",
-"difficulty": "medium",
-"explanation": "The Ryder Cup pits teams of professional golfers from Europe against a team from the United States."
-},
-{
-"id": 32,
-"type": "multiple-correct",
-"text": "Which of the following are official strokes used in competitive Olympic swimming? (Select all correct)",
-"options": [
-"A. Butterfly",
-"B. Dog paddle",
-"C. Backstroke",
-"D. Breaststroke",
-"E. Freestyle"
-],
-"answer": [
-"A",
-"C",
-"D",
-"E"
-],
-"difficulty": "easy",
-"explanation": "Butterfly, backstroke, breaststroke, and freestyle are the four official competitive swimming strokes."
-},
-{
-"id": 33,
-"type": "assertion-reason",
-"text": "Assertion: Formula 1 cars are designed with large aerodynamic wings. Reason: The wings generate downforce to push the car into the track, increasing cornering speeds and traction.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Both statements are true. Aerodynamic downforce is critical for modern F1 cars to take corners at high speeds."
-},
-{
-"id": 34,
-"type": "matching",
-"text": "Match the martial arts disciplines to their country of origin:",
-"pairs": [
-[
-"Judo",
-"Japan"
-],
-[
-"Taekwondo",
-"South Korea"
-],
-[
-"Kung Fu",
-"China"
-]
-],
-"difficulty": "medium",
-"explanation": "These martial arts are deeply rooted in the history and culture of their respective originating nations."
-},
-{
-"id": 35,
-"type": "mcq",
-"text": "How many pockets are there on a standard snooker or pool table?",
-"options": [
-"A. 4",
-"B. 6",
-"C. 8",
-"D. 10"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "There are six pockets: one in each of the four corners, and one in the middle of each of the two long cushions."
-},
-{
-"id": 36,
-"type": "true-false",
-"text": "The Thomas Cup is a major international team tournament in men's badminton.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "The Thomas Cup is the premier international men's team championship in badminton, analogous to the Davis Cup in tennis."
-},
-{
-"id": 37,
-"type": "fill-blank",
-"text": "In ten-pin bowling, scoring three consecutive strikes is commonly known as a ______.",
-"answer": "turkey",
-"difficulty": "medium",
-"explanation": "The term 'turkey' is a long-standing bowling slang for three strikes in a row."
-},
-{
-"id": 38,
-"type": "multiple-correct",
-"text": "Which of these athletes are famous for their careers in Formula 1 racing? (Select all correct)",
-"options": [
-"A. Lewis Hamilton",
-"B. Max Verstappen",
-"C. Valentino Rossi",
-"D. Fernando Alonso",
-"E. Roger Federer"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "medium",
-"explanation": "Hamilton, Verstappen, and Alonso are F1 World Champions. Rossi is a MotoGP legend, and Federer plays tennis."
-},
-{
-"id": 39,
-"type": "assertion-reason",
-"text": "Assertion: A 'hat-trick' in football refers to a single player scoring three goals in one game. Reason: The term originated from a 19th-century British cricket tradition of presenting a hat to a bowler who took three wickets with three consecutive deliveries.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Both statements are true, and the origin in cricket explains how the term made its way into other sports like football and hockey."
-},
-{
-"id": 40,
-"type": "matching",
-"text": "Match the famous sports trophies to the sport they belong to:",
-"pairs": [
-[
-"Stanley Cup",
-"Ice Hockey"
-],
-[
-"Vince Lombardi Trophy",
-"American Football"
-],
-[
-"The Ashes Urn",
-"Cricket"
-]
-],
-"difficulty": "medium",
-"explanation": "These are the pinnacle championship trophies for the NHL, NFL, and the England-Australia Test cricket series, respectively."
-},
-{
-"id": 41,
-"type": "mcq",
-"text": "The 'Super Bowl' is the annual championship game of which professional sports league?",
-"options": [
-"A. NBA",
-"B. MLB",
-"C. NFL",
-"D. NHL"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The Super Bowl is the championship game of the National Football League (NFL)."
-},
-{
-"id": 42,
-"type": "true-false",
-"text": "In rugby union, a successfully scored 'try' is worth 5 points.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "A try, scored by grounding the ball in the opponent's in-goal area, awards 5 points to the attacking team."
-},
-{
-"id": 43,
-"type": "fill-blank",
-"text": "The maximum possible break (score in a single visit to the table) without fouls in a standard game of snooker is ______.",
-"answer": "147",
-"difficulty": "hard",
-"explanation": "A maximum break involves potting all 15 reds with 15 blacks, followed by all six colors in sequence, totaling 147 points."
-},
-{
-"id": 44,
-"type": "multiple-correct",
-"text": "Which of the following sports are featured in the Winter Olympic Games? (Select all correct)",
-"options": [
-"A. Figure Skating",
-"B. Curling",
-"C. Surfing",
-"D. Snowboarding",
-"E. Beach Volleyball"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "easy",
-"explanation": "Figure skating, curling, and snowboarding are Winter Olympic sports. Surfing and beach volleyball are in the Summer Games."
-},
-{
-"id": 45,
-"type": "assertion-reason",
-"text": "Assertion: The sport of table tennis has been historically dominated by Asian countries at the Olympics. Reason: China has won the vast majority of all available gold medals in Olympic table tennis history.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Both statements are correct. China's sheer dominance in the sport validates the assertion."
-},
-{
-"id": 46,
-"type": "matching",
-"text": "Match the soccer (football) positions to their primary on-field role:",
-"pairs": [
-[
-"Goalkeeper",
-"Stops the ball from entering the net"
-],
-[
-"Striker",
-"Primary goal scorer"
-],
-[
-"Defender",
-"Prevents the opposition from attacking"
-]
-],
-"difficulty": "easy",
-"explanation": "These are the fundamental responsibilities of the basic positions in soccer."
-},
-{
-"id": 47,
-"type": "mcq",
-"text": "The 'All Blacks' rugby team, known for performing the Haka before matches, represents which country?",
-"options": [
-"A. Australia",
-"B. South Africa",
-"C. England",
-"D. New Zealand"
-],
-"answer": "D",
-"difficulty": "medium",
-"explanation": "The New Zealand national rugby union team performs the traditional Māori Haka to challenge their opponents."
-},
-{
-"id": 48,
-"type": "true-false",
-"text": "In field hockey, players are allowed to use both the flat side and the rounded side of their stick to hit the ball.",
-"answer": false,
-"difficulty": "medium",
-"explanation": "Players are only permitted to use the flat side of the stick; using the rounded back side is a foul."
-},
-{
-"id": 49,
-"type": "fill-blank",
-"text": "The definitive winning condition in a game of chess, where the opponent's king is inescapably under attack, is called ______.",
-"answer": "checkmate",
-"difficulty": "easy",
-"explanation": "Checkmate ends the game immediately, declaring the attacking player the winner."
-},
-{
-"id": 50,
-"type": "multiple-correct",
-"text": "Which of these Grand Slam tennis tournaments are played on hard courts? (Select all correct)",
-"options": [
-"A. Australian Open",
-"B. French Open",
-"C. Wimbledon",
-"D. US Open",
-"E. Davis Cup"
-],
-"answer": [
-"A",
-"D"
-],
-"difficulty": "medium",
-"explanation": "The Australian Open and US Open are played on hard courts. The French Open is on clay, and Wimbledon is on grass. The Davis Cup is not a Grand Slam tournament."
-}
-]
+  "category": "Sports",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "text": "How many players are on a soccer/football team on the field?",
+      "options": [
+        "A. 9",
+        "B. 10",
+        "C. 11",
+        "D. 12"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Each team has 11 players on the field in association football."
+    },
+    {
+      "id": 2,
+      "type": "true-false",
+      "text": "Wimbledon is the oldest tennis tournament in the world.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Wimbledon was first held in 1877 and is the oldest major tennis tournament."
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "text": "In which country are the Olympics 2024 being held?",
+      "options": [
+        "A. USA",
+        "B. France",
+        "C. Japan",
+        "D. Australia"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Paris, France hosted the 2024 Summer Olympics."
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "text": "Who won the men's singles at Australian Open 2024?",
+      "options": [
+        "A. Novak Djokovic",
+        "B. Carlos Alcaraz",
+        "C. Jannik Sinner",
+        "D. Daniil Medvedev"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "Jannik Sinner won the Australian Open 2024 men's singles title."
+    },
+    {
+      "id": 5,
+      "type": "matching",
+      "text": "Match sports with their governing bodies:",
+      "pairs": [
+        [
+          "Cricket",
+          "ICC"
+        ],
+        [
+          "Football",
+          "FIFA"
+        ],
+        [
+          "Tennis",
+          "ITF"
+        ],
+        [
+          "Basketball",
+          "FIBA"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are the international governing bodies for each sport."
+    },
+    {
+      "id": 6,
+      "type": "true-false",
+      "text": "The FIFA World Cup is held every 4 years.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "The FIFA World Cup tournament occurs every 4 years."
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "text": "Which team won the ICC Women's World Cup 2023?",
+      "options": [
+        "A. USA",
+        "B. England",
+        "C. Spain",
+        "D. Australia"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "Spain won the FIFA Women's World Cup 2023."
+    },
+    {
+      "id": 8,
+      "type": "multiple-correct",
+      "text": "Which sports are played with a ball? (Select all correct)",
+      "options": [
+        "A. Cricket",
+        "B. Chess",
+        "C. Badminton",
+        "D. Swimming",
+        "E. Tennis"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "difficulty": "easy",
+      "explanation": "Cricket, badminton, and tennis are ball sports. Chess and swimming don't use balls."
+    },
+    {
+      "id": 9,
+      "type": "assertion-reason",
+      "text": "Assertion: Rohan Bopanna became world No. 1 in doubles tennis. Reason: He was the oldest person to achieve this ranking.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are accurate regarding Rohan Bopanna's achievement."
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "text": "The Wimbledon tennis tournament is played on which surface?",
+      "options": [
+        "A. Hard court",
+        "B. Clay",
+        "C. Grass",
+        "D. Synthetic"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Wimbledon is famous for its grass courts, the only Grand Slam on grass."
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "text": "Which country won the ICC Men's Cricket World Cup in 2023?",
+      "options": [
+        "A. India",
+        "B. Australia",
+        "C. England",
+        "D. New Zealand"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Australia defeated India in the final to win the ICC Men's Cricket World Cup 2023."
+    },
+    {
+      "id": 12,
+      "type": "true-false",
+      "text": "Michael Phelps holds the record for the most Olympic gold medals won by an individual.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Michael Phelps won 23 Olympic gold medals during his swimming career, the most by any athlete."
+    },
+    {
+      "id": 13,
+      "type": "fill-blank",
+      "text": "The scoring term 'birdie' is primarily used in the sport of ______.",
+      "answer": "Golf",
+      "difficulty": "easy",
+      "explanation": "In golf, a birdie means scoring one stroke under par on a hole."
+    },
+    {
+      "id": 14,
+      "type": "multiple-correct",
+      "text": "Which of these players have won the prestigious FIFA Ballon d'Or multiple times? (Select all correct)",
+      "options": [
+        "A. Lionel Messi",
+        "B. Cristiano Ronaldo",
+        "C. Neymar",
+        "D. Michel Platini",
+        "E. Wayne Rooney"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Messi, Ronaldo, and Platini have all won multiple Ballon d'Or awards. Neymar and Rooney have not."
+    },
+    {
+      "id": 15,
+      "type": "assertion-reason",
+      "text": "Assertion: Test cricket is considered the longest format of the game. Reason: A standard Test match is scheduled to be played over five consecutive days.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Both statements are correct, and the five-day duration is exactly why it is the longest format."
+    },
+    {
+      "id": 16,
+      "type": "matching",
+      "text": "Match the legendary athletes to their primary sport:",
+      "pairs": [
+        [
+          "Usain Bolt",
+          "Sprinting"
+        ],
+        [
+          "Muhammad Ali",
+          "Boxing"
+        ],
+        [
+          "Tiger Woods",
+          "Golf"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These athletes are considered among the greatest of all time in their respective sports."
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "text": "In standard basketball rules, how many points is a successful free throw worth?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "A free throw in basketball is awarded after a foul and is worth 1 point."
+    },
+    {
+      "id": 18,
+      "type": "true-false",
+      "text": "A standard professional baseball game consists of exactly 9 innings.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Major League Baseball games are played over 9 innings, unless there is a tie requiring extra innings."
+    },
+    {
+      "id": 19,
+      "type": "fill-blank",
+      "text": "The official national winter sport of Canada is ice ______.",
+      "answer": "hockey",
+      "difficulty": "easy",
+      "explanation": "Ice hockey is deeply ingrained in Canadian culture and is their official national winter sport."
+    },
+    {
+      "id": 20,
+      "type": "multiple-correct",
+      "text": "Which of the following events are part of a standard Men's Decathlon? (Select all correct)",
+      "options": [
+        "A. 100m sprint",
+        "B. Long jump",
+        "C. Swimming",
+        "D. Shot put",
+        "E. Gymnastics"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Decathlon consists of 10 track and field events, including the 100m, long jump, and shot put, but not swimming or gymnastics."
+    },
+    {
+      "id": 21,
+      "type": "assertion-reason",
+      "text": "Assertion: Simone Biles is widely regarded as one of the greatest gymnasts of all time. Reason: She has won the most World Championship medals in gymnastics history.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are true. Her record-breaking medal count is a primary reason for her GOAT status in gymnastics."
+    },
+    {
+      "id": 22,
+      "type": "matching",
+      "text": "Match the Grand Slam tennis tournaments with their traditional host cities:",
+      "pairs": [
+        [
+          "French Open",
+          "Paris"
+        ],
+        [
+          "US Open",
+          "New York"
+        ],
+        [
+          "Australian Open",
+          "Melbourne"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are the permanent host cities for three of the four tennis Grand Slams."
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "text": "Who holds the current world record for the men's 100m sprint?",
+      "options": [
+        "A. Tyson Gay",
+        "B. Yohan Blake",
+        "C. Justin Gatlin",
+        "D. Usain Bolt"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "explanation": "Usain Bolt set the world record of 9.58 seconds at the 2009 World Athletics Championships in Berlin."
+    },
+    {
+      "id": 24,
+      "type": "true-false",
+      "text": "The Tour de France is an annual multi-stage bicycle race primarily held in France.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "It is the most prestigious and difficult bicycle race in the world, held annually since 1903."
+    },
+    {
+      "id": 25,
+      "type": "fill-blank",
+      "text": "An official marathon race has a standard distance of exactly ______ miles.",
+      "answer": "26.2",
+      "difficulty": "medium",
+      "explanation": "The official distance of a marathon is 26.2 miles, or 42.195 kilometers."
+    },
+    {
+      "id": 26,
+      "type": "multiple-correct",
+      "text": "Which of the following national teams have won the FIFA Men's World Cup? (Select all correct)",
+      "options": [
+        "A. Brazil",
+        "B. Germany",
+        "C. Netherlands",
+        "D. Italy",
+        "E. Belgium"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Brazil, Germany, and Italy have all won multiple World Cups. The Netherlands and Belgium have never won."
+    },
+    {
+      "id": 27,
+      "type": "assertion-reason",
+      "text": "Assertion: The yellow jersey (maillot jaune) in the Tour de France is highly coveted. Reason: It is worn by the rider who is the current overall time leader of the race.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct, and being the overall time leader is the exact reason the jersey is awarded."
+    },
+    {
+      "id": 28,
+      "type": "matching",
+      "text": "Match the NBA franchises to their home cities:",
+      "pairs": [
+        [
+          "Lakers",
+          "Los Angeles"
+        ],
+        [
+          "Bulls",
+          "Chicago"
+        ],
+        [
+          "Celtics",
+          "Boston"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These are three of the most historic and successful franchises in NBA history."
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "text": "Which piece in chess is generally considered the most powerful due to its movement capabilities?",
+      "options": [
+        "A. Knight",
+        "B. Rook",
+        "C. King",
+        "D. Queen"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "explanation": "The Queen is the most powerful piece as it can move any number of squares vertically, horizontally, or diagonally."
+    },
+    {
+      "id": 30,
+      "type": "true-false",
+      "text": "In volleyball, a team is allowed a maximum of three touches to return the ball over the net.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "A team can touch the ball up to three times (usually a bump, set, and spike) before it must cross the net."
+    },
+    {
+      "id": 31,
+      "type": "fill-blank",
+      "text": "The Ryder Cup is a famous biennial men's team competition in the sport of ______.",
+      "answer": "golf",
+      "difficulty": "medium",
+      "explanation": "The Ryder Cup pits teams of professional golfers from Europe against a team from the United States."
+    },
+    {
+      "id": 32,
+      "type": "multiple-correct",
+      "text": "Which of the following are official strokes used in competitive Olympic swimming? (Select all correct)",
+      "options": [
+        "A. Butterfly",
+        "B. Dog paddle",
+        "C. Backstroke",
+        "D. Breaststroke",
+        "E. Freestyle"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "difficulty": "easy",
+      "explanation": "Butterfly, backstroke, breaststroke, and freestyle are the four official competitive swimming strokes."
+    },
+    {
+      "id": 33,
+      "type": "assertion-reason",
+      "text": "Assertion: Formula 1 cars are designed with large aerodynamic wings. Reason: The wings generate downforce to push the car into the track, increasing cornering speeds and traction.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are true. Aerodynamic downforce is critical for modern F1 cars to take corners at high speeds."
+    },
+    {
+      "id": 34,
+      "type": "matching",
+      "text": "Match the martial arts disciplines to their country of origin:",
+      "pairs": [
+        [
+          "Judo",
+          "Japan"
+        ],
+        [
+          "Taekwondo",
+          "South Korea"
+        ],
+        [
+          "Kung Fu",
+          "China"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These martial arts are deeply rooted in the history and culture of their respective originating nations."
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "text": "How many pockets are there on a standard snooker or pool table?",
+      "options": [
+        "A. 4",
+        "B. 6",
+        "C. 8",
+        "D. 10"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "There are six pockets: one in each of the four corners, and one in the middle of each of the two long cushions."
+    },
+    {
+      "id": 36,
+      "type": "true-false",
+      "text": "The Thomas Cup is a major international team tournament in men's badminton.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "The Thomas Cup is the premier international men's team championship in badminton, analogous to the Davis Cup in tennis."
+    },
+    {
+      "id": 37,
+      "type": "fill-blank",
+      "text": "In ten-pin bowling, scoring three consecutive strikes is commonly known as a ______.",
+      "answer": "turkey",
+      "difficulty": "medium",
+      "explanation": "The term 'turkey' is a long-standing bowling slang for three strikes in a row."
+    },
+    {
+      "id": 38,
+      "type": "multiple-correct",
+      "text": "Which of these athletes are famous for their careers in Formula 1 racing? (Select all correct)",
+      "options": [
+        "A. Lewis Hamilton",
+        "B. Max Verstappen",
+        "C. Valentino Rossi",
+        "D. Fernando Alonso",
+        "E. Roger Federer"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Hamilton, Verstappen, and Alonso are F1 World Champions. Rossi is a MotoGP legend, and Federer plays tennis."
+    },
+    {
+      "id": 39,
+      "type": "assertion-reason",
+      "text": "Assertion: A 'hat-trick' in football refers to a single player scoring three goals in one game. Reason: The term originated from a 19th-century British cricket tradition of presenting a hat to a bowler who took three wickets with three consecutive deliveries.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are true, and the origin in cricket explains how the term made its way into other sports like football and hockey."
+    },
+    {
+      "id": 40,
+      "type": "matching",
+      "text": "Match the famous sports trophies to the sport they belong to:",
+      "pairs": [
+        [
+          "Stanley Cup",
+          "Ice Hockey"
+        ],
+        [
+          "Vince Lombardi Trophy",
+          "American Football"
+        ],
+        [
+          "The Ashes Urn",
+          "Cricket"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are the pinnacle championship trophies for the NHL, NFL, and the England-Australia Test cricket series, respectively."
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "text": "The 'Super Bowl' is the annual championship game of which professional sports league?",
+      "options": [
+        "A. NBA",
+        "B. MLB",
+        "C. NFL",
+        "D. NHL"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "The Super Bowl is the championship game of the National Football League (NFL)."
+    },
+    {
+      "id": 42,
+      "type": "true-false",
+      "text": "In rugby union, a successfully scored 'try' is worth 5 points.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "A try, scored by grounding the ball in the opponent's in-goal area, awards 5 points to the attacking team."
+    },
+    {
+      "id": 43,
+      "type": "fill-blank",
+      "text": "The maximum possible break (score in a single visit to the table) without fouls in a standard game of snooker is ______.",
+      "answer": "147",
+      "difficulty": "hard",
+      "explanation": "A maximum break involves potting all 15 reds with 15 blacks, followed by all six colors in sequence, totaling 147 points."
+    },
+    {
+      "id": 44,
+      "type": "multiple-correct",
+      "text": "Which of the following sports are featured in the Winter Olympic Games? (Select all correct)",
+      "options": [
+        "A. Figure Skating",
+        "B. Curling",
+        "C. Surfing",
+        "D. Snowboarding",
+        "E. Beach Volleyball"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "Figure skating, curling, and snowboarding are Winter Olympic sports. Surfing and beach volleyball are in the Summer Games."
+    },
+    {
+      "id": 45,
+      "type": "assertion-reason",
+      "text": "Assertion: The sport of table tennis has been historically dominated by Asian countries at the Olympics. Reason: China has won the vast majority of all available gold medals in Olympic table tennis history.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct. China's sheer dominance in the sport validates the assertion."
+    },
+    {
+      "id": 46,
+      "type": "matching",
+      "text": "Match the soccer (football) positions to their primary on-field role:",
+      "pairs": [
+        [
+          "Goalkeeper",
+          "Stops the ball from entering the net"
+        ],
+        [
+          "Striker",
+          "Primary goal scorer"
+        ],
+        [
+          "Defender",
+          "Prevents the opposition from attacking"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These are the fundamental responsibilities of the basic positions in soccer."
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "text": "The 'All Blacks' rugby team, known for performing the Haka before matches, represents which country?",
+      "options": [
+        "A. Australia",
+        "B. South Africa",
+        "C. England",
+        "D. New Zealand"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "explanation": "The New Zealand national rugby union team performs the traditional Māori Haka to challenge their opponents."
+    },
+    {
+      "id": 48,
+      "type": "true-false",
+      "text": "In field hockey, players are allowed to use both the flat side and the rounded side of their stick to hit the ball.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "Players are only permitted to use the flat side of the stick; using the rounded back side is a foul."
+    },
+    {
+      "id": 49,
+      "type": "fill-blank",
+      "text": "The definitive winning condition in a game of chess, where the opponent's king is inescapably under attack, is called ______.",
+      "answer": "checkmate",
+      "difficulty": "easy",
+      "explanation": "Checkmate ends the game immediately, declaring the attacking player the winner."
+    },
+    {
+      "id": 50,
+      "type": "multiple-correct",
+      "text": "Which of these Grand Slam tennis tournaments are played on hard courts? (Select all correct)",
+      "options": [
+        "A. Australian Open",
+        "B. French Open",
+        "C. Wimbledon",
+        "D. US Open",
+        "E. Davis Cup"
+      ],
+      "answer": [
+        "A",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Australian Open and US Open are played on hard courts. The French Open is on clay, and Wimbledon is on grass. The Davis Cup is not a Grand Slam tournament."
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "text": "In professional golf, what piece of clothing is traditionally awarded to the winner of the Masters Tournament?",
+      "options": [
+        "A. A gold belt",
+        "B. A green jacket",
+        "C. A red cap",
+        "D. A silver glove"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "The iconic Green Jacket has been awarded to the winner of the Masters Tournament at Augusta National since 1949."
+    },
+    {
+      "id": 52,
+      "type": "true-false",
+      "text": "In baseball, a 'perfect game' occurs when a pitcher prevents any opposing player from reaching base during the entire game.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "A perfect game means no hits, no walks, and no errors allowing a runner on base for all nine innings (27 batters)."
+    },
+    {
+      "id": 53,
+      "type": "fill-blank",
+      "text": "The projectile hit back and forth over the net in a game of badminton is officially called a ______.",
+      "answer": "shuttlecock",
+      "difficulty": "easy",
+      "explanation": "Also known informally as a 'birdie', the shuttlecock is uniquely designed to be aerodynamically stable."
+    },
+    {
+      "id": 54,
+      "type": "multiple-correct",
+      "text": "Which of the following apparatuses are used in Women's Artistic Gymnastics? (Select all correct)",
+      "options": [
+        "A. Balance Beam",
+        "B. Pommel Horse",
+        "C. Uneven Bars",
+        "D. Still Rings",
+        "E. Vault"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "difficulty": "hard",
+      "explanation": "Women compete on vault, uneven bars, balance beam, and floor exercise. Pommel horse and still rings are for men."
+    },
+    {
+      "id": 55,
+      "type": "matching",
+      "text": "Match the prominent sports tournament to its corresponding sport:",
+      "pairs": [
+        [
+          "Copa America",
+          "Football (Soccer)"
+        ],
+        [
+          "Six Nations Championship",
+          "Rugby"
+        ],
+        [
+          "World Series",
+          "Baseball"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are pinnacle tournaments in international football, European rugby, and American baseball."
+    },
+    {
+      "id": 56,
+      "type": "assertion-reason",
+      "text": "Assertion: South Korea has historically dominated Olympic archery. Reason: Archery is heavily integrated into their school sports programs and highly funded by national corporations.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct. Deep infrastructure and corporate sponsorship have made South Korea an archery powerhouse."
+    },
+    {
+      "id": 57,
+      "type": "mcq",
+      "text": "Which legendary boxer was famous for the quote 'Float like a butterfly, sting like a bee'?",
+      "options": [
+        "A. Mike Tyson",
+        "B. Joe Frazier",
+        "C. Muhammad Ali",
+        "D. George Foreman"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Muhammad Ali used this famous phrase to describe his fast-moving, hard-hitting boxing style."
+    },
+    {
+      "id": 58,
+      "type": "true-false",
+      "text": "A standard ice hockey puck is made entirely out of vulcanized rubber.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Vulcanized rubber is used because it can withstand massive impacts and slide smoothly on the ice when frozen."
+    },
+    {
+      "id": 59,
+      "type": "fill-blank",
+      "text": "The marathon race gets its name from a legendary run by a messenger originating from a battlefield in ancient ______.",
+      "answer": "Greece",
+      "difficulty": "medium",
+      "explanation": "The race is named after the Greek soldier Pheidippides, who reportedly ran from the Battle of Marathon to Athens."
+    },
+    {
+      "id": 60,
+      "type": "multiple-correct",
+      "text": "Which of the following are events in a standard modern Triathlon? (Select all correct)",
+      "options": [
+        "A. Cycling",
+        "B. Kayaking",
+        "C. Running",
+        "D. Swimming",
+        "E. Rowing"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "A standard triathlon is a continuous endurance race consisting of swimming, cycling, and running."
+    },
+    {
+      "id": 61,
+      "type": "matching",
+      "text": "Match the scoring terminology to its respective sport:",
+      "pairs": [
+        [
+          "Touchdown",
+          "American Football"
+        ],
+        [
+          "LBW (Leg Before Wicket)",
+          "Cricket"
+        ],
+        [
+          "Ace",
+          "Tennis"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are distinct and famous terms used for scoring or dismissing players in these sports."
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "text": "The famous multi-stage bicycle race known as the 'Giro d'Italia' is held primarily in which country?",
+      "options": [
+        "A. France",
+        "B. Spain",
+        "C. Italy",
+        "D. Switzerland"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "The Giro d'Italia is one of cycling's prestigious three Grand Tours, alongside the Tour de France and Vuelta a España."
+    },
+    {
+      "id": 63,
+      "type": "true-false",
+      "text": "In a standard game of water polo, each team has seven players in the water at one time.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "A team consists of six outfield players and one goalkeeper in the water."
+    },
+    {
+      "id": 64,
+      "type": "fill-blank",
+      "text": "The padded surface on which Olympic wrestling and judo matches take place is called a ______.",
+      "answer": "mat",
+      "difficulty": "easy",
+      "explanation": "Wrestling and judo both take place on specialized, shock-absorbing mats to protect the athletes."
+    },
+    {
+      "id": 65,
+      "type": "assertion-reason",
+      "text": "Assertion: The Decision Review System (DRS) was introduced in cricket to assist on-field umpires. Reason: It uses technologies like ball-tracking and edge-detection to overturn clear errors made by the umpires.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct. DRS utilizes Hawkeye, UltraEdge, and Snickometer to ensure fair play."
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "text": "Which Formula 1 constructor's team logo features a famous 'prancing horse'?",
+      "options": [
+        "A. Mercedes",
+        "B. Red Bull Racing",
+        "C. McLaren",
+        "D. Ferrari"
+      ],
+      "answer": "D",
+      "difficulty": "easy",
+      "explanation": "Scuderia Ferrari is the oldest and most successful team in F1, represented by the iconic 'Cavallino Rampante'."
+    },
+    {
+      "id": 67,
+      "type": "true-false",
+      "text": "A standard table tennis ball is solid all the way through to give it more weight.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Table tennis balls are completely hollow and very lightweight, made of celluloid or similar plastic material."
+    },
+    {
+      "id": 68,
+      "type": "fill-blank",
+      "text": "The traditional white uniform worn by practitioners of martial arts like Karate and Judo is called a ______.",
+      "answer": "gi",
+      "difficulty": "medium",
+      "explanation": "Derived from the Japanese word 'Keikogi', meaning training gear."
+    },
+    {
+      "id": 69,
+      "type": "multiple-correct",
+      "text": "Which of the following are scoring zones on a standard dartboard? (Select all correct)",
+      "options": [
+        "A. Bullseye",
+        "B. Outer Bull",
+        "C. Triple Ring",
+        "D. Double Ring",
+        "E. Foul Zone"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "The dartboard consists of the inner bullseye, outer bullseye, triple ring, and double ring. There is no 'Foul Zone'."
+    },
+    {
+      "id": 70,
+      "type": "matching",
+      "text": "Match the major North American sports leagues to their respective sports:",
+      "pairs": [
+        [
+          "NHL",
+          "Ice Hockey"
+        ],
+        [
+          "MLB",
+          "Baseball"
+        ],
+        [
+          "MLS",
+          "Soccer"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These acronyms stand for National Hockey League, Major League Baseball, and Major League Soccer."
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "text": "How many players make up a standard Rugby Union team on the pitch?",
+      "options": [
+        "A. 11",
+        "B. 13",
+        "C. 15",
+        "D. 18"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "Rugby Union is played with 15 players per team, whereas Rugby League is played with 13."
+    },
+    {
+      "id": 72,
+      "type": "true-false",
+      "text": "The International Olympic Committee (IOC) officially recognizes chess as a sport.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Yes, the IOC recognizes the World Chess Federation (FIDE) and classifies chess as a 'mind sport'."
+    },
+    {
+      "id": 73,
+      "type": "fill-blank",
+      "text": "In competitive tennis, a score of zero for a player is referred to as '______'.",
+      "answer": "love",
+      "difficulty": "easy",
+      "explanation": "It is widely believed to have originated from the French word for egg ('l'oeuf'), resembling a zero shape."
+    },
+    {
+      "id": 74,
+      "type": "assertion-reason",
+      "text": "Assertion: The 'Fosbury Flop' revolutionized the high jump event. Reason: Dick Fosbury realized that jumping over the bar backwards allowed his center of mass to pass under the bar, making higher jumps possible.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are correct. Fosbury introduced this technique at the 1968 Olympics, changing the sport forever."
+    },
+    {
+      "id": 75,
+      "type": "multiple-correct",
+      "text": "Which of the following positions are part of a baseball team's defense? (Select all correct)",
+      "options": [
+        "A. Shortstop",
+        "B. Catcher",
+        "C. Quarterback",
+        "D. Pitcher",
+        "E. Libero"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Shortstops, catchers, and pitchers play baseball. Quarterbacks are in American football, and liberos are in volleyball."
+    },
+    {
+      "id": 76,
+      "type": "matching",
+      "text": "Match the legendary sports venues to their primary sport:",
+      "pairs": [
+        [
+          "Wembley Stadium",
+          "Football (Soccer)"
+        ],
+        [
+          "Lord's",
+          "Cricket"
+        ],
+        [
+          "Augusta National",
+          "Golf"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are some of the most hallowed and historic grounds in their respective sports."
+    },
+    {
+      "id": 77,
+      "type": "mcq",
+      "text": "In volleyball, the defensive specialist who wears a different colored jersey from their teammates is called the:",
+      "options": [
+        "A. Setter",
+        "B. Libero",
+        "C. Blocker",
+        "D. Hitter"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "The libero is a back-row defensive specialist who cannot block or attack the ball above the net height."
+    },
+    {
+      "id": 78,
+      "type": "true-false",
+      "text": "In the game of snooker, potting the black ball awards the player 7 points.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "The black ball is the highest scoring ball on the table, worth 7 points."
+    },
+    {
+      "id": 79,
+      "type": "fill-blank",
+      "text": "The piece of equipment passed between runners during an athletics relay race is called a ______.",
+      "answer": "baton",
+      "difficulty": "easy",
+      "explanation": "A relay baton is a smooth, hollow tube passed from one teammate to the next."
+    },
+    {
+      "id": 80,
+      "type": "assertion-reason",
+      "text": "Assertion: The introduction of the three-point line dramatically changed NBA strategy. Reason: It incentivized players to shoot from further away by offering a higher point reward.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct. The modern 'pace and space' era is entirely built around the mathematical advantage of the three-point shot."
+    },
+    {
+      "id": 81,
+      "type": "mcq",
+      "text": "Which of these NFL teams is tied for having the most Super Bowl victories (6 wins)?",
+      "options": [
+        "A. Dallas Cowboys",
+        "B. Green Bay Packers",
+        "C. Kansas City Chiefs",
+        "D. Seattle Seahawks"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "The New England Patriots and the Pittsburgh Steelers are tied for the most with 6 wins each. Wait, the correct answer should be Pittsburgh or New England. *Correction: For this specific option set, I will use a different phrasing: Which NFL team has won 6 Super Bowls alongside the Patriots? A. Steelers.* \nWait, let's fix the question directly to ensure it matches the options: 'Which NFL team has won the most Super Bowls, tied at 6 with the New England Patriots?' \nOptions: A. Pittsburgh Steelers, B. Dallas Cowboys, C. Green Bay Packers, D. San Francisco 49ers. Answer: A. \nLet's re-write the question JSON below properly.",
+      "options": [
+        "A. Pittsburgh Steelers",
+        "B. Dallas Cowboys",
+        "C. Green Bay Packers",
+        "D. San Francisco 49ers"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 82,
+      "type": "true-false",
+      "text": "A standard feather shuttlecock used in professional badminton is made using exactly 16 goose or duck feathers.",
+      "answer": true,
+      "difficulty": "hard",
+      "explanation": "Professional shuttlecocks are tightly regulated and must contain exactly 16 feathers fixed into a cork base."
+    },
+    {
+      "id": 83,
+      "type": "fill-blank",
+      "text": "The maximum score a gymnast could achieve under the perfect scoring system popularized by Nadia Comăneci was a ______.",
+      "answer": "10",
+      "difficulty": "easy",
+      "explanation": "The 'Perfect 10' was the hallmark of Olympic gymnastics before the scoring system was changed to an open-ended code in 2006."
+    },
+    {
+      "id": 84,
+      "type": "multiple-correct",
+      "text": "Which of these are the four major championships (Majors) in men's professional golf? (Select all correct)",
+      "options": [
+        "A. The Masters",
+        "B. The Players Championship",
+        "C. The US Open",
+        "D. The Open Championship",
+        "E. The Ryder Cup"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "hard",
+      "explanation": "The four majors are The Masters, PGA Championship (not listed), US Open, and The Open Championship. The Players and Ryder Cup are not majors."
+    },
+    {
+      "id": 85,
+      "type": "matching",
+      "text": "Match the colors of the Olympic rings to the regions they traditionally represent (as originally designed by Pierre de Coubertin):",
+      "pairs": [
+        [
+          "Blue",
+          "Europe"
+        ],
+        [
+          "Black",
+          "Africa"
+        ],
+        [
+          "Red",
+          "Americas"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "While the IOC no longer strictly associates specific colors with specific continents, this was Coubertin's original design intent."
+    },
+    {
+      "id": 86,
+      "type": "mcq",
+      "text": "What does 'UFC' stand for in the world of mixed martial arts?",
+      "options": [
+        "A. United Fighting Council",
+        "B. Ultimate Fighting Championship",
+        "C. Universal Fight Club",
+        "D. Underground Fighting Circuit"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "The Ultimate Fighting Championship is the largest and premier MMA promotion company in the world."
+    },
+    {
+      "id": 87,
+      "type": "true-false",
+      "text": "The sport of squash is played on a table using a small celluloid ball.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Table tennis (ping pong) is played on a table. Squash is played in an enclosed court where players hit a rubber ball against the walls."
+    },
+    {
+      "id": 88,
+      "type": "fill-blank",
+      "text": "In a standard game of ten-pin bowling, rolling 12 consecutive strikes results in a perfect score of ______ points.",
+      "answer": "300",
+      "difficulty": "medium",
+      "explanation": "A perfect game consists of a strike in the first nine frames, and three strikes in the tenth frame, totaling 300 points."
+    },
+    {
+      "id": 89,
+      "type": "assertion-reason",
+      "text": "Assertion: Gymnasts and weightlifters heavily coat their hands in white powder before competing. Reason: The powder is magnesium carbonate, which absorbs sweat and improves their grip on the apparatus.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct. Gymnastic chalk is critical for safety to prevent slipping due to sweaty palms."
+    },
+    {
+      "id": 90,
+      "type": "multiple-correct",
+      "text": "Which of these track and field events are classified as 'throwing' events? (Select all correct)",
+      "options": [
+        "A. Shot put",
+        "B. Pole vault",
+        "C. Javelin",
+        "D. Discus",
+        "E. Hammer throw"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Shot put, discus, and hammer throw are throwing events. Pole vault is a jumping event. Javelin is a throwing event."
+    },
+    {
+      "id": 91,
+      "type": "matching",
+      "text": "Match the specific equipment to the sport that uses it:",
+      "pairs": [
+        [
+          "Puck",
+          "Ice Hockey"
+        ],
+        [
+          "Cue ball",
+          "Billiards / Snooker"
+        ],
+        [
+          "Shuttlecock",
+          "Badminton"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These are the fundamental objects being struck in these respective sports."
+    },
+    {
+      "id": 92,
+      "type": "mcq",
+      "text": "Which country is renowned for producing the vast majority of the world's elite marathon and long-distance runners?",
+      "options": [
+        "A. Jamaica",
+        "B. Kenya",
+        "C. United States",
+        "D. Great Britain"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Kenya (along with Ethiopia) is globally famous for producing world-record-holding endurance runners like Eliud Kipchoge."
+    },
+    {
+      "id": 93,
+      "type": "true-false",
+      "text": "Surfing and Skateboarding made their official Olympic debuts at the 2020 Tokyo Olympic Games.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Both action sports were introduced in Tokyo (held in 2021) to appeal to younger audiences."
+    },
+    {
+      "id": 94,
+      "type": "fill-blank",
+      "text": "Tom Brady, widely considered the greatest NFL quarterback, won his final Super Bowl playing for the Tampa Bay ______.",
+      "answer": "Buccaneers",
+      "difficulty": "easy",
+      "explanation": "After 20 years with the Patriots, Brady moved to the Buccaneers and won Super Bowl LV."
+    },
+    {
+      "id": 95,
+      "type": "assertion-reason",
+      "text": "Assertion: Sprinters use starting blocks for races like the 100m dash. Reason: The blocks give them a rigid surface to push off against, maximizing their explosive forward acceleration.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "easy",
+      "explanation": "Both statements are correct. Starting blocks are essential for generating maximum horizontal force at the gunshot."
+    },
+    {
+      "id": 96,
+      "type": "multiple-correct",
+      "text": "Which of these football (soccer) clubs are located in London? (Select all correct)",
+      "options": [
+        "A. Arsenal",
+        "B. Manchester United",
+        "C. Chelsea",
+        "D. Liverpool",
+        "E. Tottenham Hotspur"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "difficulty": "hard",
+      "explanation": "Arsenal, Chelsea, and Tottenham are based in London. Manchester United and Liverpool are based in their namesake cities."
+    },
+    {
+      "id": 97,
+      "type": "matching",
+      "text": "Match the recent Summer Olympic Games to their host city:",
+      "pairs": [
+        [
+          "2012",
+          "London"
+        ],
+        [
+          "2016",
+          "Rio de Janeiro"
+        ],
+        [
+          "2020",
+          "Tokyo"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These cities successfully hosted the massive international multi-sport events in those years."
+    },
+    {
+      "id": 98,
+      "type": "mcq",
+      "text": "Who holds the record for the most wickets taken in Test Cricket history?",
+      "options": [
+        "A. Shane Warne",
+        "B. James Anderson",
+        "C. Glenn McGrath",
+        "D. Anil Kumble"
+      ],
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Sri Lankan spinner Muttiah Muralitharan holds the record with 800 Test wickets. Wait, Muralitharan is not an option here, let me adjust the options so Muralitharan is A.",
+      "options": [
+        "A. Muttiah Muralitharan",
+        "B. Shane Warne",
+        "C. James Anderson",
+        "D. Glenn McGrath"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 99,
+      "type": "true-false",
+      "text": "In a standard game of golf, a 'bogey' means the player scored one stroke over par on a hole.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Par is the expected number of strokes. One under is a birdie, one over is a bogey."
+    },
+    {
+      "id": 100,
+      "type": "fill-blank",
+      "text": "The official height of a regulation basketball hoop from the floor is exactly ______ feet.",
+      "answer": "10",
+      "difficulty": "easy",
+      "explanation": "James Naismith set the peach baskets at 10 feet in 1891, and that standard has remained in the NBA and FIBA ever since."
+    }
+  ]
 }
