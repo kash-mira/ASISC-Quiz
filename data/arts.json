@@ -1,665 +1,1322 @@
 {
-"category": "Arts & Culture",
-"questions": [
-{
-"id": 1,
-"type": "mcq",
-"text": "Which dance form originated in Tamil Nadu?",
-"options": [
-"A. Bharatanatyam",
-"B. Kathakali",
-"C. Odissi",
-"D. Kuchipudi"
-],
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Bharatanatyam is a classical dance form from Tamil Nadu."
-},
-{
-"id": 2,
-"type": "true-false",
-"text": "Kathak is a form of classical Indian dance.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "Yes, Kathak is one of the eight classical Indian dance forms."
-},
-{
-"id": 3,
-"type": "mcq",
-"text": "The Taj Mahal was built by which Mughal emperor?",
-"options": [
-"A. Akbar",
-"B. Jahangir",
-"C. Shah Jahan",
-"D. Aurangzeb"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "Shah Jahan commissioned the Taj Mahal as a mausoleum for his wife Mumtaz Mahal."
-},
-{
-"id": 4,
-"type": "matching",
-"text": "Match musical instruments with their origin:",
-"pairs": [
-[
-"Sitar",
-"India"
-],
-[
-"Violin",
-"Europe"
-],
-[
-"Oud",
-"Middle East"
-]
-],
-"difficulty": "medium",
-"explanation": "These instruments have distinct cultural origins."
-},
-{
-"id": 5,
-"type": "mcq",
-"text": "Which city in India was named 'City of Music' by UNESCO?",
-"options": [
-"A. Varanasi",
-"B. Gwalior",
-"C. Chennai",
-"D. Lucknow"
-],
-"answer": "B",
-"difficulty": "hard",
-"explanation": "Gwalior was designated as a UNESCO Creative City of Music in 2019."
-},
-{
-"id": 6,
-"type": "true-false",
-"text": "Madhubani is a traditional Indian art form from Bihar.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "Madhubani (Mithila) painting is a traditional art form from Bihar and Mithila region."
-},
-{
-"id": 7,
-"type": "multiple-correct",
-"text": "Which of these are classical Indian dances? (Select all correct)",
-"options": [
-"A. Bharatanatyam",
-"B. Kathak",
-"C. Odissi",
-"D. Hip-hop",
-"E. Kathakali"
-],
-"answer": [
-"A",
-"B",
-"C",
-"E"
-],
-"difficulty": "medium",
-"explanation": "All except Hip-hop are recognized classical dances of India."
-},
-{
-"id": 8,
-"type": "assertion-reason",
-"text": "Assertion: Indian classical music has a complex rhythm system. Reason: Taal forms the rhythmic foundation.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Both statements are correct; Taal is fundamental to Indian classical music."
-},
-{
-"id": 9,
-"type": "mcq",
-"text": "The Monalisa painting is in which museum?",
-"options": [
-"A. British Museum",
-"B. Louvre",
-"C. Uffizi Gallery",
-"D. Vatican Museum"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "The Mona Lisa by Leonardo da Vinci is housed in the Louvre Museum, Paris."
-},
-{
-"id": 10,
-"type": "fill-blank",
-"text": "The sculpture 'David' was created by ______.",
-"answer": "Michelangelo",
-"difficulty": "medium",
-"explanation": "Michelangelo sculpted the iconic marble statue 'David' in the early 1500s."
-},
-{
-"id": 11,
-"type": "mcq",
-"text": "Who painted the famous artwork 'The Starry Night'?",
-"options": [
-"A. Claude Monet",
-"B. Vincent van Gogh",
-"C. Pablo Picasso",
-"D. Leonardo da Vinci"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Vincent van Gogh painted 'The Starry Night' in 1889 during his stay at the asylum in Saint-Rémy-de-Provence."
-},
-{
-"id": 12,
-"type": "true-false",
-"text": "The sitar is traditionally a percussion instrument.",
-"answer": false,
-"difficulty": "easy",
-"explanation": "The sitar is a plucked string instrument used mainly in Hindustani classical music."
-},
-{
-"id": 13,
-"type": "fill-blank",
-"text": "The ancient Indian treatise on performing arts, written by Sage Bharata, is called the Natya ______.",
-"answer": "Shastra",
-"difficulty": "medium",
-"explanation": "The Natya Shastra is a foundational Sanskrit text on the performing arts, encompassing theatre, dance, and music."
-},
-{
-"id": 14,
-"type": "multiple-correct",
-"text": "Which of the following are renowned Renaissance artists? (Select all correct)",
-"options": [
-"A. Leonardo da Vinci",
-"B. Michelangelo",
-"C. Salvador Dali",
-"D. Raphael",
-"E. Jackson Pollock"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "medium",
-"explanation": "Leonardo da Vinci, Michelangelo, and Raphael were masters of the High Renaissance. Dali and Pollock belong to modern art movements."
-},
-{
-"id": 15,
-"type": "assertion-reason",
-"text": "Assertion: Raja Ravi Varma is celebrated for his contribution to Indian art. Reason: He successfully combined European academic art techniques with Indian iconography and subjects.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Raja Ravi Varma pioneered the fusion of European realism with Indian mythology, making him a monumental figure in Indian art."
-},
-{
-"id": 16,
-"type": "matching",
-"text": "Match the famous paintings to their creators:",
-"pairs": [
-[
-"Guernica",
-"Pablo Picasso"
-],
-[
-"The Scream",
-"Edvard Munch"
-],
-[
-"The Persistence of Memory",
-"Salvador Dali"
-]
-],
-"difficulty": "hard",
-"explanation": "These are seminal works of modern art created by Picasso (Cubism), Munch (Expressionism), and Dali (Surrealism)."
-},
-{
-"id": 17,
-"type": "mcq",
-"text": "Which Indian state is famous for the tribal Warli painting?",
-"options": [
-"A. Rajasthan",
-"B. Maharashtra",
-"C. Odisha",
-"D. Gujarat"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Warli painting is a form of tribal art mostly created by the tribal people from the North Sahyadri Range in Maharashtra."
-},
-{
-"id": 18,
-"type": "true-false",
-"text": "Kuchipudi is a classical dance form that originated in the Indian state of Kerala.",
-"answer": false,
-"difficulty": "medium",
-"explanation": "Kuchipudi originated in a village named Kuchipudi in the Indian state of Andhra Pradesh, not Kerala."
-},
-{
-"id": 19,
-"type": "fill-blank",
-"text": "The traditional Japanese art of paper folding is called ______.",
-"answer": "Origami",
-"difficulty": "easy",
-"explanation": "Origami comes from the Japanese words 'ori' (folding) and 'kami' (paper)."
-},
-{
-"id": 20,
-"type": "multiple-correct",
-"text": "Which of these are traditionally wind instruments? (Select all correct)",
-"options": [
-"A. Flute",
-"B. Tabla",
-"C. Shehnai",
-"D. Trumpet",
-"E. Sarangi"
-],
-"answer": [
-"A",
-"C",
-"D"
-],
-"difficulty": "easy",
-"explanation": "The flute, shehnai, and trumpet require air to produce sound. The tabla is a percussion instrument, and the sarangi is bowed."
-},
-{
-"id": 21,
-"type": "assertion-reason",
-"text": "Assertion: The Ajanta Caves are renowned for their ancient frescoes and rock-cut sculptures. Reason: They were built during the Mughal period.",
-"assertion": true,
-"reason": false,
-"answer": "C",
-"difficulty": "medium",
-"explanation": "The assertion is true, but the reason is false. The Ajanta Caves date from the 2nd century BCE to about 480 CE, long before the Mughal period."
-},
-{
-"id": 22,
-"type": "matching",
-"text": "Match the classic authors to their literary masterpieces:",
-"pairs": [
-[
-"William Shakespeare",
-"Hamlet"
-],
-[
-"Leo Tolstoy",
-"War and Peace"
-],
-[
-"Jane Austen",
-"Pride and Prejudice"
-]
-],
-"difficulty": "easy",
-"explanation": "These authors penned some of the most widely read and studied works in Western literature."
-},
-{
-"id": 23,
-"type": "mcq",
-"text": "Which architectural style is characterized by pointed arches, ribbed vaults, and flying buttresses?",
-"options": [
-"A. Romanesque",
-"B. Gothic",
-"C. Baroque",
-"D. Neoclassical"
-],
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Gothic architecture flourished in Europe during the High and Late Middle Ages, famously known for these structural elements."
-},
-{
-"id": 24,
-"type": "true-false",
-"text": "Ustad Bismillah Khan was a legendary maestro of the shehnai.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "Ustad Bismillah Khan elevated the shehnai from a folk instrument to the concert stage and was awarded the Bharat Ratna."
-},
-{
-"id": 25,
-"type": "fill-blank",
-"text": "The traditional tie-and-dye textile art predominantly practiced in Rajasthan and Gujarat is called ______.",
-"answer": "Bandhani",
-"difficulty": "medium",
-"explanation": "Bandhani derives from the Sanskrit word 'Banda', meaning 'to tie', and is characterized by vibrant, dotted patterns."
-},
-{
-"id": 26,
-"type": "multiple-correct",
-"text": "Which of the following are recognized as UNESCO World Heritage Sites in India? (Select all correct)",
-"options": [
-"A. Qutub Minar",
-"B. Hampi",
-"C. Gateway of India",
-"D. Sun Temple at Konark",
-"E. Victoria Memorial"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "hard",
-"explanation": "Qutub Minar, Hampi, and the Konark Sun Temple are UNESCO World Heritage Sites. The Gateway of India and Victoria Memorial are not."
-},
-{
-"id": 27,
-"type": "assertion-reason",
-"text": "Assertion: Pop Art emerged as a significant art movement in the mid-20th century. Reason: It drew heavy inspiration from commercial imagery, advertising, and comic books.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "medium",
-"explanation": "Both are true, and the reason correctly explains the foundation of the Pop Art movement led by artists like Andy Warhol."
-},
-{
-"id": 28,
-"type": "matching",
-"text": "Match the Indian cultural festivals to the states where they are primarily celebrated:",
-"pairs": [
-[
-"Hornbill Festival",
-"Nagaland"
-],
-[
-"Onam",
-"Kerala"
-],
-[
-"Bihu",
-"Assam"
-]
-],
-"difficulty": "medium",
-"explanation": "These vibrant festivals are deeply tied to the cultural and agricultural heritage of their respective states."
-},
-{
-"id": 29,
-"type": "mcq",
-"text": "Who composed the Indian national anthem, 'Jana Gana Mana'?",
-"options": [
-"A. Bankim Chandra Chatterjee",
-"B. Rabindranath Tagore",
-"C. Subhas Chandra Bose",
-"D. Sarojini Naidu"
-],
-"answer": "B",
-"difficulty": "easy",
-"explanation": "Nobel laureate Rabindranath Tagore composed 'Jana Gana Mana' originally in Bengali."
-},
-{
-"id": 30,
-"type": "true-false",
-"text": "The Eiffel Tower was originally built as a temporary exhibit for the 1889 World's Fair.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "Designed by Gustave Eiffel, it was constructed as the entrance arch for the 1889 Exposition Universelle in Paris."
-},
-{
-"id": 31,
-"type": "fill-blank",
-"text": "The Louvre Museum, home to thousands of historic artworks, is located in the city of ______.",
-"answer": "Paris",
-"difficulty": "easy",
-"explanation": "The Louvre is a central landmark in Paris, France, situated on the Right Bank of the Seine."
-},
-{
-"id": 32,
-"type": "multiple-correct",
-"text": "Which of the following are considered primary colors in traditional art and painting? (Select all correct)",
-"options": [
-"A. Red",
-"B. Green",
-"C. Blue",
-"D. Yellow",
-"E. Orange"
-],
-"answer": [
-"A",
-"C",
-"D"
-],
-"difficulty": "easy",
-"explanation": "In traditional color theory used by painters, red, blue, and yellow are the primary colors."
-},
-{
-"id": 33,
-"type": "assertion-reason",
-"text": "Assertion: Impressionist paintings often feature visible, distinct brush strokes. Reason: Impressionists aimed to capture the momentary, fleeting effect of light and color rather than fine details.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Both statements are correct, and the reason explains why impressionist artists like Monet used rapid, visible strokes."
-},
-{
-"id": 34,
-"type": "matching",
-"text": "Match the traditional dance forms to their country of origin:",
-"pairs": [
-[
-"Flamenco",
-"Spain"
-],
-[
-"Samba",
-"Brazil"
-],
-[
-"Tango",
-"Argentina"
-]
-],
-"difficulty": "medium",
-"explanation": "Flamenco is rooted in Spanish culture, Samba is central to Brazilian carnival, and Tango originated in Argentina."
-},
-{
-"id": 35,
-"type": "mcq",
-"text": "Which famous playwright authored the tragic play 'Romeo and Juliet'?",
-"options": [
-"A. Christopher Marlowe",
-"B. Arthur Miller",
-"C. William Shakespeare",
-"D. Oscar Wilde"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "'Romeo and Juliet' is an early tragedy written by William Shakespeare about two star-crossed lovers."
-},
-{
-"id": 36,
-"type": "true-false",
-"text": "Wolfgang Amadeus Mozart was primarily known as a prominent Renaissance painter.",
-"answer": false,
-"difficulty": "easy",
-"explanation": "Mozart was a prolific and influential composer of the Classical period, not a painter."
-},
-{
-"id": 37,
-"type": "fill-blank",
-"text": "The Colosseum, an iconic ancient amphitheater known for its gladiatorial contests, is situated in ______.",
-"answer": "Rome",
-"difficulty": "easy",
-"explanation": "Located in the center of the city of Rome, Italy, it is the largest ancient amphitheater ever built."
-},
-{
-"id": 38,
-"type": "multiple-correct",
-"text": "Which of the following are stringed instruments predominantly used in Indian classical music? (Select all correct)",
-"options": [
-"A. Sitar",
-"B. Veena",
-"C. Harmonium",
-"D. Sarod",
-"E. Mridangam"
-],
-"answer": [
-"A",
-"B",
-"D"
-],
-"difficulty": "medium",
-"explanation": "The sitar, veena, and sarod are string instruments. The harmonium is a keyboard instrument, and the mridangam is percussion."
-},
-{
-"id": 39,
-"type": "assertion-reason",
-"text": "Assertion: Cubism often breaks down objects and reassembles them in an abstracted form. Reason: Cubist artists wanted to emphasize the two-dimensional flatness of the canvas and show multiple viewpoints simultaneously.",
-"assertion": true,
-"reason": true,
-"answer": "A",
-"difficulty": "hard",
-"explanation": "Both statements are true. By breaking objects apart, artists like Picasso and Braque could display multiple perspectives at once."
-},
-{
-"id": 40,
-"type": "matching",
-"text": "Match the iconic historical monuments to their respective countries:",
-"pairs": [
-[
-"Parthenon",
-"Greece"
-],
-[
-"Machu Picchu",
-"Peru"
-],
-[
-"Pyramids of Giza",
-"Egypt"
-]
-],
-"difficulty": "easy",
-"explanation": "The Parthenon is in Athens, Greece; Machu Picchu is in the Andes mountains of Peru; the Pyramids are in Egypt."
-},
-{
-"id": 41,
-"type": "mcq",
-"text": "Which Indian classical singer is famously associated with the Kirana gharana and was awarded the Bharat Ratna?",
-"options": [
-"A. Pandit Jasraj",
-"B. Kumar Gandharva",
-"C. Pandit Bhimsen Joshi",
-"D. Ustad Amir Khan"
-],
-"answer": "C",
-"difficulty": "hard",
-"explanation": "Pandit Bhimsen Joshi was a legendary vocalist in the Hindustani classical tradition and a pillar of the Kirana gharana."
-},
-{
-"id": 42,
-"type": "true-false",
-"text": "Calligraphy is the visual art of decorative handwriting and lettering.",
-"answer": true,
-"difficulty": "easy",
-"explanation": "Calligraphy refers to the artistic design and execution of lettering using a broad-tipped instrument or brush."
-},
-{
-"id": 43,
-"type": "fill-blank",
-"text": "The prestigious Grammy Awards are presented annually to recognize outstanding achievements in the ______ industry.",
-"answer": "Music",
-"difficulty": "easy",
-"explanation": "The Grammys are the most notable awards in the music recording industry, presented by the Recording Academy."
-},
-{
-"id": 44,
-"type": "multiple-correct",
-"text": "Which of these are recognized distinct styles of traditional Indian temple architecture? (Select all correct)",
-"options": [
-"A. Nagara",
-"B. Dravida",
-"C. Vesara",
-"D. Gothic",
-"E. Baroque"
-],
-"answer": [
-"A",
-"B",
-"C"
-],
-"difficulty": "medium",
-"explanation": "Nagara (North), Dravida (South), and Vesara (Mixed) are the three main styles of Hindu temple architecture in India."
-},
-{
-"id": 45,
-"type": "assertion-reason",
-"text": "Assertion: Ludwig van Beethoven continued to compose monumental pieces of music late in his life. Reason: He was completely deaf when he premiered his famous Ninth Symphony.",
-"assertion": true,
-"reason": true,
-"answer": "B",
-"difficulty": "medium",
-"explanation": "Both statements are true. However, the reason (being deaf) does not explain why he continued to compose, it merely states a fact about his condition during that time."
-},
-{
-"id": 46,
-"type": "matching",
-"text": "Match the modern art movements to one of their most prominent pioneering artists:",
-"pairs": [
-[
-"Surrealism",
-"Salvador Dali"
-],
-[
-"Post-Impressionism",
-"Vincent van Gogh"
-],
-[
-"Pop Art",
-"Andy Warhol"
-]
-],
-"difficulty": "hard",
-"explanation": "Dali is synonymous with Surrealism, van Gogh with Post-Impressionism, and Warhol with Pop Art."
-},
-{
-"id": 47,
-"type": "mcq",
-"text": "What is the name of the traditional, wide-sleeved garment worn by Japanese women and men for special occasions?",
-"options": [
-"A. Hanbok",
-"B. Cheongsam",
-"C. Kimono",
-"D. Sari"
-],
-"answer": "C",
-"difficulty": "easy",
-"explanation": "The kimono is a traditional Japanese garment and the national dress of Japan."
-},
-{
-"id": 48,
-"type": "true-false",
-"text": "The sitar was highly popularized in Western popular music during the 1960s by Pandit Ravi Shankar.",
-"answer": true,
-"difficulty": "medium",
-"explanation": "Ravi Shankar's collaboration with artists like George Harrison of The Beatles brought the sitar to global prominence."
-},
-{
-"id": 49,
-"type": "fill-blank",
-"text": "The Oscar-winning energetic dance song 'Naatu Naatu' was featured in the epic Indian film ______.",
-"answer": "RRR",
-"difficulty": "easy",
-"explanation": "'Naatu Naatu' from the Telugu film RRR won the Academy Award for Best Original Song in 2023."
-},
-{
-"id": 50,
-"type": "multiple-correct",
-"text": "Which of the following are recognized as traditional martial arts originating from India? (Select all correct)",
-"options": [
-"A. Kalaripayattu",
-"B. Muay Thai",
-"C. Thang-Ta",
-"D. Gatka",
-"E. Judo"
-],
-"answer": [
-"A",
-"C",
-"D"
-],
-"difficulty": "hard",
-"explanation": "Kalaripayattu (Kerala), Thang-Ta (Manipur), and Gatka (Punjab) are traditional Indian martial arts. Muay Thai is Thai, and Judo is Japanese."
-}
-]
+  "category": "Arts & Culture",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "text": "Which dance form originated in Tamil Nadu?",
+      "options": [
+        "A. Bharatanatyam",
+        "B. Kathakali",
+        "C. Odissi",
+        "D. Kuchipudi"
+      ],
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Bharatanatyam is a classical dance form from Tamil Nadu."
+    },
+    {
+      "id": 2,
+      "type": "true-false",
+      "text": "Kathak is a form of classical Indian dance.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Yes, Kathak is one of the eight classical Indian dance forms."
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "text": "The Taj Mahal was built by which Mughal emperor?",
+      "options": [
+        "A. Akbar",
+        "B. Jahangir",
+        "C. Shah Jahan",
+        "D. Aurangzeb"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Shah Jahan commissioned the Taj Mahal as a mausoleum for his wife Mumtaz Mahal."
+    },
+    {
+      "id": 4,
+      "type": "matching",
+      "text": "Match musical instruments with their origin:",
+      "pairs": [
+        [
+          "Sitar",
+          "India"
+        ],
+        [
+          "Violin",
+          "Europe"
+        ],
+        [
+          "Oud",
+          "Middle East"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These instruments have distinct cultural origins."
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "text": "Which city in India was named 'City of Music' by UNESCO?",
+      "options": [
+        "A. Varanasi",
+        "B. Gwalior",
+        "C. Chennai",
+        "D. Lucknow"
+      ],
+      "answer": "B",
+      "difficulty": "hard",
+      "explanation": "Gwalior was designated as a UNESCO Creative City of Music in 2019."
+    },
+    {
+      "id": 6,
+      "type": "true-false",
+      "text": "Madhubani is a traditional Indian art form from Bihar.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Madhubani (Mithila) painting is a traditional art form from Bihar and Mithila region."
+    },
+    {
+      "id": 7,
+      "type": "multiple-correct",
+      "text": "Which of these are classical Indian dances? (Select all correct)",
+      "options": [
+        "A. Bharatanatyam",
+        "B. Kathak",
+        "C. Odissi",
+        "D. Hip-hop",
+        "E. Kathakali"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "All except Hip-hop are recognized classical dances of India."
+    },
+    {
+      "id": 8,
+      "type": "assertion-reason",
+      "text": "Assertion: Indian classical music has a complex rhythm system. Reason: Taal forms the rhythmic foundation.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are correct; Taal is fundamental to Indian classical music."
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "text": "The Monalisa painting is in which museum?",
+      "options": [
+        "A. British Museum",
+        "B. Louvre",
+        "C. Uffizi Gallery",
+        "D. Vatican Museum"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "The Mona Lisa by Leonardo da Vinci is housed in the Louvre Museum, Paris."
+    },
+    {
+      "id": 10,
+      "type": "fill-blank",
+      "text": "The sculpture 'David' was created by ______.",
+      "answer": "Michelangelo",
+      "difficulty": "medium",
+      "explanation": "Michelangelo sculpted the iconic marble statue 'David' in the early 1500s."
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "text": "Who painted the famous artwork 'The Starry Night'?",
+      "options": [
+        "A. Claude Monet",
+        "B. Vincent van Gogh",
+        "C. Pablo Picasso",
+        "D. Leonardo da Vinci"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Vincent van Gogh painted 'The Starry Night' in 1889 during his stay at the asylum in Saint-Rémy-de-Provence."
+    },
+    {
+      "id": 12,
+      "type": "true-false",
+      "text": "The sitar is traditionally a percussion instrument.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "The sitar is a plucked string instrument used mainly in Hindustani classical music."
+    },
+    {
+      "id": 13,
+      "type": "fill-blank",
+      "text": "The ancient Indian treatise on performing arts, written by Sage Bharata, is called the Natya ______.",
+      "answer": "Shastra",
+      "difficulty": "medium",
+      "explanation": "The Natya Shastra is a foundational Sanskrit text on the performing arts, encompassing theatre, dance, and music."
+    },
+    {
+      "id": 14,
+      "type": "multiple-correct",
+      "text": "Which of the following are renowned Renaissance artists? (Select all correct)",
+      "options": [
+        "A. Leonardo da Vinci",
+        "B. Michelangelo",
+        "C. Salvador Dali",
+        "D. Raphael",
+        "E. Jackson Pollock"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Leonardo da Vinci, Michelangelo, and Raphael were masters of the High Renaissance. Dali and Pollock belong to modern art movements."
+    },
+    {
+      "id": 15,
+      "type": "assertion-reason",
+      "text": "Assertion: Raja Ravi Varma is celebrated for his contribution to Indian art. Reason: He successfully combined European academic art techniques with Indian iconography and subjects.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Raja Ravi Varma pioneered the fusion of European realism with Indian mythology, making him a monumental figure in Indian art."
+    },
+    {
+      "id": 16,
+      "type": "matching",
+      "text": "Match the famous paintings to their creators:",
+      "pairs": [
+        [
+          "Guernica",
+          "Pablo Picasso"
+        ],
+        [
+          "The Scream",
+          "Edvard Munch"
+        ],
+        [
+          "The Persistence of Memory",
+          "Salvador Dali"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "These are seminal works of modern art created by Picasso (Cubism), Munch (Expressionism), and Dali (Surrealism)."
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "text": "Which Indian state is famous for the tribal Warli painting?",
+      "options": [
+        "A. Rajasthan",
+        "B. Maharashtra",
+        "C. Odisha",
+        "D. Gujarat"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Warli painting is a form of tribal art mostly created by the tribal people from the North Sahyadri Range in Maharashtra."
+    },
+    {
+      "id": 18,
+      "type": "true-false",
+      "text": "Kuchipudi is a classical dance form that originated in the Indian state of Kerala.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "Kuchipudi originated in a village named Kuchipudi in the Indian state of Andhra Pradesh, not Kerala."
+    },
+    {
+      "id": 19,
+      "type": "fill-blank",
+      "text": "The traditional Japanese art of paper folding is called ______.",
+      "answer": "Origami",
+      "difficulty": "easy",
+      "explanation": "Origami comes from the Japanese words 'ori' (folding) and 'kami' (paper)."
+    },
+    {
+      "id": 20,
+      "type": "multiple-correct",
+      "text": "Which of these are traditionally wind instruments? (Select all correct)",
+      "options": [
+        "A. Flute",
+        "B. Tabla",
+        "C. Shehnai",
+        "D. Trumpet",
+        "E. Sarangi"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "The flute, shehnai, and trumpet require air to produce sound. The tabla is a percussion instrument, and the sarangi is bowed."
+    },
+    {
+      "id": 21,
+      "type": "assertion-reason",
+      "text": "Assertion: The Ajanta Caves are renowned for their ancient frescoes and rock-cut sculptures. Reason: They were built during the Mughal period.",
+      "assertion": true,
+      "reason": false,
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "The assertion is true, but the reason is false. The Ajanta Caves date from the 2nd century BCE to about 480 CE, long before the Mughal period."
+    },
+    {
+      "id": 22,
+      "type": "matching",
+      "text": "Match the classic authors to their literary masterpieces:",
+      "pairs": [
+        [
+          "William Shakespeare",
+          "Hamlet"
+        ],
+        [
+          "Leo Tolstoy",
+          "War and Peace"
+        ],
+        [
+          "Jane Austen",
+          "Pride and Prejudice"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These authors penned some of the most widely read and studied works in Western literature."
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "text": "Which architectural style is characterized by pointed arches, ribbed vaults, and flying buttresses?",
+      "options": [
+        "A. Romanesque",
+        "B. Gothic",
+        "C. Baroque",
+        "D. Neoclassical"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Gothic architecture flourished in Europe during the High and Late Middle Ages, famously known for these structural elements."
+    },
+    {
+      "id": 24,
+      "type": "true-false",
+      "text": "Ustad Bismillah Khan was a legendary maestro of the shehnai.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Ustad Bismillah Khan elevated the shehnai from a folk instrument to the concert stage and was awarded the Bharat Ratna."
+    },
+    {
+      "id": 25,
+      "type": "fill-blank",
+      "text": "The traditional tie-and-dye textile art predominantly practiced in Rajasthan and Gujarat is called ______.",
+      "answer": "Bandhani",
+      "difficulty": "medium",
+      "explanation": "Bandhani derives from the Sanskrit word 'Banda', meaning 'to tie', and is characterized by vibrant, dotted patterns."
+    },
+    {
+      "id": 26,
+      "type": "multiple-correct",
+      "text": "Which of the following are recognized as UNESCO World Heritage Sites in India? (Select all correct)",
+      "options": [
+        "A. Qutub Minar",
+        "B. Hampi",
+        "C. Gateway of India",
+        "D. Sun Temple at Konark",
+        "E. Victoria Memorial"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "hard",
+      "explanation": "Qutub Minar, Hampi, and the Konark Sun Temple are UNESCO World Heritage Sites. The Gateway of India and Victoria Memorial are not."
+    },
+    {
+      "id": 27,
+      "type": "assertion-reason",
+      "text": "Assertion: Pop Art emerged as a significant art movement in the mid-20th century. Reason: It drew heavy inspiration from commercial imagery, advertising, and comic books.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both are true, and the reason correctly explains the foundation of the Pop Art movement led by artists like Andy Warhol."
+    },
+    {
+      "id": 28,
+      "type": "matching",
+      "text": "Match the Indian cultural festivals to the states where they are primarily celebrated:",
+      "pairs": [
+        [
+          "Hornbill Festival",
+          "Nagaland"
+        ],
+        [
+          "Onam",
+          "Kerala"
+        ],
+        [
+          "Bihu",
+          "Assam"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These vibrant festivals are deeply tied to the cultural and agricultural heritage of their respective states."
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "text": "Who composed the Indian national anthem, 'Jana Gana Mana'?",
+      "options": [
+        "A. Bankim Chandra Chatterjee",
+        "B. Rabindranath Tagore",
+        "C. Subhas Chandra Bose",
+        "D. Sarojini Naidu"
+      ],
+      "answer": "B",
+      "difficulty": "easy",
+      "explanation": "Nobel laureate Rabindranath Tagore composed 'Jana Gana Mana' originally in Bengali."
+    },
+    {
+      "id": 30,
+      "type": "true-false",
+      "text": "The Eiffel Tower was originally built as a temporary exhibit for the 1889 World's Fair.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Designed by Gustave Eiffel, it was constructed as the entrance arch for the 1889 Exposition Universelle in Paris."
+    },
+    {
+      "id": 31,
+      "type": "fill-blank",
+      "text": "The Louvre Museum, home to thousands of historic artworks, is located in the city of ______.",
+      "answer": "Paris",
+      "difficulty": "easy",
+      "explanation": "The Louvre is a central landmark in Paris, France, situated on the Right Bank of the Seine."
+    },
+    {
+      "id": 32,
+      "type": "multiple-correct",
+      "text": "Which of the following are considered primary colors in traditional art and painting? (Select all correct)",
+      "options": [
+        "A. Red",
+        "B. Green",
+        "C. Blue",
+        "D. Yellow",
+        "E. Orange"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "In traditional color theory used by painters, red, blue, and yellow are the primary colors."
+    },
+    {
+      "id": 33,
+      "type": "assertion-reason",
+      "text": "Assertion: Impressionist paintings often feature visible, distinct brush strokes. Reason: Impressionists aimed to capture the momentary, fleeting effect of light and color rather than fine details.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are correct, and the reason explains why impressionist artists like Monet used rapid, visible strokes."
+    },
+    {
+      "id": 34,
+      "type": "matching",
+      "text": "Match the traditional dance forms to their country of origin:",
+      "pairs": [
+        [
+          "Flamenco",
+          "Spain"
+        ],
+        [
+          "Samba",
+          "Brazil"
+        ],
+        [
+          "Tango",
+          "Argentina"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "Flamenco is rooted in Spanish culture, Samba is central to Brazilian carnival, and Tango originated in Argentina."
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "text": "Which famous playwright authored the tragic play 'Romeo and Juliet'?",
+      "options": [
+        "A. Christopher Marlowe",
+        "B. Arthur Miller",
+        "C. William Shakespeare",
+        "D. Oscar Wilde"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "'Romeo and Juliet' is an early tragedy written by William Shakespeare about two star-crossed lovers."
+    },
+    {
+      "id": 36,
+      "type": "true-false",
+      "text": "Wolfgang Amadeus Mozart was primarily known as a prominent Renaissance painter.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Mozart was a prolific and influential composer of the Classical period, not a painter."
+    },
+    {
+      "id": 37,
+      "type": "fill-blank",
+      "text": "The Colosseum, an iconic ancient amphitheater known for its gladiatorial contests, is situated in ______.",
+      "answer": "Rome",
+      "difficulty": "easy",
+      "explanation": "Located in the center of the city of Rome, Italy, it is the largest ancient amphitheater ever built."
+    },
+    {
+      "id": 38,
+      "type": "multiple-correct",
+      "text": "Which of the following are stringed instruments predominantly used in Indian classical music? (Select all correct)",
+      "options": [
+        "A. Sitar",
+        "B. Veena",
+        "C. Harmonium",
+        "D. Sarod",
+        "E. Mridangam"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "The sitar, veena, and sarod are string instruments. The harmonium is a keyboard instrument, and the mridangam is percussion."
+    },
+    {
+      "id": 39,
+      "type": "assertion-reason",
+      "text": "Assertion: Cubism often breaks down objects and reassembles them in an abstracted form. Reason: Cubist artists wanted to emphasize the two-dimensional flatness of the canvas and show multiple viewpoints simultaneously.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "hard",
+      "explanation": "Both statements are true. By breaking objects apart, artists like Picasso and Braque could display multiple perspectives at once."
+    },
+    {
+      "id": 40,
+      "type": "matching",
+      "text": "Match the iconic historical monuments to their respective countries:",
+      "pairs": [
+        [
+          "Parthenon",
+          "Greece"
+        ],
+        [
+          "Machu Picchu",
+          "Peru"
+        ],
+        [
+          "Pyramids of Giza",
+          "Egypt"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "The Parthenon is in Athens, Greece; Machu Picchu is in the Andes mountains of Peru; the Pyramids are in Egypt."
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "text": "Which Indian classical singer is famously associated with the Kirana gharana and was awarded the Bharat Ratna?",
+      "options": [
+        "A. Pandit Jasraj",
+        "B. Kumar Gandharva",
+        "C. Pandit Bhimsen Joshi",
+        "D. Ustad Amir Khan"
+      ],
+      "answer": "C",
+      "difficulty": "hard",
+      "explanation": "Pandit Bhimsen Joshi was a legendary vocalist in the Hindustani classical tradition and a pillar of the Kirana gharana."
+    },
+    {
+      "id": 42,
+      "type": "true-false",
+      "text": "Calligraphy is the visual art of decorative handwriting and lettering.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Calligraphy refers to the artistic design and execution of lettering using a broad-tipped instrument or brush."
+    },
+    {
+      "id": 43,
+      "type": "fill-blank",
+      "text": "The prestigious Grammy Awards are presented annually to recognize outstanding achievements in the ______ industry.",
+      "answer": "Music",
+      "difficulty": "easy",
+      "explanation": "The Grammys are the most notable awards in the music recording industry, presented by the Recording Academy."
+    },
+    {
+      "id": 44,
+      "type": "multiple-correct",
+      "text": "Which of these are recognized distinct styles of traditional Indian temple architecture? (Select all correct)",
+      "options": [
+        "A. Nagara",
+        "B. Dravida",
+        "C. Vesara",
+        "D. Gothic",
+        "E. Baroque"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "medium",
+      "explanation": "Nagara (North), Dravida (South), and Vesara (Mixed) are the three main styles of Hindu temple architecture in India."
+    },
+    {
+      "id": 45,
+      "type": "assertion-reason",
+      "text": "Assertion: Ludwig van Beethoven continued to compose monumental pieces of music late in his life. Reason: He was completely deaf when he premiered his famous Ninth Symphony.",
+      "assertion": true,
+      "reason": true,
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Both statements are true. However, the reason (being deaf) does not explain why he continued to compose, it merely states a fact about his condition during that time."
+    },
+    {
+      "id": 46,
+      "type": "matching",
+      "text": "Match the modern art movements to one of their most prominent pioneering artists:",
+      "pairs": [
+        [
+          "Surrealism",
+          "Salvador Dali"
+        ],
+        [
+          "Post-Impressionism",
+          "Vincent van Gogh"
+        ],
+        [
+          "Pop Art",
+          "Andy Warhol"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "Dali is synonymous with Surrealism, van Gogh with Post-Impressionism, and Warhol with Pop Art."
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "text": "What is the name of the traditional, wide-sleeved garment worn by Japanese women and men for special occasions?",
+      "options": [
+        "A. Hanbok",
+        "B. Cheongsam",
+        "C. Kimono",
+        "D. Sari"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "The kimono is a traditional Japanese garment and the national dress of Japan."
+    },
+    {
+      "id": 48,
+      "type": "true-false",
+      "text": "The sitar was highly popularized in Western popular music during the 1960s by Pandit Ravi Shankar.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Ravi Shankar's collaboration with artists like George Harrison of The Beatles brought the sitar to global prominence."
+    },
+    {
+      "id": 49,
+      "type": "fill-blank",
+      "text": "The Oscar-winning energetic dance song 'Naatu Naatu' was featured in the epic Indian film ______.",
+      "answer": "RRR",
+      "difficulty": "easy",
+      "explanation": "'Naatu Naatu' from the Telugu film RRR won the Academy Award for Best Original Song in 2023."
+    },
+    {
+      "id": 50,
+      "type": "multiple-correct",
+      "text": "Which of the following are recognized as traditional martial arts originating from India? (Select all correct)",
+      "options": [
+        "A. Kalaripayattu",
+        "B. Muay Thai",
+        "C. Thang-Ta",
+        "D. Gatka",
+        "E. Judo"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "difficulty": "hard",
+      "explanation": "Kalaripayattu (Kerala), Thang-Ta (Manipur), and Gatka (Punjab) are traditional Indian martial arts. Muay Thai is Thai, and Judo is Japanese."
+    },
+    {
+      "id": 51,
+      "type": "mcq",
+      "text": "Which classical dance form from Kerala is known for its elaborate makeup, vibrant costumes, and detailed facial expressions?",
+      "options": [
+        "A. Odissi",
+        "B. Kathakali",
+        "C. Manipuri",
+        "D. Sattriya"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Kathakali is renowned for its highly stylized, larger-than-life makeup and costumes representing various mythological characters."
+    },
+    {
+      "id": 52,
+      "type": "true-false",
+      "text": "The ancient Greek epic 'The Iliad' was written by William Shakespeare.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "The Iliad is traditionally attributed to the ancient Greek poet Homer, not Shakespeare."
+    },
+    {
+      "id": 53,
+      "type": "fill-blank",
+      "text": "The famous ceiling frescoes of the Sistine Chapel in the Vatican were painted by ______.",
+      "answer": "Michelangelo",
+      "difficulty": "medium",
+      "explanation": "Michelangelo spent four years (1508–1512) painting the ceiling, which includes the iconic 'Creation of Adam'."
+    },
+    {
+      "id": 54,
+      "type": "multiple-correct",
+      "text": "Which of the following are famous tragedies written by William Shakespeare? (Select all correct)",
+      "options": [
+        "A. Macbeth",
+        "B. Hamlet",
+        "C. The Great Gatsby",
+        "D. Othello",
+        "E. Death of a Salesman"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Macbeth, Hamlet, and Othello are classic Shakespearean tragedies. The other two are modern American novels/plays."
+    },
+    {
+      "id": 55,
+      "type": "matching",
+      "text": "Match the famous painters to their nationalities:",
+      "pairs": [
+        [
+          "Leonardo da Vinci",
+          "Italian"
+        ],
+        [
+          "Claude Monet",
+          "French"
+        ],
+        [
+          "Vincent van Gogh",
+          "Dutch"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "Da Vinci was a polymath of the Italian Renaissance, Monet spearheaded French Impressionism, and Van Gogh was a Dutch Post-Impressionist."
+    },
+    {
+      "id": 56,
+      "type": "assertion-reason",
+      "text": "Assertion: Mohenjo-Daro is considered a marvel of ancient urban planning. Reason: It featured highly advanced grid-pattern streets and a sophisticated drainage system.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct, and the reason accurately explains why this Indus Valley Civilization city was an architectural marvel."
+    },
+    {
+      "id": 57,
+      "type": "mcq",
+      "text": "Ustad Zakir Hussain is a globally renowned maestro of which Indian musical instrument?",
+      "options": [
+        "A. Sitar",
+        "B. Sarod",
+        "C. Tabla",
+        "D. Flute"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Zakir Hussain is considered one of the greatest contemporary tabla players and a major architect of the contemporary world music movement."
+    },
+    {
+      "id": 58,
+      "type": "true-false",
+      "text": "Haiku is a traditional form of highly structured poetry originating in China.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "Haiku is a traditional form of poetry originating in Japan, traditionally consisting of three phrases with a 5, 7, 5 syllable structure."
+    },
+    {
+      "id": 59,
+      "type": "fill-blank",
+      "text": "The cultural and artistic movement that marked the transition from the Middle Ages to modernity in Europe is known as the ______.",
+      "answer": "Renaissance",
+      "difficulty": "easy",
+      "explanation": "Meaning 'rebirth' in French, the Renaissance witnessed a revival of classical learning, art, and literature."
+    },
+    {
+      "id": 60,
+      "type": "multiple-correct",
+      "text": "Which of these are traditionally listed among the Seven Wonders of the Ancient World? (Select all correct)",
+      "options": [
+        "A. Great Pyramid of Giza",
+        "B. The Colosseum",
+        "C. Hanging Gardens of Babylon",
+        "D. Taj Mahal",
+        "E. Lighthouse of Alexandria"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "E"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Colosseum and Taj Mahal are iconic, but they were built much later and are part of the 'New' Seven Wonders list."
+    },
+    {
+      "id": 61,
+      "type": "matching",
+      "text": "Match the Indian folk dances to their respective states:",
+      "pairs": [
+        [
+          "Garba",
+          "Gujarat"
+        ],
+        [
+          "Bhangra",
+          "Punjab"
+        ],
+        [
+          "Ghoomar",
+          "Rajasthan"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These lively folk dances are deeply ingrained in the regional and festive cultures of their states."
+    },
+    {
+      "id": 62,
+      "type": "mcq",
+      "text": "Who wrote the dystopian novel '1984'?",
+      "options": [
+        "A. Aldous Huxley",
+        "B. Ray Bradbury",
+        "C. George Orwell",
+        "D. H.G. Wells"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "George Orwell published '1984' in 1949 as a warning against totalitarianism and mass surveillance."
+    },
+    {
+      "id": 63,
+      "type": "true-false",
+      "text": "Pablo Picasso is the artist who famously painted the Mona Lisa.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "The Mona Lisa was painted by Leonardo da Vinci. Picasso is famous for works like Guernica and pioneering Cubism."
+    },
+    {
+      "id": 64,
+      "type": "fill-blank",
+      "text": "The globally popular music genre known as K-pop originated in the country of ______.",
+      "answer": "South Korea",
+      "difficulty": "easy",
+      "explanation": "K-pop (Korean pop) is a musical genre originating in South Korea that has grown into a massive global cultural phenomenon."
+    },
+    {
+      "id": 65,
+      "type": "assertion-reason",
+      "text": "Assertion: The white marble of the Taj Mahal has occasionally turned a yellowish-brown hue. Reason: Heavy air pollution and acid rain from nearby industrial areas have caused discoloration.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct. The Indian government has taken steps like establishing the Taj Trapezium Zone to combat this pollution."
+    },
+    {
+      "id": 66,
+      "type": "mcq",
+      "text": "The Meenakshi Temple in Madurai is a prime example of which style of architecture?",
+      "options": [
+        "A. Nagara style",
+        "B. Dravidian style",
+        "C. Indo-Islamic style",
+        "D. Vesara style"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Known for its towering gopurams (gateway towers), it is a classic masterpiece of South Indian Dravidian temple architecture."
+    },
+    {
+      "id": 67,
+      "type": "multiple-correct",
+      "text": "Which of the following are officially designated as 'Classical Languages' by the Government of India? (Select all correct)",
+      "options": [
+        "A. Sanskrit",
+        "B. Tamil",
+        "C. English",
+        "D. Kannada",
+        "E. Hindi"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "hard",
+      "explanation": "Sanskrit, Tamil, and Kannada have classical status due to their ancient heritage. English and Hindi, while widely spoken, are not classified as 'Classical' languages in this specific official context."
+    },
+    {
+      "id": 68,
+      "type": "matching",
+      "text": "Match the musical instrument classification to its definition:",
+      "pairs": [
+        [
+          "Aerophone",
+          "Produces sound via vibrating air (e.g., flute)"
+        ],
+        [
+          "Chordophone",
+          "Produces sound via vibrating strings (e.g., guitar)"
+        ],
+        [
+          "Membranophone",
+          "Produces sound via a stretched membrane (e.g., drum)"
+        ]
+      ],
+      "difficulty": "hard",
+      "explanation": "This is based on the Hornbostel-Sachs system used by ethnomusicologists to classify instruments globally."
+    },
+    {
+      "id": 69,
+      "type": "true-false",
+      "text": "The Tony Awards are given to honor outstanding achievements in the television industry.",
+      "answer": false,
+      "difficulty": "medium",
+      "explanation": "Tony Awards celebrate excellence in live Broadway theatre. The Emmy Awards recognize achievements in television."
+    },
+    {
+      "id": 70,
+      "type": "fill-blank",
+      "text": "The Hindi-language film industry, widely known as Bollywood, is primarily based in the Indian city of ______.",
+      "answer": "Mumbai",
+      "difficulty": "easy",
+      "explanation": "The term 'Bollywood' is a portmanteau of Bombay (former name of Mumbai) and Hollywood."
+    },
+    {
+      "id": 71,
+      "type": "mcq",
+      "text": "Which vibrant Indian festival is widely known globally as the 'Festival of Colors'?",
+      "options": [
+        "A. Diwali",
+        "B. Navratri",
+        "C. Holi",
+        "D. Makar Sankranti"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Holi is celebrated by throwing vibrant colored powders and water, marking the arrival of spring and the triumph of good over evil."
+    },
+    {
+      "id": 72,
+      "type": "assertion-reason",
+      "text": "Assertion: Wolfgang Amadeus Mozart is considered a musical genius. Reason: He was a child prodigy who began composing music and performing for European royalty at age five.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct, and his early prodigious output is a key reason for his status as a legendary musical figure."
+    },
+    {
+      "id": 73,
+      "type": "multiple-correct",
+      "text": "Which of the following are considered foundational elements (pillars) of Hip Hop culture? (Select all correct)",
+      "options": [
+        "A. DJing (Turntablism)",
+        "B. Breakdancing (B-boying)",
+        "C. Ballet",
+        "D. Graffiti Art",
+        "E. Classical Opera"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "The four main pillars of hip hop are MCing (rapping), DJing, Breakdancing, and Graffiti art."
+    },
+    {
+      "id": 74,
+      "type": "matching",
+      "text": "Match the prominent mythological deity to their respective pantheon/culture:",
+      "pairs": [
+        [
+          "Zeus",
+          "Greek Mythology"
+        ],
+        [
+          "Thor",
+          "Norse Mythology"
+        ],
+        [
+          "Ra",
+          "Egyptian Mythology"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These are supreme or highly prominent gods representing thunder/sky (Zeus, Thor) and the sun (Ra) in their respective ancient cultures."
+    },
+    {
+      "id": 75,
+      "type": "mcq",
+      "text": "What was the capital city of the Byzantine Empire, known today as Istanbul?",
+      "options": [
+        "A. Alexandria",
+        "B. Rome",
+        "C. Athens",
+        "D. Constantinople"
+      ],
+      "answer": "D",
+      "difficulty": "medium",
+      "explanation": "Constantinople served as the capital of the Byzantine (Eastern Roman) Empire until it fell to the Ottomans in 1453."
+    },
+    {
+      "id": 76,
+      "type": "true-false",
+      "text": "Salsa is a popular form of social dance that originated in the Caribbean and New York City.",
+      "answer": true,
+      "difficulty": "medium",
+      "explanation": "Salsa developed heavily in New York in the 1960s, strongly rooted in Cuban and Puerto Rican musical traditions."
+    },
+    {
+      "id": 77,
+      "type": "fill-blank",
+      "text": "A member of the hereditary military nobility and officer caste of medieval and early-modern Japan was known as a ______.",
+      "answer": "Samurai",
+      "difficulty": "easy",
+      "explanation": "Samurai were the elite military class of Japan, bound by a strict code of honor known as Bushido."
+    },
+    {
+      "id": 78,
+      "type": "mcq",
+      "text": "According to Hindu tradition, who is the author of the epic Mahabharata?",
+      "options": [
+        "A. Valmiki",
+        "B. Tulsidas",
+        "C. Vyasa",
+        "D. Kalidasa"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "Sage Vyasa is traditionally credited as the author of the Mahabharata, the longest epic poem ever written."
+    },
+    {
+      "id": 79,
+      "type": "multiple-correct",
+      "text": "Which of these artists were central figures in the French Impressionist movement? (Select all correct)",
+      "options": [
+        "A. Claude Monet",
+        "B. Pierre-Auguste Renoir",
+        "C. Edgar Degas",
+        "D. Andy Warhol",
+        "E. Michelangelo"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "hard",
+      "explanation": "Monet, Renoir, and Degas were founding members of Impressionism. Warhol is Pop Art, and Michelangelo is Renaissance."
+    },
+    {
+      "id": 80,
+      "type": "matching",
+      "text": "Match the architectural landmark to the city where it is located:",
+      "pairs": [
+        [
+          "Burj Khalifa",
+          "Dubai"
+        ],
+        [
+          "Sydney Opera House",
+          "Sydney"
+        ],
+        [
+          "Space Needle",
+          "Seattle"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These are defining features of their respective city skylines and major cultural landmarks."
+    },
+    {
+      "id": 81,
+      "type": "assertion-reason",
+      "text": "Assertion: The ancient city of Petra in Jordan is often called the 'Rose City'. Reason: The intricate temples and tombs were carved directly into vibrant red and pink sandstone cliffs.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct; the unique color of the native sandstone gives Petra its famous nickname."
+    },
+    {
+      "id": 82,
+      "type": "true-false",
+      "text": "Broadway theatre is the cultural center of the American film industry located in Los Angeles.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Broadway refers to the theatrical performances in the Theater District of New York City. Hollywood is the film center in Los Angeles."
+    },
+    {
+      "id": 83,
+      "type": "fill-blank",
+      "text": "The academic study of ancient Egyptian history, language, literature, religion, and architecture is called ______.",
+      "answer": "Egyptology",
+      "difficulty": "medium",
+      "explanation": "Egyptology is a branch of archaeology and historical study focused entirely on ancient Egypt."
+    },
+    {
+      "id": 84,
+      "type": "mcq",
+      "text": "In Hindu mythology, which deity is worshipped as Nataraja, the Lord of the Dance?",
+      "options": [
+        "A. Brahma",
+        "B. Vishnu",
+        "C. Shiva",
+        "D. Indra"
+      ],
+      "answer": "C",
+      "difficulty": "easy",
+      "explanation": "Nataraja is a depiction of the Hindu god Shiva as the divine cosmic dancer."
+    },
+    {
+      "id": 85,
+      "type": "multiple-correct",
+      "text": "Which of the following are classified as woodwind instruments in a standard orchestra? (Select all correct)",
+      "options": [
+        "A. Clarinet",
+        "B. Oboe",
+        "C. Flute",
+        "D. Trumpet",
+        "E. Violin"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "hard",
+      "explanation": "Clarinets, oboes, and flutes are woodwinds. The trumpet is a brass instrument, and the violin is a string instrument."
+    },
+    {
+      "id": 86,
+      "type": "matching",
+      "text": "Match the literary genre to its defining characteristic:",
+      "pairs": [
+        [
+          "Science Fiction",
+          "Focuses on futuristic concepts and advanced technology"
+        ],
+        [
+          "Fantasy",
+          "Features magic, mythical creatures, and imaginary worlds"
+        ],
+        [
+          "Mystery",
+          "Revolves around solving a crime or unraveling a secret"
+        ]
+      ],
+      "difficulty": "easy",
+      "explanation": "These are major pillars of fictional literature that dictate the setting and thematic elements of a story."
+    },
+    {
+      "id": 87,
+      "type": "mcq",
+      "text": "Which Dutch Golden Age painter created the famous masterpiece 'Girl with a Pearl Earring'?",
+      "options": [
+        "A. Rembrandt",
+        "B. Johannes Vermeer",
+        "C. Frans Hals",
+        "D. Piet Mondrian"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Vermeer painted this iconic portrait, sometimes referred to as the 'Mona Lisa of the North', around 1665."
+    },
+    {
+      "id": 88,
+      "type": "true-false",
+      "text": "The physical, mental, and spiritual practice of Yoga originated in ancient India.",
+      "answer": true,
+      "difficulty": "easy",
+      "explanation": "Yoga originated in ancient India and has been passed down through texts like the Yoga Sutras of Patanjali."
+    },
+    {
+      "id": 89,
+      "type": "fill-blank",
+      "text": "Released in 1937, Walt Disney's first feature-length animated film was 'Snow ______ and the Seven Dwarfs'.",
+      "answer": "White",
+      "difficulty": "easy",
+      "explanation": "Snow White was a massive cultural milestone and pioneered feature-length cel animation."
+    },
+    {
+      "id": 90,
+      "type": "assertion-reason",
+      "text": "Assertion: The ancient Silk Road was highly significant to human history. Reason: It functioned purely as a military route for the Roman Empire to conquer Asia.",
+      "assertion": true,
+      "reason": false,
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "The assertion is true, but the reason is false. The Silk Road was a vast network of trade routes facilitating economic, cultural, and religious exchange, not a Roman military road."
+    },
+    {
+      "id": 91,
+      "type": "mcq",
+      "text": "The ancient archaeological site of Chichen Itza, featuring the massive El Castillo pyramid, was built by which civilization?",
+      "options": [
+        "A. Aztec",
+        "B. Maya",
+        "C. Inca",
+        "D. Olmec"
+      ],
+      "answer": "B",
+      "difficulty": "medium",
+      "explanation": "Chichen Itza was a major pre-Columbian city built by the Maya people of the Terminal Classic period in present-day Mexico."
+    },
+    {
+      "id": 92,
+      "type": "multiple-correct",
+      "text": "Which of the following are recognized as traditional martial arts originating from Japan? (Select all correct)",
+      "options": [
+        "A. Judo",
+        "B. Karate",
+        "C. Kendo",
+        "D. Taekwondo",
+        "E. Capoeira"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "medium",
+      "explanation": "Judo, Karate, and Kendo are Japanese. Taekwondo is Korean, and Capoeira is Brazilian."
+    },
+    {
+      "id": 93,
+      "type": "matching",
+      "text": "Match the ancient epic to its region of origin:",
+      "pairs": [
+        [
+          "Ramayana",
+          "India"
+        ],
+        [
+          "The Odyssey",
+          "Greece"
+        ],
+        [
+          "Epic of Gilgamesh",
+          "Mesopotamia"
+        ]
+      ],
+      "difficulty": "medium",
+      "explanation": "These are foundational literary texts that provide deep insight into the cultures that produced them."
+    },
+    {
+      "id": 94,
+      "type": "true-false",
+      "text": "Linguistically, English is classified as a Romance language, heavily descended from Latin.",
+      "answer": false,
+      "difficulty": "hard",
+      "explanation": "English is a Germanic language. While it has borrowed many words from Latin and French, its core grammar and vocabulary are Germanic."
+    },
+    {
+      "id": 95,
+      "type": "fill-blank",
+      "text": "The central religious text of Islam, believed by Muslims to be a revelation from God, is called the ______.",
+      "answer": "Quran",
+      "difficulty": "easy",
+      "explanation": "The Quran (or Koran) is the holy book of Islam, written in classical Arabic."
+    },
+    {
+      "id": 96,
+      "type": "mcq",
+      "text": "Which ancient South American empire built the famous mountain estate known as Machu Picchu?",
+      "options": [
+        "A. The Aztecs",
+        "B. The Maya",
+        "C. The Inca",
+        "D. The Toltecs"
+      ],
+      "answer": "C",
+      "difficulty": "medium",
+      "explanation": "The Inca Empire built Machu Picchu in the Andes Mountains of Peru during the 15th century."
+    },
+    {
+      "id": 97,
+      "type": "multiple-correct",
+      "text": "Which of the following are globally renowned classical ballets composed by Pyotr Ilyich Tchaikovsky? (Select all correct)",
+      "options": [
+        "A. Swan Lake",
+        "B. The Nutcracker",
+        "C. The Sleeping Beauty",
+        "D. Carmen",
+        "E. The Rite of Spring"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "hard",
+      "explanation": "Swan Lake, The Nutcracker, and The Sleeping Beauty are Tchaikovsky's masterworks. Carmen is an opera by Bizet, and The Rite of Spring is a ballet by Stravinsky."
+    },
+    {
+      "id": 98,
+      "type": "assertion-reason",
+      "text": "Assertion: The Nobel Prize in Literature is awarded annually. Reason: It was established by the will of Swedish industrialist Alfred Nobel.",
+      "assertion": true,
+      "reason": true,
+      "answer": "A",
+      "difficulty": "medium",
+      "explanation": "Both statements are correct. Alfred Nobel established five prizes in his 1895 will, including Literature, recognizing outstanding contributions in the field."
+    },
+    {
+      "id": 99,
+      "type": "true-false",
+      "text": "The prehistoric monument known as Stonehenge is located in France.",
+      "answer": false,
+      "difficulty": "easy",
+      "explanation": "Stonehenge is a famous prehistoric stone circle located on Salisbury Plain in Wiltshire, England."
+    },
+    {
+      "id": 100,
+      "type": "fill-blank",
+      "text": "The primary language spoken by the ancient Romans, which later gave rise to modern Romance languages, was ______.",
+      "answer": "Latin",
+      "difficulty": "easy",
+      "explanation": "Latin was the language of the Roman Empire and remains highly influential in law, medicine, and language history today."
+    }
+  ]
 }
