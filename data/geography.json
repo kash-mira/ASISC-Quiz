@@ -1,4 +1,1031 @@
-,
+{
+  "category": "Geography",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "text": "Which is the longest river in the world?",
+      "options": [
+        "A. Amazon",
+        "B. Nile",
+        "C. Yangtze",
+        "D. Mississippi"
+      ],
+      "answer": [
+        "B"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Nile River is approximately 6,650 km long."
+    },
+    {
+      "id": 2,
+      "type": "true-false",
+      "text": "The Sahara is the largest desert in the world.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        "True"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Sahara Desert in Africa is the largest hot desert."
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "text": "Mount Everest is located in which mountain range?",
+      "options": [
+        "A. Andes",
+        "B. Himalayas",
+        "C. Rockies",
+        "D. Alps"
+      ],
+      "answer": [
+        "B"
+      ],
+      "difficulty": "easy",
+      "explanation": "Mount Everest is in the Himalayas on the Nepal-Tibet border."
+    },
+    {
+      "id": 4,
+      "type": "matching",
+      "text": "Match countries with their capitals:",
+      "pairs": [
+        [
+          "Japan",
+          "Tokyo"
+        ],
+        [
+          "Brazil",
+          "Brasília"
+        ],
+        [
+          "Egypt",
+          "Cairo"
+        ],
+        [
+          "Australia",
+          "Canberra"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "easy",
+      "explanation": "These are the official capital cities of these nations."
+    },
+    {
+      "id": 5,
+      "type": "multiple-correct",
+      "text": "Which of these are island nations? (Select all correct)",
+      "options": [
+        "A. Iceland",
+        "B. Japan",
+        "C. Spain",
+        "D. Philippines",
+        "E. New Zealand"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Iceland, Japan, Philippines, and New Zealand are island nations. Spain is mostly peninsular."
+    },
+    {
+      "id": 6,
+      "type": "assertion-reason",
+      "text": "Assertion: The Equator is the longest latitude line. Reason: It divides Earth into Northern and Southern hemispheres.",
+      "options": [
+        "A. Both assertion and reason are true, and reason explains assertion",
+        "B. Both are true, but reason doesn't explain assertion",
+        "C. Assertion is true, reason is false",
+        "D. Both are false"
+      ],
+      "answer": [
+        "A"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Equator is indeed the longest parallel, and it does divide the hemispheres."
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "text": "How many continents are there?",
+      "options": [
+        "A. 5",
+        "B. 6",
+        "C. 7",
+        "D. 8"
+      ],
+      "answer": [
+        "C"
+      ],
+      "difficulty": "easy",
+      "explanation": "The seven continents are Africa, Antarctica, Asia, Europe, North America, Oceania, and South America."
+    },
+    {
+      "id": 8,
+      "type": "true-false",
+      "text": "The Pacific Ocean is the largest ocean on Earth.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        "True"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Pacific Ocean covers the largest area among all oceans."
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "text": "Which Indian state has the longest coastline?",
+      "options": [
+        "A. Karnataka",
+        "B. Kerala",
+        "C. Goa",
+        "D. Gujarat"
+      ],
+      "answer": [
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Gujarat has the longest coastline of approximately 1,600 km among Indian states."
+    },
+    {
+      "id": 10,
+      "type": "matching",
+      "text": "Match mountain ranges with their continents:",
+      "pairs": [
+        [
+          "Andes",
+          "South America"
+        ],
+        [
+          "Alps",
+          "Europe"
+        ],
+        [
+          "Rocky Mountains",
+          "North America"
+        ],
+        [
+          "Himalayas",
+          "Asia"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "medium",
+      "explanation": "Each mountain range is located on its respective continent."
+    },
+    {
+      "id": 11,
+      "type": "multiple-correct",
+      "text": "Which of the following are landlocked countries? (Select all correct)",
+      "options": [
+        "A. Nepal",
+        "B. Australia",
+        "C. Switzerland",
+        "D. Mongolia",
+        "E. Chad"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "difficulty": "medium",
+      "explanation": "Nepal, Switzerland, Mongolia, and Chad have no coastline. Australia has extensive coastlines."
+    },
+    {
+      "id": 12,
+      "type": "true-false",
+      "text": "The Great Barrier Reef is located off the coast of Australia.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        "True"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Great Barrier Reef is the world's largest coral reef system in the Coral Sea near Queensland, Australia."
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "text": "Which is the smallest country in the world by land area?",
+      "options": [
+        "A. Monaco",
+        "B. Nauru",
+        "C. Vatican City",
+        "D. San Marino"
+      ],
+      "answer": [
+        "C"
+      ],
+      "difficulty": "medium",
+      "explanation": "Vatican City is an independent city-state with an area of only about 0.44 square kilometers."
+    },
+    {
+      "id": 14,
+      "type": "assertion-reason",
+      "text": "Assertion: The Dead Sea is the lowest point on Earth's surface. Reason: It is a salt lake bordered by Jordan and Israel.",
+      "options": [
+        "A. Both assertion and reason are true, and reason explains assertion",
+        "B. Both are true, but reason doesn't explain assertion",
+        "C. Assertion is true, reason is false",
+        "D. Both are false"
+      ],
+      "answer": [
+        "B"
+      ],
+      "difficulty": "hard",
+      "explanation": "Both statements are true, but the location doesn't explain why it's the lowest point; it's due to geological depression."
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "text": "The Grand Canyon is located in which US state?",
+      "options": [
+        "A. Utah",
+        "B. Arizona",
+        "C. Colorado",
+        "D. Nevada"
+      ],
+      "answer": [
+        "B"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Grand Canyon is in Arizona, carved by the Colorado River."
+    },
+    {
+      "id": 16,
+      "type": "matching",
+      "text": "Match rivers with the countries they primarily flow through:",
+      "pairs": [
+        [
+          "Ganges",
+          "India"
+        ],
+        [
+          "Amazon",
+          "Brazil"
+        ],
+        [
+          "Nile",
+          "Egypt"
+        ],
+        [
+          "Rhine",
+          "Germany"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "medium",
+      "explanation": "Each river is associated with the country it flows through."
+    },
+    {
+      "id": 17,
+      "type": "true-false",
+      "text": "The Tropic of Cancer passes through India.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        "True"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Tropic of Cancer passes through eight Indian states, dividing the country approximately in half."
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "text": "What is the capital city of Canada?",
+      "options": [
+        "A. Toronto",
+        "B. Vancouver",
+        "C. Montreal",
+        "D. Ottawa"
+      ],
+      "answer": [
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Ottawa is the capital of Canada, although Toronto and Vancouver are larger cities."
+    },
+    {
+      "id": 19,
+      "type": "multiple-correct",
+      "text": "Which of these countries are located in Southeast Asia? (Select all correct)",
+      "options": [
+        "A. Thailand",
+        "B. Vietnam",
+        "C. Myanmar",
+        "D. Philippines",
+        "E. Sri Lanka"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Thailand, Vietnam, Myanmar, and Philippines are Southeast Asian countries. Sri Lanka is in South Asia."
+    },
+    {
+      "id": 20,
+      "type": "assertion-reason",
+      "text": "Assertion: Deserts receive very little precipitation. Reason: They are defined by low annual rainfall.",
+      "options": [
+        "A. Both assertion and reason are true, and reason explains assertion",
+        "B. Both are true, but reason doesn't explain assertion",
+        "C. Assertion is true, reason is false",
+        "D. Both are false"
+      ],
+      "answer": [
+        "A"
+      ],
+      "difficulty": "easy",
+      "explanation": "Both statements are correct; deserts are defined by their low precipitation levels."
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "text": "Which country is the largest in the world by total land area?",
+      "options": [
+        "A. China",
+        "B. United States",
+        "C. Canada",
+        "D. Russia"
+      ],
+      "answer": [
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "Russia is the largest country by landmass, spanning Eastern Europe and Northern Asia."
+    },
+    {
+      "id": 22,
+      "type": "true-false",
+      "text": "The Atacama Desert is the driest place on Earth.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        "True"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Atacama Desert in Chile is considered the driest non-polar place on Earth."
+    },
+    {
+      "id": 23,
+      "type": "fill-blank",
+      "text": "The imaginary line that divides the Earth into the Eastern and Western hemispheres is known as the Prime ______.",
+      "options": [
+        "Meridian",
+        "Latitude",
+        "Equator",
+        "Parallel"
+      ],
+      "answer": [
+        "Meridian"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Prime Meridian is the line of 0 degrees longitude passing through Greenwich, England."
+    },
+    {
+      "id": 24,
+      "type": "matching",
+      "text": "Match famous landmarks with their countries:",
+      "pairs": [
+        [
+          "Statue of Liberty",
+          "United States"
+        ],
+        [
+          "Eiffel Tower",
+          "France"
+        ],
+        [
+          "Taj Mahal",
+          "India"
+        ],
+        [
+          "Great Wall",
+          "China"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "easy",
+      "explanation": "Each landmark is located in its corresponding country."
+    },
+    {
+      "id": 25,
+      "type": "multiple-correct",
+      "text": "Which of these are Scandinavian countries? (Select all correct)",
+      "options": [
+        "A. Norway",
+        "B. Sweden",
+        "C. Denmark",
+        "D. Finland",
+        "E. Germany"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "difficulty": "medium",
+      "explanation": "Norway, Sweden, and Denmark are Scandinavian countries. Finland is Nordic but not Scandinavian. Germany is in Central Europe."
+    },
+    {
+      "id": 26,
+      "type": "true-false",
+      "text": "Mount Kilimanjaro is the highest peak in Africa.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        "True"
+      ],
+      "difficulty": "easy",
+      "explanation": "Mount Kilimanjaro is a dormant volcano in Tanzania and Africa's highest mountain."
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "text": "Which ocean is the smallest?",
+      "options": [
+        "A. Arctic",
+        "B. Antarctic",
+        "C. Indian",
+        "D. Atlantic"
+      ],
+      "answer": [
+        "A"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Arctic Ocean is the smallest of the five oceans."
+    },
+    {
+      "id": 28,
+      "type": "assertion-reason",
+      "text": "Assertion: Antarctica is technically a desert. Reason: It receives very little annual precipitation.",
+      "options": [
+        "A. Both assertion and reason are true, and reason explains assertion",
+        "B. Both are true, but reason doesn't explain assertion",
+        "C. Assertion is true, reason is false",
+        "D. Both are false"
+      ],
+      "answer": [
+        "A"
+      ],
+      "difficulty": "hard",
+      "explanation": "Antarctica is the largest desert on Earth by definition, with minimal precipitation."
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "text": "The Suez Canal connects which two bodies of water?",
+      "options": [
+        "A. Atlantic and Pacific",
+        "B. Mediterranean and Red Sea",
+        "C. Black Sea and Aegean",
+        "D. North Sea and Baltic"
+      ],
+      "answer": [
+        "B"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Suez Canal connects the Mediterranean Sea to the Red Sea, enabling ships to travel between Europe and Asia."
+    },
+    {
+      "id": 30,
+      "type": "matching",
+      "text": "Match deserts with their continents:",
+      "pairs": [
+        [
+          "Sahara",
+          "Africa"
+        ],
+        [
+          "Gobi",
+          "Asia"
+        ],
+        [
+          "Kalahari",
+          "Africa"
+        ],
+        [
+          "Atacama",
+          "South America"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "medium",
+      "explanation": "Each desert is located on its respective continent."
+    },
+    {
+      "id": 31,
+      "type": "true-false",
+      "text": "Greenland is recognized as a fully independent sovereign nation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        "False"
+      ],
+      "difficulty": "medium",
+      "explanation": "Greenland is an autonomous territory within the Kingdom of Denmark."
+    },
+    {
+      "id": 32,
+      "type": "multiple-correct",
+      "text": "Which of these are part of the Great Lakes of North America? (Select all correct)",
+      "options": [
+        "A. Lake Superior",
+        "B. Lake Michigan",
+        "C. Lake Baikal",
+        "D. Lake Huron",
+        "E. Lake Victoria"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Great Lakes include Superior, Michigan, Huron, Erie, and Ontario. Baikal is in Russia and Victoria is in Africa."
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "text": "Which country has the most number of islands?",
+      "options": [
+        "A. Indonesia",
+        "B. Philippines",
+        "C. Sweden",
+        "D. Norway"
+      ],
+      "answer": [
+        "A"
+      ],
+      "difficulty": "hard",
+      "explanation": "Indonesia has over 17,000 islands, making it the country with the most islands in the world."
+    },
+    {
+      "id": 34,
+      "type": "assertion-reason",
+      "text": "Assertion: The Himalayan Mountains are the tallest mountain range. Reason: They contain the world's highest peaks.",
+      "options": [
+        "A. Both assertion and reason are true, and reason explains assertion",
+        "B. Both are true, but reason doesn't explain assertion",
+        "C. Assertion is true, reason is false",
+        "D. Both are false"
+      ],
+      "answer": [
+        "A"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Himalayan range contains the world's tallest peaks, making it the highest mountain range."
+    },
+    {
+      "id": 35,
+      "type": "fill-blank",
+      "text": "A piece of land surrounded by water on three sides is called a ______.",
+      "options": [
+        "Peninsula",
+        "Island",
+        "Isthmus",
+        "Archipelago"
+      ],
+      "answer": [
+        "Peninsula"
+      ],
+      "difficulty": "easy",
+      "explanation": "A peninsula is a landform with water on three sides and connected to a larger landmass."
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "text": "Which is the longest mountain range in the world?",
+      "options": [
+        "A. Himalayas",
+        "B. Rocky Mountains",
+        "C. Mid-Ocean Ridge",
+        "D. Andes"
+      ],
+      "answer": [
+        "C"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Mid-Ocean Ridge, an underwater mountain range, is the longest at approximately 65,000 km."
+    },
+    {
+      "id": 37,
+      "type": "matching",
+      "text": "Match lakes with their countries:",
+      "pairs": [
+        [
+          "Lake Baikal",
+          "Russia"
+        ],
+        [
+          "Lake Superior",
+          "Canada/USA"
+        ],
+        [
+          "Lake Tanganyika",
+          "Tanzania"
+        ],
+        [
+          "Caspian Sea",
+          "Multiple countries"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "hard",
+      "explanation": "Each lake is located in or borders the countries mentioned."
+    },
+    {
+      "id": 38,
+      "type": "multiple-correct",
+      "text": "Which of these countries border the Mediterranean Sea? (Select all correct)",
+      "options": [
+        "A. Italy",
+        "B. Greece",
+        "C. Spain",
+        "D. Egypt",
+        "E. Japan"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "difficulty": "medium",
+      "explanation": "Italy, Greece, Spain, and Egypt border the Mediterranean. Japan is on the Pacific Ocean."
+    },
+    {
+      "id": 39,
+      "type": "true-false",
+      "text": "The Dead Sea is the lowest point on Earth's land surface.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        "True"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Dead Sea, at about 1,410 feet below sea level, is the lowest point on Earth's surface."
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "text": "Which strait separates Spain and Morocco?",
+      "options": [
+        "A. Strait of Malacca",
+        "B. Strait of Gibraltar",
+        "C. Strait of Hormuz",
+        "D. Bering Strait"
+      ],
+      "answer": [
+        "B"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Strait of Gibraltar is the narrow passage between Spain and Morocco connecting the Mediterranean to the Atlantic."
+    },
+    {
+      "id": 41,
+      "type": "assertion-reason",
+      "text": "Assertion: Coral reefs are found only in tropical waters. Reason: They require warm, clear water to thrive.",
+      "options": [
+        "A. Both assertion and reason are true, and reason explains assertion",
+        "B. Both are true, but reason doesn't explain assertion",
+        "C. Assertion is true, reason is false",
+        "D. Both are false"
+      ],
+      "answer": [
+        "A"
+      ],
+      "difficulty": "hard",
+      "explanation": "Coral reefs are primarily tropical due to their temperature requirements."
+    },
+    {
+      "id": 42,
+      "type": "fill-blank",
+      "text": "The ______ River is the second-longest river in the world.",
+      "options": [
+        "Amazon",
+        "Yangtze",
+        "Mississippi",
+        "Congo"
+      ],
+      "answer": [
+        "Amazon"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Amazon River is approximately 6,400 km long, making it the second-longest after the Nile."
+    },
+    {
+      "id": 43,
+      "type": "matching",
+      "text": "Match European capitals with their countries:",
+      "pairs": [
+        [
+          "Paris",
+          "France"
+        ],
+        [
+          "Berlin",
+          "Germany"
+        ],
+        [
+          "Rome",
+          "Italy"
+        ],
+        [
+          "Madrid",
+          "Spain"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "easy",
+      "explanation": "These are major European capitals and their countries."
+    },
+    {
+      "id": 44,
+      "type": "true-false",
+      "text": "The Arctic Circle is located at approximately 66.5 degrees north latitude.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        "True"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Arctic Circle marks the southern boundary of the Arctic region."
+    },
+    {
+      "id": 45,
+      "type": "multiple-correct",
+      "text": "Which of these are major Asian capital cities? (Select all correct)",
+      "options": [
+        "A. Bangkok",
+        "B. Beijing",
+        "C. New Delhi",
+        "D. Seoul",
+        "E. Cairo"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "difficulty": "easy",
+      "explanation": "Bangkok, Beijing, New Delhi, and Seoul are Asian capitals. Cairo is in Africa."
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "text": "Which is the largest desert in Asia?",
+      "options": [
+        "A. Gobi Desert",
+        "B. Arabian Desert",
+        "C. Taklamakan Desert",
+        "D. Karakum Desert"
+      ],
+      "answer": [
+        "C"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Taklamakan Desert is the largest desert in Asia, located in western China."
+    },
+    {
+      "id": 47,
+      "type": "assertion-reason",
+      "text": "Assertion: The Panama Canal is one of the world's most important waterways. Reason: It connects the Atlantic and Pacific Oceans.",
+      "options": [
+        "A. Both assertion and reason are true, and reason explains assertion",
+        "B. Both are true, but reason doesn't explain assertion",
+        "C. Assertion is true, reason is false",
+        "D. Both are false"
+      ],
+      "answer": [
+        "A"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Panama Canal's importance comes from its connection of the two oceans."
+    },
+    {
+      "id": 48,
+      "type": "fill-blank",
+      "text": "The ______ is the highest mountain in North America.",
+      "options": [
+        "Mount McKinley",
+        "Mount Denali",
+        "Mount Rainier",
+        "Mount Whitney"
+      ],
+      "answer": [
+        "Mount Denali"
+      ],
+      "difficulty": "medium",
+      "explanation": "Mount Denali (formerly Mount McKinley) in Alaska is the highest peak in North America."
+    },
+    {
+      "id": 49,
+      "type": "matching",
+      "text": "Match African countries with their capitals:",
+      "pairs": [
+        [
+          "Nigeria",
+          "Abuja"
+        ],
+        [
+          "Kenya",
+          "Nairobi"
+        ],
+        [
+          "South Africa",
+          "Pretoria"
+        ],
+        [
+          "Ethiopia",
+          "Addis Ababa"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "medium",
+      "explanation": "These are major African countries and their capital cities."
+    },
+    {
+      "id": 50,
+      "type": "true-false",
+      "text": "The Caspian Sea is the largest inland body of water.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        "True"
+      ],
+      "difficulty": "easy",
+      "explanation": "The Caspian Sea is the world's largest landlocked body of water by surface area."
+    },
+    {
+      "id": 51,
+      "type": "multiple-correct",
+      "text": "Which of these are major island groups in the Pacific Ocean? (Select all correct)",
+      "options": [
+        "A. Polynesia",
+        "B. Melanesia",
+        "C. Micronesia",
+        "D. Caribbean Islands",
+        "E. Galápagos Islands"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "difficulty": "hard",
+      "explanation": "Polynesia, Melanesia, Micronesia, and Galápagos are Pacific island groups. Caribbean Islands are in the Atlantic."
+    },
+    {
+      "id": 52,
+      "type": "mcq",
+      "text": "Which country has the most number of time zones?",
+      "options": [
+        "A. Canada",
+        "B. Russia",
+        "C. France",
+        "D. United States"
+      ],
+      "answer": [
+        "C"
+      ],
+      "difficulty": "hard",
+      "explanation": "France has 12 time zones due to its overseas territories and dependencies."
+    },
+    {
+      "id": 53,
+      "type": "assertion-reason",
+      "text": "Assertion: The International Date Line roughly follows the 180-degree meridian. Reason: It marks where the calendar date changes as you travel east or west.",
+      "options": [
+        "A. Both assertion and reason are true, and reason explains assertion",
+        "B. Both are true, but reason doesn't explain assertion",
+        "C. Assertion is true, reason is false",
+        "D. Both are false"
+      ],
+      "answer": [
+        "A"
+      ],
+      "difficulty": "hard",
+      "explanation": "The Date Line's purpose is to manage calendar changes for travelers crossing it."
+    },
+    {
+      "id": 54,
+      "type": "fill-blank",
+      "text": "The ______ is the deepest point in Earth's oceans.",
+      "options": [
+        "Mariana Trench",
+        "Tonga Trench",
+        "Kuril Trench",
+        "Philippine Trench"
+      ],
+      "answer": [
+        "Mariana Trench"
+      ],
+      "difficulty": "medium",
+      "explanation": "The Mariana Trench in the western Pacific Ocean is the deepest point at approximately 11,000 meters."
+    },
+    {
+      "id": 55,
+      "type": "matching",
+      "text": "Match mountain peaks with their locations:",
+      "pairs": [
+        [
+          "Mount Fuji",
+          "Japan"
+        ],
+        [
+          "Mount Vesuvius",
+          "Italy"
+        ],
+        [
+          "Mount Etna",
+          "Sicily"
+        ],
+        [
+          "Mount Krakatoa",
+          "Indonesia"
+        ]
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difficulty": "medium",
+      "explanation": "Each mountain is located in the specified country or region."
+    },
     {
       "id": 56,
       "type": "mcq",
@@ -891,3 +1918,5 @@
       "difficulty": "medium",
       "explanation": "Gravity pulls the atmosphere toward the surface, making it densest at lower altitudes."
     }
+  ]
+}
